@@ -530,6 +530,21 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+- id: nguyen-tuong-l-melbourne
+  name: Nguyen, Tuong L.
+  affiliation:
+    institution: The University of Melbourne
+    country: Australia
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5067110590
+  sub_areas:
+  - causal-ml
+  - applied-health
+  notes: OpenAlex h=22, 144 works, 4 causal-concept papers. Co-author of Minh Bui at Melbourne.
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24
 - id: nguyen-vy-rmit
   name: Nguyen, Vy
   affiliation:
@@ -656,6 +671,22 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Minh-Ngoc Tran
+- id: tran-ngoc-dang-uq
+  name: Tran, Ngoc Dang
+  name_vi: Trần Ngọc Đăng
+  affiliation:
+    institution: The University of Queensland
+    country: Australia
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5025952021
+  sub_areas:
+  - applied-health
+  - causal-ml
+  notes: OpenAlex h=37, 185 works, 2 causal-concept papers. Senior researcher; co-author of Huynh Thi Hong Tram (HCMUS).
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24
 - id: tran-quang-duy-deakin
   name: Tran, Quang-Duy
   affiliation:
@@ -700,6 +731,21 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Truyen Tran
+- id: trinh-ho-n-melbourne
+  name: Trinh, Ho N.
+  affiliation:
+    institution: The University of Melbourne
+    country: Australia
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5102481961
+  sub_areas:
+  - causal-ml
+  - applied-health
+  notes: OpenAlex h=5, 7 works, 2 causal-concept papers. Co-author of Minh Bui.
+  source: scrape_snowball
+  confidence: medium
+  last_verified: 2026-05-24
 - id: truong-buu-minh-thanh-unisa
   name: Truong, Buu Minh Thanh
   affiliation:
@@ -953,6 +999,20 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Van Nam Huynh
+- id: le-huynh-thi-cam-hong-uoeh
+  name: Le Huynh, Thi Cam Hong
+  affiliation:
+    institution: University of Occupational and Environmental Health Japan
+    country: Japan
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5047121210
+  sub_areas:
+  - applied-health
+  notes: OpenAlex h=9, 27 works, 2 causal-concept papers. Co-author of Huynh Thi Hong Tram.
+  source: scrape_snowball
+  confidence: medium
+  last_verified: 2026-05-24
 - id: le-tam-riken
   name: Le, Tam
   affiliation:
@@ -1260,6 +1320,22 @@
   confidence: low
   last_verified: 2026-05-24
   name_scholar: Tommy Dang
+- id: dinh-nam-ncstate
+  name: Dinh, Nam T.
+  affiliation:
+    institution: North Carolina State University
+    country: United States
+    position: Full Professor
+  links:
+    openalex: https://openalex.org/A5069550444
+  sub_areas:
+  - causal-ml
+  - theoretical
+  notes: OpenAlex h=39, 289 works, 1 causal-concept paper. Senior researcher; co-author of Tran Cao Son. Alt name Dinh, Nam
+    T.
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24
 - id: duong-hieu-minh-louisville
   name: Duong, Hieu Minh
   affiliation:
@@ -1338,6 +1414,20 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Thai Le
+- id: le-trung-tim-q-usf
+  name: Le, Trung Tim Q.
+  affiliation:
+    institution: University of South Florida
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5029649294
+  sub_areas:
+  - causal-ml
+  notes: OpenAlex h=1, 2 works only, 3 causal-concept papers. Junior; co-author of Phat K. Huynh.
+  source: scrape_snowball
+  confidence: low
+  last_verified: 2026-05-24
 - id: ngo-dung-daniel-cmu
   name: Ngo, Dung Daniel T.
   affiliation:
@@ -1576,6 +1666,20 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Thai-Hoang Pham
+- id: pham-vu-rutgers
+  name: Pham, Vu
+  affiliation:
+    institution: Rutgers, The State University of New Jersey
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5062956281
+  sub_areas:
+  - causal-ml
+  notes: OpenAlex h=13, 57 works, 3 causal-concept papers. Co-author of Truong Buu (Broad). Alt name Hoang VV Pham.
+  source: scrape_snowball
+  confidence: medium
+  last_verified: 2026-05-24
 - id: tran-cao-son-nmsu
   name: Tran, Cao Son
   affiliation:
@@ -2051,6 +2155,20 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Hieu H. Pham
+- id: pham-vu-hong-son-vnuhcm
+  name: Pham, Vu Hong Son
+  affiliation:
+    institution: Vietnam National University Ho Chi Minh City
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5062984384
+  sub_areas:
+  - causal-ml
+  notes: OpenAlex h=17, 122 works, 6 causal-concept papers. Surfaced via co-authorship with truong-buu-broad.
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24
 - id: tran-ngoc-mai-cantho
   name: Tran, Ngoc Mai
   affiliation:
@@ -2115,3 +2233,19 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Kieu Anh Thi Truong
+- id: vo-minh-tuan-uit
+  name: Vo, Minh Tuan
+  affiliation:
+    institution: University of Information Technology (likely VNU-HCM UIT)
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5007360217
+  sub_areas:
+  - applied-health
+  - causal-ml
+  notes: OpenAlex h=9, 71 works, 2 causal-concept papers. Co-author of Huynh Thi Hong Tram. Country flagged MM in OpenAlex
+    but UIT is in Vietnam (VNU-HCM).
+  source: scrape_snowball
+  confidence: medium
+  last_verified: 2026-05-24
