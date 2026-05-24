@@ -1,0 +1,80 @@
+name: Add a researcher
+description: Suggest a Vietnamese researcher working on causality to be added to the list.
+title: "Add: <Researcher Name>"
+labels: ["add-researcher"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Full name (ASCII)
+      placeholder: "Nguyen, Anh Example"
+    validations:
+      required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Current affiliation
+      placeholder: "Example University, United States"
+    validations:
+      required: true
+  - type: dropdown
+    id: position
+    attributes:
+      label: Position
+      options:
+        - Full Professor
+        - Associate Professor
+        - Assistant Professor
+        - Senior Lecturer
+        - Lecturer
+        - Senior Research Scientist
+        - Research Scientist
+        - Research Fellow
+        - Postdoc
+        - PhD Student
+        - Industry Researcher
+        - Emeritus Professor
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: scholar
+    attributes:
+      label: Google Scholar URL
+    validations:
+      required: false
+  - type: input
+    id: homepage
+    attributes:
+      label: Homepage / personal site
+    validations:
+      required: false
+  - type: checkboxes
+    id: sub_areas
+    attributes:
+      label: Sub-areas of causality
+      options:
+        - label: theoretical (SCMs, do-calculus, identifiability)
+        - label: causal-discovery
+        - label: causal-ml (treatment effects, causal repr. learning)
+        - label: causal-rl
+        - label: applied-health
+        - label: applied-econ
+        - label: applied-social
+        - label: applied-bio
+        - label: counterfactual-fairness
+        - label: counterfactual-explanation
+        - label: causal-nlp / causal-cv / causal-time-series
+  - type: textarea
+    id: papers
+    attributes:
+      label: Key causality papers (title, venue, year, URL — one per line)
+      placeholder: |
+        Causal Inference for X — NeurIPS 2024 — https://arxiv.org/abs/...
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Other notes
+      placeholder: "Anything else worth knowing."

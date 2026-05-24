@@ -1,0 +1,22 @@
+name: Opt out / Remove me
+description: Request removal of your entry from this list.
+title: "Opt-out: <Your Name>"
+labels: ["opt-out"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name as it appears in the list
+    validations:
+      required: true
+  - type: input
+    id: entry_id
+    attributes:
+      label: Entry id (slug from researchers.yml, if known)
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes (optional)
+      placeholder: "You don't have to explain; we will remove the entry within a day."
