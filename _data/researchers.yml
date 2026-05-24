@@ -1225,6 +1225,7 @@
     position: Full Professor
   links:
     dblp: https://dblp.org/pid/n/MinhLeNguyen
+    scholar: https://scholar.google.com/citations?user=vM9772wAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-nlp
   - applied-social
@@ -1236,6 +1237,7 @@
   source: scrape_dblp
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Nguyen Le Minh
 - id: nguyen-nang-hung-tokyo
   name: Nguyen, Nang Hung
   affiliation:
