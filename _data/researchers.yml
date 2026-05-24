@@ -638,12 +638,14 @@
     position: Industry Researcher
   links:
     openalex: https://openalex.org/A5033848427
+    scholar: https://scholar.google.com/citations?user=1LHEvKAAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   notes: SAT / probabilistic reasoning.
   source: scrape_semantic_scholar
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Duc Nghia Pham
 - id: pham-luan-rmit
   name: Pham, Luan
   affiliation:

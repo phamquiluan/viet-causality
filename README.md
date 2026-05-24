@@ -172,7 +172,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Nguyen, Michael |  | Diabetes Australia | Australia | `applied-health` | [orcid](https://orcid.org/0000-0002-0530-1908) | medium |
 | Nguyen, Viviana | Industry Researcher | Unknown (pharma risk-management) | Unknown | `applied-health` |  | low |
 | Nguyen, Vu | Applied Scientist | Amazon; previously University of Oxford, Deakin University | United Kingdom | `causal-nlp`, `theoretical` | [dblp](https://dblp.org/pid/59/4389) | medium |
-| Pham, Duc Nghia | Industry Researcher | CSIRO Data61 / Griffith University | Australia | `theoretical` |  | medium |
+| [Duc Nghia Pham](https://scholar.google.com/citations?user=1LHEvKAAAAAJ&hl=en&oi=ao) | Industry Researcher | CSIRO Data61 / Griffith University | Australia | `theoretical` | [scholar](https://scholar.google.com/citations?user=1LHEvKAAAAAJ&hl=en&oi=ao) | medium |
 | Tran, Dustin | Industry Researcher | Google DeepMind | United States | `theoretical`, `causal-ml` |  | low |
 | Tran, Trung-Kien | Industry Researcher | Bosch Research / Renningen (likely) | Germany | `theoretical` | [orcid](https://orcid.org/0000-0002-9938-1944) | medium |
 | Trinh, Huong | Industry Researcher | Amgen | United States | `applied-health` |  | high |
