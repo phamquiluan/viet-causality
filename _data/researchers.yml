@@ -1361,12 +1361,14 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5039111784
+    scholar: https://scholar.google.com/citations?user=tJzykd0AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   notes: 'OpenAlex: 4 causal-inference papers, h=5.'
   source: scrape_openalex
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Thai T. Pham
 - id: vo-thanh-vinh-nus
   name: Vo, Thanh Vinh
   affiliation:
