@@ -2828,12 +2828,14 @@
     position: Faculty
   links:
     openalex: https://openalex.org/A5017967256
+    scholar: https://scholar.google.com/citations?user=Bgre7S0AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   notes: h=10; causal-mechanism IDS.
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Van Dai Pham
 - id: phan-h-giang-hmu
   name: Phan, H. Giang
   affiliation:

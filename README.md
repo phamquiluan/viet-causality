@@ -105,7 +105,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Nguyen, Ngoc-Thao | Faculty | VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` |  | high |
 | Nguyen, Thanh-An | Faculty | Ho Chi Minh City University of Science / VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` |  | high |
 | Pham, Cuong T. | Faculty | University of Rochester Medical Center, Biostatistics and Computational Biology | United States | `theoretical`, `applied-health` |  | high |
-| Pham, Van Dai | Faculty | FPT University | Vietnam | `causal-ml` |  | high |
+| [Van Dai Pham](https://scholar.google.com/citations?user=Bgre7S0AAAAJ&hl=en&oi=ao) | Faculty | FPT University | Vietnam | `causal-ml` | [scholar](https://scholar.google.com/citations?user=Bgre7S0AAAAJ&hl=en&oi=ao) | high |
 | Tran, Quang-Thang | Faculty | Ho Chi Minh City University of Technology and Engineering | Vietnam | `causal-ml`, `applied-econ` |  | high |
 | Tran, Trong Hieu | Faculty | Vietnam National University, Hanoi | Vietnam | `theoretical` |  | high |
 | [Vo Nguyen Le Duy](https://scholar.google.com/citations?user=qcpIUoQAAAAJ&hl=en&oi=ao) | Faculty | Nagoya Institute of Technology | Japan | `theoretical`, `causal-discovery` | [scholar](https://scholar.google.com/citations?user=qcpIUoQAAAAJ&hl=en&oi=ao) | high |
