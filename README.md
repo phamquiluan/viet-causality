@@ -206,7 +206,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Pham, Thai-Hoang | PhD Student | Ohio State University (AIMed lab, Ping Zhang) | United States | `causal-ml`, `applied-health`, `counterfactual-fairness` | [home](https://pth1993.github.io/) | high |
 | Tran, Ba-Hien | PhD Student | EURECOM / Cote d'Azur (likely) | France | `causal-ml` |  | medium |
 | Tran, Ha Xuan | PhD Student | University of South Australia (UniSA) | Australia | `causal-ml`, `counterfactual-explanation` |  | high |
-| Tran, Quang-Duy | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` |  | high |
+| [Quang-Duy Tran](https://scholar.google.com/citations?user=DxEBVUUAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=DxEBVUUAAAAJ&hl=en&oi=ao) | high |
 | Truong Thi, Kieu-Anh | PhD Student | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `applied-health` |  | medium |
 | Truong, Buu Minh Thanh | PhD Student | University of South Australia | Australia | `causal-discovery`, `applied-bio` | [dblp](https://dblp.org/pid/210/8978) | high |
 | Vo, Kiet Q. H. | PhD Student | CISPA Helmholtz Center for Information Security / Saarland University | Germany | `theoretical`, `causal-ml` |  | high |

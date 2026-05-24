@@ -748,6 +748,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/tran_q_2
+    scholar: https://scholar.google.com/citations?user=DxEBVUUAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - theoretical
@@ -760,6 +761,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Quang-Duy Tran
 - id: tran-son-n-utas
   name: Tran, Son N.
   affiliation:
