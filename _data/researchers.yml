@@ -451,6 +451,7 @@
     position: Research Fellow
   links:
     arxiv: https://arxiv.org/a/nguyen_d_5
+    scholar: https://scholar.google.com/citations?user=O5OU_kUAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-rl
   - causal-ml
@@ -463,6 +464,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Dung Nguyen
 - id: nguyen-dung-deakin-fpt
   name: Nguyen, Dung (Deakin-FPT)
   affiliation:

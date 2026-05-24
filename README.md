@@ -79,7 +79,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | [Kien Do](https://scholar.google.com/citations?user=aD6y8joAAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `theoretical`, `causal-discovery`, `causal-cv` | [scholar](https://scholar.google.com/citations?user=aD6y8joAAAAJ&hl=en&oi=ao) | high |
 | Hoang, Van Thuy | Research Fellow | The Catholic University of Korea | South Korea | `causal-ml`, `applied-bio` |  | medium |
 | [Thao Minh Le](https://scholar.google.com/citations?user=0irkZtkAAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `causal-cv`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=0irkZtkAAAAJ&hl=en&oi=ao) | high |
-| Nguyen, Dung | Research Fellow | Deakin University, A2I2 | Australia | `causal-rl`, `causal-ml` |  | high |
+| [Dung Nguyen](https://scholar.google.com/citations?user=O5OU_kUAAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `causal-rl`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=O5OU_kUAAAAJ&hl=en&oi=ao) | high |
 | Nguyen, Dung (Deakin-FPT) | Research Fellow | Deakin University, Geelong; past: FPT Software AI Center, Hue University, University of Sydney | Australia | `causal-rl` | [dblp](https://dblp.org/pid/13/2526-1) | high |
 | Nguyen, Phi Le | Research Fellow | AI4LIFE / Hanoi University of Science and Technology (HUST) | Vietnam | `causal-discovery`, `causal-ml` |  | medium |
 | [Phuoc Nguyen](https://scholar.google.com/citations?user=c4LnrZ0AAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=c4LnrZ0AAAAJ&hl=en&oi=ao) | high |
