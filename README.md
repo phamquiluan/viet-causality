@@ -131,7 +131,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Nguyen, Chien Van |  | Unknown - please verify | Unknown | `causal-nlp` |  | medium |
 | Nguyen, Hoai-Tuong |  | Laboratoire d'informatique de Nantes Atlantique (LINA) | France | `causal-discovery` |  | medium |
 | Nguyen, Ngoc Tuong Vy |  | Unknown (children's pneumonia consortium - global health) | Unknown | `applied-health` |  | medium |
-| Nguyen, Phan Trung Hai |  | University of Birmingham | United Kingdom | `theoretical` | [orcid](https://orcid.org/0000-0003-0783-2224) | medium |
+| [Phan Trung Hai Nguyen](https://scholar.google.com/citations?user=EnWLcH0AAAAJ&hl=en&oi=ao) |  | University of Birmingham | United Kingdom | `theoretical` | [scholar](https://scholar.google.com/citations?user=EnWLcH0AAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0003-0783-2224) | medium |
 | Nguyen, Son Phuc |  | Vietnam National University Ho Chi Minh City | Vietnam | `theoretical`, `causal-ml` |  | high |
 | Nguyen, Thi Kim Hue |  | University of Padua | Italy | `causal-discovery` |  | high |
 | Nguyen, Thuy Ngoc |  | Carnegie Mellon University | United States | `causal-ml`, `theoretical` |  | high |
