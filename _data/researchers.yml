@@ -1888,6 +1888,7 @@
     position: PhD Student
   links:
     homepage: https://iam-nhi-nguyen.github.io/
+    scholar: https://scholar.google.com/citations?user=QxwMTFsAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   key_papers:
@@ -1899,6 +1900,7 @@
   source: scrape_viet_wics
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Nhi Nguyen
 - id: nguyen-quynh-c-missouri
   name: Nguyen, Quynh C.
   affiliation:
