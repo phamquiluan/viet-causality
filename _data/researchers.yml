@@ -1445,6 +1445,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5009660067
+    scholar: https://scholar.google.com/citations?user=CeC9PtYAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-ml
@@ -1455,6 +1456,7 @@
   source: scrape_openalex
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Du Phan
 - id: dang-vinh-paul-scherrer
   name: Dang, Vinh N.
   affiliation:

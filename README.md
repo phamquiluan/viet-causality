@@ -145,7 +145,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Pham, Hoa |  | Vietnam National University Ho Chi Minh City | Vietnam | `applied-health`, `theoretical` | [orcid](https://orcid.org/0000-0002-7012-6333) | medium |
 | Pham, Thai |  | Auckland University of Technology | New Zealand | `causal-ml` |  | medium |
 | Pham, Tra My |  | MRC Clinical Trials Unit at UCL | United Kingdom | `applied-health`, `theoretical` | [orcid](https://orcid.org/0000-0003-0528-6303) | high |
-| Phan, Du |  | Pohang University of Science and Technology / formerly Google/DeepMind (NumPyro core contributor) | South Korea | `theoretical`, `causal-ml` |  | high |
+| [Du Phan](https://scholar.google.com/citations?user=CeC9PtYAAAAJ&hl=en&oi=ao) |  | Pohang University of Science and Technology / formerly Google/DeepMind (NumPyro core contributor) | South Korea | `theoretical`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=CeC9PtYAAAAJ&hl=en&oi=ao) | high |
 | Phan, H. Giang |  | Hanoi Medical University | Vietnam | `theoretical`, `applied-health` |  | high |
 | Phan, Thuc D. |  | Griffith University | Australia | `causal-discovery`, `applied-bio` | [orcid](https://orcid.org/0000-0002-1690-7227) | high |
 | Phan, Vu H. N. |  | Rice University (likely) | United States | `theoretical` |  | medium |
