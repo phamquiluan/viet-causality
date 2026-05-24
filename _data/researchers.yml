@@ -1014,6 +1014,7 @@
     position: Researcher
   links:
     arxiv: https://arxiv.org/a/vo_t_2
+    scholar: https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-health
   - theoretical
@@ -1034,6 +1035,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Tat-Thang Vo
 - id: le-tuan-pfizer
   name: Le, Tuan
   affiliation:

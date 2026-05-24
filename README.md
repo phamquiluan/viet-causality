@@ -94,7 +94,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | **Researcher** | | | | | | |
 | Dang, Hoang | Independent Researcher | Independent Researcher | Vietnam | `theoretical`, `causal-discovery` |  | medium |
 | Le, Tran Trong Khoi | Researcher | University Paris Est Creteil (EPIDERME) | France | `applied-health` |  | high |
-| Vo, Tat-Thang | Researcher | Faculty of Medicine, University Paris Est Creteil (EPIDERME) | France | `applied-health`, `theoretical` |  | high |
+| [Tat-Thang Vo](https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en&oi=ao) | Researcher | Faculty of Medicine, University Paris Est Creteil (EPIDERME) | France | `applied-health`, `theoretical` | [scholar](https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en&oi=ao) | high |
 | **Faculty** | | | | | | |
 | Le, Bac | Faculty | VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` |  | high |
 | [Duc-Trong Le](https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao) | Faculty | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `counterfactual-explanation`, `applied-health` | [scholar](https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao) | high |
