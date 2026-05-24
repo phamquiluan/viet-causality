@@ -1990,6 +1990,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5108724038
+    scholar: https://scholar.google.com/citations?user=djheYP0AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   key_papers:
@@ -2000,6 +2001,7 @@
   source: scrape_openalex
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Tin D. Nguyen
 - id: nguyen-tran-uh
   name: Nguyen, Tran
   affiliation:

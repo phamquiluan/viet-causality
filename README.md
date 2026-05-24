@@ -135,7 +135,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Nguyen, Son Phuc |  | Vietnam National University Ho Chi Minh City | Vietnam | `theoretical`, `causal-ml` |  | high |
 | Nguyen, Thi Kim Hue |  | University of Padua | Italy | `causal-discovery` |  | high |
 | Nguyen, Thuy Ngoc |  | Carnegie Mellon University | United States | `causal-ml`, `theoretical` |  | high |
-| Nguyen, Tin D. |  | MIT / CMU (likely) | United States | `causal-ml` |  | medium |
+| [Tin D. Nguyen](https://scholar.google.com/citations?user=djheYP0AAAAJ&hl=en&oi=ao) |  | MIT / CMU (likely) | United States | `causal-ml` | [scholar](https://scholar.google.com/citations?user=djheYP0AAAAJ&hl=en&oi=ao) | medium |
 | Nguyen, Tran |  | University of Houston | United States | `causal-discovery` | [orcid](https://orcid.org/0000-0002-7800-8032) | medium |
 | Nguyen, Tri-Long |  | University of Copenhagen | Denmark | `causal-ml`, `causal-discovery`, `applied-health` | [orcid](https://orcid.org/0000-0002-6376-7212) | high |
 | Nguyen, Van Tham |  | Hanoi University of Industry | Vietnam | `theoretical` | [orcid](https://orcid.org/0000-0002-3972-3068) | medium |
