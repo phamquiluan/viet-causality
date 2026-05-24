@@ -297,7 +297,7 @@
     position: Associate Professor
   links:
     homepage: https://people.unisa.edu.au/Thuc.Le
-    scholar: https://scholar.google.com/citations?user=wMSCRxUAAAAJ
+    scholar: https://scholar.google.com/citations?user=wMSCRxUAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - applied-bio
@@ -311,6 +311,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Thuc  Duy Le
 - id: le-trung-monash
   name: Le, Trung
   affiliation:

@@ -127,10 +127,19 @@ def render_section(name: str, items: list[dict[str, Any]], group_by_rank: bool =
     return out
 
 
+def name_cell(entry: dict[str, Any]) -> str:
+    """First-column name. Prefer Google-Scholar display name + link when present."""
+    scholar_name = entry.get("name_scholar")
+    scholar_url = (entry.get("links") or {}).get("scholar")
+    if scholar_name and scholar_url:
+        return f"[{scholar_name}]({scholar_url})"
+    return entry["name"]
+
+
 def row_for(entry: dict[str, Any]) -> str:
     aff = entry.get("affiliation") or {}
     return "| " + " | ".join([
-        entry["name"],
+        name_cell(entry),
         position_label(entry),
         aff.get("institution", "") or "",
         aff.get("country", "") or "",
