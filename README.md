@@ -151,7 +151,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Phan, Vu H. N. |  | Rice University (likely) | United States | `theoretical` |  | medium |
 | Tran, Christopher |  | University of Illinois Chicago | United States | `causal-ml`, `theoretical` |  | low |
 | Tran, Hien |  | University of Freiburg | Germany | `causal-ml` | [orcid](https://orcid.org/0000-0001-7518-7488) | medium |
-| Tran, Linh |  | Johns Hopkins University | United States | `theoretical`, `applied-health` | [orcid](https://orcid.org/0000-0001-6429-0375) | high |
+| [Linh Tran](https://scholar.google.com/citations?user=ZnjEAXUAAAAJ&hl=en&oi=ao) |  | Johns Hopkins University | United States | `theoretical`, `applied-health` | [scholar](https://scholar.google.com/citations?user=ZnjEAXUAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0001-6429-0375) | high |
 | Tran, Ngoc Mai |  | Can Tho University / UT Austin | Vietnam | `causal-discovery`, `theoretical` | [orcid](https://orcid.org/0000-0002-5061-6562) | high |
 | Tran, Teo |  | University of Pennsylvania | United States | `applied-health` |  | low |
 | Truong, Cong Khanh |  | University of Szeged | Hungary | `applied-health`, `theoretical` |  | medium |

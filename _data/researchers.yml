@@ -2143,6 +2143,7 @@
   links:
     openalex: https://openalex.org/A5006359310
     orcid: https://orcid.org/0000-0001-6429-0375
+    scholar: https://scholar.google.com/citations?user=ZnjEAXUAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - applied-health
@@ -2157,6 +2158,7 @@
   - scrape_openalex
   - scrape_semantic_scholar
   last_verified: 2026-05-24
+  name_scholar: Linh Tran
 - id: tran-teo-upenn
   name: Tran, Teo
   affiliation:
