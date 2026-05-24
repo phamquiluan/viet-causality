@@ -2113,7 +2113,7 @@
     position: Assistant Professor
   links:
     homepage: https://nitrieu.github.io/
-    scholar: https://scholar.google.com/citations?user=AZgugwsAAAAJ
+    scholar: https://scholar.google.com/citations?user=AZgugwsAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   key_papers:
@@ -2125,6 +2125,7 @@
   source: scrape_dynaroars
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Ni Trieu
 - id: trinh-huong-amgen
   name: Trinh, Huong
   affiliation:
