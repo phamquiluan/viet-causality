@@ -753,6 +753,7 @@
     position: Associate Professor
   links:
     homepage: https://sites.google.com/site/mntran26/
+    scholar: https://scholar.google.com/citations?user=98A6Dq8AAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - applied-econ
@@ -760,6 +761,7 @@
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Minh-Ngoc Tran
 - id: tran-quang-duy-deakin
   name: Tran, Quang-Duy
   affiliation:
