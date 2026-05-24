@@ -2356,6 +2356,7 @@
     position: Industry Researcher
   links:
     homepage: https://sites.google.com/site/buihhung/
+    scholar: https://scholar.google.com/citations?user=mDLwSZAAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   notes: Probabilistic graphical models; Bayesian inference; relational/sequential models. Causality-adjacent rather than
@@ -2363,6 +2364,7 @@
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Hung Bui
 - id: dang-hoang-vn
   name: Dang, Hoang
   affiliation:

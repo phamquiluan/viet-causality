@@ -163,7 +163,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 
 | Name | Position | Affiliation | Country | Sub-areas | Links | Conf. |
 |---|---|---|---|---|---|---|
-| Bui, Hung Hai | Industry Researcher | Formerly VinAI Research | Vietnam | `theoretical` | [home](https://sites.google.com/site/buihhung/) | medium |
+| [Hung Bui](https://scholar.google.com/citations?user=mDLwSZAAAAAJ&hl=en&oi=ao) | Industry Researcher | Formerly VinAI Research | Vietnam | `theoretical` | [home](https://sites.google.com/site/buihhung/) · [scholar](https://scholar.google.com/citations?user=mDLwSZAAAAAJ&hl=en&oi=ao) | medium |
 | Dinh, Truong Duy |  | Vietnam Posts and Telecommunications (VNPT) / PTIT | Vietnam | `causal-ml` |  | high |
 | Doan, Thao | Industry Researcher | AbbVie (United States) | United States | `applied-health` |  | medium |
 | Duong, Quang | Industry Researcher | Google (United States) | United States | `causal-ml` | [orcid](https://orcid.org/0000-0002-3096-7314) | high |
