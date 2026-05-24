@@ -118,7 +118,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | [Van Phuong Hoang](https://scholar.google.com/citations?user=F3dg9vMAAAAJ&hl=en&oi=ao) |  | UNSW Sydney | Australia | `applied-health`, `applied-econ` | [scholar](https://scholar.google.com/citations?user=F3dg9vMAAAAJ&hl=en&oi=ao) | medium |
 | [Phat Kim Huynh](https://scholar.google.com/citations?user=Wo5c6BEAAAAJ&hl=en&oi=ao) |  | North Dakota State University | United States | `causal-discovery`, `applied-health` | [scholar](https://scholar.google.com/citations?user=Wo5c6BEAAAAJ&hl=en&oi=ao) | high |
 | Huynh, Thi Hong Tram |  | Unknown (paper at Vietnamese journal Y Hoc TP Ho Chi Minh) | Vietnam | `applied-health`, `theoretical` |  | medium |
-| Huynh, Tuyen N. |  | Vietnam National University Ho Chi Minh City | Vietnam | `theoretical`, `causal-discovery` |  | high |
+| [Tuyen N. Huynh](https://scholar.google.com/citations?user=w_GMSlcAAAAJ&hl=en&oi=ao) |  | Vietnam National University Ho Chi Minh City | Vietnam | `theoretical`, `causal-discovery` | [scholar](https://scholar.google.com/citations?user=w_GMSlcAAAAJ&hl=en&oi=ao) | high |
 | Le, Do Minh |  | California State University, Fullerton | United States | `causal-discovery`, `theoretical` | [orcid](https://orcid.org/0000-0002-1897-5098) | high |
 | Le, Hao Duong |  | Unknown - please verify | Unknown | `causal-discovery`, `causal-nlp` |  | medium |
 | Le, Thien-Minh |  | University of Tennessee at Chattanooga | United States | `causal-discovery`, `theoretical` | [orcid](https://orcid.org/0000-0003-2948-8778) | high |

@@ -2492,6 +2492,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5102071984
+    scholar: https://scholar.google.com/citations?user=w_GMSlcAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-discovery
@@ -2503,6 +2504,7 @@
   source: scrape_openalex
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Tuyen N. Huynh
 - id: le-bac-vnuhcm
   name: Le, Bac
   affiliation:
