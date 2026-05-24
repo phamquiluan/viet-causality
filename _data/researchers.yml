@@ -2230,6 +2230,7 @@
     position: Research Fellow
   links:
     openalex: https://openalex.org/A5066650734
+    scholar: https://scholar.google.com/citations?user=e8cttx0AAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-bio
   - theoretical
@@ -2242,6 +2243,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Buu Truong
 - id: truong-van-thi-thanh-uth
   name: Truong, Van Thi Thanh
   affiliation:
