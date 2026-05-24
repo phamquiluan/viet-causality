@@ -41,17 +41,34 @@ def fmt_areas(areas: list[str]) -> str:
 
 
 def render_rows(entries: list[dict[str, Any]]) -> str:
+    from collections import Counter
     by_country: dict[str, list[dict[str, Any]]] = {}
     for e in entries:
         country = (e.get("affiliation") or {}).get("country", "Unknown")
         by_country.setdefault(country, []).append(e)
 
+    conf_count = Counter(e.get("confidence", "") for e in entries)
+    sub_count: Counter = Counter()
+    for e in entries:
+        for s in e.get("sub_areas") or []:
+            sub_count[s] += 1
+
     out: list[str] = []
-    out.append(f"_Last updated: see commit log. **{len(entries)} researchers** across {len(by_country)} countries._\n")
+    out.append(f"_**{len(entries)} researchers** across {len(by_country)} countries. "
+               f"Confidence: {conf_count.get('high', 0)} high, "
+               f"{conf_count.get('medium', 0)} medium, {conf_count.get('low', 0)} low._\n")
+
+    country_summary = ", ".join(
+        f"{c} ({len(by_country[c])})" for c in sorted(by_country, key=lambda k: -len(by_country[k]))[:8]
+    )
+    out.append(f"**By country (top 8):** {country_summary}.")
+    sub_summary = ", ".join(f"`{s}` ({n})" for s, n in sub_count.most_common(8))
+    out.append(f"\n**By sub-area (top 8):** {sub_summary}.\n")
+
     out.append("| Name | Position | Affiliation | Sub-areas | Links | Confidence |")
     out.append("|---|---|---|---|---|---|")
     for country in sorted(by_country):
-        out.append(f"| **{country}** | | | | | |")
+        out.append(f"| **{country}** ({len(by_country[country])}) | | | | | |")
         rows = sorted(by_country[country], key=lambda e: e["name"])
         for e in rows:
             aff = e.get("affiliation") or {}
