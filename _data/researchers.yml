@@ -375,6 +375,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5089513709
+    scholar: https://scholar.google.com/citations?user=9cy1P9cAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   key_papers:
@@ -385,6 +386,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Liem Viet Ngo
 - id: nguyen-cattram-mcri
   name: Nguyen, Cattram
   affiliation:

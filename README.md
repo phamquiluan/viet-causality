@@ -123,7 +123,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Le, Hao Duong |  | Unknown - please verify | Unknown | `causal-discovery`, `causal-nlp` |  | medium |
 | Le, Thien-Minh |  | University of Tennessee at Chattanooga | United States | `causal-discovery`, `theoretical` | [orcid](https://orcid.org/0000-0003-2948-8778) | high |
 | Le, Truc Viet |  | University of Texas Medical Branch at Galveston | United States | `causal-ml` |  | high |
-| Ngo, Liem Viet |  | UNSW Sydney | Australia | `theoretical` |  | high |
+| [Liem Viet Ngo](https://scholar.google.com/citations?user=9cy1P9cAAAAJ&hl=en&oi=ao) |  | UNSW Sydney | Australia | `theoretical` | [scholar](https://scholar.google.com/citations?user=9cy1P9cAAAAJ&hl=en&oi=ao) | high |
 | Ngo, Nghia Trung |  | Unknown - please verify | Unknown | `causal-nlp` |  | medium |
 | Ngo, Van Chan |  | Carnegie Mellon University | United States | `theoretical` |  | medium |
 | Nguyen, Binh T. |  | Unknown - please verify | Unknown | `applied-health` |  | low |
