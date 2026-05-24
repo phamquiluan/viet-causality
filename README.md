@@ -74,7 +74,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | **Senior Research Fellow** | | | | | | |
 | [Thin Nguyen](https://scholar.google.com/citations?user=BlTfdtMAAAAJ&hl=en&oi=ao) | Senior Research Fellow | Deakin University, A2I2 | Australia | `causal-discovery`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=BlTfdtMAAAAJ&hl=en&oi=ao) | high |
 | **Research Scientist** | | | | | | |
-| Ngo, Hoang-Anh | Research Scientist | Woolcock Institute Vietnam | Vietnam | `applied-health` | [scholar](https://scholar.google.com/citations?user=yelTvHAAAAAJ) | medium |
+| [Hoang-Anh Ngo](https://scholar.google.com/citations?user=yelTvHAAAAAJ&hl=en&oi=ao) | Research Scientist | Woolcock Institute Vietnam | Vietnam | `applied-health` | [scholar](https://scholar.google.com/citations?user=yelTvHAAAAAJ&hl=en&oi=ao) | medium |
 | **Research Fellow** | | | | | | |
 | Do, Kien | Research Fellow | Deakin University, A2I2 | Australia | `theoretical`, `causal-discovery`, `causal-cv` |  | high |
 | Hoang, Van Thuy | Research Fellow | The Catholic University of Korea | South Korea | `causal-ml`, `applied-bio` |  | medium |

@@ -2443,13 +2443,14 @@
     country: Vietnam
     position: Research Scientist
   links:
-    scholar: https://scholar.google.com/citations?user=yelTvHAAAAAJ
+    scholar: https://scholar.google.com/citations?user=yelTvHAAAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-health
   notes: Epidemiology + online ML; relevance to applied causal epidemiology.
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Hoang-Anh Ngo
 - id: nguyen-truong-thao-hust
   name: Nguyen Truong, Thao
   affiliation:
