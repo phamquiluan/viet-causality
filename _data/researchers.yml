@@ -1649,12 +1649,14 @@
   links:
     openalex: https://openalex.org/A5103104556
     orcid: https://orcid.org/0000-0002-3096-7314
+    scholar: https://scholar.google.com/citations?user=pKcdq1AAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   notes: 'OpenAlex: 4 causal-inference papers, h=8.'
   source: scrape_openalex
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Quang Duong
 - id: hoang-trong-nghia-wsu
   name: Hoang, Trong Nghia
   affiliation:
