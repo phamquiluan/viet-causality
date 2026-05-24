@@ -1993,6 +1993,7 @@
     position: Full Professor
   links:
     homepage: https://dept.stat.lsa.umich.edu/~xuanlong/
+    scholar: https://scholar.google.com/citations?user=Az7XqxQAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   notes: Bayesian nonparametrics; optimal transport. Causality is not the primary focus of recent publications; flagged for
@@ -2000,6 +2001,7 @@
   source: manual_seed
   confidence: low
   last_verified: 2026-05-24
+  name_scholar: XuanLong Nguyen
 - id: pham-cuong-rochester
   name: Pham, Cuong T.
   affiliation:
