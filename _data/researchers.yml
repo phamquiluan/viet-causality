@@ -1447,12 +1447,14 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/nguyen_m_6
+    scholar: https://scholar.google.com/citations?user=3ea0RLkAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   notes: '''Minh-Duong'' Vietnamese given name; co-author Quoc-Viet Pham.'
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Minh-Duong Nguyen
 - id: phan-du-postech
   name: Phan, Du
   affiliation:

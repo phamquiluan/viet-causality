@@ -195,7 +195,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Nguyen, Huy-Son | PhD Student | Delft University of Technology | Netherlands | `counterfactual-explanation` |  | medium |
 | Nguyen, Khoa | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery` |  | medium |
 | [Minh Hoang Nguyen](https://scholar.google.com/citations?user=bU_mv-8AAAAJ&hl=en&oi=ao) | PhD Student | KAIST, Department of Computer Science (current); previously University of Auckland | South Korea | `causal-rl`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=bU_mv-8AAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/32/5736) | high |
-| Nguyen, Minh-Duong | PhD Student | Pukyong National University, Korea (per Quoc-Viet Pham collaboration) | South Korea | `causal-ml` |  | medium |
+| [Minh-Duong Nguyen](https://scholar.google.com/citations?user=3ea0RLkAAAAJ&hl=en&oi=ao) | PhD Student | Pukyong National University, Korea (per Quoc-Viet Pham collaboration) | South Korea | `causal-ml` | [scholar](https://scholar.google.com/citations?user=3ea0RLkAAAAJ&hl=en&oi=ao) | medium |
 | [Nang Hung Nguyen](https://scholar.google.com/citations?user=hL8bnjIAAAAJ&hl=en&oi=ao) | PhD Student | The University of Tokyo | Japan | `causal-discovery`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=hL8bnjIAAAAJ&hl=en&oi=ao) | medium |
 | Nguyen, Nhi | PhD Student | New York University | United States | `causal-ml` | [home](https://iam-nhi-nguyen.github.io/) | medium |
 | Nguyen, Quang-Huy | Student | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` |  | medium |
