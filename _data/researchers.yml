@@ -11,6 +11,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5075177965
+    scholar: https://scholar.google.com/citations?user=9dd36HMAAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-health
   - theoretical
@@ -23,6 +24,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Minh Bui
 - id: do-kien-deakin
   name: Do, Kien
   affiliation:
@@ -31,6 +33,7 @@
     position: Research Fellow
   links:
     arxiv: https://arxiv.org/a/do_k_1
+    scholar: https://scholar.google.com/citations?user=aD6y8joAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-discovery
@@ -48,6 +51,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Kien Do
 - id: do-van-dai-deakin
   name: Do, Van Dai
   affiliation:
@@ -103,6 +107,7 @@
     position: PhD Student
   links:
     homepage: ''
+    scholar: https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - theoretical
@@ -116,6 +121,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Bao Duong
 - id: duong-tri-dung-uts
   name: Duong, Tri Dung
   affiliation:
@@ -124,6 +130,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/duong_t_1
+    scholar: https://scholar.google.com/citations?user=hoq2nt8AAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-fairness
   - counterfactual-explanation
@@ -145,6 +152,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Dung Duong
 - id: hoang-nu-deakin
   name: Hoang, Nu
   affiliation:
@@ -153,6 +161,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/hoang_n_1
+    scholar: https://scholar.google.com/citations?user=CiNpg4oAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - theoretical
@@ -169,6 +178,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Nu Hoang
 - id: hoang-tao-unisa
   name: Hoang, Tao
   affiliation:
@@ -199,6 +209,7 @@
     position: Senior Lecturer (ARC DECRA Fellow)
   links:
     dblp: https://dblp.org/pid/45/466-2
+    scholar: https://scholar.google.com/citations?user=q2HbxngAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-rl
   - causal-discovery
@@ -214,6 +225,7 @@
   source: scrape_dblp
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Hung Le
 - id: le-minh-deakin
   name: Le, Minh
   affiliation:
@@ -223,6 +235,7 @@
   links:
     openalex: https://openalex.org/A5016537664
     orcid: https://orcid.org/0000-0002-0684-6408
+    scholar: https://scholar.google.com/citations?user=v087cnkAAAAJ&hl=en&oi=ao
     arxiv: https://arxiv.org/a/le_m_1
   sub_areas:
   - causal-discovery
@@ -247,6 +260,7 @@
     position: Research Fellow
   links:
     arxiv: https://arxiv.org/a/le_t_1
+    scholar: https://scholar.google.com/citations?user=0irkZtkAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-cv
   - causal-ml
@@ -259,6 +273,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Thao Minh Le
 - id: le-thuc-duy-unisa
   name: Le, Thuc Duy
   affiliation:
@@ -267,7 +282,7 @@
     position: Associate Professor
   links:
     homepage: https://people.unisa.edu.au/Thuc.Le
-    scholar: https://scholar.google.com/citations?user=wMSCRxUAAAAJ
+    scholar: https://scholar.google.com/citations?user=wMSCRxUAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - applied-bio
@@ -281,6 +296,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Thuc  Duy Le
 - id: le-trung-monash
   name: Le, Trung
   affiliation:
@@ -289,6 +305,7 @@
     position: Senior Lecturer
   links:
     homepage: https://research.monash.edu/en/persons/trung-le
+    scholar: https://scholar.google.com/citations?user=gysdMxwAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   notes: Deep generative + Bayesian methods; co-authors on causal structure learning papers with Phung's group. Causality
@@ -296,6 +313,7 @@
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Trung Le
 - id: le-vuong-amazon
   name: Le, Vuong
   affiliation:
@@ -304,6 +322,7 @@
     position: Industry Researcher
   links:
     arxiv: https://arxiv.org/a/le_v_2
+    scholar: https://scholar.google.com/citations?user=WjMGgVIAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-cv
   - causal-ml
@@ -316,6 +335,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Vuong Le
 - id: nguyen-dang-deakin
   name: Nguyen, Dang
   affiliation:
@@ -324,6 +344,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/nguyen_d_6
+    scholar: https://scholar.google.com/citations?user=UtlivOcAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - counterfactual-explanation
@@ -336,6 +357,7 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Dang Nguyen
 - id: nguyen-duc-thanh-deakin
   name: Nguyen, Duc Thanh
   affiliation:
@@ -343,7 +365,7 @@
     country: Australia
     position: Senior Lecturer
   links:
-    scholar: https://scholar.google.com.au/citations?user=4vExyv8AAAAJ
+    scholar: https://scholar.google.com/citations?user=4vExyv8AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-cv
@@ -355,6 +377,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Duc Thanh Nguyen
 - id: nguyen-dung-deakin
   name: Nguyen, Dung
   affiliation:
@@ -363,6 +386,7 @@
     position: Research Fellow
   links:
     arxiv: https://arxiv.org/a/nguyen_d_5
+    scholar: https://scholar.google.com/citations?user=O5OU_kUAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-rl
   - causal-ml
@@ -375,6 +399,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Dung Nguyen
 - id: nguyen-dung-deakin-fpt
   name: Nguyen, Dung (Deakin-FPT)
   affiliation:
@@ -429,7 +454,7 @@
     country: Australia
     position: Research Fellow
   links:
-    scholar: https://scholar.google.com.au/citations?user=c4LnrZ0AAAAJ
+    scholar: https://scholar.google.com/citations?user=c4LnrZ0AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - theoretical
@@ -439,6 +464,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Phuoc Nguyen
 - id: nguyen-thin-deakin
   name: Nguyen, Thin
   affiliation:
@@ -446,7 +472,7 @@
     country: Australia
     position: Senior Research Fellow
   links:
-    scholar: https://scholar.google.com.au/citations?user=BlTfdtMAAAAJ
+    scholar: https://scholar.google.com/citations?user=BlTfdtMAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-ml
@@ -457,6 +483,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Thin Nguyen
 - id: nguyen-toan-deakin-causal
   name: Nguyen, Toan
   affiliation:
@@ -465,6 +492,7 @@
     position: PhD Student
   links:
     dblp: https://dblp.org/pid/62/4324-4
+    scholar: https://scholar.google.com/citations?user=G44wtd4AAAAJ&hl=en&oi=ao
     openalex: https://openalex.org/A5102874067
   sub_areas:
   - causal-ml
@@ -510,12 +538,14 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/nguyen_v_3
+    scholar: https://scholar.google.com/citations?user=V0KdkKIAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-nlp
   notes: RMIT; 'Vy' Vietnamese given name.
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Vy Nguyen
 - id: pham-luan-rmit
   name: Pham, Luan
   affiliation:
@@ -524,6 +554,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/pham_l_1
+    scholar: https://scholar.google.com/citations?user=YRS7knwAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-discovery
@@ -537,6 +568,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Luan Pham
 - id: pham-vu-viet-hoang-unisa
   name: Pham, Vu Viet Hoang
   affiliation:
@@ -545,6 +577,7 @@
     position: Research Fellow
   links:
     dblp: https://dblp.org/pid/200/2832
+    scholar: https://scholar.google.com/citations?user=McmcPUUAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - applied-bio
@@ -559,6 +592,7 @@
   source: scrape_dblp
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Vu Viet Hoang Pham
 - id: phung-dinh-monash
   name: Phung, Dinh
   affiliation:
@@ -567,7 +601,7 @@
     position: Full Professor
   links:
     homepage: https://research.monash.edu/en/persons/dinh-phung
-    scholar: https://scholar.google.com/citations?user=OtA9SwIAAAAJ
+    scholar: https://scholar.google.com/citations?user=OtA9SwIAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-ml
@@ -578,6 +612,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Dinh Phung
 - id: tran-ha-xuan-unisa
   name: Tran, Ha Xuan
   affiliation:
@@ -586,6 +621,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/tran_h_1
+    scholar: https://scholar.google.com/citations?user=P8SBHWUAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - counterfactual-explanation
@@ -602,6 +638,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Ha Xuan Tran
 - id: tran-minh-ngoc-sydney
   name: Tran, Minh-Ngoc
   affiliation:
@@ -610,6 +647,7 @@
     position: Associate Professor
   links:
     homepage: https://sites.google.com/site/mntran26/
+    scholar: https://scholar.google.com/citations?user=98A6Dq8AAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - applied-econ
@@ -617,6 +655,7 @@
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Minh-Ngoc Tran
 - id: tran-quang-duy-deakin
   name: Tran, Quang-Duy
   affiliation:
@@ -625,6 +664,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/tran_q_2
+    scholar: https://scholar.google.com/citations?user=DxEBVUUAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - theoretical
@@ -637,6 +677,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Quang-Duy Tran
 - id: tran-truyen-deakin
   name: Tran, Truyen
   affiliation:
@@ -645,7 +686,7 @@
     position: Full Professor
   links:
     homepage: https://truyentran.github.io/
-    scholar: https://scholar.google.com/citations?user=zvspVLwAAAAJ
+    scholar: https://scholar.google.com/citations?user=zvspVLwAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-ml
@@ -658,6 +699,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Truyen Tran
 - id: truong-buu-minh-thanh-unisa
   name: Truong, Buu Minh Thanh
   affiliation:
@@ -685,12 +727,14 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/vo_t_1
+    scholar: https://scholar.google.com/citations?user=RLoZBGwAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   notes: Deakin A2I2; hyphenated Vietnamese given name 'Tri-Nhan'.
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Trí Nhân Võ
 - id: vo-vy-monash
   name: Vo, Vy
   affiliation:
@@ -699,6 +743,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/vo_v_2
+    scholar: https://scholar.google.com/citations?user=3CpFpFkAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - theoretical
@@ -715,6 +760,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Vy Vo
 - id: nguyen-tri-long-copenhagen
   name: Nguyen, Tri-Long
   affiliation:
@@ -770,6 +816,7 @@
     position: Researcher
   links:
     arxiv: https://arxiv.org/a/vo_t_2
+    scholar: https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-health
   - theoretical
@@ -790,6 +837,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Tat-Thang Vo
 - id: le-tuan-pfizer
   name: Le, Tuan
   affiliation:
@@ -799,6 +847,7 @@
   links:
     openalex: https://openalex.org/A5100458405
     orcid: https://orcid.org/0000-0001-7634-502X
+    scholar: https://scholar.google.com/citations?user=Fk1A1p4AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - theoretical
@@ -806,6 +855,7 @@
   source: scrape_openalex
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Tuan Le
 - id: phan-thomy-bayreuth
   name: Phan, Thomy
   affiliation:
@@ -814,6 +864,7 @@
     position: Junior Professor
   links:
     dblp: https://dblp.org/pid/218/6646
+    scholar: https://scholar.google.com/citations?user=yny05hUAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   - causal-rl
@@ -828,6 +879,7 @@
   source: scrape_dblp
   confidence: low
   last_verified: 2026-05-24
+  name_scholar: Thomy Phan
 - id: vo-kiet-cispa
   name: Vo, Kiet Q. H.
   affiliation:
@@ -856,6 +908,7 @@
     position: Assistant Professor
   links:
     homepage: https://vietanhnguyen.info/
+    scholar: https://scholar.google.com/citations?user=3iyf-EoAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   - theoretical
@@ -867,6 +920,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Viet Anh Nguyen
 - id: pham-quoc-viet-tcd
   name: Pham, Quoc-Viet
   affiliation:
@@ -875,12 +929,14 @@
     position: Assistant Professor
   links:
     arxiv: https://arxiv.org/a/pham_q_1
+    scholar: https://scholar.google.com/citations?user=zKX-0LIAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   notes: IEEE Senior Member; 'Quoc-Viet' Vietnamese given name.
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Viet Quoc Pham
 - id: huynh-van-nam-jaist
   name: Huynh, Van-Nam
   affiliation:
@@ -889,12 +945,14 @@
     position: Full Professor
   links:
     openalex: https://openalex.org/A5067088014
+    scholar: https://scholar.google.com/citations?user=XVThR3QAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   notes: h=33, 3594 citations; uncertainty/decision-making with linguistic assessments.
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Van Nam Huynh
 - id: le-tam-riken
   name: Le, Tam
   affiliation:
@@ -903,6 +961,7 @@
     position: Postdoctoral Researcher
   links:
     dblp: https://dblp.org/pid/137/4218
+    scholar: https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-ml
@@ -914,6 +973,7 @@
   source: scrape_dblp
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Tam Le
 - id: nguyen-minh-le-jaist
   name: Nguyen, Minh Le
   affiliation:
@@ -922,6 +982,7 @@
     position: Full Professor
   links:
     dblp: https://dblp.org/pid/n/MinhLeNguyen
+    scholar: https://scholar.google.com/citations?user=vM9772wAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-nlp
   - applied-social
@@ -933,6 +994,7 @@
   source: scrape_dblp
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Nguyen Le Minh
 - id: nguyen-nang-hung-tokyo
   name: Nguyen, Nang Hung
   affiliation:
@@ -941,6 +1003,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/nguyen_n_1
+    scholar: https://scholar.google.com/citations?user=hL8bnjIAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-ml
@@ -952,6 +1015,7 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Nang Hung Nguyen
 - id: pham-thong-osaka
   name: Pham, Thong
   affiliation:
@@ -961,6 +1025,7 @@
     position: Associate Professor
   links:
     dblp: https://dblp.org/pid/199/2079
+    scholar: https://scholar.google.com/citations?user=LrWKIb0AAAAJ&hl=en&oi=ao
     openalex: https://openalex.org/A5049149965
     orcid: https://orcid.org/0000-0002-1940-9290
   sub_areas:
@@ -1013,12 +1078,14 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5039111784
+    scholar: https://scholar.google.com/citations?user=tJzykd0AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   notes: 'OpenAlex: 4 causal-inference papers, h=5.'
   source: scrape_openalex
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Thai T. Pham
 - id: vo-thanh-vinh-nus
   name: Vo, Thanh Vinh
   affiliation:
@@ -1027,6 +1094,7 @@
     position: Research Fellow
   links:
     homepage: https://vothanhvinh.github.io/
+    scholar: https://scholar.google.com/citations?user=g1m5t54AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - theoretical
@@ -1042,6 +1110,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Vo Thanh Vinh
 - id: hoang-van-thuy-catholic-korea
   name: Hoang, Van Thuy
   affiliation:
@@ -1050,6 +1119,7 @@
     position: Research Fellow
   links:
     arxiv: https://arxiv.org/a/hoang_v_1
+    scholar: https://scholar.google.com/citations?user=E7Cc8rAAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - applied-bio
@@ -1061,6 +1131,7 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Van Thuy Hoang
 - id: nguyen-minh-hoang-kaist
   name: Nguyen, Minh Hoang
   affiliation:
@@ -1069,6 +1140,7 @@
     position: PhD Student
   links:
     dblp: https://dblp.org/pid/32/5736
+    scholar: https://scholar.google.com/citations?user=bU_mv-8AAAAJ&hl=en&oi=ao
     arxiv: https://arxiv.org/a/nguyen_m_5
   sub_areas:
   - causal-rl
@@ -1099,12 +1171,14 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/nguyen_m_6
+    scholar: https://scholar.google.com/citations?user=3ea0RLkAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   notes: '''Minh-Duong'' Vietnamese given name; co-author Quoc-Viet Pham.'
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Minh-Duong Nguyen
 - id: nguyen-cuong-v-durham
   name: Nguyen, Cuong V.
   affiliation:
@@ -1113,6 +1187,7 @@
     position: Assistant Professor
   links:
     homepage: https://nvcuong.github.io/
+    scholar: https://scholar.google.com/citations?user=CG9yOXoAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - theoretical
@@ -1121,6 +1196,7 @@
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Cuong V. Nguyen
 - id: nguyen-vu-amazon
   name: Nguyen, Vu
   affiliation:
@@ -1129,6 +1205,7 @@
     position: Applied Scientist
   links:
     dblp: https://dblp.org/pid/59/4389
+    scholar: https://scholar.google.com/citations?user=5RQyC9cAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-nlp
   - theoretical
@@ -1140,6 +1217,7 @@
   source: scrape_dblp
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Vu Nguyen
 - id: dang-lauren-eyler-berkeley
   name: Dang, Lauren Eyler
   affiliation:
@@ -1149,6 +1227,7 @@
   links:
     openalex: https://openalex.org/A5049187271
     orcid: https://orcid.org/0000-0002-2967-0855
+    scholar: https://scholar.google.com/citations?user=p5xOjAIAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - applied-health
@@ -1160,6 +1239,7 @@
   source: scrape_openalex
   confidence: low
   last_verified: 2026-05-24
+  name_scholar: Lauren Eyler Dang
 - id: dang-tommy-ttu
   name: Dang, Tommy
   affiliation:
@@ -1168,7 +1248,7 @@
     position: Associate Professor
   links:
     homepage: https://www.myweb.ttu.edu/tnhondan/
-    scholar: https://scholar.google.com/citations?user=B1b-yVAAAAAJ
+    scholar: https://scholar.google.com/citations?user=B1b-yVAAAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-bio
   key_papers:
@@ -1179,6 +1259,7 @@
   source: scrape_dynaroars
   confidence: low
   last_verified: 2026-05-24
+  name_scholar: Tommy Dang
 - id: duong-hieu-minh-louisville
   name: Duong, Hieu Minh
   affiliation:
@@ -1187,6 +1268,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/duong_h_1
+    scholar: https://scholar.google.com/citations?user=-C06MVsAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-time-series
@@ -1194,6 +1276,7 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Hieu Minh Duong
 - id: hoang-trong-nghia-wsu
   name: Hoang, Trong Nghia
   affiliation:
@@ -1202,7 +1285,7 @@
     position: Assistant Professor
   links:
     homepage: https://htnghia87.github.io/
-    scholar: https://scholar.google.com/citations?user=E-kZZeQAAAAJ
+    scholar: https://scholar.google.com/citations?user=E-kZZeQAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-ml
@@ -1211,6 +1294,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Trong Nghia Hoang
 - id: huynh-phat-k-ndsu
   name: Huynh, Phat K.
   affiliation:
@@ -1219,6 +1303,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5053781401
+    scholar: https://scholar.google.com/citations?user=Wo5c6BEAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - applied-health
@@ -1230,6 +1315,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Phat Kim Huynh
 - id: le-thai-indiana
   name: Le, Thai
   affiliation:
@@ -1238,7 +1324,7 @@
     position: Assistant Professor
   links:
     homepage: https://thaile.web.illinois.edu/
-    scholar: https://scholar.google.com/citations?user=Fd8K7kAAAAAJ
+    scholar: https://scholar.google.com/citations?user=Fd8K7kAAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   - causal-rl
@@ -1251,6 +1337,7 @@
   source: scrape_dynaroars
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Thai Le
 - id: ngo-dung-daniel-cmu
   name: Ngo, Dung Daniel T.
   affiliation:
@@ -1259,6 +1346,7 @@
     position: PhD Student
   links:
     dblp: https://dblp.org/pid/296/8379
+    scholar: https://scholar.google.com/citations?user=mBHPMZUAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-ml
@@ -1273,6 +1361,7 @@
   source: scrape_dblp
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Dung Daniel Ngo
 - id: nguyen-anh-totti-auburn
   name: Nguyen, Anh (Totti)
   affiliation:
@@ -1281,7 +1370,7 @@
     position: Associate Professor
   links:
     homepage: https://anhnguyen.me/
-    scholar: https://scholar.google.com/citations?user=EQw8d9AAAAAJ
+    scholar: https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   - causal-cv
@@ -1297,6 +1386,7 @@
   source: scrape_dynaroars
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Anh Totti Nguyen
 - id: nguyen-duy-ucsc
   name: Nguyen, Duy
   affiliation:
@@ -1324,6 +1414,7 @@
     position: PhD Student
   links:
     homepage: https://iam-nhi-nguyen.github.io/
+    scholar: https://scholar.google.com/citations?user=QxwMTFsAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   key_papers:
@@ -1335,6 +1426,7 @@
   source: scrape_viet_wics
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Nhi Nguyen
 - id: nguyen-thanh-hong-oregon
   name: Nguyen, Thanh Hong
   affiliation:
@@ -1343,7 +1435,7 @@
     position: Associate Professor
   links:
     homepage: https://ix.cs.uoregon.edu/~thanhhng/
-    scholar: https://scholar.google.com/citations?user=6fpZnQIAAAAJ
+    scholar: https://scholar.google.com/citations?user=6fpZnQIAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   key_papers:
@@ -1354,6 +1446,7 @@
   source: scrape_dynaroars
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Thanh Nguyen
 - id: nguyen-thien-huu-oregon
   name: Nguyen, Thien Huu
   affiliation:
@@ -1362,7 +1455,7 @@
     position: Associate Professor
   links:
     homepage: https://ix.cs.uoregon.edu/~thienn/
-    scholar: https://scholar.google.com/citations?user=Da2FhegAAAAJ
+    scholar: https://scholar.google.com/citations?user=Da2FhegAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-nlp
   key_papers:
@@ -1382,6 +1475,7 @@
   source: scrape_dynaroars
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Thien Huu Nguyen
 - id: nguyen-trang-quynh-jhu
   name: Nguyen, Trang Quynh
   affiliation:
@@ -1390,7 +1484,7 @@
     position: Associate Research Professor
   links:
     homepage: https://nqtrang.com/
-    scholar: https://scholar.google.com/citations?user=1pjyYFsAAAAJ
+    scholar: https://scholar.google.com/citations?user=1pjyYFsAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - applied-health
@@ -1403,6 +1497,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Trang Quynh Nguyen
 - id: nguyen-xuanlong-michigan
   name: Nguyen, XuanLong (Long)
   affiliation:
@@ -1411,6 +1506,7 @@
     position: Full Professor
   links:
     homepage: https://dept.stat.lsa.umich.edu/~xuanlong/
+    scholar: https://scholar.google.com/citations?user=Az7XqxQAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   notes: Bayesian nonparametrics; optimal transport. Causality is not the primary focus of recent publications; flagged for
@@ -1418,6 +1514,7 @@
   source: manual_seed
   confidence: low
   last_verified: 2026-05-24
+  name_scholar: XuanLong Nguyen
 - id: pham-cuong-rochester
   name: Pham, Cuong T.
   affiliation:
@@ -1466,6 +1563,7 @@
     position: PhD Student
   links:
     homepage: https://pth1993.github.io/
+    scholar: https://scholar.google.com/citations?user=bht4j9oAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - applied-health
@@ -1477,6 +1575,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Thai-Hoang Pham
 - id: tran-cao-son-nmsu
   name: Tran, Cao Son
   affiliation:
@@ -1485,6 +1584,7 @@
     position: Full Professor
   links:
     openalex: https://openalex.org/A5063459912
+    scholar: https://scholar.google.com/citations?user=7jKj_NcAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-rl
@@ -1492,6 +1592,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Tran Cao Son
 - id: tran-christopher-uic
   name: Tran, Christopher
   affiliation:
@@ -1500,6 +1601,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5026194168
+    scholar: https://scholar.google.com/citations?user=EWazzlkAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - theoretical
@@ -1511,6 +1613,7 @@
   source: scrape_semantic_scholar
   confidence: low
   last_verified: 2026-05-24
+  name_scholar: Christopher Tran
 - id: tran-dustin-google
   name: Tran, Dustin
   affiliation:
@@ -1519,6 +1622,7 @@
     position: Industry Researcher
   links:
     openalex: https://openalex.org/A5081819708
+    scholar: https://scholar.google.com/citations?user=wVazIm8AAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-ml
@@ -1530,6 +1634,7 @@
   source: scrape_semantic_scholar
   confidence: low
   last_verified: 2026-05-24
+  name_scholar: Dustin Tran
 - id: tran-linh-jhu
   name: Tran, Linh
   affiliation:
@@ -1539,6 +1644,7 @@
   links:
     openalex: https://openalex.org/A5006359310
     orcid: https://orcid.org/0000-0001-6429-0375
+    scholar: https://scholar.google.com/citations?user=ZnjEAXUAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - applied-health
@@ -1561,7 +1667,7 @@
     position: Assistant Professor
   links:
     homepage: https://nitrieu.github.io/
-    scholar: https://scholar.google.com/citations?user=AZgugwsAAAAJ
+    scholar: https://scholar.google.com/citations?user=AZgugwsAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   key_papers:
@@ -1573,6 +1679,7 @@
   source: scrape_dynaroars
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Ni Trieu
 - id: trinh-quoc-dien-harvard
   name: Trinh, Quoc-Dien
   affiliation:
@@ -1581,6 +1688,7 @@
     position: Full Professor
   links:
     openalex: https://openalex.org/A5077545940
+    scholar: https://scholar.google.com/citations?user=d2THMCkAAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-health
   key_papers:
@@ -1591,6 +1699,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Quoc-Dien Trinh
 - id: truong-buu-broad
   name: Truong, Buu
   affiliation:
@@ -1599,6 +1708,7 @@
     position: Research Fellow
   links:
     openalex: https://openalex.org/A5066650734
+    scholar: https://scholar.google.com/citations?user=e8cttx0AAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-bio
   - theoretical
@@ -1611,6 +1721,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Buu Truong
 - id: le-hao-duong-llm-cd
   name: Le, Hao Duong
   affiliation:
@@ -1638,6 +1749,7 @@
     position: Industry Researcher
   links:
     homepage: https://sites.google.com/site/buihhung/
+    scholar: https://scholar.google.com/citations?user=mDLwSZAAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   notes: Probabilistic graphical models; Bayesian inference; relational/sequential models. Causality-adjacent rather than
@@ -1645,6 +1757,7 @@
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Hung Bui
 - id: dang-hoang-vn
   name: Dang, Hoang
   affiliation:
@@ -1688,6 +1801,7 @@
     position: Faculty
   links:
     openalex: https://openalex.org/A5057761132
+    scholar: https://scholar.google.com/citations?user=UA_83MUAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   - causal-discovery
@@ -1695,6 +1809,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Bac Le
 - id: le-duc-trong-vnu
   name: Le, Duc-Trong
   affiliation:
@@ -1703,6 +1818,7 @@
     position: Faculty
   links:
     arxiv: https://arxiv.org/a/le_d_1
+    scholar: https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - counterfactual-explanation
@@ -1715,6 +1831,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Duc-Trong Le
 - id: le-hoang-quynh-vnu
   name: Le, Hoang-Quynh
   affiliation:
@@ -1740,13 +1857,14 @@
     country: Vietnam
     position: Research Scientist
   links:
-    scholar: https://scholar.google.com/citations?user=yelTvHAAAAAJ
+    scholar: https://scholar.google.com/citations?user=yelTvHAAAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-health
   notes: Epidemiology + online ML; relevance to applied causal epidemiology.
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Hoang-Anh Ngo
 - id: nguyen-truong-thao-hust
   name: Nguyen Truong, Thao
   affiliation:
@@ -1755,12 +1873,14 @@
     position: Faculty
   links:
     openalex: https://openalex.org/A5125063252
+    scholar: https://scholar.google.com/citations?user=1DqrHWEAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   notes: Co-author on Vietnam-led causal graph learning paper.
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Truong Thao Nguyen
 - id: nguyen-cam-van-thi-vnu
   name: Nguyen, Cam-Van Thi
   affiliation:
@@ -1769,6 +1889,7 @@
     position: Faculty
   links:
     arxiv: https://arxiv.org/a/nguyen_c_1
+    scholar: https://scholar.google.com/citations?user=4KiBC1YAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   key_papers:
@@ -1779,6 +1900,7 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Cam-Van Thi Nguyen
 - id: nguyen-long-lqdtu
   name: Nguyen, Long
   affiliation:
@@ -1825,6 +1947,7 @@
     position: Research Fellow
   links:
     arxiv: https://arxiv.org/a/nguyen_p_3
+    scholar: https://scholar.google.com/citations?user=L_NKoQwAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-ml
@@ -1836,6 +1959,7 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Phi Le Nguyen
 - id: nguyen-quang-huy-vnu
   name: Nguyen, Quang-Huy
   affiliation:
@@ -1877,6 +2001,7 @@
     position: Faculty
   links:
     openalex: https://openalex.org/A5102029387
+    scholar: https://scholar.google.com/citations?user=MORsnW4AAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   - causal-discovery
@@ -1889,6 +2014,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Thanh-An Nguyen
 - id: pham-dung-hmu
   name: Pham, Dung
   affiliation:
@@ -1912,6 +2038,7 @@
     position: Assistant Professor
   links:
     arxiv: https://arxiv.org/a/pham_h_2
+    scholar: https://scholar.google.com/citations?user=mXcFcNkAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - applied-health
@@ -1923,6 +2050,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Hieu H. Pham
 - id: tran-ngoc-mai-cantho
   name: Tran, Ngoc Mai
   affiliation:
@@ -1932,6 +2060,7 @@
   links:
     openalex: https://openalex.org/A5082324019
     orcid: https://orcid.org/0000-0002-5061-6562
+    scholar: https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - theoretical
@@ -1944,6 +2073,7 @@
   source: scrape_openalex
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Ngoc Tran
 - id: tran-toan-vinai
   name: Tran, Toan
   affiliation:
@@ -1951,7 +2081,7 @@
     country: Vietnam
     position: Senior Research Scientist
   links:
-    scholar: https://scholar.google.com/citations?user=PnwSuNMAAAAJ
+    scholar: https://scholar.google.com/citations?user=PnwSuNMAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   key_papers:
@@ -1963,6 +2093,7 @@
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Toan Tran
 - id: truong-thi-kieu-anh-vnu
   name: Truong Thi, Kieu-Anh
   affiliation:
@@ -1971,6 +2102,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/truong_k_1
+    scholar: https://scholar.google.com/citations?user=SVGhZXsAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - applied-health
@@ -1982,3 +2114,4 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Kieu Anh Thi Truong

@@ -34,95 +34,95 @@ _**101 researchers** across 15 countries. Confidence: 60 high, 35 medium, 6 low.
 | Name | Position | Affiliation | Country | Sub-areas | Links | Conf. |
 |---|---|---|---|---|---|---|
 | **Full Professor** | | | | | | |
-| Huynh, Van-Nam | Full Professor | Japan Advanced Institute of Science and Technology (JAIST) | Japan | `theoretical` |  | high |
-| Nguyen, Minh Le | Full Professor | JAIST, School of Information Science | Japan | `causal-nlp`, `applied-social` | [dblp](https://dblp.org/pid/n/MinhLeNguyen) | high |
-| Nguyen, XuanLong (Long) | Full Professor | University of Michigan, Department of Statistics | United States | `theoretical` | [home](https://dept.stat.lsa.umich.edu/~xuanlong/) | low |
-| Phung, Dinh | Full Professor | Monash University | Australia | `causal-discovery`, `causal-ml` | [home](https://research.monash.edu/en/persons/dinh-phung) · [scholar](https://scholar.google.com/citations?user=OtA9SwIAAAAJ) | high |
-| Tran, Cao Son | Full Professor | New Mexico State University | United States | `theoretical`, `causal-rl` |  | high |
-| Tran, Truyen | Full Professor | Deakin University, Applied AI Institute (A2I2) | Australia | `causal-discovery`, `causal-ml`, `applied-health` | [home](https://truyentran.github.io/) · [scholar](https://scholar.google.com/citations?user=zvspVLwAAAAJ) | high |
-| Trinh, Quoc-Dien | Full Professor | Brigham and Women's Hospital / Harvard Medical School | United States | `applied-health` |  | high |
+| [Van Nam Huynh](https://scholar.google.com/citations?user=XVThR3QAAAAJ&hl=en&oi=ao) | Full Professor | Japan Advanced Institute of Science and Technology (JAIST) | Japan | `theoretical` | [scholar](https://scholar.google.com/citations?user=XVThR3QAAAAJ&hl=en&oi=ao) | high |
+| [Nguyen Le Minh](https://scholar.google.com/citations?user=vM9772wAAAAJ&hl=en&oi=ao) | Full Professor | JAIST, School of Information Science | Japan | `causal-nlp`, `applied-social` | [scholar](https://scholar.google.com/citations?user=vM9772wAAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/n/MinhLeNguyen) | high |
+| [XuanLong Nguyen](https://scholar.google.com/citations?user=Az7XqxQAAAAJ&hl=en&oi=ao) | Full Professor | University of Michigan, Department of Statistics | United States | `theoretical` | [home](https://dept.stat.lsa.umich.edu/~xuanlong/) · [scholar](https://scholar.google.com/citations?user=Az7XqxQAAAAJ&hl=en&oi=ao) | low |
+| [Dinh Phung](https://scholar.google.com/citations?user=OtA9SwIAAAAJ&hl=en&oi=ao) | Full Professor | Monash University | Australia | `causal-discovery`, `causal-ml` | [home](https://research.monash.edu/en/persons/dinh-phung) · [scholar](https://scholar.google.com/citations?user=OtA9SwIAAAAJ&hl=en&oi=ao) | high |
+| [Tran Cao Son](https://scholar.google.com/citations?user=7jKj_NcAAAAJ&hl=en&oi=ao) | Full Professor | New Mexico State University | United States | `theoretical`, `causal-rl` | [scholar](https://scholar.google.com/citations?user=7jKj_NcAAAAJ&hl=en&oi=ao) | high |
+| [Truyen Tran](https://scholar.google.com/citations?user=zvspVLwAAAAJ&hl=en&oi=ao) | Full Professor | Deakin University, Applied AI Institute (A2I2) | Australia | `causal-discovery`, `causal-ml`, `applied-health` | [home](https://truyentran.github.io/) · [scholar](https://scholar.google.com/citations?user=zvspVLwAAAAJ&hl=en&oi=ao) | high |
+| [Quoc-Dien Trinh](https://scholar.google.com/citations?user=d2THMCkAAAAJ&hl=en&oi=ao) | Full Professor | Brigham and Women's Hospital / Harvard Medical School | United States | `applied-health` | [scholar](https://scholar.google.com/citations?user=d2THMCkAAAAJ&hl=en&oi=ao) | high |
 | **Associate Research Professor** | | | | | | |
-| Nguyen, Trang Quynh | Associate Research Professor | Johns Hopkins Bloomberg School of Public Health | United States | `theoretical`, `applied-health`, `applied-social` | [home](https://nqtrang.com/) · [scholar](https://scholar.google.com/citations?user=1pjyYFsAAAAJ) | high |
+| [Trang Quynh Nguyen](https://scholar.google.com/citations?user=1pjyYFsAAAAJ&hl=en&oi=ao) | Associate Research Professor | Johns Hopkins Bloomberg School of Public Health | United States | `theoretical`, `applied-health`, `applied-social` | [home](https://nqtrang.com/) · [scholar](https://scholar.google.com/citations?user=1pjyYFsAAAAJ&hl=en&oi=ao) | high |
 | **Associate Professor** | | | | | | |
-| Dang, Tommy | Associate Professor | Texas Tech University | United States | `applied-bio` | [home](https://www.myweb.ttu.edu/tnhondan/) · [scholar](https://scholar.google.com/citations?user=B1b-yVAAAAAJ) | low |
-| Le, Thuc Duy | Associate Professor | University of South Australia (UniSA) | Australia | `causal-discovery`, `applied-bio`, `applied-health` | [home](https://people.unisa.edu.au/Thuc.Le) · [scholar](https://scholar.google.com/citations?user=wMSCRxUAAAAJ) | high |
-| Nguyen, Anh (Totti) | Associate Professor | Auburn University | United States | `counterfactual-explanation`, `causal-cv` | [home](https://anhnguyen.me/) · [scholar](https://scholar.google.com/citations?user=EQw8d9AAAAAJ) | high |
-| Nguyen, Thanh Hong | Associate Professor | University of Oregon | United States | `counterfactual-explanation` | [home](https://ix.cs.uoregon.edu/~thanhhng/) · [scholar](https://scholar.google.com/citations?user=6fpZnQIAAAAJ) | high |
-| Nguyen, Thien Huu | Associate Professor | University of Oregon | United States | `causal-nlp` | [home](https://ix.cs.uoregon.edu/~thienn/) · [scholar](https://scholar.google.com/citations?user=Da2FhegAAAAJ) | high |
-| Pham, Thong | Associate Professor | Osaka University, SANKEN; cross-appointed Shiga University; Visiting Scientist at RIKEN AIP Causal Inference Team | Japan | `causal-discovery`, `theoretical` | [dblp](https://dblp.org/pid/199/2079) · [orcid](https://orcid.org/0000-0002-1940-9290) | high |
-| Tran, Minh-Ngoc | Associate Professor | University of Sydney Business School | Australia | `theoretical`, `applied-econ` | [home](https://sites.google.com/site/mntran26/) | medium |
+| [Tommy Dang](https://scholar.google.com/citations?user=B1b-yVAAAAAJ&hl=en&oi=ao) | Associate Professor | Texas Tech University | United States | `applied-bio` | [home](https://www.myweb.ttu.edu/tnhondan/) · [scholar](https://scholar.google.com/citations?user=B1b-yVAAAAAJ&hl=en&oi=ao) | low |
+| [Thuc  Duy Le](https://scholar.google.com/citations?user=wMSCRxUAAAAJ&hl=en&oi=ao) | Associate Professor | University of South Australia (UniSA) | Australia | `causal-discovery`, `applied-bio`, `applied-health` | [home](https://people.unisa.edu.au/Thuc.Le) · [scholar](https://scholar.google.com/citations?user=wMSCRxUAAAAJ&hl=en&oi=ao) | high |
+| [Anh Totti Nguyen](https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en&oi=ao) | Associate Professor | Auburn University | United States | `counterfactual-explanation`, `causal-cv` | [home](https://anhnguyen.me/) · [scholar](https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en&oi=ao) | high |
+| [Thanh Nguyen](https://scholar.google.com/citations?user=6fpZnQIAAAAJ&hl=en&oi=ao) | Associate Professor | University of Oregon | United States | `counterfactual-explanation` | [home](https://ix.cs.uoregon.edu/~thanhhng/) · [scholar](https://scholar.google.com/citations?user=6fpZnQIAAAAJ&hl=en&oi=ao) | high |
+| [Thien Huu Nguyen](https://scholar.google.com/citations?user=Da2FhegAAAAJ&hl=en&oi=ao) | Associate Professor | University of Oregon | United States | `causal-nlp` | [home](https://ix.cs.uoregon.edu/~thienn/) · [scholar](https://scholar.google.com/citations?user=Da2FhegAAAAJ&hl=en&oi=ao) | high |
+| Pham, Thong | Associate Professor | Osaka University, SANKEN; cross-appointed Shiga University; Visiting Scientist at RIKEN AIP Causal Inference Team | Japan | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=LrWKIb0AAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/199/2079) · [orcid](https://orcid.org/0000-0002-1940-9290) | high |
+| [Minh-Ngoc Tran](https://scholar.google.com/citations?user=98A6Dq8AAAAJ&hl=en&oi=ao) | Associate Professor | University of Sydney Business School | Australia | `theoretical`, `applied-econ` | [home](https://sites.google.com/site/mntran26/) · [scholar](https://scholar.google.com/citations?user=98A6Dq8AAAAJ&hl=en&oi=ao) | medium |
 | **Assistant Professor** | | | | | | |
-| Phan, Thomy | Junior Professor | University of Bayreuth, Chair of AI and Machine Learning | Germany | `counterfactual-explanation`, `causal-rl` | [dblp](https://dblp.org/pid/218/6646) | low |
-| Hoang, Trong Nghia | Assistant Professor | Washington State University | United States | `causal-discovery`, `causal-ml` | [home](https://htnghia87.github.io/) · [scholar](https://scholar.google.com/citations?user=E-kZZeQAAAAJ) | high |
-| Le, Thai | Assistant Professor | Indiana University Bloomington | United States | `counterfactual-explanation`, `causal-rl` | [home](https://thaile.web.illinois.edu/) · [scholar](https://scholar.google.com/citations?user=Fd8K7kAAAAAJ) | medium |
-| Nguyen, Cuong V. | Assistant Professor | Durham University, Department of Statistics | United Kingdom | `causal-ml`, `theoretical` | [home](https://nvcuong.github.io/) | medium |
-| Nguyen, Viet Anh | Assistant Professor | The Chinese University of Hong Kong (CUHK), SEEM | Hong Kong SAR | `counterfactual-explanation`, `theoretical` | [home](https://vietanhnguyen.info/) | high |
-| Pham, Huy-Hieu | Assistant Professor | VinUniversity / VinUni-Illinois Smart Health Center | Vietnam | `causal-ml`, `applied-health` |  | high |
-| Pham, Quoc-Viet | Assistant Professor | Trinity College Dublin | Ireland | `causal-ml` |  | medium |
-| Trieu, Ni | Assistant Professor | Arizona State University | United States | `causal-discovery` | [home](https://nitrieu.github.io/) · [scholar](https://scholar.google.com/citations?user=AZgugwsAAAAJ) | high |
+| [Thomy Phan](https://scholar.google.com/citations?user=yny05hUAAAAJ&hl=en&oi=ao) | Junior Professor | University of Bayreuth, Chair of AI and Machine Learning | Germany | `counterfactual-explanation`, `causal-rl` | [scholar](https://scholar.google.com/citations?user=yny05hUAAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/218/6646) | low |
+| [Trong Nghia Hoang](https://scholar.google.com/citations?user=E-kZZeQAAAAJ&hl=en&oi=ao) | Assistant Professor | Washington State University | United States | `causal-discovery`, `causal-ml` | [home](https://htnghia87.github.io/) · [scholar](https://scholar.google.com/citations?user=E-kZZeQAAAAJ&hl=en&oi=ao) | high |
+| [Thai Le](https://scholar.google.com/citations?user=Fd8K7kAAAAAJ&hl=en&oi=ao) | Assistant Professor | Indiana University Bloomington | United States | `counterfactual-explanation`, `causal-rl` | [home](https://thaile.web.illinois.edu/) · [scholar](https://scholar.google.com/citations?user=Fd8K7kAAAAAJ&hl=en&oi=ao) | medium |
+| [Cuong V. Nguyen](https://scholar.google.com/citations?user=CG9yOXoAAAAJ&hl=en&oi=ao) | Assistant Professor | Durham University, Department of Statistics | United Kingdom | `causal-ml`, `theoretical` | [home](https://nvcuong.github.io/) · [scholar](https://scholar.google.com/citations?user=CG9yOXoAAAAJ&hl=en&oi=ao) | medium |
+| [Viet Anh Nguyen](https://scholar.google.com/citations?user=3iyf-EoAAAAJ&hl=en&oi=ao) | Assistant Professor | The Chinese University of Hong Kong (CUHK), SEEM | Hong Kong SAR | `counterfactual-explanation`, `theoretical` | [home](https://vietanhnguyen.info/) · [scholar](https://scholar.google.com/citations?user=3iyf-EoAAAAJ&hl=en&oi=ao) | high |
+| [Hieu H. Pham](https://scholar.google.com/citations?user=mXcFcNkAAAAJ&hl=en&oi=ao) | Assistant Professor | VinUniversity / VinUni-Illinois Smart Health Center | Vietnam | `causal-ml`, `applied-health` | [scholar](https://scholar.google.com/citations?user=mXcFcNkAAAAJ&hl=en&oi=ao) | high |
+| [Viet Quoc Pham](https://scholar.google.com/citations?user=zKX-0LIAAAAJ&hl=en&oi=ao) | Assistant Professor | Trinity College Dublin | Ireland | `causal-ml` | [scholar](https://scholar.google.com/citations?user=zKX-0LIAAAAJ&hl=en&oi=ao) | medium |
+| [Ni Trieu](https://scholar.google.com/citations?user=AZgugwsAAAAJ&hl=en&oi=ao) | Assistant Professor | Arizona State University | United States | `causal-discovery` | [home](https://nitrieu.github.io/) · [scholar](https://scholar.google.com/citations?user=AZgugwsAAAAJ&hl=en&oi=ao) | high |
 | **Senior Lecturer** | | | | | | |
-| Le, Hung | Senior Lecturer (ARC DECRA Fellow) | Deakin University, Applied Artificial Intelligence Institute (A2I2) | Australia | `causal-rl`, `causal-discovery`, `causal-ml` | [dblp](https://dblp.org/pid/45/466-2) | high |
-| Le, Trung | Senior Lecturer | Monash University | Australia | `causal-ml` | [home](https://research.monash.edu/en/persons/trung-le) | medium |
-| Nguyen, Duc Thanh | Senior Lecturer | Deakin University | Australia | `causal-discovery`, `causal-cv` | [scholar](https://scholar.google.com.au/citations?user=4vExyv8AAAAJ) | high |
+| [Hung Le](https://scholar.google.com/citations?user=q2HbxngAAAAJ&hl=en&oi=ao) | Senior Lecturer (ARC DECRA Fellow) | Deakin University, Applied Artificial Intelligence Institute (A2I2) | Australia | `causal-rl`, `causal-discovery`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=q2HbxngAAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/45/466-2) | high |
+| [Trung Le](https://scholar.google.com/citations?user=gysdMxwAAAAJ&hl=en&oi=ao) | Senior Lecturer | Monash University | Australia | `causal-ml` | [home](https://research.monash.edu/en/persons/trung-le) · [scholar](https://scholar.google.com/citations?user=gysdMxwAAAAJ&hl=en&oi=ao) | medium |
+| [Duc Thanh Nguyen](https://scholar.google.com/citations?user=4vExyv8AAAAJ&hl=en&oi=ao) | Senior Lecturer | Deakin University | Australia | `causal-discovery`, `causal-cv` | [scholar](https://scholar.google.com/citations?user=4vExyv8AAAAJ&hl=en&oi=ao) | high |
 | **Senior Research Scientist** | | | | | | |
-| Tran, Toan | Senior Research Scientist | VinAI Research / Hanoi University of Science and Technology (HUST) | Vietnam | `causal-ml` | [scholar](https://scholar.google.com/citations?user=PnwSuNMAAAAJ) | medium |
+| [Toan Tran](https://scholar.google.com/citations?user=PnwSuNMAAAAJ&hl=en&oi=ao) | Senior Research Scientist | VinAI Research / Hanoi University of Science and Technology (HUST) | Vietnam | `causal-ml` | [scholar](https://scholar.google.com/citations?user=PnwSuNMAAAAJ&hl=en&oi=ao) | medium |
 | **Senior Research Fellow** | | | | | | |
-| Nguyen, Thin | Senior Research Fellow | Deakin University, A2I2 | Australia | `causal-discovery`, `causal-ml` | [scholar](https://scholar.google.com.au/citations?user=BlTfdtMAAAAJ) | high |
+| [Thin Nguyen](https://scholar.google.com/citations?user=BlTfdtMAAAAJ&hl=en&oi=ao) | Senior Research Fellow | Deakin University, A2I2 | Australia | `causal-discovery`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=BlTfdtMAAAAJ&hl=en&oi=ao) | high |
 | **Research Scientist** | | | | | | |
-| Ngo, Hoang-Anh | Research Scientist | Woolcock Institute Vietnam | Vietnam | `applied-health` | [scholar](https://scholar.google.com/citations?user=yelTvHAAAAAJ) | medium |
+| [Hoang-Anh Ngo](https://scholar.google.com/citations?user=yelTvHAAAAAJ&hl=en&oi=ao) | Research Scientist | Woolcock Institute Vietnam | Vietnam | `applied-health` | [scholar](https://scholar.google.com/citations?user=yelTvHAAAAAJ&hl=en&oi=ao) | medium |
 | **Research Fellow** | | | | | | |
-| Do, Kien | Research Fellow | Deakin University, A2I2 | Australia | `theoretical`, `causal-discovery`, `causal-cv` |  | high |
-| Hoang, Van Thuy | Research Fellow | The Catholic University of Korea | South Korea | `causal-ml`, `applied-bio` |  | medium |
-| Le, Thao Minh | Research Fellow | Deakin University, A2I2 | Australia | `causal-cv`, `causal-ml` |  | high |
-| Nguyen, Dung | Research Fellow | Deakin University, A2I2 | Australia | `causal-rl`, `causal-ml` |  | high |
+| [Kien Do](https://scholar.google.com/citations?user=aD6y8joAAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `theoretical`, `causal-discovery`, `causal-cv` | [scholar](https://scholar.google.com/citations?user=aD6y8joAAAAJ&hl=en&oi=ao) | high |
+| [Van Thuy Hoang](https://scholar.google.com/citations?user=E7Cc8rAAAAAJ&hl=en&oi=ao) | Research Fellow | The Catholic University of Korea | South Korea | `causal-ml`, `applied-bio` | [scholar](https://scholar.google.com/citations?user=E7Cc8rAAAAAJ&hl=en&oi=ao) | medium |
+| [Thao Minh Le](https://scholar.google.com/citations?user=0irkZtkAAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `causal-cv`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=0irkZtkAAAAJ&hl=en&oi=ao) | high |
+| [Dung Nguyen](https://scholar.google.com/citations?user=O5OU_kUAAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `causal-rl`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=O5OU_kUAAAAJ&hl=en&oi=ao) | high |
 | Nguyen, Dung (Deakin-FPT) | Research Fellow | Deakin University, Geelong; past: FPT Software AI Center, Hue University, University of Sydney | Australia | `causal-rl` | [dblp](https://dblp.org/pid/13/2526-1) | high |
-| Nguyen, Phi Le | Research Fellow | AI4LIFE / Hanoi University of Science and Technology (HUST) | Vietnam | `causal-discovery`, `causal-ml` |  | medium |
-| Nguyen, Phuoc | Research Fellow | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com.au/citations?user=c4LnrZ0AAAAJ) | high |
-| Pham, Vu Viet Hoang | Research Fellow | University of South Australia / University of Newcastle (likely) | Australia | `causal-discovery`, `applied-bio` | [dblp](https://dblp.org/pid/200/2832) | high |
-| Truong, Buu | Research Fellow | Broad Institute / Harvard / Massachusetts General Hospital | United States | `applied-bio`, `theoretical` |  | high |
-| Vo, Thanh Vinh | Research Fellow | National University of Singapore (NUS) | Singapore | `causal-ml`, `theoretical` | [home](https://vothanhvinh.github.io/) | high |
+| [Phi Le Nguyen](https://scholar.google.com/citations?user=L_NKoQwAAAAJ&hl=en&oi=ao) | Research Fellow | AI4LIFE / Hanoi University of Science and Technology (HUST) | Vietnam | `causal-discovery`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=L_NKoQwAAAAJ&hl=en&oi=ao) | medium |
+| [Phuoc Nguyen](https://scholar.google.com/citations?user=c4LnrZ0AAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=c4LnrZ0AAAAJ&hl=en&oi=ao) | high |
+| [Vu Viet Hoang Pham](https://scholar.google.com/citations?user=McmcPUUAAAAJ&hl=en&oi=ao) | Research Fellow | University of South Australia / University of Newcastle (likely) | Australia | `causal-discovery`, `applied-bio` | [scholar](https://scholar.google.com/citations?user=McmcPUUAAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/200/2832) | high |
+| [Buu Truong](https://scholar.google.com/citations?user=e8cttx0AAAAJ&hl=en&oi=ao) | Research Fellow | Broad Institute / Harvard / Massachusetts General Hospital | United States | `applied-bio`, `theoretical` | [scholar](https://scholar.google.com/citations?user=e8cttx0AAAAJ&hl=en&oi=ao) | high |
+| [Vo Thanh Vinh](https://scholar.google.com/citations?user=g1m5t54AAAAJ&hl=en&oi=ao) | Research Fellow | National University of Singapore (NUS) | Singapore | `causal-ml`, `theoretical` | [home](https://vothanhvinh.github.io/) · [scholar](https://scholar.google.com/citations?user=g1m5t54AAAAJ&hl=en&oi=ao) | high |
 | **Postdoc** | | | | | | |
-| Le, Tam | Postdoctoral Researcher | RIKEN Center for Advanced Intelligence Project (AIP) | Japan | `theoretical`, `causal-ml` | [dblp](https://dblp.org/pid/137/4218) | high |
+| [Tam Le](https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en&oi=ao) | Postdoctoral Researcher | RIKEN Center for Advanced Intelligence Project (AIP) | Japan | `theoretical`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/137/4218) | high |
 | Nguyen, Duy | Postdoc | UC Santa Cruz (current); past: Oxford University Clinical Research Unit (Ho Chi Minh City), HCMUS | United States | `counterfactual-explanation`, `theoretical` | [dblp](https://dblp.org/pid/13/5240) | high |
 | **Researcher** | | | | | | |
 | Dang, Hoang | Independent Researcher | Independent Researcher | Vietnam | `theoretical`, `causal-discovery` |  | medium |
 | Le, Tran Trong Khoi | Researcher | University Paris Est Creteil (EPIDERME) | France | `applied-health` |  | high |
-| Vo, Tat-Thang | Researcher | Faculty of Medicine, University Paris Est Creteil (EPIDERME) | France | `applied-health`, `theoretical` |  | high |
+| [Tat-Thang Vo](https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en&oi=ao) | Researcher | Faculty of Medicine, University Paris Est Creteil (EPIDERME) | France | `applied-health`, `theoretical` | [scholar](https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en&oi=ao) | high |
 | **Faculty** | | | | | | |
-| Le, Bac | Faculty | VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` |  | high |
-| Le, Duc-Trong | Faculty | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `counterfactual-explanation`, `applied-health` |  | high |
+| [Bac Le](https://scholar.google.com/citations?user=UA_83MUAAAAJ&hl=en&oi=ao) | Faculty | VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` | [scholar](https://scholar.google.com/citations?user=UA_83MUAAAAJ&hl=en&oi=ao) | high |
+| [Duc-Trong Le](https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao) | Faculty | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `counterfactual-explanation`, `applied-health` | [scholar](https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao) | high |
 | Le, Hoang-Quynh | Faculty | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` |  | medium |
-| Nguyen Truong, Thao | Faculty | Hanoi University of Science and Technology | Vietnam | `causal-discovery` |  | high |
-| Nguyen, Cam-Van Thi | Faculty | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` |  | medium |
+| [Truong Thao Nguyen](https://scholar.google.com/citations?user=1DqrHWEAAAAJ&hl=en&oi=ao) | Faculty | Hanoi University of Science and Technology | Vietnam | `causal-discovery` | [scholar](https://scholar.google.com/citations?user=1DqrHWEAAAAJ&hl=en&oi=ao) | high |
+| [Cam-Van Thi Nguyen](https://scholar.google.com/citations?user=4KiBC1YAAAAJ&hl=en&oi=ao) | Faculty | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` | [scholar](https://scholar.google.com/citations?user=4KiBC1YAAAAJ&hl=en&oi=ao) | medium |
 | Nguyen, Long | Faculty | Le Quy Don Technical University, Faculty of IT, Hanoi | Vietnam | `causal-discovery`, `causal-time-series` | [dblp](https://dblp.org/pid/02/3500) | high |
 | Nguyen, Ngoc-Thao | Faculty | VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` |  | high |
-| Nguyen, Thanh-An | Faculty | Ho Chi Minh City University of Science / VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` |  | high |
+| [Thanh-An Nguyen](https://scholar.google.com/citations?user=MORsnW4AAAAJ&hl=en&oi=ao) | Faculty | Ho Chi Minh City University of Science / VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` | [scholar](https://scholar.google.com/citations?user=MORsnW4AAAAJ&hl=en&oi=ao) | high |
 | Pham, Cuong T. | Faculty | University of Rochester Medical Center, Biostatistics and Computational Biology | United States | `theoretical`, `applied-health` |  | high |
 | **Other** | | | | | | |
-| Bui, Minh |  | University of Melbourne / Murdoch Children's Research Institute | Australia | `applied-health`, `theoretical` |  | high |
-| Dang, Lauren Eyler |  | UC Berkeley / UCSF (van der Laan lab) | United States | `theoretical`, `applied-health` | [orcid](https://orcid.org/0000-0002-2967-0855) | low |
-| Huynh, Phat K. |  | North Dakota State University | United States | `causal-discovery`, `applied-health` |  | high |
+| [Minh Bui](https://scholar.google.com/citations?user=9dd36HMAAAAJ&hl=en&oi=ao) |  | University of Melbourne / Murdoch Children's Research Institute | Australia | `applied-health`, `theoretical` | [scholar](https://scholar.google.com/citations?user=9dd36HMAAAAJ&hl=en&oi=ao) | high |
+| [Lauren Eyler Dang](https://scholar.google.com/citations?user=p5xOjAIAAAAJ&hl=en&oi=ao) |  | UC Berkeley / UCSF (van der Laan lab) | United States | `theoretical`, `applied-health` | [scholar](https://scholar.google.com/citations?user=p5xOjAIAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0002-2967-0855) | low |
+| [Phat Kim Huynh](https://scholar.google.com/citations?user=Wo5c6BEAAAAJ&hl=en&oi=ao) |  | North Dakota State University | United States | `causal-discovery`, `applied-health` | [scholar](https://scholar.google.com/citations?user=Wo5c6BEAAAAJ&hl=en&oi=ao) | high |
 | Huynh, Thi Hong Tram |  | Unknown (paper at Vietnamese journal Y Hoc TP Ho Chi Minh) | Vietnam | `applied-health`, `theoretical` |  | medium |
 | Le, Hao Duong |  | Unknown - please verify | Unknown | `causal-discovery`, `causal-nlp` |  | medium |
 | Nguyen, Son Phuc |  | Vietnam National University Ho Chi Minh City | Vietnam | `theoretical`, `causal-ml` |  | high |
 | Nguyen, Tri-Long |  | University of Copenhagen | Denmark | `causal-ml`, `causal-discovery`, `applied-health` | [orcid](https://orcid.org/0000-0002-6376-7212) | high |
 | Pham, Dung |  | Hanoi Medical University | Vietnam | `applied-health`, `applied-social` |  | medium |
 | Pham, Duy T. |  | University of Texas Health Science Center at Houston | United States | `applied-health`, `applied-bio` | [orcid](https://orcid.org/0009-0007-2586-2087) | medium |
-| Pham, Thai |  | Auckland University of Technology | New Zealand | `causal-ml` |  | medium |
-| Tran, Christopher |  | University of Illinois Chicago | United States | `causal-ml`, `theoretical` |  | low |
-| Tran, Linh |  | Johns Hopkins University | United States | `theoretical`, `applied-health` | [orcid](https://orcid.org/0000-0001-6429-0375) | high |
-| Tran, Ngoc Mai |  | Can Tho University / UT Austin | Vietnam | `causal-discovery`, `theoretical` | [orcid](https://orcid.org/0000-0002-5061-6562) | high |
+| [Thai T. Pham](https://scholar.google.com/citations?user=tJzykd0AAAAJ&hl=en&oi=ao) |  | Auckland University of Technology | New Zealand | `causal-ml` | [scholar](https://scholar.google.com/citations?user=tJzykd0AAAAJ&hl=en&oi=ao) | medium |
+| [Christopher Tran](https://scholar.google.com/citations?user=EWazzlkAAAAJ&hl=en&oi=ao) |  | University of Illinois Chicago | United States | `causal-ml`, `theoretical` | [scholar](https://scholar.google.com/citations?user=EWazzlkAAAAJ&hl=en&oi=ao) | low |
+| Tran, Linh |  | Johns Hopkins University | United States | `theoretical`, `applied-health` | [scholar](https://scholar.google.com/citations?user=ZnjEAXUAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0001-6429-0375) | high |
+| [Ngoc Tran](https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao) |  | Can Tho University / UT Austin | Vietnam | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0002-5061-6562) | high |
 
 ### Industry (6)
 
 | Name | Position | Affiliation | Country | Sub-areas | Links | Conf. |
 |---|---|---|---|---|---|---|
-| Bui, Hung Hai | Industry Researcher | Formerly VinAI Research | Vietnam | `theoretical` | [home](https://sites.google.com/site/buihhung/) | medium |
-| Le, Tuan | Industry Researcher | Pfizer (Germany) | Germany | `causal-ml`, `theoretical` | [orcid](https://orcid.org/0000-0001-7634-502X) | medium |
-| Le, Vuong | Industry Researcher | Amazon Melbourne | Australia | `causal-cv`, `causal-ml` |  | high |
+| [Hung Bui](https://scholar.google.com/citations?user=mDLwSZAAAAAJ&hl=en&oi=ao) | Industry Researcher | Formerly VinAI Research | Vietnam | `theoretical` | [home](https://sites.google.com/site/buihhung/) · [scholar](https://scholar.google.com/citations?user=mDLwSZAAAAAJ&hl=en&oi=ao) | medium |
+| [Tuan Le](https://scholar.google.com/citations?user=Fk1A1p4AAAAJ&hl=en&oi=ao) | Industry Researcher | Pfizer (Germany) | Germany | `causal-ml`, `theoretical` | [scholar](https://scholar.google.com/citations?user=Fk1A1p4AAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0001-7634-502X) | medium |
+| [Vuong Le](https://scholar.google.com/citations?user=WjMGgVIAAAAJ&hl=en&oi=ao) | Industry Researcher | Amazon Melbourne | Australia | `causal-cv`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=WjMGgVIAAAAJ&hl=en&oi=ao) | high |
 | Nguyen, Michael |  | Diabetes Australia | Australia | `applied-health` | [orcid](https://orcid.org/0000-0002-0530-1908) | medium |
-| Nguyen, Vu | Applied Scientist | Amazon; previously University of Oxford, Deakin University | United Kingdom | `causal-nlp`, `theoretical` | [dblp](https://dblp.org/pid/59/4389) | medium |
-| Tran, Dustin | Industry Researcher | Google DeepMind | United States | `theoretical`, `causal-ml` |  | low |
+| [Vu Nguyen](https://scholar.google.com/citations?user=5RQyC9cAAAAJ&hl=en&oi=ao) | Applied Scientist | Amazon; previously University of Oxford, Deakin University | United Kingdom | `causal-nlp`, `theoretical` | [scholar](https://scholar.google.com/citations?user=5RQyC9cAAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/59/4389) | medium |
+| [Dustin Tran](https://scholar.google.com/citations?user=wVazIm8AAAAJ&hl=en&oi=ao) | Industry Researcher | Google DeepMind | United States | `theoretical`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=wVazIm8AAAAJ&hl=en&oi=ao) | low |
 
 ### PhD Students (29)
 
@@ -130,33 +130,33 @@ _**101 researchers** across 15 countries. Confidence: 60 high, 35 medium, 6 low.
 |---|---|---|---|---|---|---|
 | Do, Van Dai | PhD Student | Deakin University, A2I2 | Australia | `causal-rl`, `causal-ml` |  | high |
 | Doan, Toan | PhD Student | Deakin University, A2I2 | Australia | `causal-nlp`, `counterfactual-explanation` | [dblp](https://dblp.org/pid/382/7295) | high |
-| Duong, Bao | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` |  | high |
-| Duong, Hieu Minh | PhD Student | University of Louisville, J.B. Speed School of Engineering | United States | `causal-discovery`, `causal-time-series` |  | medium |
-| Duong, Tri Dung | PhD Student | University of Technology Sydney (UTS) | Australia | `counterfactual-fairness`, `counterfactual-explanation`, `causal-ml` |  | high |
-| Hoang, Nu | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` |  | high |
+| [Bao Duong](https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en&oi=ao) | high |
+| [Hieu Minh Duong](https://scholar.google.com/citations?user=-C06MVsAAAAJ&hl=en&oi=ao) | PhD Student | University of Louisville, J.B. Speed School of Engineering | United States | `causal-discovery`, `causal-time-series` | [scholar](https://scholar.google.com/citations?user=-C06MVsAAAAJ&hl=en&oi=ao) | medium |
+| [Dung Duong](https://scholar.google.com/citations?user=hoq2nt8AAAAJ&hl=en&oi=ao) | PhD Student | University of Technology Sydney (UTS) | Australia | `counterfactual-fairness`, `counterfactual-explanation`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=hoq2nt8AAAAJ&hl=en&oi=ao) | high |
+| [Nu Hoang](https://scholar.google.com/citations?user=CiNpg4oAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=CiNpg4oAAAAJ&hl=en&oi=ao) | high |
 | Hoang, Tao | PhD Graduate | Previously University of South Australia (PhD with Jiuyong Li) | Australia | `causal-discovery`, `theoretical` | [dblp](https://dblp.org/pid/159/1950) | medium |
-| Le, Minh | PhD Student | Deakin University | Australia | `causal-discovery`, `theoretical` | [orcid](https://orcid.org/0000-0002-0684-6408) | medium |
-| Ngo, Dung Daniel T. | PhD Student | Carnegie Mellon University (CMU) - based on coauthors Steven Wu, Vasilis Syrgkanis | United States | `theoretical`, `causal-ml` | [dblp](https://dblp.org/pid/296/8379) | high |
-| Nguyen, Dang | PhD Student | Deakin University, A2I2 | Australia | `causal-ml`, `counterfactual-explanation` |  | medium |
+| Le, Minh | PhD Student | Deakin University | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=v087cnkAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0002-0684-6408) | medium |
+| [Dung Daniel Ngo](https://scholar.google.com/citations?user=mBHPMZUAAAAJ&hl=en&oi=ao) | PhD Student | Carnegie Mellon University (CMU) - based on coauthors Steven Wu, Vasilis Syrgkanis | United States | `theoretical`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=mBHPMZUAAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/296/8379) | high |
+| [Dang Nguyen](https://scholar.google.com/citations?user=UtlivOcAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-ml`, `counterfactual-explanation` | [scholar](https://scholar.google.com/citations?user=UtlivOcAAAAJ&hl=en&oi=ao) | medium |
 | Nguyen, Huy-Son | PhD Student | Delft University of Technology | Netherlands | `counterfactual-explanation` |  | medium |
 | Nguyen, Khoa | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery` |  | medium |
-| Nguyen, Minh Hoang | PhD Student | KAIST, Department of Computer Science (current); previously University of Auckland | South Korea | `causal-rl`, `causal-ml` | [dblp](https://dblp.org/pid/32/5736) | high |
-| Nguyen, Minh-Duong | PhD Student | Pukyong National University, Korea (per Quoc-Viet Pham collaboration) | South Korea | `causal-ml` |  | medium |
-| Nguyen, Nang Hung | PhD Student | The University of Tokyo | Japan | `causal-discovery`, `causal-ml` |  | medium |
-| Nguyen, Nhi | PhD Student | New York University | United States | `causal-ml` | [home](https://iam-nhi-nguyen.github.io/) | medium |
+| Nguyen, Minh Hoang | PhD Student | KAIST, Department of Computer Science (current); previously University of Auckland | South Korea | `causal-rl`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=bU_mv-8AAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/32/5736) | high |
+| [Minh-Duong Nguyen](https://scholar.google.com/citations?user=3ea0RLkAAAAJ&hl=en&oi=ao) | PhD Student | Pukyong National University, Korea (per Quoc-Viet Pham collaboration) | South Korea | `causal-ml` | [scholar](https://scholar.google.com/citations?user=3ea0RLkAAAAJ&hl=en&oi=ao) | medium |
+| [Nang Hung Nguyen](https://scholar.google.com/citations?user=hL8bnjIAAAAJ&hl=en&oi=ao) | PhD Student | The University of Tokyo | Japan | `causal-discovery`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=hL8bnjIAAAAJ&hl=en&oi=ao) | medium |
+| [Nhi Nguyen](https://scholar.google.com/citations?user=QxwMTFsAAAAJ&hl=en&oi=ao) | PhD Student | New York University | United States | `causal-ml` | [home](https://iam-nhi-nguyen.github.io/) · [scholar](https://scholar.google.com/citations?user=QxwMTFsAAAAJ&hl=en&oi=ao) | medium |
 | Nguyen, Quang-Huy | Student | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` |  | medium |
-| Nguyen, Toan | PhD Student | Deakin University, A2I2 | Australia | `causal-ml`, `causal-nlp`, `applied-health` | [dblp](https://dblp.org/pid/62/4324-4) | high |
+| Nguyen, Toan | PhD Student | Deakin University, A2I2 | Australia | `causal-ml`, `causal-nlp`, `applied-health` | [scholar](https://scholar.google.com/citations?user=G44wtd4AAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/62/4324-4) | high |
 | Nguyen, Tu Anh Hoang | PhD Student | Deakin University, A2I2 | Australia | `causal-ml` |  | medium |
-| Nguyen, Vy | PhD Student | RMIT University, School of Computing Technologies | Australia | `causal-nlp` |  | medium |
-| Pham, Luan | PhD Student | RMIT University | Australia | `theoretical`, `causal-discovery`, `applied-bio` |  | high |
-| Pham, Thai-Hoang | PhD Student | Ohio State University (AIMed lab, Ping Zhang) | United States | `causal-ml`, `applied-health`, `counterfactual-fairness` | [home](https://pth1993.github.io/) | high |
-| Tran, Ha Xuan | PhD Student | University of South Australia (UniSA) | Australia | `causal-ml`, `counterfactual-explanation` |  | high |
-| Tran, Quang-Duy | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` |  | high |
-| Truong Thi, Kieu-Anh | PhD Student | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `applied-health` |  | medium |
+| [Vy Nguyen](https://scholar.google.com/citations?user=V0KdkKIAAAAJ&hl=en&oi=ao) | PhD Student | RMIT University, School of Computing Technologies | Australia | `causal-nlp` | [scholar](https://scholar.google.com/citations?user=V0KdkKIAAAAJ&hl=en&oi=ao) | medium |
+| [Luan Pham](https://scholar.google.com/citations?user=YRS7knwAAAAJ&hl=en&oi=ao) | PhD Student | RMIT University | Australia | `theoretical`, `causal-discovery`, `applied-bio` | [scholar](https://scholar.google.com/citations?user=YRS7knwAAAAJ&hl=en&oi=ao) | high |
+| [Thai-Hoang Pham](https://scholar.google.com/citations?user=bht4j9oAAAAJ&hl=en&oi=ao) | PhD Student | Ohio State University (AIMed lab, Ping Zhang) | United States | `causal-ml`, `applied-health`, `counterfactual-fairness` | [home](https://pth1993.github.io/) · [scholar](https://scholar.google.com/citations?user=bht4j9oAAAAJ&hl=en&oi=ao) | high |
+| [Ha Xuan Tran](https://scholar.google.com/citations?user=P8SBHWUAAAAJ&hl=en&oi=ao) | PhD Student | University of South Australia (UniSA) | Australia | `causal-ml`, `counterfactual-explanation` | [scholar](https://scholar.google.com/citations?user=P8SBHWUAAAAJ&hl=en&oi=ao) | high |
+| [Quang-Duy Tran](https://scholar.google.com/citations?user=DxEBVUUAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=DxEBVUUAAAAJ&hl=en&oi=ao) | high |
+| [Kieu Anh Thi Truong](https://scholar.google.com/citations?user=SVGhZXsAAAAJ&hl=en&oi=ao) | PhD Student | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `applied-health` | [scholar](https://scholar.google.com/citations?user=SVGhZXsAAAAJ&hl=en&oi=ao) | medium |
 | Truong, Buu Minh Thanh | PhD Student | University of South Australia | Australia | `causal-discovery`, `applied-bio` | [dblp](https://dblp.org/pid/210/8978) | high |
 | Vo, Kiet Q. H. | PhD Student | CISPA Helmholtz Center for Information Security / Saarland University | Germany | `theoretical`, `causal-ml` |  | high |
-| Vo, Tri-Nhan | PhD Student | Deakin University, A2I2 | Australia | `causal-ml` |  | medium |
-| Vo, Vy | PhD Student | Monash University / CSIRO's Data61 / VinAI Research | Australia | `causal-discovery`, `theoretical`, `counterfactual-explanation` |  | high |
+| [Trí Nhân Võ](https://scholar.google.com/citations?user=RLoZBGwAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-ml` | [scholar](https://scholar.google.com/citations?user=RLoZBGwAAAAJ&hl=en&oi=ao) | medium |
+| [Vy Vo](https://scholar.google.com/citations?user=3CpFpFkAAAAJ&hl=en&oi=ao) | PhD Student | Monash University / CSIRO's Data61 / VinAI Research | Australia | `causal-discovery`, `theoretical`, `counterfactual-explanation` | [scholar](https://scholar.google.com/citations?user=3CpFpFkAAAAJ&hl=en&oi=ao) | high |
 
 <!-- TABLE_END -->
 
