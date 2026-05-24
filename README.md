@@ -167,7 +167,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Dinh, Truong Duy |  | Vietnam Posts and Telecommunications (VNPT) / PTIT | Vietnam | `causal-ml` |  | high |
 | Doan, Thao | Industry Researcher | AbbVie (United States) | United States | `applied-health` |  | medium |
 | Duong, Quang | Industry Researcher | Google (United States) | United States | `causal-ml` | [orcid](https://orcid.org/0000-0002-3096-7314) | high |
-| Le, Tuan | Industry Researcher | Pfizer (Germany) | Germany | `causal-ml`, `theoretical` | [orcid](https://orcid.org/0000-0001-7634-502X) | medium |
+| [Tuan Le](https://scholar.google.com/citations?user=Fk1A1p4AAAAJ&hl=en&oi=ao) | Industry Researcher | Pfizer (Germany) | Germany | `causal-ml`, `theoretical` | [scholar](https://scholar.google.com/citations?user=Fk1A1p4AAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0001-7634-502X) | medium |
 | [Vuong Le](https://scholar.google.com/citations?user=WjMGgVIAAAAJ&hl=en&oi=ao) | Industry Researcher | Amazon Melbourne | Australia | `causal-cv`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=WjMGgVIAAAAJ&hl=en&oi=ao) | high |
 | Nguyen, Michael |  | Diabetes Australia | Australia | `applied-health` | [orcid](https://orcid.org/0000-0002-0530-1908) | medium |
 | Nguyen, Viviana | Industry Researcher | Unknown (pharma risk-management) | Unknown | `applied-health` |  | low |

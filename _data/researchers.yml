@@ -1039,6 +1039,7 @@
   links:
     openalex: https://openalex.org/A5100458405
     orcid: https://orcid.org/0000-0001-7634-502X
+    scholar: https://scholar.google.com/citations?user=Fk1A1p4AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - theoretical
@@ -1046,6 +1047,7 @@
   source: scrape_openalex
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Tuan Le
 - id: phan-thomy-bayreuth
   name: Phan, Thomy
   affiliation:
