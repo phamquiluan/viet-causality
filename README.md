@@ -39,7 +39,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Nguyen, Hung T. | Full Professor | Griffith University | Australia | `causal-ml`, `theoretical` | [orcid](https://orcid.org/0000-0002-3463-7232) | high |
 | Nguyen, Minh Le | Full Professor | JAIST, School of Information Science | Japan | `causal-nlp`, `applied-social` | [dblp](https://dblp.org/pid/n/MinhLeNguyen) | high |
 | Nguyen, XuanLong (Long) | Full Professor | University of Michigan, Department of Statistics | United States | `theoretical` | [home](https://dept.stat.lsa.umich.edu/~xuanlong/) | low |
-| Phung, Dinh | Full Professor | Monash University | Australia | `causal-discovery`, `causal-ml` | [home](https://research.monash.edu/en/persons/dinh-phung) · [scholar](https://scholar.google.com/citations?user=OtA9SwIAAAAJ) | high |
+| [Dinh Phung](https://scholar.google.com/citations?user=OtA9SwIAAAAJ&hl=en&oi=ao) | Full Professor | Monash University | Australia | `causal-discovery`, `causal-ml` | [home](https://research.monash.edu/en/persons/dinh-phung) · [scholar](https://scholar.google.com/citations?user=OtA9SwIAAAAJ&hl=en&oi=ao) | high |
 | Tran, Cao Son | Full Professor | New Mexico State University | United States | `theoretical`, `causal-rl` |  | high |
 | Tran, Truyen | Full Professor | Deakin University, Applied AI Institute (A2I2) | Australia | `causal-discovery`, `causal-ml`, `applied-health` | [home](https://truyentran.github.io/) · [scholar](https://scholar.google.com/citations?user=zvspVLwAAAAJ) | high |
 | Trinh, Quoc-Dien | Full Professor | Brigham and Women's Hospital / Harvard Medical School | United States | `applied-health` |  | high |

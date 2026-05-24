@@ -683,7 +683,7 @@
     position: Full Professor
   links:
     homepage: https://research.monash.edu/en/persons/dinh-phung
-    scholar: https://scholar.google.com/citations?user=OtA9SwIAAAAJ
+    scholar: https://scholar.google.com/citations?user=OtA9SwIAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-ml
@@ -694,6 +694,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Dinh Phung
 - id: tran-ha-xuan-unisa
   name: Tran, Ha Xuan
   affiliation:
