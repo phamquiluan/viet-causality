@@ -1734,7 +1734,7 @@
     position: Associate Professor
   links:
     homepage: https://anhnguyen.me/
-    scholar: https://scholar.google.com/citations?user=EQw8d9AAAAAJ
+    scholar: https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   - causal-cv
@@ -1750,6 +1750,7 @@
   source: scrape_dynaroars
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Anh Totti Nguyen
 - id: nguyen-duy-ucsc
   name: Nguyen, Duy
   affiliation:
