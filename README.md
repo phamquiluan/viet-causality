@@ -155,7 +155,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | [Ngoc Tran](https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao) |  | Can Tho University / UT Austin | Vietnam | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0002-5061-6562) | high |
 | Tran, Teo |  | University of Pennsylvania | United States | `applied-health` |  | low |
 | Truong, Cong Khanh |  | University of Szeged | Hungary | `applied-health`, `theoretical` |  | medium |
-| Truong, Van Thi Thanh |  | UT Health Science Center at Houston | United States | `theoretical`, `applied-health` |  | high |
+| [Van Thi Thanh Truong](https://scholar.google.com/citations?user=5s6E3-YAAAAJ&hl=en&oi=ao) |  | UT Health Science Center at Houston | United States | `theoretical`, `applied-health` | [scholar](https://scholar.google.com/citations?user=5s6E3-YAAAAJ&hl=en&oi=ao) | high |
 | Vu, Ha |  | Foreign Trade University | Vietnam | `theoretical` |  | medium |
 | Vu, Thi Hanh |  | Foreign Trade University | Vietnam | `causal-ml` |  | medium |
 

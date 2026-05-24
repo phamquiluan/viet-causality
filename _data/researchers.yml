@@ -2274,6 +2274,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5005413614
+    scholar: https://scholar.google.com/citations?user=5s6E3-YAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - applied-health
@@ -2281,6 +2282,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Van Thi Thanh Truong
 - id: le-hao-duong-llm-cd
   name: Le, Hao Duong
   affiliation:
