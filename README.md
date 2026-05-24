@@ -199,7 +199,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Nguyen, Nang Hung | PhD Student | The University of Tokyo | Japan | `causal-discovery`, `causal-ml` |  | medium |
 | Nguyen, Nhi | PhD Student | New York University | United States | `causal-ml` | [home](https://iam-nhi-nguyen.github.io/) | medium |
 | Nguyen, Quang-Huy | Student | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` |  | medium |
-| Nguyen, Toan | PhD Student | Deakin University, A2I2 | Australia | `causal-ml`, `causal-nlp`, `applied-health` | [dblp](https://dblp.org/pid/62/4324-4) | high |
+| [Toan Nguyen](https://scholar.google.com/citations?user=G44wtd4AAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-ml`, `causal-nlp`, `applied-health` | [scholar](https://scholar.google.com/citations?user=G44wtd4AAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/62/4324-4) | high |
 | Nguyen, Tu Anh Hoang | PhD Student | Deakin University, A2I2 | Australia | `causal-ml` |  | medium |
 | Nguyen, Vy | PhD Student | RMIT University, School of Computing Technologies | Australia | `causal-nlp` |  | medium |
 | Pham, Luan | PhD Student | RMIT University | Australia | `theoretical`, `causal-discovery`, `applied-bio` |  | high |

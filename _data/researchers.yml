@@ -578,6 +578,7 @@
   links:
     dblp: https://dblp.org/pid/62/4324-4
     openalex: https://openalex.org/A5102874067
+    scholar: https://scholar.google.com/citations?user=G44wtd4AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - causal-nlp
@@ -600,6 +601,7 @@
   - scrape_dblp
   - scrape_semantic_scholar
   last_verified: 2026-05-24
+  name_scholar: Toan Nguyen
 - id: nguyen-tu-anh-hoang-deakin
   name: Nguyen, Tu Anh Hoang
   affiliation:
