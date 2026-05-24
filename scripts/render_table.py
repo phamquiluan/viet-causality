@@ -4,6 +4,7 @@ Usage: python scripts/render_table.py
 """
 from __future__ import annotations
 
+import re
 import sys
 from pathlib import Path
 from typing import Any
@@ -40,47 +41,137 @@ def fmt_areas(areas: list[str]) -> str:
     return ", ".join(f"`{a}`" for a in (areas or []))
 
 
+# Academic seniority ladder. Match by substring (lowercased) against the
+# position field; first match wins, so longer/more-specific titles go first.
+ACADEMIC_RANK: list[tuple[str, str]] = [
+    ("full professor", "Full Professor"),
+    ("emeritus professor", "Emeritus Professor"),
+    ("associate research professor", "Associate Research Professor"),
+    ("associate professor", "Associate Professor"),
+    ("junior professor", "Assistant Professor"),
+    ("assistant professor", "Assistant Professor"),
+    ("senior lecturer", "Senior Lecturer"),
+    ("lecturer", "Lecturer"),
+    ("senior research scientist", "Senior Research Scientist"),
+    ("senior research fellow", "Senior Research Fellow"),
+    ("research scientist", "Research Scientist"),
+    ("research fellow", "Research Fellow"),
+    ("postdoctoral researcher", "Postdoc"),
+    ("postdoc", "Postdoc"),
+    ("senior researcher", "Senior Researcher"),
+    ("researcher", "Researcher"),
+    ("faculty", "Faculty"),
+]
+
+# Institutions that should always be categorized as Industry (lowercased substrings).
+INDUSTRY_HINTS = {
+    "google", "deepmind", "amazon", "microsoft", "apple", "meta", "facebook",
+    "adobe", "ibm", "salesforce", "openai", "anthropic", "nvidia",
+    "qualcomm", "intel", "huawei", "tencent", "alibaba", "bytedance", "samsung",
+    "bosch", "pfizer", "amgen", "abbvie", "roche", "novartis", "sanofi",
+    "vinai", "fpt software", "vnpt", "diabetes australia",
+    # Adobe, Yandex etc covered above
+}
+
+
+def categorize(entry: dict[str, Any]) -> str:
+    aff = entry.get("affiliation") or {}
+    pos = (aff.get("position") or "").lower()
+    inst = (aff.get("institution") or "").lower()
+    if "phd student" in pos or "phd graduate" in pos or pos.strip() == "student":
+        return "PhD Students"
+    if "industry researcher" in pos or "applied scientist" in pos:
+        return "Industry"
+    if any(re.search(rf"\b{re.escape(h)}\b", inst) for h in INDUSTRY_HINTS) \
+            and "university" not in inst and "institute" not in inst:
+        return "Industry"
+    return "Academic"
+
+
+def academic_rank(entry: dict[str, Any]) -> tuple[int, str, str]:
+    pos = ((entry.get("affiliation") or {}).get("position") or "").lower()
+    for i, (needle, _label) in enumerate(ACADEMIC_RANK):
+        if needle in pos:
+            return (i, _label, entry.get("name", ""))
+    return (len(ACADEMIC_RANK), "Other", entry.get("name", ""))
+
+
+def position_label(entry: dict[str, Any]) -> str:
+    """Normalize the position field into a display label (or empty)."""
+    pos = ((entry.get("affiliation") or {}).get("position") or "")
+    if not pos or "unknown" in pos.lower():
+        return ""
+    return pos
+
+
+def render_section(name: str, items: list[dict[str, Any]], group_by_rank: bool = False) -> list[str]:
+    out: list[str] = []
+    if not items:
+        return out
+    out.append(f"\n### {name} ({len(items)})\n")
+    out.append("| Name | Position | Affiliation | Country | Sub-areas | Links | Conf. |")
+    out.append("|---|---|---|---|---|---|---|")
+
+    if group_by_rank:
+        # Group rows under a rank sub-heading row.
+        current_rank: str | None = None
+        for entry in sorted(items, key=academic_rank):
+            _i, rank, _ = academic_rank(entry)
+            if rank != current_rank:
+                out.append(f"| **{rank}** | | | | | | |")
+                current_rank = rank
+            out.append(row_for(entry))
+    else:
+        for entry in sorted(items, key=lambda e: e.get("name", "")):
+            out.append(row_for(entry))
+    return out
+
+
+def row_for(entry: dict[str, Any]) -> str:
+    aff = entry.get("affiliation") or {}
+    return "| " + " | ".join([
+        entry["name"],
+        position_label(entry),
+        aff.get("institution", "") or "",
+        aff.get("country", "") or "",
+        fmt_areas(entry.get("sub_areas", [])),
+        fmt_links(entry.get("links", {})),
+        entry.get("confidence", "") or "",
+    ]) + " |"
+
+
 def render_rows(entries: list[dict[str, Any]]) -> str:
     from collections import Counter
-    by_country: dict[str, list[dict[str, Any]]] = {}
-    for e in entries:
-        country = (e.get("affiliation") or {}).get("country", "Unknown")
-        by_country.setdefault(country, []).append(e)
-
     conf_count = Counter(e.get("confidence", "") for e in entries)
+    countries = Counter((e.get("affiliation") or {}).get("country", "Unknown") for e in entries)
     sub_count: Counter = Counter()
     for e in entries:
         for s in e.get("sub_areas") or []:
             sub_count[s] += 1
 
+    bucketed: dict[str, list[dict[str, Any]]] = {"Academic": [], "Industry": [], "PhD Students": []}
+    for e in entries:
+        bucketed[categorize(e)].append(e)
+
     out: list[str] = []
-    out.append(f"_**{len(entries)} researchers** across {len(by_country)} countries. "
-               f"Confidence: {conf_count.get('high', 0)} high, "
-               f"{conf_count.get('medium', 0)} medium, {conf_count.get('low', 0)} low._\n")
-
-    country_summary = ", ".join(
-        f"{c} ({len(by_country[c])})" for c in sorted(by_country, key=lambda k: -len(by_country[k]))[:8]
+    out.append(
+        f"_**{len(entries)} researchers** across {len(countries)} countries. "
+        f"Confidence: {conf_count.get('high', 0)} high, "
+        f"{conf_count.get('medium', 0)} medium, {conf_count.get('low', 0)} low._"
     )
-    out.append(f"**By country (top 8):** {country_summary}.")
+    out.append(
+        f"\n**By category:** Academic ({len(bucketed['Academic'])}), "
+        f"Industry ({len(bucketed['Industry'])}), "
+        f"PhD Students ({len(bucketed['PhD Students'])})."
+    )
+    country_summary = ", ".join(f"{c} ({n})" for c, n in countries.most_common(8))
+    out.append(f"\n**By country (top 8):** {country_summary}.")
     sub_summary = ", ".join(f"`{s}` ({n})" for s, n in sub_count.most_common(8))
-    out.append(f"\n**By sub-area (top 8):** {sub_summary}.\n")
+    out.append(f"\n**By sub-area (top 8):** {sub_summary}.")
 
-    out.append("| Name | Position | Affiliation | Sub-areas | Links | Confidence |")
-    out.append("|---|---|---|---|---|---|")
-    for country in sorted(by_country):
-        out.append(f"| **{country}** ({len(by_country[country])}) | | | | | |")
-        rows = sorted(by_country[country], key=lambda e: e["name"])
-        for e in rows:
-            aff = e.get("affiliation") or {}
-            row = [
-                e["name"],
-                aff.get("position", ""),
-                aff.get("institution", ""),
-                fmt_areas(e.get("sub_areas", [])),
-                fmt_links(e.get("links", {})),
-                e.get("confidence", ""),
-            ]
-            out.append("| " + " | ".join(row) + " |")
+    out.extend(render_section("Academic", bucketed["Academic"], group_by_rank=True))
+    out.extend(render_section("Industry", bucketed["Industry"]))
+    out.extend(render_section("PhD Students", bucketed["PhD Students"]))
     return "\n".join(out) + "\n"
 
 
