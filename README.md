@@ -185,7 +185,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Do, Van Dai | PhD Student | Deakin University, A2I2 | Australia | `causal-rl`, `causal-ml` |  | high |
 | Doan, Toan | PhD Student | Deakin University, A2I2 | Australia | `causal-nlp`, `counterfactual-explanation` | [dblp](https://dblp.org/pid/382/7295) | high |
 | [Bao Duong](https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en&oi=ao) | high |
-| Duong, Hieu Minh | PhD Student | University of Louisville, J.B. Speed School of Engineering | United States | `causal-discovery`, `causal-time-series` |  | medium |
+| [Hieu Minh Duong](https://scholar.google.com/citations?user=-C06MVsAAAAJ&hl=en&oi=ao) | PhD Student | University of Louisville, J.B. Speed School of Engineering | United States | `causal-discovery`, `causal-time-series` | [scholar](https://scholar.google.com/citations?user=-C06MVsAAAAJ&hl=en&oi=ao) | medium |
 | Duong, Tri Dung | PhD Student | University of Technology Sydney (UTS) | Australia | `counterfactual-fairness`, `counterfactual-explanation`, `causal-ml` |  | high |
 | [Nu Hoang](https://scholar.google.com/citations?user=CiNpg4oAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=CiNpg4oAAAAJ&hl=en&oi=ao) | high |
 | Hoang, Tao | PhD Graduate | Previously University of South Australia (PhD with Jiuyong Li) | Australia | `causal-discovery`, `theoretical` | [dblp](https://dblp.org/pid/159/1950) | medium |

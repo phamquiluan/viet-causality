@@ -1653,6 +1653,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/duong_h_1
+    scholar: https://scholar.google.com/citations?user=-C06MVsAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-time-series
@@ -1660,6 +1661,7 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Hieu Minh Duong
 - id: duong-quang-google
   name: Duong, Quang
   affiliation:
