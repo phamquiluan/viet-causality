@@ -191,7 +191,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Hoang, Tao | PhD Graduate | Previously University of South Australia (PhD with Jiuyong Li) | Australia | `causal-discovery`, `theoretical` | [dblp](https://dblp.org/pid/159/1950) | medium |
 | [Minh Khoa Le](https://scholar.google.com/citations?user=v087cnkAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=v087cnkAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0002-0684-6408) | medium |
 | Ngo, Dung Daniel T. | PhD Student | Carnegie Mellon University (CMU) - based on coauthors Steven Wu, Vasilis Syrgkanis | United States | `theoretical`, `causal-ml` | [dblp](https://dblp.org/pid/296/8379) | high |
-| Nguyen, Dang | PhD Student | Deakin University, A2I2 | Australia | `causal-ml`, `counterfactual-explanation` |  | medium |
+| [Dang Nguyen](https://scholar.google.com/citations?user=UtlivOcAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-ml`, `counterfactual-explanation` | [scholar](https://scholar.google.com/citations?user=UtlivOcAAAAJ&hl=en&oi=ao) | medium |
 | Nguyen, Huy-Son | PhD Student | Delft University of Technology | Netherlands | `counterfactual-explanation` |  | medium |
 | Nguyen, Khoa | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery` |  | medium |
 | Nguyen, Minh Hoang | PhD Student | KAIST, Department of Computer Science (current); previously University of Auckland | South Korea | `causal-rl`, `causal-ml` | [dblp](https://dblp.org/pid/32/5736) | high |
