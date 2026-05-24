@@ -336,6 +336,7 @@
     position: Senior Lecturer
   links:
     homepage: https://research.monash.edu/en/persons/trung-le
+    scholar: https://scholar.google.com/citations?user=gysdMxwAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   notes: Deep generative + Bayesian methods; co-authors on causal structure learning papers with Phung's group. Causality
@@ -343,6 +344,7 @@
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Trung Le
 - id: le-vuong-amazon
   name: Le, Vuong
   affiliation:

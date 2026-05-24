@@ -65,7 +65,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | [Ni Trieu](https://scholar.google.com/citations?user=AZgugwsAAAAJ&hl=en&oi=ao) | Assistant Professor | Arizona State University | United States | `causal-discovery` | [home](https://nitrieu.github.io/) · [scholar](https://scholar.google.com/citations?user=AZgugwsAAAAJ&hl=en&oi=ao) | high |
 | **Senior Lecturer** | | | | | | |
 | [Hung Le](https://scholar.google.com/citations?user=q2HbxngAAAAJ&hl=en&oi=ao) | Senior Lecturer (ARC DECRA Fellow) | Deakin University, Applied Artificial Intelligence Institute (A2I2) | Australia | `causal-rl`, `causal-discovery`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=q2HbxngAAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/45/466-2) | high |
-| Le, Trung | Senior Lecturer | Monash University | Australia | `causal-ml` | [home](https://research.monash.edu/en/persons/trung-le) | medium |
+| [Trung Le](https://scholar.google.com/citations?user=gysdMxwAAAAJ&hl=en&oi=ao) | Senior Lecturer | Monash University | Australia | `causal-ml` | [home](https://research.monash.edu/en/persons/trung-le) · [scholar](https://scholar.google.com/citations?user=gysdMxwAAAAJ&hl=en&oi=ao) | medium |
 | [Duc Thanh Nguyen](https://scholar.google.com/citations?user=4vExyv8AAAAJ&hl=en&oi=ao) | Senior Lecturer | Deakin University | Australia | `causal-discovery`, `causal-cv` | [scholar](https://scholar.google.com/citations?user=4vExyv8AAAAJ&hl=en&oi=ao) | high |
 | Nguyen, Hoang Thuan | Senior Lecturer | RMIT Vietnam | Vietnam | `causal-ml`, `applied-econ` |  | high |
 | Tran, Son N. | Senior Lecturer | University of Tasmania | Australia | `causal-ml`, `theoretical` |  | high |
