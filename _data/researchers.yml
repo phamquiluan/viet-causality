@@ -1394,6 +1394,7 @@
     position: Research Fellow
   links:
     arxiv: https://arxiv.org/a/hoang_v_1
+    scholar: https://scholar.google.com/citations?user=E7Cc8rAAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - applied-bio
@@ -1405,6 +1406,7 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Van Thuy Hoang
 - id: nguyen-minh-hoang-kaist
   name: Nguyen, Minh Hoang
   affiliation:
