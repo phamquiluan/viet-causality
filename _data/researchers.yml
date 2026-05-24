@@ -2541,6 +2541,7 @@
     position: Faculty
   links:
     openalex: https://openalex.org/A5057761132
+    scholar: https://scholar.google.com/citations?user=UA_83MUAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   - causal-discovery
@@ -2548,6 +2549,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Bac Le
 - id: le-duc-trong-vnu
   name: Le, Duc-Trong
   affiliation:

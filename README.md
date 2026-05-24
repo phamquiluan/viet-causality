@@ -96,7 +96,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Le, Tran Trong Khoi | Researcher | University Paris Est Creteil (EPIDERME) | France | `applied-health` |  | high |
 | [Tat-Thang Vo](https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en&oi=ao) | Researcher | Faculty of Medicine, University Paris Est Creteil (EPIDERME) | France | `applied-health`, `theoretical` | [scholar](https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en&oi=ao) | high |
 | **Faculty** | | | | | | |
-| Le, Bac | Faculty | VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` |  | high |
+| [Bac Le](https://scholar.google.com/citations?user=UA_83MUAAAAJ&hl=en&oi=ao) | Faculty | VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` | [scholar](https://scholar.google.com/citations?user=UA_83MUAAAAJ&hl=en&oi=ao) | high |
 | [Duc-Trong Le](https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao) | Faculty | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `counterfactual-explanation`, `applied-health` | [scholar](https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao) | high |
 | Le, Hoang-Quynh | Faculty | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` |  | medium |
 | Nguyen Truong, Thao | Faculty | Hanoi University of Science and Technology | Vietnam | `causal-discovery` |  | high |
