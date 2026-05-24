@@ -1598,6 +1598,7 @@
   links:
     openalex: https://openalex.org/A5049187271
     orcid: https://orcid.org/0000-0002-2967-0855
+    scholar: https://scholar.google.com/citations?user=p5xOjAIAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - applied-health
@@ -1609,6 +1610,7 @@
   source: scrape_openalex
   confidence: low
   last_verified: 2026-05-24
+  name_scholar: Lauren Eyler Dang
 - id: dang-tommy-ttu
   name: Dang, Tommy
   affiliation:
