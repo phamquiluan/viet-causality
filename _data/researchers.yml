@@ -1,349 +1,2827 @@
 # Vietnamese researchers working on causality.
-# Schema: see CONTRIBUTING.md. Generated table in README.md is regenerated
-# from this file by scripts/render_table.py.
-#
-# When adding entries, keep them grouped by current country of affiliation
-# (alphabetical within country) and then alphabetical by family name.
+# Source: scripts/consolidate.py merges _data/researchers.yml + scripts/raw/*.yml.
+# To regenerate after adding raw scrape data: python scripts/consolidate.py
+# Schema: see CONTRIBUTING.md.
 
-# =============================================================================
-# AUSTRALIA
-# =============================================================================
-
-- id: tran-truyen-deakin
-  name: "Tran, Truyen"
+- id: bui-minh-melbourne
+  name: Bui, Minh
   affiliation:
-    institution: "Deakin University, Applied AI Institute (A2I2)"
-    country: "Australia"
-    position: "Full Professor"
+    institution: University of Melbourne / Murdoch Children's Research Institute
+    country: Australia
+    position: Unknown - please verify
   links:
-    homepage: "https://truyentran.github.io/"
-    scholar:  "https://scholar.google.com/citations?user=zvspVLwAAAAJ"
-  sub_areas: [causal-discovery, causal-ml, applied-health]
+    openalex: https://openalex.org/A5075177965
+  sub_areas:
+  - applied-health
+  - theoretical
   key_papers:
-    - title:  "Learning Structural Causal Models from Ordering: Identifiable Flow Models"
-      venue:  "AAAI"
-      year:   2024
-  notes: "Head of AI for Health & Science at Deakin A2I2; leads a dense causal-discovery group (Bayesian, RL-based, flow-based)."
-  source: manual_seed
+  - title: 'Inference about causation from examination of familial confounding (ICE FALCON): a model for assessing causation
+      analogous to Mendelian randomization'
+    venue: International Journal of Epidemiology
+    year: 2020
+  notes: h=44; ICE FALCON method developer; VN Academy of Science and Technology affiliation.
+  source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
-
-- id: nguyen-thin-deakin
-  name: "Nguyen, Thin"
+- id: do-kien-deakin
+  name: Do, Kien
   affiliation:
-    institution: "Deakin University, A2I2"
-    country: "Australia"
-    position: "Senior Research Fellow"
+    institution: Deakin University, A2I2
+    country: Australia
+    position: Research Fellow
   links:
-    scholar: "https://scholar.google.com.au/citations?user=BlTfdtMAAAAJ"
-  sub_areas: [causal-discovery, causal-ml]
+    arxiv: https://arxiv.org/a/do_k_1
+  sub_areas:
+  - theoretical
+  - causal-discovery
+  - causal-cv
   key_papers:
-    - title:  "Reinforcement Learning for Causal Discovery without Acyclicity Constraints (ALIAS)"
-      year:   2024
-  notes: "Bayesian deep learning and graphical causal models."
-  source: manual_seed
+  - title: 'Finding the Trigger: Causal Abductive Reasoning on Video Events'
+    venue: arXiv
+    year: 2025
+    url: https://arxiv.org/abs/2501.09304
+  - title: 'Learning Structural Causal Models from Ordering: Identifiable Flow Models'
+    venue: AAAI
+    year: 2024
+    url: https://arxiv.org/abs/2412.09843
+  notes: Deakin A2I2.
+  source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
-
-- id: nguyen-phuoc-deakin
-  name: "Nguyen, Phuoc"
+- id: do-van-dai-deakin
+  name: Do, Van Dai
   affiliation:
-    institution: "Deakin University, A2I2"
-    country: "Australia"
-    position: "Research Fellow"
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
   links:
-    scholar: "https://scholar.google.com.au/citations?user=c4LnrZ0AAAAJ"
-  sub_areas: [causal-discovery, theoretical]
+    arxiv: https://arxiv.org/a/do_v_1
+  sub_areas:
+  - causal-rl
+  - causal-ml
   key_papers:
-    - title:  "Differentiable Bayesian Structure Learning with Acyclicity Assurance"
-      year:   2024
-  source: manual_seed
+  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
+    venue: arXiv
+    year: 2025
+    url: https://arxiv.org/abs/2508.13721
+  notes: Deakin A2I2; 'Van Dai' Vietnamese given-name pattern.
+  source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
-
+- id: doan-tinh-anu
+  name: Doan, Tinh
+  affiliation:
+    institution: Australian National University / Dalat University
+    country: Australia
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5008296992
+  sub_areas:
+  - applied-econ
+  - applied-health
+  notes: h=16; applied causal econometrics.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: doan-toan-deakin
+  name: Doan, Toan
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    dblp: https://dblp.org/pid/382/7295
+    openalex: https://openalex.org/A5130364768
+  sub_areas:
+  - causal-nlp
+  - counterfactual-explanation
+  key_papers:
+  - title: Causal Direct Preference Optimization for Language Model Alignment
+    venue: EACL Findings
+    year: 2026
+  - title: Causal Activation Steering via Sparse Mediation
+    venue: EACL Findings
+    year: 2026
+  notes: 'DBLP: 2 causality papers, both EACL 2026 Findings; Deakin A2I2; updates B2 dupe doan-toan-causal-steering. | Mechanistic
+    interpretability via causal mediation.'
+  confidence: high
+  source: scrape_dblp
+  sources_all:
+  - scrape_dblp
+  - scrape_semantic_scholar
+  last_verified: 2026-05-24
 - id: duong-bao-deakin
-  name: "Duong, Bao"
+  name: Duong, Bao
   affiliation:
-    institution: "Deakin University, A2I2"
-    country: "Australia"
-    position: "PhD Student"
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
   links:
-    homepage: ""
-  sub_areas: [causal-discovery, theoretical]
+    homepage: ''
+  sub_areas:
+  - causal-discovery
+  - theoretical
   key_papers:
-    - title:  "Causal Discovery via Bayesian Optimization"
-      venue:  "ICLR"
-      year:   2025
-      url:    "https://arxiv.org/abs/2501.14997"
-    - title:  "Scalable Variational Causal Discovery Unconstrained by Acyclicity"
-      year:   2024
+  - title: Causal Discovery via Bayesian Optimization
+    venue: ICLR
+    year: 2025
+    url: https://arxiv.org/abs/2501.14997
+  - title: Scalable Variational Causal Discovery Unconstrained by Acyclicity
+    year: 2024
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
-
-- id: nguyen-duc-thanh-deakin
-  name: "Nguyen, Duc Thanh"
+- id: duong-tri-dung-uts
+  name: Duong, Tri Dung
   affiliation:
-    institution: "Deakin University"
-    country: "Australia"
-    position: "Senior Lecturer"
+    institution: University of Technology Sydney (UTS)
+    country: Australia
+    position: PhD Student
   links:
-    scholar: "https://scholar.google.com.au/citations?user=4vExyv8AAAAJ"
-  sub_areas: [causal-discovery, causal-cv]
+    arxiv: https://arxiv.org/a/duong_t_1
+  sub_areas:
+  - counterfactual-fairness
+  - counterfactual-explanation
+  - causal-ml
   key_papers:
-    - title:  "MrPC: Causal Structure Learning in Distributed Systems"
-      venue:  "PAKDD"
-      year:   2020
-  notes: "Also co-author on 'causal inference via style transfer for OOD generalisation'."
-  source: manual_seed
+  - title: Achieving Counterfactual Fairness with Imperfect Structural Causal Model
+    venue: arXiv
+    year: 2023
+    url: https://arxiv.org/abs/2303.14665
+  - title: Causality-based Counterfactual Explanation for Classification Models
+    venue: arXiv
+    year: 2021
+    url: https://arxiv.org/abs/2105.00703
+  - title: Stochastic Intervention for Causal Inference via Reinforcement Learning
+    venue: arXiv
+    year: 2021
+    url: https://arxiv.org/abs/2105.13514
+  notes: UTS; 4+ causality papers.
+  source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
-
+- id: hoang-nu-deakin
+  name: Hoang, Nu
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/hoang_n_1
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  key_papers:
+  - title: Scalable Variational Causal Discovery Unconstrained by Acyclicity
+    venue: arXiv
+    year: 2024
+    url: https://arxiv.org/abs/2407.04992
+  - title: Enabling Causal Discovery in Post-Nonlinear Models with Normalizing Flows
+    venue: arXiv
+    year: 2024
+    url: https://arxiv.org/abs/2407.04980
+  notes: Co-authors Bao Duong, Thin Nguyen at Deakin A2I2.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: hoang-tao-unisa
+  name: Hoang, Tao
+  affiliation:
+    institution: Previously University of South Australia (PhD with Jiuyong Li)
+    country: Australia
+    position: PhD Graduate
+  links:
+    dblp: https://dblp.org/pid/159/1950
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  key_papers:
+  - title: A Fast PC Algorithm for High Dimensional Causal Discovery with Multi-Core PCs
+    venue: IEEE/ACM Trans Comp Biology and Bioinformatics
+    year: 2019
+  - title: 'ParallelPC: An R Package for Efficient Causal Exploration in Genomic Data'
+    venue: PAKDD Workshops
+    year: 2018
+  notes: 'DBLP: 4 causality papers; UniSA causal lab; ''Tao'' could be VN or Chinese - verify.'
+  source: scrape_dblp
+  confidence: medium
+  last_verified: 2026-05-24
+- id: hoang-van-phuong-unsw
+  name: Hoang, Van Phuong
+  affiliation:
+    institution: UNSW Sydney
+    country: Australia
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5057260196
+  sub_areas:
+  - applied-health
+  - applied-econ
+  notes: 'OpenAlex: 2 causal-inference papers, h=7.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: le-hung-deakin
+  name: Le, Hung
+  affiliation:
+    institution: Deakin University, Applied Artificial Intelligence Institute (A2I2)
+    country: Australia
+    position: Senior Lecturer (ARC DECRA Fellow)
+  links:
+    dblp: https://dblp.org/pid/45/466-2
+  sub_areas:
+  - causal-rl
+  - causal-discovery
+  - causal-ml
+  key_papers:
+  - title: Reinforcement Learning for Causal Discovery without Acyclicity Constraints
+    venue: TMLR
+    year: 2025
+  - title: 'Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformers'
+    venue: IJCAI
+    year: 2025
+  notes: 'DBLP: 6 causality papers; ARC DECRA Fellow; Deakin A2I2 (Truyen Tran group alumnus).'
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+- id: le-minh-deakin
+  name: Le, Minh
+  affiliation:
+    institution: Deakin University
+    country: Australia
+    position: PhD Student
+  links:
+    openalex: https://openalex.org/A5016537664
+    orcid: https://orcid.org/0000-0002-0684-6408
+    arxiv: https://arxiv.org/a/le_m_1
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  key_papers:
+  - title: 'Learning Structural Causal Models from Ordering: Identifiable Flow Models'
+    venue: AAAI
+    year: 2024
+    url: https://arxiv.org/abs/2412.09843
+  notes: 'Deakin A2I2. | OpenAlex: 2 causal-inference papers; Deakin A2I2.'
+  confidence: medium
+  source: scrape_openalex
+  sources_all:
+  - scrape_arxiv
+  - scrape_openalex
+  last_verified: 2026-05-24
+- id: le-thao-minh-deakin
+  name: Le, Thao Minh
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: Research Fellow
+  links:
+    arxiv: https://arxiv.org/a/le_t_1
+  sub_areas:
+  - causal-cv
+  - causal-ml
+  key_papers:
+  - title: 'Finding the Trigger: Causal Abductive Reasoning on Video Events'
+    venue: arXiv
+    year: 2025
+    url: https://arxiv.org/abs/2501.09304
+  notes: Deakin A2I2.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
 - id: le-thuc-duy-unisa
-  name: "Le, Thuc Duy"
+  name: Le, Thuc Duy
   affiliation:
-    institution: "University of South Australia (UniSA)"
-    country: "Australia"
-    position: "Associate Professor"
+    institution: University of South Australia (UniSA)
+    country: Australia
+    position: Associate Professor
   links:
-    homepage: "https://people.unisa.edu.au/Thuc.Le"
-    scholar:  "https://scholar.google.com/citations?user=wMSCRxUAAAAJ"
-  sub_areas: [causal-discovery, applied-bio, applied-health]
+    homepage: https://people.unisa.edu.au/Thuc.Le
+    scholar: https://scholar.google.com/citations?user=wMSCRxUAAAAJ
+  sub_areas:
+  - causal-discovery
+  - applied-bio
+  - applied-health
   key_papers:
-    - title:  "Causal Inference with Conditional Instruments Using Deep Generative Models"
-      venue:  "AAAI"
-      year:   2023
-  notes: "Causal discovery for bioinformatics (gene regulatory networks, cancer drivers, drug targets); co-organizer KDD Workshop on Causal Discovery 2020-2022."
+  - title: Causal Inference with Conditional Instruments Using Deep Generative Models
+    venue: AAAI
+    year: 2023
+  notes: Causal discovery for bioinformatics (gene regulatory networks, cancer drivers, drug targets); co-organizer KDD Workshop
+    on Causal Discovery 2020-2022.
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
-
-- id: phung-dinh-monash
-  name: "Phung, Dinh"
-  affiliation:
-    institution: "Monash University"
-    country: "Australia"
-    position: "Full Professor"
-  links:
-    homepage: "https://research.monash.edu/en/persons/dinh-phung"
-    scholar:  "https://scholar.google.com/citations?user=OtA9SwIAAAAJ"
-  sub_areas: [causal-discovery, causal-ml]
-  key_papers:
-    - title:  "Optimal Transport for Structure Learning Under Missing Data"
-      year:   2024
-  notes: "Bayesian ML; structure learning via optimal transport for causal graph recovery."
-  source: manual_seed
-  confidence: high
-  last_verified: 2026-05-24
-
 - id: le-trung-monash
-  name: "Le, Trung"
+  name: Le, Trung
   affiliation:
-    institution: "Monash University"
-    country: "Australia"
-    position: "Senior Lecturer"
+    institution: Monash University
+    country: Australia
+    position: Senior Lecturer
   links:
-    homepage: "https://research.monash.edu/en/persons/trung-le"
-  sub_areas: [causal-ml]
-  notes: "Deep generative + Bayesian methods; co-authors on causal structure learning papers with Phung's group. Causality is recurring but not primary."
+    homepage: https://research.monash.edu/en/persons/trung-le
+  sub_areas:
+  - causal-ml
+  notes: Deep generative + Bayesian methods; co-authors on causal structure learning papers with Phung's group. Causality
+    is recurring but not primary.
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
-
+- id: le-vuong-amazon
+  name: Le, Vuong
+  affiliation:
+    institution: Amazon Melbourne
+    country: Australia
+    position: Industry Researcher
+  links:
+    arxiv: https://arxiv.org/a/le_v_2
+  sub_areas:
+  - causal-cv
+  - causal-ml
+  key_papers:
+  - title: 'Finding the Trigger: Causal Abductive Reasoning on Video Events'
+    venue: arXiv
+    year: 2025
+    url: https://arxiv.org/abs/2501.09304
+  notes: Amazon Melbourne; prior Deakin affiliation; 'Vuong' distinctively Vietnamese.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: ngo-liem-viet-unsw
+  name: Ngo, Liem Viet
+  affiliation:
+    institution: UNSW Sydney
+    country: Australia
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5089513709
+  sub_areas:
+  - theoretical
+  key_papers:
+  - title: Probabilistic logic programming and Bayesian networks
+    venue: LNCS
+    year: 1995
+  notes: h=35, 4681 citations; probabilistic reasoning / Bayesian networks pioneer.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-cattram-mcri
+  name: Nguyen, Cattram
+  affiliation:
+    institution: Murdoch Children's Research Institute / Royal Children's Hospital
+    country: Australia
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5048489056
+    orcid: https://orcid.org/0000-0002-0599-8645
+  sub_areas:
+  - applied-health
+  - theoretical
+  notes: 'OpenAlex: 18 causal-inference papers, h=27, citations 2517.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-dang-deakin
+  name: Nguyen, Dang
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_d_6
+  sub_areas:
+  - causal-ml
+  - counterfactual-explanation
+  key_papers:
+  - title: Efficient Classification with Counterfactual Reasoning and Active Learning
+    venue: arXiv
+    year: 2022
+    url: https://arxiv.org/abs/2207.12086
+  notes: Deakin A2I2.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-duc-thanh-deakin
+  name: Nguyen, Duc Thanh
+  affiliation:
+    institution: Deakin University
+    country: Australia
+    position: Senior Lecturer
+  links:
+    scholar: https://scholar.google.com.au/citations?user=4vExyv8AAAAJ
+  sub_areas:
+  - causal-discovery
+  - causal-cv
+  key_papers:
+  - title: 'MrPC: Causal Structure Learning in Distributed Systems'
+    venue: PAKDD
+    year: 2020
+  notes: Also co-author on 'causal inference via style transfer for OOD generalisation'.
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-dung-deakin
+  name: Nguyen, Dung
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: Research Fellow
+  links:
+    arxiv: https://arxiv.org/a/nguyen_d_5
+  sub_areas:
+  - causal-rl
+  - causal-ml
+  key_papers:
+  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
+    venue: arXiv
+    year: 2025
+    url: https://arxiv.org/abs/2508.13721
+  notes: Deakin A2I2.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-dung-deakin-fpt
+  name: Nguyen, Dung (Deakin-FPT)
+  affiliation:
+    institution: 'Deakin University, Geelong; past: FPT Software AI Center, Hue University, University of Sydney'
+    country: Australia
+    position: Research Fellow
+  links:
+    dblp: https://dblp.org/pid/13/2526-1
+  sub_areas:
+  - causal-rl
+  notes: Confirmed past FPT and Hue Univ affiliations; updates B4 dupe nguyen-dung-deakin.
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-hung-t-griffith
+  name: Nguyen, Hung T.
+  affiliation:
+    institution: Griffith University
+    country: Australia
+    position: Full Professor
+  links:
+    openalex: https://openalex.org/A5100716472
+    orcid: https://orcid.org/0000-0002-3463-7232
+  sub_areas:
+  - causal-ml
+  - theoretical
+  key_papers: []
+  notes: 'OpenAlex: 17 causal-inference papers, h=16, citations 1795. | OpenAlex: 3 causal-inference papers, h=7; senior researcher;
+    conditional event algebra.'
+  confidence: high
+  source: scrape_openalex
+  last_verified: 2026-05-24
+- id: nguyen-khoa-deakin
+  name: Nguyen, Khoa
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_k_4
+  sub_areas:
+  - causal-discovery
+  key_papers:
+  - title: Neural Autoregressive Flows for Markov Boundary Learning
+    venue: arXiv
+    year: 2026
+  notes: Deakin A2I2; co-authors Bao Duong, Viet Huynh, Thin Nguyen.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-michael-diab-au
+  name: Nguyen, Michael
+  affiliation:
+    institution: Diabetes Australia
+    country: Australia
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5073895565
+    orcid: https://orcid.org/0000-0002-0530-1908
+  sub_areas:
+  - applied-health
+  notes: 'OpenAlex: 10 causal-inference papers, h=31.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-phuoc-deakin
+  name: Nguyen, Phuoc
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: Research Fellow
+  links:
+    scholar: https://scholar.google.com.au/citations?user=c4LnrZ0AAAAJ
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  key_papers:
+  - title: Differentiable Bayesian Structure Learning with Acyclicity Assurance
+    year: 2024
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-thin-deakin
+  name: Nguyen, Thin
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: Senior Research Fellow
+  links:
+    scholar: https://scholar.google.com.au/citations?user=BlTfdtMAAAAJ
+  sub_areas:
+  - causal-discovery
+  - causal-ml
+  key_papers:
+  - title: Reinforcement Learning for Causal Discovery without Acyclicity Constraints (ALIAS)
+    year: 2024
+  notes: Bayesian deep learning and graphical causal models.
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-toan-deakin-causal
+  name: Nguyen, Toan
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    dblp: https://dblp.org/pid/62/4324-4
+    openalex: https://openalex.org/A5102874067
+  sub_areas:
+  - causal-ml
+  - causal-nlp
+  - applied-health
+  key_papers:
+  - title: Causal Direct Preference Optimization for Language Model Alignment
+    venue: EACL (Findings)
+    year: 2026
+  - title: Causal Inference via Style Transfer for Out-of-distribution Generalisation
+    venue: KDD
+    year: 2023
+  - title: Utilising causal inference methods to estimate effects and strategise interventions in observational health data
+    venue: PLoS ONE
+    year: 2024
+  notes: 'DBLP: 3 causality papers including KDD 2023 (first author). DISTINCT from Toan Tran (seed) and Toan Nguyen (B2 health).
+    | h=12; Deakin A2I2; DISTINCT from seed tran-toan-vinai.'
+  confidence: high
+  source: scrape_dblp
+  sources_all:
+  - scrape_dblp
+  - scrape_semantic_scholar
+  last_verified: 2026-05-24
+- id: nguyen-tu-anh-hoang-deakin
+  name: Nguyen, Tu Anh Hoang
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_t_5
+  sub_areas:
+  - causal-ml
+  notes: Deakin A2I2.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-vy-rmit
+  name: Nguyen, Vy
+  affiliation:
+    institution: RMIT University, School of Computing Technologies
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_v_3
+  sub_areas:
+  - causal-nlp
+  notes: RMIT; 'Vy' Vietnamese given name.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: pham-duc-nghia-data61
+  name: Pham, Duc Nghia
+  affiliation:
+    institution: CSIRO Data61 / Griffith University
+    country: Australia
+    position: Industry Researcher
+  links:
+    openalex: https://openalex.org/A5033848427
+  sub_areas:
+  - theoretical
+  notes: SAT / probabilistic reasoning.
+  source: scrape_semantic_scholar
+  confidence: medium
+  last_verified: 2026-05-24
+- id: pham-luan-rmit
+  name: Pham, Luan
+  affiliation:
+    institution: RMIT University
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/pham_l_1
+  sub_areas:
+  - theoretical
+  - causal-discovery
+  - applied-bio
+  key_papers:
+  - title: 'Root Cause Analysis for Microservice System based on Causal Inference: How Far Are We?'
+    venue: arXiv
+    year: 2024
+    url: https://arxiv.org/abs/2408.13729
+  notes: RMIT (luan.pham@rmit.edu.au); 4+ papers on causal inference for software/microservices.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: pham-vu-viet-hoang-unisa
+  name: Pham, Vu Viet Hoang
+  affiliation:
+    institution: University of South Australia / University of Newcastle (likely)
+    country: Australia
+    position: Research Fellow
+  links:
+    dblp: https://dblp.org/pid/200/2832
+  sub_areas:
+  - causal-discovery
+  - applied-bio
+  key_papers:
+  - title: A pseudotemporal causality approach to identifying miRNA-mRNA interactions during biological processes
+    venue: Bioinformatics
+    year: 2021
+  - title: Identifying miRNA-mRNA regulatory relationships in breast cancer with invariant causal prediction
+    venue: BMC Bioinformatics
+    year: 2019
+  notes: 'DBLP: 4 causality papers; UniSA causal lab alumnus (Thuc Duy Le co-author).'
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+- id: phan-thuc-d-griffith
+  name: Phan, Thuc D.
+  affiliation:
+    institution: Griffith University
+    country: Australia
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5014371980
+    orcid: https://orcid.org/0000-0002-1690-7227
+  sub_areas:
+  - causal-discovery
+  - applied-bio
+  notes: 'OpenAlex: 4 causal-inference papers, h=9; Bayesian networks for water resources.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: phung-dinh-monash
+  name: Phung, Dinh
+  affiliation:
+    institution: Monash University
+    country: Australia
+    position: Full Professor
+  links:
+    homepage: https://research.monash.edu/en/persons/dinh-phung
+    scholar: https://scholar.google.com/citations?user=OtA9SwIAAAAJ
+  sub_areas:
+  - causal-discovery
+  - causal-ml
+  key_papers:
+  - title: Optimal Transport for Structure Learning Under Missing Data
+    year: 2024
+  notes: Bayesian ML; structure learning via optimal transport for causal graph recovery.
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+- id: tran-ha-xuan-unisa
+  name: Tran, Ha Xuan
+  affiliation:
+    institution: University of South Australia (UniSA)
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/tran_h_1
+  sub_areas:
+  - causal-ml
+  - counterfactual-explanation
+  key_papers:
+  - title: Linking a predictive model to causal effect estimation
+    venue: arXiv
+    year: 2023
+    url: https://arxiv.org/abs/2304.04566
+  - title: Explanatory causal effects for model agnostic explanations
+    venue: arXiv
+    year: 2022
+    url: https://arxiv.org/abs/2206.11529
+  notes: UniSA; co-author Thuc Duy Le.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
 - id: tran-minh-ngoc-sydney
-  name: "Tran, Minh-Ngoc"
+  name: Tran, Minh-Ngoc
   affiliation:
-    institution: "University of Sydney Business School"
-    country: "Australia"
-    position: "Associate Professor"
+    institution: University of Sydney Business School
+    country: Australia
+    position: Associate Professor
   links:
-    homepage: "https://sites.google.com/site/mntran26/"
-  sub_areas: [theoretical, applied-econ]
-  notes: "Bayesian computation, variational Bayes; methods used in causal econometrics. Causality not primary."
+    homepage: https://sites.google.com/site/mntran26/
+  sub_areas:
+  - theoretical
+  - applied-econ
+  notes: Bayesian computation, variational Bayes; methods used in causal econometrics. Causality not primary.
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
-
-# =============================================================================
-# CHINA (Hong Kong)
-# =============================================================================
-
+- id: tran-quang-duy-deakin
+  name: Tran, Quang-Duy
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/tran_q_2
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  key_papers:
+  - title: Robust Estimation of Causal Heteroscedastic Noise Models
+    venue: arXiv
+    year: 2023
+    url: https://arxiv.org/abs/2312.10102
+  notes: Deakin A2I2; co-authors Bao Duong, Phuoc Nguyen, Thin Nguyen.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: tran-son-n-utas
+  name: Tran, Son N.
+  affiliation:
+    institution: University of Tasmania
+    country: Australia
+    position: Senior Lecturer
+  links:
+    openalex: https://openalex.org/A5008915336
+  sub_areas:
+  - causal-ml
+  - theoretical
+  notes: h=23, 2390 citations; neural-symbolic integration; UEL/VNU-HCM alumnus.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: tran-truyen-deakin
+  name: Tran, Truyen
+  affiliation:
+    institution: Deakin University, Applied AI Institute (A2I2)
+    country: Australia
+    position: Full Professor
+  links:
+    homepage: https://truyentran.github.io/
+    scholar: https://scholar.google.com/citations?user=zvspVLwAAAAJ
+  sub_areas:
+  - causal-discovery
+  - causal-ml
+  - applied-health
+  key_papers:
+  - title: 'Learning Structural Causal Models from Ordering: Identifiable Flow Models'
+    venue: AAAI
+    year: 2024
+  notes: Head of AI for Health & Science at Deakin A2I2; leads a dense causal-discovery group (Bayesian, RL-based, flow-based).
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+- id: truong-buu-minh-thanh-unisa
+  name: Truong, Buu Minh Thanh
+  affiliation:
+    institution: University of South Australia
+    country: Australia
+    position: PhD Student
+  links:
+    dblp: https://dblp.org/pid/210/8978
+  sub_areas:
+  - causal-discovery
+  - applied-bio
+  key_papers:
+  - title: Identifying miRNA synergism using multiple-intervention causal inference
+    venue: BMC Bioinformatics
+    year: 2019
+  notes: 'DBLP: 4 causality papers; UniSA causal lab (Thuc Duy Le co-author).'
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+- id: vo-tri-nhan-deakin
+  name: Vo, Tri-Nhan
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/vo_t_1
+  sub_areas:
+  - causal-ml
+  notes: Deakin A2I2; hyphenated Vietnamese given name 'Tri-Nhan'.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: vo-vy-monash
+  name: Vo, Vy
+  affiliation:
+    institution: Monash University / CSIRO's Data61 / VinAI Research
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/vo_v_2
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  - counterfactual-explanation
+  key_papers:
+  - title: Optimal Transport for Structure Learning Under Missing Data
+    venue: ICML
+    year: 2024
+    url: https://arxiv.org/abs/2402.15255
+  - title: 'ACCESS: A Benchmark for Abstract Causal Event Discovery and Reasoning'
+    venue: NAACL
+    year: 2025
+  notes: Co-authors Dinh Phung and Trung Le; 5+ causality papers.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-tri-long-copenhagen
+  name: Nguyen, Tri-Long
+  affiliation:
+    institution: University of Copenhagen
+    country: Denmark
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5005130676
+    orcid: https://orcid.org/0000-0002-6376-7212
+  sub_areas:
+  - causal-ml
+  - causal-discovery
+  - applied-health
+  key_papers:
+  - title: The use of prognostic scores for causal inference with general treatment regimes
+    venue: Statistics in Medicine
+    year: 2019
+  - title: On the aggregation of published prognostic scores for causal inference in observational studies
+    venue: Statistics in Medicine
+    year: 2020
+  notes: 'DUPE of B1 nguyen-tri-long-copenhagen. Counterfactual prediction; propensity scores. | OpenAlex: 23 causal-inference
+    papers, h=17, citations 1466. Strong VN-affiliation history.'
+  confidence: high
+  source: scrape_openalex
+  sources_all:
+  - scrape_openalex
+  - scrape_semantic_scholar
+  last_verified: 2026-05-24
+- id: dinh-quang-thang-lif
+  name: Dinh, Quang-Thang
+  affiliation:
+    institution: Laboratoire d'Informatique Fondamentale de Marseille
+    country: France
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5061465746
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  notes: 'OpenAlex: 8 causal-inference papers; Markov logic networks structure learning.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: le-tran-trong-khoi-paris
+  name: Le, Tran Trong Khoi
+  affiliation:
+    institution: University Paris Est Creteil (EPIDERME)
+    country: France
+    position: Researcher
+  links:
+    arxiv: https://arxiv.org/a/le_t_2
+  sub_areas:
+  - applied-health
+  key_papers:
+  - title: Integration of aggregated data in causally interpretable meta-analysis by inverse weighting
+    venue: arXiv (stat.ME)
+    year: 2025
+    url: https://arxiv.org/abs/2503.05634
+  notes: Full triple-given-name unambiguously Vietnamese.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-hoai-tuong-lina
+  name: Nguyen, Hoai-Tuong
+  affiliation:
+    institution: Laboratoire d'informatique de Nantes Atlantique (LINA)
+    country: France
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5066315104
+  sub_areas:
+  - causal-discovery
+  notes: 'OpenAlex: 5 causal-inference papers; Bayesian networks evaluation.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-vu-linh-utc
+  name: Nguyen, Vu-Linh
+  affiliation:
+    institution: Université de Technologie de Compiègne
+    country: France
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5083724281
+    orcid: https://orcid.org/0000-0003-1642-4468
+  sub_areas:
+  - theoretical
+  - causal-ml
+  notes: 'OpenAlex: 6 causal-inference papers; imprecise probabilities/credal sets.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: tran-ba-hien-eurecom
+  name: Tran, Ba-Hien
+  affiliation:
+    institution: EURECOM / Cote d'Azur (likely)
+    country: France
+    position: PhD Student
+  links:
+    openalex: https://openalex.org/A5042667343
+  sub_areas:
+  - causal-ml
+  notes: 'OpenAlex: 2 causal-inference papers; Bayesian deep learning.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: vo-tat-thang-paris
+  name: Vo, Tat-Thang
+  affiliation:
+    institution: Faculty of Medicine, University Paris Est Creteil (EPIDERME)
+    country: France
+    position: Researcher
+  links:
+    arxiv: https://arxiv.org/a/vo_t_2
+  sub_areas:
+  - applied-health
+  - theoretical
+  key_papers:
+  - title: Integration of aggregated data in causally interpretable meta-analysis by inverse weighting
+    venue: arXiv (stat.ME)
+    year: 2025
+    url: https://arxiv.org/abs/2503.05634
+  - title: Transportability of aggregate trial results to an external environment in causally interpretable meta-analysis
+    venue: arXiv
+    year: 2024
+    url: https://arxiv.org/abs/2408.04854
+  - title: 'Recanting twins: addressing intermediate confounding in mediation analysis'
+    venue: arXiv
+    year: 2024
+    url: https://arxiv.org/abs/2401.04450
+  notes: Meta-analysis + mediation analysis + transportability; 4+ causal-inference papers.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: le-tuan-pfizer
+  name: Le, Tuan
+  affiliation:
+    institution: Pfizer (Germany)
+    country: Germany
+    position: Industry Researcher
+  links:
+    openalex: https://openalex.org/A5100458405
+    orcid: https://orcid.org/0000-0001-7634-502X
+  sub_areas:
+  - causal-ml
+  - theoretical
+  notes: 'OpenAlex: 5 causal-inference papers, h=10.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: phan-thomy-bayreuth
+  name: Phan, Thomy
+  affiliation:
+    institution: University of Bayreuth, Chair of AI and Machine Learning
+    country: Germany
+    position: Junior Professor
+  links:
+    dblp: https://dblp.org/pid/218/6646
+  sub_areas:
+  - counterfactual-explanation
+  - causal-rl
+  key_papers:
+  - title: Truncated Counterfactual Learning for Anytime Multi-Agent Path Finding
+    venue: AAAI
+    year: 2026
+  - title: Counterfactual Online Learning for Open-Loop Monte-Carlo Planning
+    venue: AAAI
+    year: 2025
+  notes: PhD LMU Munich; surname suggests Vietnamese-German diaspora; needs ethnicity verification.
+  source: scrape_dblp
+  confidence: low
+  last_verified: 2026-05-24
+- id: tran-hien-freiburg
+  name: Tran, Hien
+  affiliation:
+    institution: University of Freiburg
+    country: Germany
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5103277048
+    orcid: https://orcid.org/0000-0001-7518-7488
+  sub_areas:
+  - causal-ml
+  notes: 'OpenAlex: 3 causal-inference papers, h=9.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: tran-trung-kien-bosch
+  name: Tran, Trung-Kien
+  affiliation:
+    institution: Bosch Research / Renningen (likely)
+    country: Germany
+    position: Industry Researcher
+  links:
+    openalex: https://openalex.org/A5103053925
+    orcid: https://orcid.org/0000-0002-9938-1944
+  sub_areas:
+  - theoretical
+  notes: 'OpenAlex: 5 causal-inference papers, h=10; KG embeddings.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: vo-kiet-cispa
+  name: Vo, Kiet Q. H.
+  affiliation:
+    institution: CISPA Helmholtz Center for Information Security / Saarland University
+    country: Germany
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/vo_k_1
+  sub_areas:
+  - theoretical
+  - causal-ml
+  key_papers:
+  - title: Causal Strategic Learning with Competitive Selection
+    venue: arXiv
+    year: 2023
+    url: https://arxiv.org/abs/2308.16262
+  notes: '''Kiet'' Vietnamese given name; CISPA/Saarland.'
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
 - id: nguyen-viet-anh-cuhk
-  name: "Nguyen, Viet Anh"
+  name: Nguyen, Viet Anh
   affiliation:
-    institution: "The Chinese University of Hong Kong (CUHK), SEEM"
-    country: "Hong Kong SAR"
-    position: "Assistant Professor"
+    institution: The Chinese University of Hong Kong (CUHK), SEEM
+    country: Hong Kong SAR
+    position: Assistant Professor
   links:
-    homepage: "https://vietanhnguyen.info/"
-  sub_areas: [counterfactual-explanation, theoretical]
+    homepage: https://vietanhnguyen.info/
+  sub_areas:
+  - counterfactual-explanation
+  - theoretical
   key_papers:
-    - title:  "Counterfactual Plans under Distributional Ambiguity"
-      venue:  "ICLR"
-      year:   2022
-  notes: "Distributionally robust optimization and counterfactual recourse/plans."
+  - title: Counterfactual Plans under Distributional Ambiguity
+    venue: ICLR
+    year: 2022
+  notes: Distributionally robust optimization and counterfactual recourse/plans.
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
-
-# =============================================================================
-# SINGAPORE
-# =============================================================================
-
+- id: truong-cong-khanh-szeged
+  name: Truong, Cong Khanh
+  affiliation:
+    institution: University of Szeged
+    country: Hungary
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5128083099
+  sub_areas:
+  - applied-health
+  - theoretical
+  notes: 'OpenAlex: 3 causal-inference papers; mediation analysis.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: pham-quoc-viet-tcd
+  name: Pham, Quoc-Viet
+  affiliation:
+    institution: Trinity College Dublin
+    country: Ireland
+    position: Assistant Professor
+  links:
+    arxiv: https://arxiv.org/a/pham_q_1
+  sub_areas:
+  - causal-ml
+  notes: IEEE Senior Member; 'Quoc-Viet' Vietnamese given name.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-thi-kim-hue-padua
+  name: Nguyen, Thi Kim Hue
+  affiliation:
+    institution: University of Padua
+    country: Italy
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5003344347
+  sub_areas:
+  - causal-discovery
+  key_papers:
+  - title: Guided structure learning of DAGs for count data
+    venue: Statistical Modelling
+    year: 2024
+  notes: 'OpenAlex: 3 causal-inference papers; DAG learning for count data; ''Thi'' middle name.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: huynh-van-nam-jaist
+  name: Huynh, Van-Nam
+  affiliation:
+    institution: Japan Advanced Institute of Science and Technology (JAIST)
+    country: Japan
+    position: Full Professor
+  links:
+    openalex: https://openalex.org/A5067088014
+  sub_areas:
+  - theoretical
+  notes: h=33, 3594 citations; uncertainty/decision-making with linguistic assessments.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: le-tam-riken
+  name: Le, Tam
+  affiliation:
+    institution: RIKEN Center for Advanced Intelligence Project (AIP)
+    country: Japan
+    position: Postdoctoral Researcher
+  links:
+    dblp: https://dblp.org/pid/137/4218
+  sub_areas:
+  - theoretical
+  - causal-ml
+  key_papers:
+  - title: Scalable Counterfactual Distribution Estimation in Multivariate Causal Models
+    venue: CLeaR
+    year: 2024
+  notes: RIKEN AIP postdoc; Makoto Yamada's lab; optimal transport for ML.
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-minh-le-jaist
+  name: Nguyen, Minh Le
+  affiliation:
+    institution: JAIST, School of Information Science
+    country: Japan
+    position: Full Professor
+  links:
+    dblp: https://dblp.org/pid/n/MinhLeNguyen
+  sub_areas:
+  - causal-nlp
+  - applied-social
+  key_papers:
+  - title: 'Causal Intersectionality and Dual Form of Gradient Descent for Multimodal Analysis: A Case Study on Hateful Memes'
+    venue: LREC/COLING
+    year: 2024
+  notes: 'DBLP: 3 causality papers; JAIST faculty; 400+ pubs.'
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-nang-hung-tokyo
+  name: Nguyen, Nang Hung
+  affiliation:
+    institution: The University of Tokyo
+    country: Japan
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_n_1
+  sub_areas:
+  - causal-discovery
+  - causal-ml
+  key_papers:
+  - title: Causal Graph Learning via Distributional Invariance of Cause-Effect Relationship
+    venue: TMLR
+    year: 2026
+  notes: Tokyo; 'Nang Hung' Vietnamese given name.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: pham-thong-osaka
+  name: Pham, Thong
+  affiliation:
+    institution: Osaka University, SANKEN; cross-appointed Shiga University; Visiting Scientist at RIKEN AIP Causal Inference
+      Team
+    country: Japan
+    position: Associate Professor
+  links:
+    dblp: https://dblp.org/pid/199/2079
+    openalex: https://openalex.org/A5049149965
+    orcid: https://orcid.org/0000-0002-1940-9290
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  key_papers:
+  - title: 'I-CAM-UV: Integrating Causal Graphs over Non-Identical Variable Sets Using Causal Additive Models'
+    venue: AAAI
+    year: 2026
+  - title: 'Integrating Large Language Models in Causal Discovery: A Statistical Causal Approach'
+    venue: TMLR
+    year: 2025
+  - title: Scalable Counterfactual Distribution Estimation in Multivariate Causal Models
+    venue: CLeaR
+    year: 2024
+  - title: Causal Additive Models with Unobserved Causal Paths and Backdoor Paths
+    year: 2025
+  notes: 'DBLP: 11 causality papers; RIKEN AIP Visiting Scientist. UPDATES dupe pham-thong-shiga + pham-thong-arxiv (B1).
+    | OpenAlex: 4 causal-inference papers, h=6; LLM-augmented causal discovery; may merge with A5127835151. | OpenAlex: 5
+    causal-inference papers including I-CAM-UV AAAI 2026; reconcile with pham-thong-shiga (A5049149965).'
+  confidence: high
+  source: scrape_dblp
+  sources_all:
+  - scrape_dblp
+  - scrape_openalex
+  last_verified: 2026-05-24
+- id: vo-nguyen-le-duy-nitech
+  name: Vo Nguyen, Le Duy
+  affiliation:
+    institution: Nagoya Institute of Technology
+    country: Japan
+    position: Faculty
+  links:
+    openalex: https://openalex.org/A5017268424
+  sub_areas:
+  - theoretical
+  - causal-discovery
+  key_papers:
+  - title: Fast and More Powerful Selective Inference for Sparse High-Order Interaction Model
+    venue: AAAI
+    year: 2022
+  notes: Selective inference for causal/interaction discovery.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-huy-son-delft
+  name: Nguyen, Huy-Son
+  affiliation:
+    institution: Delft University of Technology
+    country: Netherlands
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_h_3
+  sub_areas:
+  - counterfactual-explanation
+  key_papers:
+  - title: 'From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems'
+    venue: arXiv
+    year: 2026
+  notes: TU Delft.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: pham-thai-aut
+  name: Pham, Thai
+  affiliation:
+    institution: Auckland University of Technology
+    country: New Zealand
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5039111784
+  sub_areas:
+  - causal-ml
+  notes: 'OpenAlex: 4 causal-inference papers, h=5.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
 - id: vo-thanh-vinh-nus
-  name: "Vo, Thanh Vinh"
+  name: Vo, Thanh Vinh
   affiliation:
-    institution: "National University of Singapore (NUS)"
-    country: "Singapore"
-    position: "Research Fellow"
+    institution: National University of Singapore (NUS)
+    country: Singapore
+    position: Research Fellow
   links:
-    homepage: "https://vothanhvinh.github.io/"
-  sub_areas: [causal-ml, theoretical]
+    homepage: https://vothanhvinh.github.io/
+  sub_areas:
+  - causal-ml
+  - theoretical
   key_papers:
-    - title:  "Federated causal inference from observational data"
-      venue:  "Machine Learning (Springer)"
-      year:   2025
-    - title:  "Adaptive Multi-Source Causal Inference"
-      venue:  "CIKM"
-      year:   2022
-  notes: "Causal inference from observational data; federated/multi-source causal inference; stochastic confounders. Simons Institute affiliate."
+  - title: Federated causal inference from observational data
+    venue: Machine Learning (Springer)
+    year: 2025
+  - title: Adaptive Multi-Source Causal Inference
+    venue: CIKM
+    year: 2022
+  notes: Causal inference from observational data; federated/multi-source causal inference; stochastic confounders. Simons
+    Institute affiliate.
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
-
-# =============================================================================
-# UNITED KINGDOM
-# =============================================================================
-
-- id: nguyen-cuong-v-durham
-  name: "Nguyen, Cuong V."
+- id: hoang-van-thuy-catholic-korea
+  name: Hoang, Van Thuy
   affiliation:
-    institution: "Durham University, Department of Statistics"
-    country: "United Kingdom"
-    position: "Assistant Professor"
+    institution: The Catholic University of Korea
+    country: South Korea
+    position: Research Fellow
   links:
-    homepage: "https://nvcuong.github.io/"
-  sub_areas: [causal-ml, theoretical]
-  notes: "ML/stats, variational continual learning; some counterfactual-related work. Courtesy affiliation FIU. Causality not primary."
+    arxiv: https://arxiv.org/a/hoang_v_1
+  sub_areas:
+  - causal-ml
+  - applied-bio
+  key_papers:
+  - title: Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction
+    venue: arXiv
+    year: 2025
+  notes: '''Van Thuy'' is Vietnamese given-name pattern; Catholic University of Korea.'
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-minh-hoang-kaist
+  name: Nguyen, Minh Hoang
+  affiliation:
+    institution: KAIST, Department of Computer Science (current); previously University of Auckland
+    country: South Korea
+    position: PhD Student
+  links:
+    dblp: https://dblp.org/pid/32/5736
+    arxiv: https://arxiv.org/a/nguyen_m_5
+  sub_areas:
+  - causal-rl
+  - causal-ml
+  key_papers:
+  - title: 'Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformers'
+    venue: IJCAI
+    year: 2025
+  - title: Variable-Agnostic Causal Exploration for Reinforcement Learning
+    venue: ECML/PKDD
+    year: 2024
+  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
+    venue: arXiv
+    year: 2025
+    url: https://arxiv.org/abs/2508.13721
+  notes: 'DBLP: 5 causality papers; updates affiliation of B4 dupe (was Deakin). | Deakin A2I2.'
+  confidence: high
+  source: scrape_dblp
+  sources_all:
+  - scrape_arxiv
+  - scrape_dblp
+  last_verified: 2026-05-24
+- id: nguyen-minh-duong
+  name: Nguyen, Minh-Duong
+  affiliation:
+    institution: Pukyong National University, Korea (per Quoc-Viet Pham collaboration)
+    country: South Korea
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_m_6
+  sub_areas:
+  - causal-ml
+  notes: '''Minh-Duong'' Vietnamese given name; co-author Quoc-Viet Pham.'
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: phan-du-postech
+  name: Phan, Du
+  affiliation:
+    institution: Pohang University of Science and Technology / formerly Google/DeepMind (NumPyro core contributor)
+    country: South Korea
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5009660067
+  sub_areas:
+  - theoretical
+  - causal-ml
+  key_papers:
+  - title: Composable Effects for Flexible and Accelerated Probabilistic Programming in NumPyro
+    year: 2019
+  notes: 'OpenAlex: 2 causal-inference papers; NumPyro maintainer; 264 citations.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: dang-vinh-paul-scherrer
+  name: Dang, Vinh N.
+  affiliation:
+    institution: Paul Scherrer Institute
+    country: Switzerland
+    position: Senior Researcher
+  links:
+    openalex: https://openalex.org/A5034100882
+  sub_areas:
+  - theoretical
+  - applied-bio
+  notes: Bayesian belief network methodology for reliability.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-cuong-v-durham
+  name: Nguyen, Cuong V.
+  affiliation:
+    institution: Durham University, Department of Statistics
+    country: United Kingdom
+    position: Assistant Professor
+  links:
+    homepage: https://nvcuong.github.io/
+  sub_areas:
+  - causal-ml
+  - theoretical
+  notes: ML/stats, variational continual learning; some counterfactual-related work. Courtesy affiliation FIU. Causality not
+    primary.
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
-
-# =============================================================================
-# UNITED STATES
-# =============================================================================
-
-- id: nguyen-trang-quynh-jhu
-  name: "Nguyen, Trang Quynh"
+- id: nguyen-phan-trung-hai-birmingham
+  name: Nguyen, Phan Trung Hai
   affiliation:
-    institution: "Johns Hopkins Bloomberg School of Public Health"
-    country: "United States"
-    position: "Associate Research Professor"
+    institution: University of Birmingham
+    country: United Kingdom
+    position: Unknown - please verify
   links:
-    homepage: "https://nqtrang.com/"
-    scholar:  "https://scholar.google.com/citations?user=1pjyYFsAAAAJ"
-  sub_areas: [theoretical, applied-health, applied-social]
+    openalex: https://openalex.org/A5012413932
+    orcid: https://orcid.org/0000-0003-0783-2224
+  sub_areas:
+  - theoretical
+  notes: 'OpenAlex: 3 causal-inference papers, h=7.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-vu-amazon
+  name: Nguyen, Vu
+  affiliation:
+    institution: Amazon; previously University of Oxford, Deakin University
+    country: United Kingdom
+    position: Applied Scientist
+  links:
+    dblp: https://dblp.org/pid/59/4389
+  sub_areas:
+  - causal-nlp
+  - theoretical
   key_papers:
-    - title:  "Clarifying causal mediation analysis: Effect identification via three assumptions and five potential outcomes"
-      venue:  "Journal of Causal Inference"
-      year:   2022
-  notes: "Causal mediation analysis; sensitivity analysis; transportability; treatment effect heterogeneity."
-  source: manual_seed
+  - title: Bayesian Topic Regression for Causal Inference
+    venue: EMNLP
+    year: 2021
+  notes: 'DBLP: 2 causality papers; Oxford/Deakin alumnus.'
+  source: scrape_dblp
+  confidence: medium
+  last_verified: 2026-05-24
+- id: pham-tra-my-ucl
+  name: Pham, Tra My
+  affiliation:
+    institution: MRC Clinical Trials Unit at UCL
+    country: United Kingdom
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5083875762
+    orcid: https://orcid.org/0000-0003-0528-6303
+  sub_areas:
+  - applied-health
+  - theoretical
+  key_papers:
+  - title: 'Treatment estimands in clinical trials of patients hospitalised for COVID-19: ensuring trials ask the right questions'
+    venue: BMC Medicine
+    year: 2020
+  notes: 'OpenAlex: 11 causal-inference papers, h=14, citations 1722.'
+  source: scrape_openalex
   confidence: high
   last_verified: 2026-05-24
-
-- id: pham-thai-hoang-osu
-  name: "Pham, Thai-Hoang"
+- id: bui-ngoc-yale
+  name: Bui, Ngoc
   affiliation:
-    institution: "Ohio State University (AIMed lab, Ping Zhang)"
-    country: "United States"
-    position: "PhD Student"
+    institution: Yale University
+    country: United States
+    position: PhD Student
   links:
-    homepage: "https://pth1993.github.io/"
-  sub_areas: [causal-ml, applied-health, counterfactual-fairness]
+    openalex: https://openalex.org/A5103009773
+  sub_areas:
+  - counterfactual-explanation
+  - theoretical
   key_papers:
-    - title:  "The Boundaries of Fair AI in Medical Image Prognosis: A Causal Perspective"
-      year:   2024
-  notes: "Causal perspective on fair AI in medical prognosis; treatment effect estimation."
-  source: manual_seed
+  - title: Counterfactual Plans under Distributional Ambiguity
+    venue: ICLR
+    year: 2022
+  notes: Counterfactual recourse; co-author with Viet Anh Nguyen (CUHK).
+  source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
-
+- id: dang-lauren-eyler-berkeley
+  name: Dang, Lauren Eyler
+  affiliation:
+    institution: UC Berkeley / UCSF (van der Laan lab)
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5049187271
+    orcid: https://orcid.org/0000-0002-2967-0855
+  sub_areas:
+  - theoretical
+  - applied-health
+  key_papers:
+  - title: Start with the Target Trial Protocol, Then Follow the Roadmap for Causal Inference
+    venue: Epidemiology
+    year: 2023
+  notes: 'OpenAlex: 7 causal-inference papers; van der Laan lab. Cross-cultural surname; verify Vietnamese heritage.'
+  source: scrape_openalex
+  confidence: low
+  last_verified: 2026-05-24
+- id: dang-tommy-ttu
+  name: Dang, Tommy
+  affiliation:
+    institution: Texas Tech University
+    country: United States
+    position: Associate Professor
+  links:
+    homepage: https://www.myweb.ttu.edu/tnhondan/
+    scholar: https://scholar.google.com/citations?user=B1b-yVAAAAAJ
+  sub_areas:
+  - applied-bio
+  key_papers:
+  - title: 'ReactionFlow: An interactive visualization tool for causality analysis in biological pathways'
+    venue: BMC Proceedings (BioVis)
+    year: 2015
+  notes: Single visualization-focused paper on causality in biological pathways; older work, not core research area.
+  source: scrape_dynaroars
+  confidence: low
+  last_verified: 2026-05-24
+- id: doan-thao-abbvie
+  name: Doan, Thao
+  affiliation:
+    institution: AbbVie (United States)
+    country: United States
+    position: Industry Researcher
+  links:
+    openalex: https://openalex.org/A5135509305
+  sub_areas:
+  - applied-health
+  notes: 'OpenAlex: 3 causal-inference papers; clinical trial safety.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: duong-hieu-minh-louisville
+  name: Duong, Hieu Minh
+  affiliation:
+    institution: University of Louisville, J.B. Speed School of Engineering
+    country: United States
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/duong_h_1
+  sub_areas:
+  - causal-discovery
+  - causal-time-series
+  notes: '''Hieu Minh'' Vietnamese given-name pattern.'
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: duong-quang-google
+  name: Duong, Quang
+  affiliation:
+    institution: Google (United States)
+    country: United States
+    position: Industry Researcher
+  links:
+    openalex: https://openalex.org/A5103104556
+    orcid: https://orcid.org/0000-0002-3096-7314
+  sub_areas:
+  - causal-ml
+  notes: 'OpenAlex: 4 causal-inference papers, h=8.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
 - id: hoang-trong-nghia-wsu
-  name: "Hoang, Trong Nghia"
+  name: Hoang, Trong Nghia
   affiliation:
-    institution: "Washington State University"
-    country: "United States"
-    position: "Assistant Professor"
+    institution: Washington State University
+    country: United States
+    position: Assistant Professor
   links:
-    homepage: "https://htnghia87.github.io/"
-    scholar:  "https://scholar.google.com/citations?user=E-kZZeQAAAAJ"
-  sub_areas: [causal-discovery, causal-ml]
-  notes: "NSF CAREER 2026. Efficient causal discovery (quadratic-complexity); uncertainty-aware AI. Ex-MIT-IBM Watson, AWS AI Labs."
+    homepage: https://htnghia87.github.io/
+    scholar: https://scholar.google.com/citations?user=E-kZZeQAAAAJ
+  sub_areas:
+  - causal-discovery
+  - causal-ml
+  notes: NSF CAREER 2026. Efficient causal discovery (quadratic-complexity); uncertainty-aware AI. Ex-MIT-IBM Watson, AWS
+    AI Labs.
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
-
-- id: nguyen-xuanlong-michigan
-  name: "Nguyen, XuanLong (Long)"
+- id: huynh-phat-k-ndsu
+  name: Huynh, Phat K.
   affiliation:
-    institution: "University of Michigan, Department of Statistics"
-    country: "United States"
-    position: "Full Professor"
+    institution: North Dakota State University
+    country: United States
+    position: Unknown - please verify
   links:
-    homepage: "https://dept.stat.lsa.umich.edu/~xuanlong/"
-  sub_areas: [theoretical]
-  notes: "Bayesian nonparametrics; optimal transport. Causality is not the primary focus of recent publications; flagged for verification of specific causal-inference contributions."
+    openalex: https://openalex.org/A5053781401
+  sub_areas:
+  - causal-discovery
+  - applied-health
+  key_papers:
+  - title: Causal Inference in Longitudinal Studies Using Causal Bayesian Network with Latent Variables
+    venue: Annual Reliability and Maintainability Symposium (RAMS)
+    year: 2022
+  notes: HCMC International University alumnus.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: le-do-minh-csu-fullerton
+  name: Le, Do Minh
+  affiliation:
+    institution: California State University, Fullerton
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5007759107
+    orcid: https://orcid.org/0000-0002-1897-5098
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  notes: 'OpenAlex: 5 causal-inference papers, h=9; Bayesian network theory.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: le-thai-indiana
+  name: Le, Thai
+  affiliation:
+    institution: Indiana University Bloomington
+    country: United States
+    position: Assistant Professor
+  links:
+    homepage: https://thaile.web.illinois.edu/
+    scholar: https://scholar.google.com/citations?user=Fd8K7kAAAAAJ
+  sub_areas:
+  - counterfactual-explanation
+  - causal-rl
+  key_papers:
+  - title: A Novel Policy-graph Approach With Natural Language And Counterfactual Abstractions For Explaining Reinforcement
+      Learning Agents
+    venue: AAMAS Journal
+    year: 2023
+  notes: Uses counterfactual abstractions to explain RL agent policies; one published causal/counterfactual paper to date.
+  source: scrape_dynaroars
+  confidence: medium
+  last_verified: 2026-05-24
+- id: le-thien-minh-utc
+  name: Le, Thien-Minh
+  affiliation:
+    institution: University of Tennessee at Chattanooga
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5021040693
+    orcid: https://orcid.org/0000-0003-2948-8778
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  notes: 'OpenAlex: 2 causal-inference papers; Gaussian graphical models.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: le-truc-viet-utmb
+  name: Le, Truc Viet
+  affiliation:
+    institution: University of Texas Medical Branch at Galveston
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5034643002
+  sub_areas:
+  - causal-ml
+  notes: 'OpenAlex: 2 causal-inference papers; ''Truc Viet'' Vietnamese.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: ngo-dung-daniel-cmu
+  name: Ngo, Dung Daniel T.
+  affiliation:
+    institution: Carnegie Mellon University (CMU) - based on coauthors Steven Wu, Vasilis Syrgkanis
+    country: United States
+    position: PhD Student
+  links:
+    dblp: https://dblp.org/pid/296/8379
+  sub_areas:
+  - theoretical
+  - causal-ml
+  key_papers:
+  - title: 'Strategic Instrumental Variable Regression: Recovering Causal Relationships From Strategic Responses'
+    venue: ICML
+    year: 2022
+  - title: 'Incentive-Aware Synthetic Control: Accurate Counterfactual Estimation via Incentivized Exploration'
+    venue: TMLR
+    year: 2026
+  notes: 'DBLP: 4 causality papers at ICML/TMLR. ''Dung'' Vietnamese given name (Daniel is Western middle).'
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+- id: ngo-van-chan-cmu
+  name: Ngo, Van Chan
+  affiliation:
+    institution: Carnegie Mellon University
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5057227260
+  sub_areas:
+  - theoretical
+  notes: h=7; quantitative analysis of probabilistic programs.
+  source: scrape_semantic_scholar
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-anh-totti-auburn
+  name: Nguyen, Anh (Totti)
+  affiliation:
+    institution: Auburn University
+    country: United States
+    position: Associate Professor
+  links:
+    homepage: https://anhnguyen.me/
+    scholar: https://scholar.google.com/citations?user=EQw8d9AAAAAJ
+  sub_areas:
+  - counterfactual-explanation
+  - causal-cv
+  key_papers:
+  - title: 'Double Trouble: How to not explain a text classifier''s decisions using counterfactuals synthesized by masked
+      language models'
+    venue: AACL
+    year: 2022
+  - title: Explaining image classifiers by removing input features using generative models
+    venue: ACCV
+    year: 2020
+  notes: Works on counterfactual generation for explaining image and text classifiers within his XAI research.
+  source: scrape_dynaroars
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-duy-ucsc
+  name: Nguyen, Duy
+  affiliation:
+    institution: 'UC Santa Cruz (current); past: Oxford University Clinical Research Unit (Ho Chi Minh City), HCMUS'
+    country: United States
+    position: Postdoc
+  links:
+    dblp: https://dblp.org/pid/13/5240
+  sub_areas:
+  - counterfactual-explanation
+  - theoretical
+  key_papers:
+  - title: Counterfactual Plans under Distributional Ambiguity
+    venue: ICLR
+    year: 2022
+  notes: Co-author of seed nguyen-viet-anh-cuhk; confirmed VN affiliation history (HCMUS, OUCRU Vietnam).
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-nhi-nyu
+  name: Nguyen, Nhi
+  affiliation:
+    institution: New York University
+    country: United States
+    position: PhD Student
+  links:
+    homepage: https://iam-nhi-nguyen.github.io/
+  sub_areas:
+  - causal-ml
+  key_papers:
+  - title: 'Black Box Causal Inference: Effect Estimation via Meta Prediction'
+    venue: arXiv (preprint)
+    year: 2026
+  notes: Co-author on Black Box Causal Inference (BBCI), which learns to estimate average and conditional treatment effects
+    via meta-prediction.
+  source: scrape_viet_wics
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-quynh-c-missouri
+  name: Nguyen, Quynh C.
+  affiliation:
+    institution: University of Missouri
+    country: United States
+    position: Associate Professor
+  links:
+    openalex: https://openalex.org/A5051269080
+  sub_areas:
+  - theoretical
+  - applied-health
+  key_papers:
+  - title: Practical Guidance for Conducting Mediation Analysis With Multiple Mediators Using Inverse Odds Ratio Weighting
+    venue: American Journal of Epidemiology
+    year: 2015
+  notes: h=14; mediation analysis; DISTINCT from Trang Quynh Nguyen (JHU).
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-thanh-hong-oregon
+  name: Nguyen, Thanh Hong
+  affiliation:
+    institution: University of Oregon
+    country: United States
+    position: Associate Professor
+  links:
+    homepage: https://ix.cs.uoregon.edu/~thanhhng/
+    scholar: https://scholar.google.com/citations?user=6fpZnQIAAAAJ
+  sub_areas:
+  - counterfactual-explanation
+  key_papers:
+  - title: 'CounterNet: End-to-end training of prediction aware counterfactual explanations'
+    venue: KDD
+    year: 2023
+  notes: CounterNet paper introduces end-to-end training of counterfactual explanations for ML predictions.
+  source: scrape_dynaroars
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-thien-huu-oregon
+  name: Nguyen, Thien Huu
+  affiliation:
+    institution: University of Oregon
+    country: United States
+    position: Associate Professor
+  links:
+    homepage: https://ix.cs.uoregon.edu/~thienn/
+    scholar: https://scholar.google.com/citations?user=Da2FhegAAAAJ
+  sub_areas:
+  - causal-nlp
+  key_papers:
+  - title: Graph convolutional networks for event causality identification with rich document-level structures
+    venue: NAACL
+    year: 2021
+  - title: 'MECI: A multilingual dataset for event causality identification'
+    venue: COLING
+    year: 2022
+  - title: Mastering context-to-label representation transformation for event causality identification with diffusion models
+    venue: AAAI
+    year: 2024
+  - title: Hierarchical selection of important context for generative event causality identification with optimal transports
+    venue: LREC-COLING
+    year: 2024
+  notes: Sustained research line on event causality identification in NLP (4+ papers in NAACL, AAAI, COLING).
+  source: scrape_dynaroars
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-thuy-ngoc-cmu
+  name: Nguyen, Thuy Ngoc
+  affiliation:
+    institution: Carnegie Mellon University
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5053131708
+  sub_areas:
+  - causal-ml
+  - theoretical
+  notes: Cognitive Bayesian modeling; theory of mind.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-tin-d-mit
+  name: Nguyen, Tin D.
+  affiliation:
+    institution: MIT / CMU (likely)
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5108724038
+  sub_areas:
+  - causal-ml
+  key_papers:
+  - title: Approximate Cross-Validation for Structured Models
+    venue: NeurIPS
+    year: 2020
+  notes: 'OpenAlex: 4 causal-inference papers.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-tran-uh
+  name: Nguyen, Tran
+  affiliation:
+    institution: University of Houston
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5102967864
+    orcid: https://orcid.org/0000-0002-7800-8032
+  sub_areas:
+  - causal-discovery
+  notes: 'OpenAlex: 3 causal-inference papers; graphical model selection.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-trang-quynh-jhu
+  name: Nguyen, Trang Quynh
+  affiliation:
+    institution: Johns Hopkins Bloomberg School of Public Health
+    country: United States
+    position: Associate Research Professor
+  links:
+    homepage: https://nqtrang.com/
+    scholar: https://scholar.google.com/citations?user=1pjyYFsAAAAJ
+  sub_areas:
+  - theoretical
+  - applied-health
+  - applied-social
+  key_papers:
+  - title: 'Clarifying causal mediation analysis: Effect identification via three assumptions and five potential outcomes'
+    venue: Journal of Causal Inference
+    year: 2022
+  notes: Causal mediation analysis; sensitivity analysis; transportability; treatment effect heterogeneity.
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-xuanlong-michigan
+  name: Nguyen, XuanLong (Long)
+  affiliation:
+    institution: University of Michigan, Department of Statistics
+    country: United States
+    position: Full Professor
+  links:
+    homepage: https://dept.stat.lsa.umich.edu/~xuanlong/
+  sub_areas:
+  - theoretical
+  notes: Bayesian nonparametrics; optimal transport. Causality is not the primary focus of recent publications; flagged for
+    verification of specific causal-inference contributions.
   source: manual_seed
   confidence: low
   last_verified: 2026-05-24
-
-# =============================================================================
-# VIETNAM
-# =============================================================================
-
-- id: tran-toan-vinai
-  name: "Tran, Toan"
+- id: pham-cuong-rochester
+  name: Pham, Cuong T.
   affiliation:
-    institution: "VinAI Research / Hanoi University of Science and Technology (HUST)"
-    country: "Vietnam"
-    position: "Senior Research Scientist"
+    institution: University of Rochester Medical Center, Biostatistics and Computational Biology
+    country: United States
+    position: Faculty
   links:
-    scholar: "https://scholar.google.com/citations?user=PnwSuNMAAAAJ"
-  sub_areas: [causal-ml]
+    arxiv: https://arxiv.org/a/pham_c_1
+  sub_areas:
+  - theoretical
+  - applied-health
   key_papers:
-    - title:  "CASUAL: Conditional Support Alignment"
-      venue:  "AAAI"
-      year:   2025
-  notes: "Domain adaptation and causal representation work. Note: VinAI was acquired by Qualcomm in 2025; affiliation may have updated."
-  source: manual_seed
+  - title: Nonparametric assessment of regimen response curve estimators
+    venue: arXiv (stat.ME)
+    year: 2024
+    url: https://arxiv.org/abs/2402.11466
+  - title: Sensitivity analysis for constructing optimal regimes in the presence of treatment non-compliance
+    venue: arXiv
+    year: 2022
+    url: https://arxiv.org/abs/2207.08964
+  notes: Biostatistics; treatment regimes; IV; marginal structural models.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: pham-duy-t-uthsc
+  name: Pham, Duy T.
+  affiliation:
+    institution: University of Texas Health Science Center at Houston
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5101420627
+    orcid: https://orcid.org/0009-0007-2586-2087
+  sub_areas:
+  - applied-health
+  - applied-bio
+  notes: 'OpenAlex: 2 causal-inference papers, h=5.'
+  source: scrape_openalex
   confidence: medium
   last_verified: 2026-05-24
-
+- id: pham-thai-hoang-osu
+  name: Pham, Thai-Hoang
+  affiliation:
+    institution: Ohio State University (AIMed lab, Ping Zhang)
+    country: United States
+    position: PhD Student
+  links:
+    homepage: https://pth1993.github.io/
+  sub_areas:
+  - causal-ml
+  - applied-health
+  - counterfactual-fairness
+  key_papers:
+  - title: 'The Boundaries of Fair AI in Medical Image Prognosis: A Causal Perspective'
+    year: 2024
+  notes: Causal perspective on fair AI in medical prognosis; treatment effect estimation.
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+- id: phan-vu-h-n-rice
+  name: Phan, Vu H. N.
+  affiliation:
+    institution: Rice University (likely)
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5006569574
+  sub_areas:
+  - theoretical
+  notes: 'OpenAlex: 7 causal-inference papers; weighted model counting.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: tran-cao-son-nmsu
+  name: Tran, Cao Son
+  affiliation:
+    institution: New Mexico State University
+    country: United States
+    position: Full Professor
+  links:
+    openalex: https://openalex.org/A5063459912
+  sub_areas:
+  - theoretical
+  - causal-rl
+  notes: h=29, 5903 citations; probabilistic action / planning.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: tran-christopher-uic
+  name: Tran, Christopher
+  affiliation:
+    institution: University of Illinois Chicago
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5026194168
+  sub_areas:
+  - causal-ml
+  - theoretical
+  key_papers:
+  - title: Improving Data-driven Heterogeneous Treatment Effect Estimation Under Structure Uncertainty
+    venue: KDD
+    year: 2022
+  notes: Anglicized given name; verify ethnicity.
+  source: scrape_semantic_scholar
+  confidence: low
+  last_verified: 2026-05-24
+- id: tran-dustin-google
+  name: Tran, Dustin
+  affiliation:
+    institution: Google DeepMind
+    country: United States
+    position: Industry Researcher
+  links:
+    openalex: https://openalex.org/A5081819708
+  sub_areas:
+  - theoretical
+  - causal-ml
+  key_papers:
+  - title: Implicit Causal Models for Genome-wide Association Studies
+    venue: arXiv
+    year: 2017
+  notes: h=37, 5104 citations; probabilistic ML (Edward, TFP); causality via implicit causal models. VERIFY ethnicity.
+  source: scrape_semantic_scholar
+  confidence: low
+  last_verified: 2026-05-24
+- id: tran-linh-jhu
+  name: Tran, Linh
+  affiliation:
+    institution: Johns Hopkins University
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5006359310
+    orcid: https://orcid.org/0000-0001-6429-0375
+  sub_areas:
+  - theoretical
+  - applied-health
+  key_papers:
+  - title: Robust variance estimation and inference for causal effect estimation
+    year: 2018
+  notes: 'DUPE of B1 tran-linh-jhu. TMLE / longitudinal causal effects; UC Berkeley alumnus. | OpenAlex: 6 causal-inference
+    papers, h=16; TMLE/longitudinal causal effects.'
+  confidence: high
+  source: scrape_openalex
+  sources_all:
+  - scrape_openalex
+  - scrape_semantic_scholar
+  last_verified: 2026-05-24
+- id: tran-teo-upenn
+  name: Tran, Teo
+  affiliation:
+    institution: University of Pennsylvania
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5039890069
+  sub_areas:
+  - applied-health
+  notes: 'OpenAlex: 4 causal-inference papers; ''Teo'' unusual VN given name - VERIFY.'
+  source: scrape_openalex
+  confidence: low
+  last_verified: 2026-05-24
+- id: trieu-ni-asu
+  name: Trieu, Ni
+  affiliation:
+    institution: Arizona State University
+    country: United States
+    position: Assistant Professor
+  links:
+    homepage: https://nitrieu.github.io/
+    scholar: https://scholar.google.com/citations?user=AZgugwsAAAAJ
+  sub_areas:
+  - causal-discovery
+  key_papers:
+  - title: 'AITIA: Efficient Secure Computation of Bivariate Causal Discovery'
+    venue: ACM CCS
+    year: 2024
+  notes: AITIA (CCS 2024) is the first two-party MPC protocol for bivariate causal discovery; cross-listed in dynaroars and
+    viet-wics.
+  source: scrape_dynaroars
+  confidence: high
+  last_verified: 2026-05-24
+- id: trinh-huong-amgen
+  name: Trinh, Huong
+  affiliation:
+    institution: Amgen
+    country: United States
+    position: Industry Researcher
+  links:
+    openalex: https://openalex.org/A5073889590
+  sub_areas:
+  - applied-health
+  notes: RWE / treatment-effect replication.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: trinh-quoc-dien-harvard
+  name: Trinh, Quoc-Dien
+  affiliation:
+    institution: Brigham and Women's Hospital / Harvard Medical School
+    country: United States
+    position: Full Professor
+  links:
+    openalex: https://openalex.org/A5077545940
+  sub_areas:
+  - applied-health
+  key_papers:
+  - title: 'Immortal-time bias: a crucial yet overlooked confounder in urological research'
+    venue: BJU Int
+    year: 2017
+  notes: h=79, 22711 citations; urology causal/comparative-effectiveness; Univ of Da Nang collab.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: truong-buu-broad
+  name: Truong, Buu
+  affiliation:
+    institution: Broad Institute / Harvard / Massachusetts General Hospital
+    country: United States
+    position: Research Fellow
+  links:
+    openalex: https://openalex.org/A5066650734
+  sub_areas:
+  - applied-bio
+  - theoretical
+  key_papers:
+  - title: Leveraging polygenic risk scores to infer causal directions in genotype-by-environment interactions between complex
+      traits
+    venue: Human Genetics
+    year: 2026
+  notes: h=16; statistical genetics + causal direction inference; Vietnam genomics.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: truong-van-thi-thanh-uth
+  name: Truong, Van Thi Thanh
+  affiliation:
+    institution: UT Health Science Center at Houston
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5005413614
+  sub_areas:
+  - theoretical
+  - applied-health
+  notes: h=19; biostatistician on multicenter trial treatment-effect estimation.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: le-hao-duong-llm-cd
+  name: Le, Hao Duong
+  affiliation:
+    institution: Unknown - please verify
+    country: Unknown
+    position: Unknown - please verify
+  links:
+    semantic_scholar: https://www.semanticscholar.org/author/2383875687
+  sub_areas:
+  - causal-discovery
+  - causal-nlp
+  key_papers:
+  - title: Multi-Agent Causal Discovery Using Large Language Models
+    venue: arXiv
+    year: 2024
+  notes: LLM-based multi-agent causal discovery.
+  source: scrape_semantic_scholar
+  confidence: medium
+  last_verified: 2026-05-24
+- id: ngo-nghia-trung-causal-nlp
+  name: Ngo, Nghia Trung
+  affiliation:
+    institution: Unknown - please verify
+    country: Unknown
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5087736585
+  sub_areas:
+  - causal-nlp
+  notes: Event causality identification (NLP).
+  source: scrape_semantic_scholar
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-binh-t-mediation
+  name: Nguyen, Binh T.
+  affiliation:
+    institution: Unknown - please verify
+    country: Unknown
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5133002152
+  sub_areas:
+  - applied-health
+  notes: 'OpenAlex: 3 causal-inference papers; high-dimensional mediation analysis.'
+  source: scrape_openalex
+  confidence: low
+  last_verified: 2026-05-24
+- id: nguyen-chien-van-causal-nlp
+  name: Nguyen, Chien Van
+  affiliation:
+    institution: Unknown - please verify
+    country: Unknown
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5048500413
+  sub_areas:
+  - causal-nlp
+  notes: Event causality identification (NLP).
+  source: scrape_semantic_scholar
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-ngoc-tuong-vy
+  name: Nguyen, Ngoc Tuong Vy
+  affiliation:
+    institution: Unknown (children's pneumonia consortium - global health)
+    country: Unknown
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5055245019
+  sub_areas:
+  - applied-health
+  notes: 'OpenAlex: 2 causal-inference papers; pediatric pneumonia risk modeling.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-viviana-rims
+  name: Nguyen, Viviana
+  affiliation:
+    institution: Unknown (pharma risk-management)
+    country: Unknown
+    position: Industry Researcher
+  links:
+    openalex: https://openalex.org/A5040137364
+  sub_areas:
+  - applied-health
+  notes: 'OpenAlex: 2 causal-inference papers; pharmaceutical risk minimization.'
+  source: scrape_openalex
+  confidence: low
+  last_verified: 2026-05-24
 - id: bui-hung-hai-vinai
-  name: "Bui, Hung Hai"
+  name: Bui, Hung Hai
   affiliation:
-    institution: "Formerly VinAI Research"
-    country: "Vietnam"
-    position: "Industry Researcher"
+    institution: Formerly VinAI Research
+    country: Vietnam
+    position: Industry Researcher
   links:
-    homepage: "https://sites.google.com/site/buihhung/"
-  sub_areas: [theoretical]
-  notes: "Probabilistic graphical models; Bayesian inference; relational/sequential models. Causality-adjacent rather than primary. Ex-DeepMind, Adobe, SRI, formerly Director of VinAI Research (acquired by Qualcomm 2025)."
+    homepage: https://sites.google.com/site/buihhung/
+  sub_areas:
+  - theoretical
+  notes: Probabilistic graphical models; Bayesian inference; relational/sequential models. Causality-adjacent rather than
+    primary. Ex-DeepMind, Adobe, SRI, formerly Director of VinAI Research (acquired by Qualcomm 2025).
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
-
-- id: ngo-hoang-anh-woolcock
-  name: "Ngo, Hoang-Anh"
+- id: dang-hoang-vn
+  name: Dang, Hoang
   affiliation:
-    institution: "Woolcock Institute Vietnam"
-    country: "Vietnam"
-    position: "Research Scientist"
+    institution: Independent Researcher
+    country: Vietnam
+    position: Independent Researcher
   links:
-    scholar: "https://scholar.google.com/citations?user=yelTvHAAAAAJ"
-  sub_areas: [applied-health]
-  notes: "Epidemiology + online ML; relevance to applied causal epidemiology."
+    arxiv: https://arxiv.org/a/dang_h_1
+  sub_areas:
+  - theoretical
+  - causal-discovery
+  notes: Co-author with Luan Pham (RMIT); 'Hoang' Vietnamese given name.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: dinh-truong-duy-vnpt
+  name: Dinh, Truong Duy
+  affiliation:
+    institution: Vietnam Posts and Telecommunications (VNPT) / PTIT
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5041417996
+  sub_areas:
+  - causal-ml
+  key_papers:
+  - title: 'Causal-IDS: Detecting Network Intrusions as Causal Mechanism Violations'
+    year: 2026
+  notes: h=7; causal-mechanism IDS.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: ho-tung-manh-phenikaa
+  name: Ho, Tung Manh
+  affiliation:
+    institution: Phenikaa University / Vietnam Academy of Social Sciences
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5004093997
+  sub_areas:
+  - theoretical
+  - applied-econ
+  notes: h=38, 5518 citations; bayesvl R package author; mindsponge framework.
+  source: scrape_semantic_scholar
+  confidence: medium
+  last_verified: 2026-05-24
+- id: huynh-thi-hong-tram-hcm
+  name: Huynh, Thi Hong Tram
+  affiliation:
+    institution: Unknown (paper at Vietnamese journal Y Hoc TP Ho Chi Minh)
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5035043762
+  sub_areas:
+  - applied-health
+  - theoretical
+  key_papers:
+  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
+      teaching'
+    venue: Y Hoc TP Ho Chi Minh
+    year: 2018
+  notes: DAG-based causal inference education.
+  source: scrape_semantic_scholar
+  confidence: medium
+  last_verified: 2026-05-24
+- id: huynh-tuyen-n-vnuhcm
+  name: Huynh, Tuyen N.
+  affiliation:
+    institution: Vietnam National University Ho Chi Minh City
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5102071984
+  sub_areas:
+  - theoretical
+  - causal-discovery
+  key_papers:
+  - title: Discriminative structure and parameter learning for Markov logic networks
+    venue: ICML
+    year: 2008
+  notes: 'OpenAlex: 11 causal-inference papers, h=9, citations 638; Markov logic networks lineage.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: le-bac-vnuhcm
+  name: Le, Bac
+  affiliation:
+    institution: VNU-HCM
+    country: Vietnam
+    position: Faculty
+  links:
+    openalex: https://openalex.org/A5057761132
+  sub_areas:
+  - counterfactual-explanation
+  - causal-discovery
+  notes: Counterfactual explanations / interpretable ML; VNU-HCM.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: le-duc-trong-vnu
+  name: Le, Duc-Trong
+  affiliation:
+    institution: VNU University of Engineering and Technology
+    country: Vietnam
+    position: Faculty
+  links:
+    arxiv: https://arxiv.org/a/le_d_1
+  sub_areas:
+  - causal-ml
+  - counterfactual-explanation
+  - applied-health
+  key_papers:
+  - title: 'CLEAR: Causal Learning Framework For Robust Histopathology Tumor Detection Under OOD Shifts'
+    venue: arXiv
+    year: 2025
+  notes: VNU-UET Hanoi confirmed.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: le-hoang-quynh-vnu
+  name: Le, Hoang-Quynh
+  affiliation:
+    institution: VNU University of Engineering and Technology
+    country: Vietnam
+    position: Faculty
+  links:
+    arxiv: https://arxiv.org/a/le_h_1
+  sub_areas:
+  - counterfactual-explanation
+  key_papers:
+  - title: 'From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems'
+    venue: arXiv
+    year: 2026
+  notes: VNU-UET Hanoi.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: ngo-hoang-anh-woolcock
+  name: Ngo, Hoang-Anh
+  affiliation:
+    institution: Woolcock Institute Vietnam
+    country: Vietnam
+    position: Research Scientist
+  links:
+    scholar: https://scholar.google.com/citations?user=yelTvHAAAAAJ
+  sub_areas:
+  - applied-health
+  notes: Epidemiology + online ML; relevance to applied causal epidemiology.
   source: manual_seed
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-truong-thao-hust
+  name: Nguyen Truong, Thao
+  affiliation:
+    institution: Hanoi University of Science and Technology
+    country: Vietnam
+    position: Faculty
+  links:
+    openalex: https://openalex.org/A5125063252
+  sub_areas:
+  - causal-discovery
+  notes: Co-author on Vietnam-led causal graph learning paper.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-cam-van-thi-vnu
+  name: Nguyen, Cam-Van Thi
+  affiliation:
+    institution: VNU University of Engineering and Technology
+    country: Vietnam
+    position: Faculty
+  links:
+    arxiv: https://arxiv.org/a/nguyen_c_1
+  sub_areas:
+  - counterfactual-explanation
+  key_papers:
+  - title: 'From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems'
+    venue: arXiv
+    year: 2026
+  notes: '''Thi'' marker, ''Cam-Van'' Vietnamese given name; VNU-UET.'
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-cuong-viet-vnu-econ
+  name: Nguyen, Cuong Viet
+  affiliation:
+    institution: Vietnam National University, Hanoi / National Economics University
+    country: Vietnam
+    position: Full Professor
+  links:
+    openalex: https://openalex.org/A5050413008
+  sub_areas:
+  - applied-econ
+  - theoretical
+  notes: h=33, 277 works, 4392 citations; DISTINCT from seed nguyen-cuong-v-durham (Durham ML).
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-hoang-thuan-rmit-vn
+  name: Nguyen, Hoang Thuan
+  affiliation:
+    institution: RMIT Vietnam
+    country: Vietnam
+    position: Senior Lecturer
+  links:
+    openalex: https://openalex.org/A5018101883
+  sub_areas:
+  - causal-ml
+  - applied-econ
+  notes: h=10; IS / design science / Causal AI in IS.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-long-lqdtu
+  name: Nguyen, Long
+  affiliation:
+    institution: Le Quy Don Technical University, Faculty of IT, Hanoi
+    country: Vietnam
+    position: Faculty
+  links:
+    dblp: https://dblp.org/pid/02/3500
+    arxiv: https://arxiv.org/a/nguyen_l_2
+  sub_areas:
+  - causal-discovery
+  - causal-time-series
+  key_papers:
+  - title: 'CaST: Causal Discovery via Spatio-Temporal Graphs in Disaster Recovery'
+    venue: IEEE Big Data
+    year: 2025
+  notes: 'Co-author of Hieu Minh Duong at Louisville. | DBLP: 2 causality papers; Le Quy Don Tech U Hanoi confirmed.'
+  confidence: high
+  source: scrape_dblp
+  sources_all:
+  - scrape_arxiv
+  - scrape_dblp
+  last_verified: 2026-05-24
+- id: nguyen-ngoc-thao-vnuhcm
+  name: Nguyen, Ngoc-Thao
+  affiliation:
+    institution: VNU-HCM
+    country: Vietnam
+    position: Faculty
+  links:
+    openalex: https://openalex.org/A5102781573
+  sub_areas:
+  - counterfactual-explanation
+  - causal-discovery
+  notes: Co-author on the DirectLiNGAM+VAE paper above.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-phi-le-hust
+  name: Nguyen, Phi Le
+  affiliation:
+    institution: AI4LIFE / Hanoi University of Science and Technology (HUST)
+    country: Vietnam
+    position: Research Fellow
+  links:
+    arxiv: https://arxiv.org/a/nguyen_p_3
+  sub_areas:
+  - causal-discovery
+  - causal-ml
+  key_papers:
+  - title: Causal Graph Learning via Distributional Invariance of Cause-Effect Relationship
+    venue: TMLR
+    year: 2026
+  notes: HUST/AI4LIFE Vietnam.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-quang-huy-vnu
+  name: Nguyen, Quang-Huy
+  affiliation:
+    institution: VNU University of Engineering and Technology
+    country: Vietnam
+    position: Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_q_3
+  sub_areas:
+  - counterfactual-explanation
+  key_papers:
+  - title: 'From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems'
+    venue: arXiv
+    year: 2026
+  notes: VNU-UET Hanoi.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-son-phuc-vnuhcm
+  name: Nguyen, Son Phuc
+  affiliation:
+    institution: Vietnam National University Ho Chi Minh City
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5058777096
+  sub_areas:
+  - theoretical
+  - causal-ml
+  notes: 'OpenAlex: 3 causal-inference papers.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-thanh-an-vnuhcm
+  name: Nguyen, Thanh-An
+  affiliation:
+    institution: Ho Chi Minh City University of Science / VNU-HCM
+    country: Vietnam
+    position: Faculty
+  links:
+    openalex: https://openalex.org/A5102029387
+  sub_areas:
+  - counterfactual-explanation
+  - causal-discovery
+  key_papers:
+  - title: 'Enhancing counterfactual explanations with causal inference: integrating DirectLiNGAM and variational autoencoders
+      for constraint-aware generation'
+    venue: Applied Intelligence
+    year: 2025
+  notes: VNU-HCM.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-van-tham-hui
+  name: Nguyen, Van Tham
+  affiliation:
+    institution: Hanoi University of Industry
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5100682595
+    orcid: https://orcid.org/0000-0002-3972-3068
+  sub_areas:
+  - theoretical
+  notes: 'OpenAlex: 6 causal-inference papers; probabilistic knowledge bases.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: pham-dung-hmu
+  name: Pham, Dung
+  affiliation:
+    institution: Hanoi Medical University
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5114109853
+  sub_areas:
+  - applied-health
+  - applied-social
+  notes: 'OpenAlex: 2 causal-inference papers; clustered randomized trials.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: pham-hoa-vnuhcm
+  name: Pham, Hoa
+  affiliation:
+    institution: Vietnam National University Ho Chi Minh City
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5078043368
+    orcid: https://orcid.org/0000-0002-7012-6333
+  sub_areas:
+  - applied-health
+  - theoretical
+  notes: 'OpenAlex: 2 causal-inference papers, h=4.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: pham-huy-hieu-vinuni
+  name: Pham, Huy-Hieu
+  affiliation:
+    institution: VinUniversity / VinUni-Illinois Smart Health Center
+    country: Vietnam
+    position: Assistant Professor
+  links:
+    arxiv: https://arxiv.org/a/pham_h_2
+  sub_areas:
+  - causal-ml
+  - applied-health
+  key_papers:
+  - title: 'CLEAR: Causal Learning Framework For Robust Histopathology Tumor Detection Under OOD Shifts'
+    venue: arXiv
+    year: 2025
+  notes: VinUniversity Hanoi.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: pham-van-dai-fpt
+  name: Pham, Van Dai
+  affiliation:
+    institution: FPT University
+    country: Vietnam
+    position: Faculty
+  links:
+    openalex: https://openalex.org/A5017967256
+  sub_areas:
+  - causal-ml
+  notes: h=10; causal-mechanism IDS.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: phan-h-giang-hmu
+  name: Phan, H. Giang
+  affiliation:
+    institution: Hanoi Medical University
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5013803469
+  sub_areas:
+  - theoretical
+  - applied-health
+  key_papers:
+  - title: Two axiomatic approaches to decision making using possibility theory
+    venue: European Journal of Operational Research
+    year: 2003
+  notes: 'OpenAlex: 23 causal-inference papers, h=12; strongest VN-domestic find by paper count.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: tran-ngoc-mai-cantho
+  name: Tran, Ngoc Mai
+  affiliation:
+    institution: Can Tho University / UT Austin
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5082324019
+    orcid: https://orcid.org/0000-0002-5061-6562
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  key_papers:
+  - title: Causal Discovery of a River Network from its Extremes
+    year: 2021
+  - title: The tropical geometry of causal inference for extremes
+    year: 2022
+  notes: 'OpenAlex: 7 causal-inference papers, h=12; tropical-geometry approach to causal discovery.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: tran-quang-thang-hcmute
+  name: Tran, Quang-Thang
+  affiliation:
+    institution: Ho Chi Minh City University of Technology and Engineering
+    country: Vietnam
+    position: Faculty
+  links:
+    openalex: https://openalex.org/A5044509730
+  sub_areas:
+  - causal-ml
+  - applied-econ
+  key_papers:
+  - title: A Proposal of Leveraging Causal AI for Enhancing Machine Learning Applications in Information Systems
+    year: 2025
+  notes: Causal AI in Information Systems.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: tran-toan-vinai
+  name: Tran, Toan
+  affiliation:
+    institution: VinAI Research / Hanoi University of Science and Technology (HUST)
+    country: Vietnam
+    position: Senior Research Scientist
+  links:
+    scholar: https://scholar.google.com/citations?user=PnwSuNMAAAAJ
+  sub_areas:
+  - causal-ml
+  key_papers:
+  - title: 'CASUAL: Conditional Support Alignment'
+    venue: AAAI
+    year: 2025
+  notes: 'Domain adaptation and causal representation work. Note: VinAI was acquired by Qualcomm in 2025; affiliation may
+    have updated.'
+  source: manual_seed
+  confidence: medium
+  last_verified: 2026-05-24
+- id: tran-trong-hieu-vnu
+  name: Tran, Trong Hieu
+  affiliation:
+    institution: Vietnam National University, Hanoi
+    country: Vietnam
+    position: Faculty
+  links:
+    openalex: https://openalex.org/A5055126024
+  sub_areas:
+  - theoretical
+  notes: Probabilistic knowledge bases.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: truong-thi-kieu-anh-vnu
+  name: Truong Thi, Kieu-Anh
+  affiliation:
+    institution: VNU University of Engineering and Technology
+    country: Vietnam
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/truong_k_1
+  sub_areas:
+  - causal-ml
+  - applied-health
+  key_papers:
+  - title: 'CLEAR: Causal Learning Framework For Robust Histopathology Tumor Detection Under OOD Shifts'
+    venue: arXiv
+    year: 2025
+  notes: VNU-UET Hanoi.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: vu-ha-ftu
+  name: Vu, Ha
+  affiliation:
+    institution: Foreign Trade University
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5057230043
+  sub_areas:
+  - theoretical
+  notes: 'OpenAlex: 12 causal-inference papers, h=9; VN-affiliation.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: vu-thi-hanh-ftu
+  name: Vu, Thi Hanh
+  affiliation:
+    institution: Foreign Trade University
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5039685352
+  sub_areas:
+  - causal-ml
+  notes: 'OpenAlex: 2 causal-inference papers; ''Thi Hanh'' Vietnamese.'
+  source: scrape_openalex
   confidence: medium
   last_verified: 2026-05-24
