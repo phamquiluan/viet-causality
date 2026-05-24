@@ -31,6 +31,7 @@
     position: Research Fellow
   links:
     arxiv: https://arxiv.org/a/do_k_1
+    scholar: https://scholar.google.com/citations?user=aD6y8joAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-discovery
@@ -48,6 +49,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Kien Do
 - id: do-van-dai-deakin
   name: Do, Van Dai
   affiliation:
