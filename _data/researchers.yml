@@ -862,12 +862,14 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/vo_t_1
+    scholar: https://scholar.google.com/citations?user=RLoZBGwAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   notes: Deakin A2I2; hyphenated Vietnamese given name 'Tri-Nhan'.
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Trí Nhân Võ
 - id: vo-vy-monash
   name: Vo, Vy
   affiliation:
