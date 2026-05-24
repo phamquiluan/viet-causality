@@ -1060,6 +1060,7 @@
     position: Junior Professor
   links:
     dblp: https://dblp.org/pid/218/6646
+    scholar: https://scholar.google.com/citations?user=yny05hUAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   - causal-rl
@@ -1074,6 +1075,7 @@
   source: scrape_dblp
   confidence: low
   last_verified: 2026-05-24
+  name_scholar: Thomy Phan
 - id: tran-hien-freiburg
   name: Tran, Hien
   affiliation:
