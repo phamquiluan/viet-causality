@@ -189,7 +189,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Duong, Tri Dung | PhD Student | University of Technology Sydney (UTS) | Australia | `counterfactual-fairness`, `counterfactual-explanation`, `causal-ml` |  | high |
 | [Nu Hoang](https://scholar.google.com/citations?user=CiNpg4oAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=CiNpg4oAAAAJ&hl=en&oi=ao) | high |
 | Hoang, Tao | PhD Graduate | Previously University of South Australia (PhD with Jiuyong Li) | Australia | `causal-discovery`, `theoretical` | [dblp](https://dblp.org/pid/159/1950) | medium |
-| Le, Minh | PhD Student | Deakin University | Australia | `causal-discovery`, `theoretical` | [orcid](https://orcid.org/0000-0002-0684-6408) | medium |
+| [Minh Khoa Le](https://scholar.google.com/citations?user=v087cnkAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=v087cnkAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0002-0684-6408) | medium |
 | Ngo, Dung Daniel T. | PhD Student | Carnegie Mellon University (CMU) - based on coauthors Steven Wu, Vasilis Syrgkanis | United States | `theoretical`, `causal-ml` | [dblp](https://dblp.org/pid/296/8379) | high |
 | Nguyen, Dang | PhD Student | Deakin University, A2I2 | Australia | `causal-ml`, `counterfactual-explanation` |  | medium |
 | Nguyen, Huy-Son | PhD Student | Delft University of Technology | Netherlands | `counterfactual-explanation` |  | medium |

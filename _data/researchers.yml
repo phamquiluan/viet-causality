@@ -266,6 +266,7 @@
     openalex: https://openalex.org/A5016537664
     orcid: https://orcid.org/0000-0002-0684-6408
     arxiv: https://arxiv.org/a/le_m_1
+    scholar: https://scholar.google.com/citations?user=v087cnkAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - theoretical
@@ -281,6 +282,7 @@
   - scrape_arxiv
   - scrape_openalex
   last_verified: 2026-05-24
+  name_scholar: Minh Khoa Le
 - id: le-thao-minh-deakin
   name: Le, Thao Minh
   affiliation:
