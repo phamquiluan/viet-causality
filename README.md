@@ -194,7 +194,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | [Dang Nguyen](https://scholar.google.com/citations?user=UtlivOcAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-ml`, `counterfactual-explanation` | [scholar](https://scholar.google.com/citations?user=UtlivOcAAAAJ&hl=en&oi=ao) | medium |
 | Nguyen, Huy-Son | PhD Student | Delft University of Technology | Netherlands | `counterfactual-explanation` |  | medium |
 | Nguyen, Khoa | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery` |  | medium |
-| Nguyen, Minh Hoang | PhD Student | KAIST, Department of Computer Science (current); previously University of Auckland | South Korea | `causal-rl`, `causal-ml` | [dblp](https://dblp.org/pid/32/5736) | high |
+| [Minh Hoang Nguyen](https://scholar.google.com/citations?user=bU_mv-8AAAAJ&hl=en&oi=ao) | PhD Student | KAIST, Department of Computer Science (current); previously University of Auckland | South Korea | `causal-rl`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=bU_mv-8AAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/32/5736) | high |
 | Nguyen, Minh-Duong | PhD Student | Pukyong National University, Korea (per Quoc-Viet Pham collaboration) | South Korea | `causal-ml` |  | medium |
 | Nguyen, Nang Hung | PhD Student | The University of Tokyo | Japan | `causal-discovery`, `causal-ml` |  | medium |
 | Nguyen, Nhi | PhD Student | New York University | United States | `causal-ml` | [home](https://iam-nhi-nguyen.github.io/) | medium |

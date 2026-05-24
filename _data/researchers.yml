@@ -1388,6 +1388,7 @@
   links:
     dblp: https://dblp.org/pid/32/5736
     arxiv: https://arxiv.org/a/nguyen_m_5
+    scholar: https://scholar.google.com/citations?user=bU_mv-8AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-rl
   - causal-ml
@@ -1409,6 +1410,7 @@
   - scrape_arxiv
   - scrape_dblp
   last_verified: 2026-05-24
+  name_scholar: Minh Hoang Nguyen
 - id: nguyen-minh-duong
   name: Nguyen, Minh-Duong
   affiliation:
