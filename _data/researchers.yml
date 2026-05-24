@@ -239,6 +239,7 @@
     position: Senior Lecturer (ARC DECRA Fellow)
   links:
     dblp: https://dblp.org/pid/45/466-2
+    scholar: https://scholar.google.com/citations?user=q2HbxngAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-rl
   - causal-discovery
@@ -254,6 +255,7 @@
   source: scrape_dblp
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Hung Le
 - id: le-minh-deakin
   name: Le, Minh
   affiliation:
