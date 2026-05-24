@@ -2751,6 +2751,7 @@
     position: Assistant Professor
   links:
     arxiv: https://arxiv.org/a/pham_h_2
+    scholar: https://scholar.google.com/citations?user=mXcFcNkAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - applied-health
@@ -2762,6 +2763,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Hieu H. Pham
 - id: pham-van-dai-fpt
   name: Pham, Van Dai
   affiliation:
