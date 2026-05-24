@@ -1537,6 +1537,7 @@
     position: Applied Scientist
   links:
     dblp: https://dblp.org/pid/59/4389
+    scholar: https://scholar.google.com/citations?user=5RQyC9cAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-nlp
   - theoretical
@@ -1548,6 +1549,7 @@
   source: scrape_dblp
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Vu Nguyen
 - id: pham-tra-my-ucl
   name: Pham, Tra My
   affiliation:
