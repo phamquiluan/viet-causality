@@ -66,7 +66,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | **Senior Lecturer** | | | | | | |
 | Le, Hung | Senior Lecturer (ARC DECRA Fellow) | Deakin University, Applied Artificial Intelligence Institute (A2I2) | Australia | `causal-rl`, `causal-discovery`, `causal-ml` | [dblp](https://dblp.org/pid/45/466-2) | high |
 | Le, Trung | Senior Lecturer | Monash University | Australia | `causal-ml` | [home](https://research.monash.edu/en/persons/trung-le) | medium |
-| Nguyen, Duc Thanh | Senior Lecturer | Deakin University | Australia | `causal-discovery`, `causal-cv` | [scholar](https://scholar.google.com.au/citations?user=4vExyv8AAAAJ) | high |
+| [Duc Thanh Nguyen](https://scholar.google.com/citations?user=4vExyv8AAAAJ&hl=en&oi=ao) | Senior Lecturer | Deakin University | Australia | `causal-discovery`, `causal-cv` | [scholar](https://scholar.google.com/citations?user=4vExyv8AAAAJ&hl=en&oi=ao) | high |
 | Nguyen, Hoang Thuan | Senior Lecturer | RMIT Vietnam | Vietnam | `causal-ml`, `applied-econ` |  | high |
 | Tran, Son N. | Senior Lecturer | University of Tasmania | Australia | `causal-ml`, `theoretical` |  | high |
 | **Senior Research Scientist** | | | | | | |

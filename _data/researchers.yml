@@ -408,7 +408,7 @@
     country: Australia
     position: Senior Lecturer
   links:
-    scholar: https://scholar.google.com.au/citations?user=4vExyv8AAAAJ
+    scholar: https://scholar.google.com/citations?user=4vExyv8AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-cv
@@ -420,6 +420,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Duc Thanh Nguyen
 - id: nguyen-dung-deakin
   name: Nguyen, Dung
   affiliation:
