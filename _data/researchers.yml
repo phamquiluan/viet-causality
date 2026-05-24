@@ -1673,6 +1673,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5053781401
+    scholar: https://scholar.google.com/citations?user=Wo5c6BEAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - applied-health
@@ -1684,6 +1685,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Phat Kim Huynh
 - id: le-do-minh-csu-fullerton
   name: Le, Do Minh
   affiliation:
