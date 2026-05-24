@@ -2070,6 +2070,7 @@
     position: PhD Student
   links:
     homepage: https://pth1993.github.io/
+    scholar: https://scholar.google.com/citations?user=bht4j9oAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - applied-health
@@ -2081,6 +2082,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Thai-Hoang Pham
 - id: phan-vu-h-n-rice
   name: Phan, Vu H. N.
   affiliation:
