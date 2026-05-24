@@ -68,7 +68,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | [Trung Le](https://scholar.google.com/citations?user=gysdMxwAAAAJ&hl=en&oi=ao) | Senior Lecturer | Monash University | Australia | `causal-ml` | [home](https://research.monash.edu/en/persons/trung-le) · [scholar](https://scholar.google.com/citations?user=gysdMxwAAAAJ&hl=en&oi=ao) | medium |
 | [Duc Thanh Nguyen](https://scholar.google.com/citations?user=4vExyv8AAAAJ&hl=en&oi=ao) | Senior Lecturer | Deakin University | Australia | `causal-discovery`, `causal-cv` | [scholar](https://scholar.google.com/citations?user=4vExyv8AAAAJ&hl=en&oi=ao) | high |
 | Nguyen, Hoang Thuan | Senior Lecturer | RMIT Vietnam | Vietnam | `causal-ml`, `applied-econ` |  | high |
-| Tran, Son N. | Senior Lecturer | University of Tasmania | Australia | `causal-ml`, `theoretical` |  | high |
+| [Son N. Tran](https://scholar.google.com/citations?user=h82eCK8AAAAJ&hl=en&oi=ao) | Senior Lecturer | University of Tasmania | Australia | `causal-ml`, `theoretical` | [scholar](https://scholar.google.com/citations?user=h82eCK8AAAAJ&hl=en&oi=ao) | high |
 | **Senior Research Scientist** | | | | | | |
 | [Toan Tran](https://scholar.google.com/citations?user=PnwSuNMAAAAJ&hl=en&oi=ao) | Senior Research Scientist | VinAI Research / Hanoi University of Science and Technology (HUST) | Vietnam | `causal-ml` | [scholar](https://scholar.google.com/citations?user=PnwSuNMAAAAJ&hl=en&oi=ao) | medium |
 | **Senior Research Fellow** | | | | | | |

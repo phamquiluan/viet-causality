@@ -792,6 +792,7 @@
     position: Senior Lecturer
   links:
     openalex: https://openalex.org/A5008915336
+    scholar: https://scholar.google.com/citations?user=h82eCK8AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - theoretical
@@ -799,6 +800,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Son N. Tran
 - id: tran-truyen-deakin
   name: Tran, Truyen
   affiliation:
