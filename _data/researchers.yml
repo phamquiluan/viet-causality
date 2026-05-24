@@ -2631,6 +2631,7 @@
     position: Research Fellow
   links:
     arxiv: https://arxiv.org/a/nguyen_p_3
+    scholar: https://scholar.google.com/citations?user=L_NKoQwAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-ml
@@ -2642,6 +2643,7 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Phi Le Nguyen
 - id: nguyen-quang-huy-vnu
   name: Nguyen, Quang-Huy
   affiliation:
