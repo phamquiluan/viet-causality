@@ -87,7 +87,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | [Buu Truong](https://scholar.google.com/citations?user=e8cttx0AAAAJ&hl=en&oi=ao) | Research Fellow | Broad Institute / Harvard / Massachusetts General Hospital | United States | `applied-bio`, `theoretical` | [scholar](https://scholar.google.com/citations?user=e8cttx0AAAAJ&hl=en&oi=ao) | high |
 | [Vo Thanh Vinh](https://scholar.google.com/citations?user=g1m5t54AAAAJ&hl=en&oi=ao) | Research Fellow | National University of Singapore (NUS) | Singapore | `causal-ml`, `theoretical` | [home](https://vothanhvinh.github.io/) · [scholar](https://scholar.google.com/citations?user=g1m5t54AAAAJ&hl=en&oi=ao) | high |
 | **Postdoc** | | | | | | |
-| Le, Tam | Postdoctoral Researcher | RIKEN Center for Advanced Intelligence Project (AIP) | Japan | `theoretical`, `causal-ml` | [dblp](https://dblp.org/pid/137/4218) | high |
+| [Tam Le](https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en&oi=ao) | Postdoctoral Researcher | RIKEN Center for Advanced Intelligence Project (AIP) | Japan | `theoretical`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/137/4218) | high |
 | Nguyen, Duy | Postdoc | UC Santa Cruz (current); past: Oxford University Clinical Research Unit (Ho Chi Minh City), HCMUS | United States | `counterfactual-explanation`, `theoretical` | [dblp](https://dblp.org/pid/13/5240) | high |
 | **Senior Researcher** | | | | | | |
 | [Vinh N. Dang](https://scholar.google.com/citations?user=AaE_1CAAAAAJ&hl=en&oi=ao) | Senior Researcher | Paul Scherrer Institute | Switzerland | `theoretical`, `applied-bio` | [scholar](https://scholar.google.com/citations?user=AaE_1CAAAAAJ&hl=en&oi=ao) | high |

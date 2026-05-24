@@ -1220,6 +1220,7 @@
     position: Postdoctoral Researcher
   links:
     dblp: https://dblp.org/pid/137/4218
+    scholar: https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-ml
@@ -1231,6 +1232,7 @@
   source: scrape_dblp
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Tam Le
 - id: nguyen-minh-le-jaist
   name: Nguyen, Minh Le
   affiliation:
