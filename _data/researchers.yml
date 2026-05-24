@@ -654,6 +654,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/pham_l_1
+    scholar: https://scholar.google.com/citations?user=YRS7knwAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-discovery
@@ -667,6 +668,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Luan Pham
 - id: pham-vu-viet-hoang-unisa
   name: Pham, Vu Viet Hoang
   affiliation:

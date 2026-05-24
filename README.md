@@ -202,7 +202,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | [Toan Nguyen](https://scholar.google.com/citations?user=G44wtd4AAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-ml`, `causal-nlp`, `applied-health` | [scholar](https://scholar.google.com/citations?user=G44wtd4AAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/62/4324-4) | high |
 | Nguyen, Tu Anh Hoang | PhD Student | Deakin University, A2I2 | Australia | `causal-ml` |  | medium |
 | Nguyen, Vy | PhD Student | RMIT University, School of Computing Technologies | Australia | `causal-nlp` |  | medium |
-| Pham, Luan | PhD Student | RMIT University | Australia | `theoretical`, `causal-discovery`, `applied-bio` |  | high |
+| [Luan Pham](https://scholar.google.com/citations?user=YRS7knwAAAAJ&hl=en&oi=ao) | PhD Student | RMIT University | Australia | `theoretical`, `causal-discovery`, `applied-bio` | [scholar](https://scholar.google.com/citations?user=YRS7knwAAAAJ&hl=en&oi=ao) | high |
 | Pham, Thai-Hoang | PhD Student | Ohio State University (AIMed lab, Ping Zhang) | United States | `causal-ml`, `applied-health`, `counterfactual-fairness` | [home](https://pth1993.github.io/) | high |
 | Tran, Ba-Hien | PhD Student | EURECOM / Cote d'Azur (likely) | France | `causal-ml` |  | medium |
 | [Ha Xuan Tran](https://scholar.google.com/citations?user=P8SBHWUAAAAJ&hl=en&oi=ao) | PhD Student | University of South Australia (UniSA) | Australia | `causal-ml`, `counterfactual-explanation` | [scholar](https://scholar.google.com/citations?user=P8SBHWUAAAAJ&hl=en&oi=ao) | high |
