@@ -68,21 +68,6 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
-- id: doan-tinh-anu
-  name: Doan, Tinh
-  affiliation:
-    institution: Australian National University / Dalat University
-    country: Australia
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5008296992
-  sub_areas:
-  - applied-econ
-  - applied-health
-  notes: h=16; applied causal econometrics.
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
 - id: doan-toan-deakin
   name: Doan, Toan
   affiliation:
@@ -331,24 +316,6 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
-- id: ngo-liem-viet-unsw
-  name: Ngo, Liem Viet
-  affiliation:
-    institution: UNSW Sydney
-    country: Australia
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5089513709
-  sub_areas:
-  - theoretical
-  key_papers:
-  - title: Probabilistic logic programming and Bayesian networks
-    venue: LNCS
-    year: 1995
-  notes: h=35, 4681 citations; probabilistic reasoning / Bayesian networks pioneer.
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
 - id: nguyen-dang-deakin
   name: Nguyen, Dang
   affiliation:
@@ -549,20 +516,6 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
-- id: pham-duc-nghia-data61
-  name: Pham, Duc Nghia
-  affiliation:
-    institution: CSIRO Data61 / Griffith University
-    country: Australia
-    position: Industry Researcher
-  links:
-    openalex: https://openalex.org/A5033848427
-  sub_areas:
-  - theoretical
-  notes: SAT / probabilistic reasoning.
-  source: scrape_semantic_scholar
-  confidence: medium
-  last_verified: 2026-05-24
 - id: pham-luan-rmit
   name: Pham, Luan
   affiliation:
@@ -682,21 +635,6 @@
     url: https://arxiv.org/abs/2312.10102
   notes: Deakin A2I2; co-authors Bao Duong, Phuoc Nguyen, Thin Nguyen.
   source: scrape_arxiv
-  confidence: high
-  last_verified: 2026-05-24
-- id: tran-son-n-utas
-  name: Tran, Son N.
-  affiliation:
-    institution: University of Tasmania
-    country: Australia
-    position: Senior Lecturer
-  links:
-    openalex: https://openalex.org/A5008915336
-  sub_areas:
-  - causal-ml
-  - theoretical
-  notes: h=23, 2390 citations; neural-symbolic integration; UEL/VNU-HCM alumnus.
-  source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
 - id: tran-truyen-deakin
@@ -1049,25 +987,6 @@
   - scrape_dblp
   - scrape_openalex
   last_verified: 2026-05-24
-- id: vo-nguyen-le-duy-nitech
-  name: Vo Nguyen, Le Duy
-  affiliation:
-    institution: Nagoya Institute of Technology
-    country: Japan
-    position: Faculty
-  links:
-    openalex: https://openalex.org/A5017268424
-  sub_areas:
-  - theoretical
-  - causal-discovery
-  key_papers:
-  - title: Fast and More Powerful Selective Inference for Sparse High-Order Interaction Model
-    venue: AAAI
-    year: 2022
-  notes: Selective inference for causal/interaction discovery.
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
 - id: nguyen-huy-son-delft
   name: Nguyen, Huy-Son
   affiliation:
@@ -1186,21 +1105,6 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
-- id: dang-vinh-paul-scherrer
-  name: Dang, Vinh N.
-  affiliation:
-    institution: Paul Scherrer Institute
-    country: Switzerland
-    position: Senior Researcher
-  links:
-    openalex: https://openalex.org/A5034100882
-  sub_areas:
-  - theoretical
-  - applied-bio
-  notes: Bayesian belief network methodology for reliability.
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
 - id: nguyen-cuong-v-durham
   name: Nguyen, Cuong V.
   affiliation:
@@ -1235,25 +1139,6 @@
   notes: 'DBLP: 2 causality papers; Oxford/Deakin alumnus.'
   source: scrape_dblp
   confidence: medium
-  last_verified: 2026-05-24
-- id: bui-ngoc-yale
-  name: Bui, Ngoc
-  affiliation:
-    institution: Yale University
-    country: United States
-    position: PhD Student
-  links:
-    openalex: https://openalex.org/A5103009773
-  sub_areas:
-  - counterfactual-explanation
-  - theoretical
-  key_papers:
-  - title: Counterfactual Plans under Distributional Ambiguity
-    venue: ICLR
-    year: 2022
-  notes: Counterfactual recourse; co-author with Viet Anh Nguyen (CUHK).
-  source: scrape_semantic_scholar
-  confidence: high
   last_verified: 2026-05-24
 - id: dang-lauren-eyler-berkeley
   name: Dang, Lauren Eyler
@@ -1388,20 +1273,6 @@
   source: scrape_dblp
   confidence: high
   last_verified: 2026-05-24
-- id: ngo-van-chan-cmu
-  name: Ngo, Van Chan
-  affiliation:
-    institution: Carnegie Mellon University
-    country: United States
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5057227260
-  sub_areas:
-  - theoretical
-  notes: h=7; quantitative analysis of probabilistic programs.
-  source: scrape_semantic_scholar
-  confidence: medium
-  last_verified: 2026-05-24
 - id: nguyen-anh-totti-auburn
   name: Nguyen, Anh (Totti)
   affiliation:
@@ -1464,25 +1335,6 @@
   source: scrape_viet_wics
   confidence: medium
   last_verified: 2026-05-24
-- id: nguyen-quynh-c-missouri
-  name: Nguyen, Quynh C.
-  affiliation:
-    institution: University of Missouri
-    country: United States
-    position: Associate Professor
-  links:
-    openalex: https://openalex.org/A5051269080
-  sub_areas:
-  - theoretical
-  - applied-health
-  key_papers:
-  - title: Practical Guidance for Conducting Mediation Analysis With Multiple Mediators Using Inverse Odds Ratio Weighting
-    venue: American Journal of Epidemiology
-    year: 2015
-  notes: h=14; mediation analysis; DISTINCT from Trang Quynh Nguyen (JHU).
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
 - id: nguyen-thanh-hong-oregon
   name: Nguyen, Thanh Hong
   affiliation:
@@ -1528,21 +1380,6 @@
     year: 2024
   notes: Sustained research line on event causality identification in NLP (4+ papers in NAACL, AAAI, COLING).
   source: scrape_dynaroars
-  confidence: high
-  last_verified: 2026-05-24
-- id: nguyen-thuy-ngoc-cmu
-  name: Nguyen, Thuy Ngoc
-  affiliation:
-    institution: Carnegie Mellon University
-    country: United States
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5053131708
-  sub_areas:
-  - causal-ml
-  - theoretical
-  notes: Cognitive Bayesian modeling; theory of mind.
-  source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
 - id: nguyen-trang-quynh-jhu
@@ -1736,20 +1573,6 @@
   source: scrape_dynaroars
   confidence: high
   last_verified: 2026-05-24
-- id: trinh-huong-amgen
-  name: Trinh, Huong
-  affiliation:
-    institution: Amgen
-    country: United States
-    position: Industry Researcher
-  links:
-    openalex: https://openalex.org/A5073889590
-  sub_areas:
-  - applied-health
-  notes: RWE / treatment-effect replication.
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
 - id: trinh-quoc-dien-harvard
   name: Trinh, Quoc-Dien
   affiliation:
@@ -1788,21 +1611,6 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
-- id: truong-van-thi-thanh-uth
-  name: Truong, Van Thi Thanh
-  affiliation:
-    institution: UT Health Science Center at Houston
-    country: United States
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5005413614
-  sub_areas:
-  - theoretical
-  - applied-health
-  notes: h=19; biostatistician on multicenter trial treatment-effect estimation.
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
 - id: le-hao-duong-llm-cd
   name: Le, Hao Duong
   affiliation:
@@ -1819,34 +1627,6 @@
     venue: arXiv
     year: 2024
   notes: LLM-based multi-agent causal discovery.
-  source: scrape_semantic_scholar
-  confidence: medium
-  last_verified: 2026-05-24
-- id: ngo-nghia-trung-causal-nlp
-  name: Ngo, Nghia Trung
-  affiliation:
-    institution: Unknown - please verify
-    country: Unknown
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5087736585
-  sub_areas:
-  - causal-nlp
-  notes: Event causality identification (NLP).
-  source: scrape_semantic_scholar
-  confidence: medium
-  last_verified: 2026-05-24
-- id: nguyen-chien-van-causal-nlp
-  name: Nguyen, Chien Van
-  affiliation:
-    institution: Unknown - please verify
-    country: Unknown
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5048500413
-  sub_areas:
-  - causal-nlp
-  notes: Event causality identification (NLP).
   source: scrape_semantic_scholar
   confidence: medium
   last_verified: 2026-05-24
@@ -1878,38 +1658,6 @@
   - causal-discovery
   notes: Co-author with Luan Pham (RMIT); 'Hoang' Vietnamese given name.
   source: scrape_arxiv
-  confidence: medium
-  last_verified: 2026-05-24
-- id: dinh-truong-duy-vnpt
-  name: Dinh, Truong Duy
-  affiliation:
-    institution: Vietnam Posts and Telecommunications (VNPT) / PTIT
-    country: Vietnam
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5041417996
-  sub_areas:
-  - causal-ml
-  key_papers:
-  - title: 'Causal-IDS: Detecting Network Intrusions as Causal Mechanism Violations'
-    year: 2026
-  notes: h=7; causal-mechanism IDS.
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
-- id: ho-tung-manh-phenikaa
-  name: Ho, Tung Manh
-  affiliation:
-    institution: Phenikaa University / Vietnam Academy of Social Sciences
-    country: Vietnam
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5004093997
-  sub_areas:
-  - theoretical
-  - applied-econ
-  notes: h=38, 5518 citations; bayesvl R package author; mindsponge framework.
-  source: scrape_semantic_scholar
   confidence: medium
   last_verified: 2026-05-24
 - id: huynh-thi-hong-tram-hcm
@@ -2030,36 +1778,6 @@
   notes: '''Thi'' marker, ''Cam-Van'' Vietnamese given name; VNU-UET.'
   source: scrape_arxiv
   confidence: medium
-  last_verified: 2026-05-24
-- id: nguyen-cuong-viet-vnu-econ
-  name: Nguyen, Cuong Viet
-  affiliation:
-    institution: Vietnam National University, Hanoi / National Economics University
-    country: Vietnam
-    position: Full Professor
-  links:
-    openalex: https://openalex.org/A5050413008
-  sub_areas:
-  - applied-econ
-  - theoretical
-  notes: h=33, 277 works, 4392 citations; DISTINCT from seed nguyen-cuong-v-durham (Durham ML).
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
-- id: nguyen-hoang-thuan-rmit-vn
-  name: Nguyen, Hoang Thuan
-  affiliation:
-    institution: RMIT Vietnam
-    country: Vietnam
-    position: Senior Lecturer
-  links:
-    openalex: https://openalex.org/A5018101883
-  sub_areas:
-  - causal-ml
-  - applied-econ
-  notes: h=10; IS / design science / Causal AI in IS.
-  source: scrape_semantic_scholar
-  confidence: high
   last_verified: 2026-05-24
 - id: nguyen-long-lqdtu
   name: Nguyen, Long
@@ -2205,20 +1923,6 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
-- id: pham-van-dai-fpt
-  name: Pham, Van Dai
-  affiliation:
-    institution: FPT University
-    country: Vietnam
-    position: Faculty
-  links:
-    openalex: https://openalex.org/A5017967256
-  sub_areas:
-  - causal-ml
-  notes: h=10; causal-mechanism IDS.
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
 - id: tran-ngoc-mai-cantho
   name: Tran, Ngoc Mai
   affiliation:
@@ -2240,24 +1944,6 @@
   source: scrape_openalex
   confidence: high
   last_verified: 2026-05-24
-- id: tran-quang-thang-hcmute
-  name: Tran, Quang-Thang
-  affiliation:
-    institution: Ho Chi Minh City University of Technology and Engineering
-    country: Vietnam
-    position: Faculty
-  links:
-    openalex: https://openalex.org/A5044509730
-  sub_areas:
-  - causal-ml
-  - applied-econ
-  key_papers:
-  - title: A Proposal of Leveraging Causal AI for Enhancing Machine Learning Applications in Information Systems
-    year: 2025
-  notes: Causal AI in Information Systems.
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
 - id: tran-toan-vinai
   name: Tran, Toan
   affiliation:
@@ -2276,20 +1962,6 @@
     have updated.'
   source: manual_seed
   confidence: medium
-  last_verified: 2026-05-24
-- id: tran-trong-hieu-vnu
-  name: Tran, Trong Hieu
-  affiliation:
-    institution: Vietnam National University, Hanoi
-    country: Vietnam
-    position: Faculty
-  links:
-    openalex: https://openalex.org/A5055126024
-  sub_areas:
-  - theoretical
-  notes: Probabilistic knowledge bases.
-  source: scrape_semantic_scholar
-  confidence: high
   last_verified: 2026-05-24
 - id: truong-thi-kieu-anh-vnu
   name: Truong Thi, Kieu-Anh

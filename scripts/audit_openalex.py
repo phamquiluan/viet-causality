@@ -69,44 +69,52 @@ def count_causality_works(author_id: str) -> dict[str, int]:
 
 
 def main() -> int:
-    stage_b1 = RAW / "stage_b1_openalex.yml"
-    if not stage_b1.exists():
-        print("stage_b1_openalex.yml not found", file=sys.stderr)
-        return 1
-    entries = yaml.safe_load(stage_b1.read_text(encoding="utf-8")) or []
-    print(f"Auditing {len(entries)} Stage B1 entries against narrow causality concepts...\n")
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("files", nargs="*", default=[],
+                        help="Raw YAML files to audit (default: all scripts/raw/*.yml)")
+    args = parser.parse_args()
 
-    false_positives: list[tuple[str, dict[str, int]]] = []
-    confirmed: list[tuple[str, dict[str, int]]] = []
-    skipped: list[str] = []
+    files = [Path(f) for f in args.files] if args.files else sorted(RAW.glob("*.yml"))
 
-    for i, e in enumerate(entries, 1):
-        links = e.get("links") or {}
-        oa_url = links.get("openalex", "")
-        oa_id = extract_oa_id(oa_url)
-        if not oa_id:
-            skipped.append(e["id"])
+    false_positives: list[tuple[str, str, dict[str, int]]] = []
+    confirmed: list[tuple[str, str, int]] = []
+    skipped_count = 0
+    total_seen = 0
+
+    for path in files:
+        entries = yaml.safe_load(path.read_text(encoding="utf-8")) or []
+        oa_entries = [e for e in entries if extract_oa_id((e.get("links") or {}).get("openalex", ""))]
+        if not oa_entries:
             continue
-        print(f"[{i:2d}/{len(entries)}] {e['id']:42s} {e['name']:30s}", end="  ", flush=True)
-        counts = count_causality_works(oa_id)
-        total = sum(c for c in counts.values() if c >= 0)
-        summary = " ".join(f"{cid[1:]}={c}" for cid, c in counts.items())
-        print(f"  total={total}  ({summary})")
-        if total == 0:
-            false_positives.append((e["id"], counts))
-        else:
-            confirmed.append((e["id"], counts))
+        print(f"\n=== {path.name}: {len(oa_entries)} entries with OpenAlex URL ===")
+        for i, e in enumerate(oa_entries, 1):
+            total_seen += 1
+            oa_id = extract_oa_id((e.get("links") or {}).get("openalex", ""))
+            print(f"  [{i:2d}/{len(oa_entries)}] {e['id']:42s} {e['name']:32s}", end="  ", flush=True)
+            counts = count_causality_works(oa_id)  # type: ignore[arg-type]
+            total = sum(c for c in counts.values() if c >= 0)
+            print(f"total={total}")
+            if total == 0:
+                false_positives.append((path.name, e["id"], counts))
+            else:
+                confirmed.append((path.name, e["id"], total))
 
     print("\n" + "=" * 80)
-    print(f"AUDIT RESULTS:")
-    print(f"  Confirmed (>=1 work under narrow causality concept): {len(confirmed)}")
-    print(f"  Likely false positives (zero across all concepts):   {len(false_positives)}")
-    print(f"  Skipped (no OpenAlex URL):                           {len(skipped)}")
-    print()
+    print("AUDIT RESULTS:")
+    print(f"  Files scanned: {len(files)}")
+    print(f"  Entries with OpenAlex URL audited: {total_seen}")
+    print(f"  Confirmed (>=1 narrow-causality-concept work): {len(confirmed)}")
+    print(f"  False positives (zero across all 4 concepts): {len(false_positives)}")
     if false_positives:
-        print("FALSE POSITIVES (consider removing):")
-        for eid, counts in false_positives:
-            print(f"  - {eid}")
+        print("\nFALSE POSITIVES by source file:")
+        by_file: dict[str, list[str]] = {}
+        for src, eid, _ in false_positives:
+            by_file.setdefault(src, []).append(eid)
+        for src in sorted(by_file):
+            print(f"  {src}:")
+            for eid in by_file[src]:
+                print(f"    - {eid}")
     return 0
 
 
