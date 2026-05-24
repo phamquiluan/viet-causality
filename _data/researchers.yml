@@ -1855,6 +1855,7 @@
     position: Associate Professor
   links:
     openalex: https://openalex.org/A5051269080
+    scholar: https://scholar.google.com/citations?user=fOeB27MAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - applied-health
@@ -1866,6 +1867,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Quynh Nguyen
 - id: nguyen-thanh-hong-oregon
   name: Nguyen, Thanh Hong
   affiliation:
