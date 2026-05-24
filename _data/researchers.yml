@@ -2767,6 +2767,7 @@
     position: Faculty
   links:
     openalex: https://openalex.org/A5102029387
+    scholar: https://scholar.google.com/citations?user=MORsnW4AAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   - causal-discovery
@@ -2779,6 +2780,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Thanh-An Nguyen
 - id: nguyen-van-tham-hui
   name: Nguyen, Van Tham
   affiliation:

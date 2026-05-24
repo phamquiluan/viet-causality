@@ -103,7 +103,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | [Cam-Van Thi Nguyen](https://scholar.google.com/citations?user=4KiBC1YAAAAJ&hl=en&oi=ao) | Faculty | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` | [scholar](https://scholar.google.com/citations?user=4KiBC1YAAAAJ&hl=en&oi=ao) | medium |
 | Nguyen, Long | Faculty | Le Quy Don Technical University, Faculty of IT, Hanoi | Vietnam | `causal-discovery`, `causal-time-series` | [dblp](https://dblp.org/pid/02/3500) | high |
 | Nguyen, Ngoc-Thao | Faculty | VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` |  | high |
-| Nguyen, Thanh-An | Faculty | Ho Chi Minh City University of Science / VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` |  | high |
+| [Thanh-An Nguyen](https://scholar.google.com/citations?user=MORsnW4AAAAJ&hl=en&oi=ao) | Faculty | Ho Chi Minh City University of Science / VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` | [scholar](https://scholar.google.com/citations?user=MORsnW4AAAAJ&hl=en&oi=ao) | high |
 | Pham, Cuong T. | Faculty | University of Rochester Medical Center, Biostatistics and Computational Biology | United States | `theoretical`, `applied-health` |  | high |
 | [Van Dai Pham](https://scholar.google.com/citations?user=Bgre7S0AAAAJ&hl=en&oi=ao) | Faculty | FPT University | Vietnam | `causal-ml` | [scholar](https://scholar.google.com/citations?user=Bgre7S0AAAAJ&hl=en&oi=ao) | high |
 | Tran, Quang-Thang | Faculty | Ho Chi Minh City University of Technology and Engineering | Vietnam | `causal-ml`, `applied-econ` |  | high |
