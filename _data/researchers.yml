@@ -1258,6 +1258,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/nguyen_n_1
+    scholar: https://scholar.google.com/citations?user=hL8bnjIAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-ml
@@ -1269,6 +1270,7 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Nang Hung Nguyen
 - id: pham-thong-osaka
   name: Pham, Thong
   affiliation:
