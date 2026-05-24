@@ -114,7 +114,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Dang, Lauren Eyler |  | UC Berkeley / UCSF (van der Laan lab) | United States | `theoretical`, `applied-health` | [orcid](https://orcid.org/0000-0002-2967-0855) | low |
 | Dinh, Quang-Thang |  | Laboratoire d'Informatique Fondamentale de Marseille | France | `causal-discovery`, `theoretical` |  | high |
 | [Tinh Doan](https://scholar.google.com/citations?user=OrX63xEAAAAJ&hl=en&oi=ao) |  | Australian National University / Dalat University | Australia | `applied-econ`, `applied-health` | [scholar](https://scholar.google.com/citations?user=OrX63xEAAAAJ&hl=en&oi=ao) | high |
-| Ho, Tung Manh |  | Phenikaa University / Vietnam Academy of Social Sciences | Vietnam | `theoretical`, `applied-econ` |  | medium |
+| [Ho Manh Tung](https://scholar.google.com/citations?user=_5HEYN0AAAAJ&hl=en&oi=ao) |  | Phenikaa University / Vietnam Academy of Social Sciences | Vietnam | `theoretical`, `applied-econ` | [scholar](https://scholar.google.com/citations?user=_5HEYN0AAAAJ&hl=en&oi=ao) | medium |
 | [Van Phuong Hoang](https://scholar.google.com/citations?user=F3dg9vMAAAAJ&hl=en&oi=ao) |  | UNSW Sydney | Australia | `applied-health`, `applied-econ` | [scholar](https://scholar.google.com/citations?user=F3dg9vMAAAAJ&hl=en&oi=ao) | medium |
 | Huynh, Phat K. |  | North Dakota State University | United States | `causal-discovery`, `applied-health` |  | high |
 | Huynh, Thi Hong Tram |  | Unknown (paper at Vietnamese journal Y Hoc TP Ho Chi Minh) | Vietnam | `applied-health`, `theoretical` |  | medium |

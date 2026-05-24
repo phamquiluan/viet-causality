@@ -2397,6 +2397,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5004093997
+    scholar: https://scholar.google.com/citations?user=_5HEYN0AAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - applied-econ
@@ -2404,6 +2405,7 @@
   source: scrape_semantic_scholar
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Ho Manh Tung
 - id: huynh-thi-hong-tram-hcm
   name: Huynh, Thi Hong Tram
   affiliation:
