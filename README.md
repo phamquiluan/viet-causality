@@ -121,7 +121,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | [Tuyen N. Huynh](https://scholar.google.com/citations?user=w_GMSlcAAAAJ&hl=en&oi=ao) |  | Vietnam National University Ho Chi Minh City | Vietnam | `theoretical`, `causal-discovery` | [scholar](https://scholar.google.com/citations?user=w_GMSlcAAAAJ&hl=en&oi=ao) | high |
 | Le, Do Minh |  | California State University, Fullerton | United States | `causal-discovery`, `theoretical` | [orcid](https://orcid.org/0000-0002-1897-5098) | high |
 | Le, Hao Duong |  | Unknown - please verify | Unknown | `causal-discovery`, `causal-nlp` |  | medium |
-| Le, Thien-Minh |  | University of Tennessee at Chattanooga | United States | `causal-discovery`, `theoretical` | [orcid](https://orcid.org/0000-0003-2948-8778) | high |
+| [Thien-Minh Le](https://scholar.google.com/citations?user=_IZ5_Z0AAAAJ&hl=en&oi=ao) |  | University of Tennessee at Chattanooga | United States | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=_IZ5_Z0AAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0003-2948-8778) | high |
 | Le, Truc Viet |  | University of Texas Medical Branch at Galveston | United States | `causal-ml` |  | high |
 | [Liem Viet Ngo](https://scholar.google.com/citations?user=9cy1P9cAAAAJ&hl=en&oi=ao) |  | UNSW Sydney | Australia | `theoretical` | [scholar](https://scholar.google.com/citations?user=9cy1P9cAAAAJ&hl=en&oi=ao) | high |
 | Ngo, Nghia Trung |  | Unknown - please verify | Unknown | `causal-nlp` |  | medium |
