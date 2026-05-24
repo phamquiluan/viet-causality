@@ -353,6 +353,7 @@
     position: Industry Researcher
   links:
     arxiv: https://arxiv.org/a/le_v_2
+    scholar: https://scholar.google.com/citations?user=WjMGgVIAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-cv
   - causal-ml
@@ -365,6 +366,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Vuong Le
 - id: ngo-liem-viet-unsw
   name: Ngo, Liem Viet
   affiliation:
