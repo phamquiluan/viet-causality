@@ -2628,6 +2628,7 @@
     position: Senior Lecturer
   links:
     openalex: https://openalex.org/A5018101883
+    scholar: https://scholar.google.com/citations?user=pj7CKfIAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - applied-econ
@@ -2635,6 +2636,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Nguyen Hoang Thuan
 - id: nguyen-long-lqdtu
   name: Nguyen, Long
   affiliation:
