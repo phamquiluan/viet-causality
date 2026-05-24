@@ -46,7 +46,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | **Associate Research Professor** | | | | | | |
 | Nguyen, Trang Quynh | Associate Research Professor | Johns Hopkins Bloomberg School of Public Health | United States | `theoretical`, `applied-health`, `applied-social` | [home](https://nqtrang.com/) · [scholar](https://scholar.google.com/citations?user=1pjyYFsAAAAJ) | high |
 | **Associate Professor** | | | | | | |
-| Dang, Tommy | Associate Professor | Texas Tech University | United States | `applied-bio` | [home](https://www.myweb.ttu.edu/tnhondan/) · [scholar](https://scholar.google.com/citations?user=B1b-yVAAAAAJ) | low |
+| [Tommy Dang](https://scholar.google.com/citations?user=B1b-yVAAAAAJ&hl=en&oi=ao) | Associate Professor | Texas Tech University | United States | `applied-bio` | [home](https://www.myweb.ttu.edu/tnhondan/) · [scholar](https://scholar.google.com/citations?user=B1b-yVAAAAAJ&hl=en&oi=ao) | low |
 | [Thuc  Duy Le](https://scholar.google.com/citations?user=wMSCRxUAAAAJ&hl=en&oi=ao) | Associate Professor | University of South Australia (UniSA) | Australia | `causal-discovery`, `applied-bio`, `applied-health` | [home](https://people.unisa.edu.au/Thuc.Le) · [scholar](https://scholar.google.com/citations?user=wMSCRxUAAAAJ&hl=en&oi=ao) | high |
 | Nguyen, Anh (Totti) | Associate Professor | Auburn University | United States | `counterfactual-explanation`, `causal-cv` | [home](https://anhnguyen.me/) · [scholar](https://scholar.google.com/citations?user=EQw8d9AAAAAJ) | high |
 | Nguyen, Quynh C. | Associate Professor | University of Missouri | United States | `theoretical`, `applied-health` |  | high |

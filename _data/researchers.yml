@@ -1529,7 +1529,7 @@
     position: Associate Professor
   links:
     homepage: https://www.myweb.ttu.edu/tnhondan/
-    scholar: https://scholar.google.com/citations?user=B1b-yVAAAAAJ
+    scholar: https://scholar.google.com/citations?user=B1b-yVAAAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-bio
   key_papers:
@@ -1540,6 +1540,7 @@
   source: scrape_dynaroars
   confidence: low
   last_verified: 2026-05-24
+  name_scholar: Tommy Dang
 - id: doan-thao-abbvie
   name: Doan, Thao
   affiliation:
