@@ -11,6 +11,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5075177965
+    scholar: https://scholar.google.com/citations?user=9dd36HMAAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-health
   - theoretical
@@ -23,6 +24,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Minh Bui
 - id: do-kien-deakin
   name: Do, Kien
   affiliation:

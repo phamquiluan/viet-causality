@@ -110,7 +110,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Tran, Trong Hieu | Faculty | Vietnam National University, Hanoi | Vietnam | `theoretical` |  | high |
 | [Vo Nguyen Le Duy](https://scholar.google.com/citations?user=qcpIUoQAAAAJ&hl=en&oi=ao) | Faculty | Nagoya Institute of Technology | Japan | `theoretical`, `causal-discovery` | [scholar](https://scholar.google.com/citations?user=qcpIUoQAAAAJ&hl=en&oi=ao) | high |
 | **Other** | | | | | | |
-| Bui, Minh |  | University of Melbourne / Murdoch Children's Research Institute | Australia | `applied-health`, `theoretical` |  | high |
+| [Minh Bui](https://scholar.google.com/citations?user=9dd36HMAAAAJ&hl=en&oi=ao) |  | University of Melbourne / Murdoch Children's Research Institute | Australia | `applied-health`, `theoretical` | [scholar](https://scholar.google.com/citations?user=9dd36HMAAAAJ&hl=en&oi=ao) | high |
 | [Lauren Eyler Dang](https://scholar.google.com/citations?user=p5xOjAIAAAAJ&hl=en&oi=ao) |  | UC Berkeley / UCSF (van der Laan lab) | United States | `theoretical`, `applied-health` | [scholar](https://scholar.google.com/citations?user=p5xOjAIAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0002-2967-0855) | low |
 | Dinh, Quang-Thang |  | Laboratoire d'Informatique Fondamentale de Marseille | France | `causal-discovery`, `theoretical` |  | high |
 | [Tinh Doan](https://scholar.google.com/citations?user=OrX63xEAAAAJ&hl=en&oi=ao) |  | Australian National University / Dalat University | Australia | `applied-econ`, `applied-health` | [scholar](https://scholar.google.com/citations?user=OrX63xEAAAAJ&hl=en&oi=ao) | high |
