@@ -2476,6 +2476,7 @@
     position: Faculty
   links:
     arxiv: https://arxiv.org/a/le_d_1
+    scholar: https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - counterfactual-explanation
@@ -2488,6 +2489,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Duc-Trong Le
 - id: le-hoang-quynh-vnu
   name: Le, Hoang-Quynh
   affiliation:

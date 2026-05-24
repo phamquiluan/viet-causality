@@ -97,7 +97,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Vo, Tat-Thang | Researcher | Faculty of Medicine, University Paris Est Creteil (EPIDERME) | France | `applied-health`, `theoretical` |  | high |
 | **Faculty** | | | | | | |
 | Le, Bac | Faculty | VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` |  | high |
-| Le, Duc-Trong | Faculty | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `counterfactual-explanation`, `applied-health` |  | high |
+| [Duc-Trong Le](https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao) | Faculty | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `counterfactual-explanation`, `applied-health` | [scholar](https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao) | high |
 | Le, Hoang-Quynh | Faculty | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` |  | medium |
 | Nguyen Truong, Thao | Faculty | Hanoi University of Science and Technology | Vietnam | `causal-discovery` |  | high |
 | Nguyen, Cam-Van Thi | Faculty | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` |  | medium |
