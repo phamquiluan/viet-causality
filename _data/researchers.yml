@@ -1913,7 +1913,7 @@
     position: Associate Research Professor
   links:
     homepage: https://nqtrang.com/
-    scholar: https://scholar.google.com/citations?user=1pjyYFsAAAAJ
+    scholar: https://scholar.google.com/citations?user=1pjyYFsAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - applied-health
@@ -1926,6 +1926,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Trang Quynh Nguyen
 - id: nguyen-xuanlong-michigan
   name: Nguyen, XuanLong (Long)
   affiliation:
