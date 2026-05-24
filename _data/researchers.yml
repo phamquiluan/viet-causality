@@ -671,6 +671,7 @@
     position: Research Fellow
   links:
     dblp: https://dblp.org/pid/200/2832
+    scholar: https://scholar.google.com/citations?user=McmcPUUAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - applied-bio
@@ -685,6 +686,7 @@
   source: scrape_dblp
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Vu Viet Hoang Pham
 - id: phan-thuc-d-griffith
   name: Phan, Thuc D.
   affiliation:
