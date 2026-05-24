@@ -1474,6 +1474,7 @@
     position: Assistant Professor
   links:
     homepage: https://nvcuong.github.io/
+    scholar: https://scholar.google.com/citations?user=CG9yOXoAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - theoretical
@@ -1482,6 +1483,7 @@
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Cuong V. Nguyen
 - id: nguyen-phan-trung-hai-birmingham
   name: Nguyen, Phan Trung Hai
   affiliation:
