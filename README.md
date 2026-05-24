@@ -181,7 +181,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 
 | Name | Position | Affiliation | Country | Sub-areas | Links | Conf. |
 |---|---|---|---|---|---|---|
-| Bui, Ngoc | PhD Student | Yale University | United States | `counterfactual-explanation`, `theoretical` |  | high |
+| [Ngoc Bui](https://scholar.google.com/citations?user=LVklD_cAAAAJ&hl=en&oi=ao) | PhD Student | Yale University | United States | `counterfactual-explanation`, `theoretical` | [scholar](https://scholar.google.com/citations?user=LVklD_cAAAAJ&hl=en&oi=ao) | high |
 | Do, Van Dai | PhD Student | Deakin University, A2I2 | Australia | `causal-rl`, `causal-ml` |  | high |
 | Doan, Toan | PhD Student | Deakin University, A2I2 | Australia | `causal-nlp`, `counterfactual-explanation` | [dblp](https://dblp.org/pid/382/7295) | high |
 | [Bao Duong](https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en&oi=ao) | high |

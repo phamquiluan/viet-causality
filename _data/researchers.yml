@@ -1546,6 +1546,7 @@
     position: PhD Student
   links:
     openalex: https://openalex.org/A5103009773
+    scholar: https://scholar.google.com/citations?user=LVklD_cAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   - theoretical
@@ -1557,6 +1558,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Ngoc Bui
 - id: dang-lauren-eyler-berkeley
   name: Dang, Lauren Eyler
   affiliation:
