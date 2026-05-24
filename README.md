@@ -184,7 +184,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Bui, Ngoc | PhD Student | Yale University | United States | `counterfactual-explanation`, `theoretical` |  | high |
 | Do, Van Dai | PhD Student | Deakin University, A2I2 | Australia | `causal-rl`, `causal-ml` |  | high |
 | Doan, Toan | PhD Student | Deakin University, A2I2 | Australia | `causal-nlp`, `counterfactual-explanation` | [dblp](https://dblp.org/pid/382/7295) | high |
-| Duong, Bao | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` |  | high |
+| [Bao Duong](https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en&oi=ao) | high |
 | Duong, Hieu Minh | PhD Student | University of Louisville, J.B. Speed School of Engineering | United States | `causal-discovery`, `causal-time-series` |  | medium |
 | Duong, Tri Dung | PhD Student | University of Technology Sydney (UTS) | Australia | `counterfactual-fairness`, `counterfactual-explanation`, `causal-ml` |  | high |
 | Hoang, Nu | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` |  | high |

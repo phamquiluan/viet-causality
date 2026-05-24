@@ -122,6 +122,7 @@
     position: PhD Student
   links:
     homepage: ''
+    scholar: https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - theoretical
@@ -135,6 +136,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Bao Duong
 - id: duong-tri-dung-uts
   name: Duong, Tri Dung
   affiliation:
