@@ -2553,6 +2553,7 @@
     position: Full Professor
   links:
     openalex: https://openalex.org/A5050413008
+    scholar: https://scholar.google.com/citations?user=NVRomQEAAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-econ
   - theoretical
@@ -2560,6 +2561,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Cuong Nguyen Viet
 - id: nguyen-hoang-thuan-rmit-vn
   name: Nguyen, Hoang Thuan
   affiliation:
