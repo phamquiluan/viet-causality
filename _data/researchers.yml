@@ -2095,6 +2095,7 @@
     position: Full Professor
   links:
     openalex: https://openalex.org/A5063459912
+    scholar: https://scholar.google.com/citations?user=7jKj_NcAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-rl
@@ -2102,6 +2103,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Tran Cao Son
 - id: tran-christopher-uic
   name: Tran, Christopher
   affiliation:
