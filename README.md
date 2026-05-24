@@ -85,7 +85,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | [Phuoc Nguyen](https://scholar.google.com/citations?user=c4LnrZ0AAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=c4LnrZ0AAAAJ&hl=en&oi=ao) | high |
 | [Vu Viet Hoang Pham](https://scholar.google.com/citations?user=McmcPUUAAAAJ&hl=en&oi=ao) | Research Fellow | University of South Australia / University of Newcastle (likely) | Australia | `causal-discovery`, `applied-bio` | [scholar](https://scholar.google.com/citations?user=McmcPUUAAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/200/2832) | high |
 | Truong, Buu | Research Fellow | Broad Institute / Harvard / Massachusetts General Hospital | United States | `applied-bio`, `theoretical` |  | high |
-| Vo, Thanh Vinh | Research Fellow | National University of Singapore (NUS) | Singapore | `causal-ml`, `theoretical` | [home](https://vothanhvinh.github.io/) | high |
+| [Vo Thanh Vinh](https://scholar.google.com/citations?user=g1m5t54AAAAJ&hl=en&oi=ao) | Research Fellow | National University of Singapore (NUS) | Singapore | `causal-ml`, `theoretical` | [home](https://vothanhvinh.github.io/) · [scholar](https://scholar.google.com/citations?user=g1m5t54AAAAJ&hl=en&oi=ao) | high |
 | **Postdoc** | | | | | | |
 | Le, Tam | Postdoctoral Researcher | RIKEN Center for Advanced Intelligence Project (AIP) | Japan | `theoretical`, `causal-ml` | [dblp](https://dblp.org/pid/137/4218) | high |
 | Nguyen, Duy | Postdoc | UC Santa Cruz (current); past: Oxford University Clinical Research Unit (Ho Chi Minh City), HCMUS | United States | `counterfactual-explanation`, `theoretical` | [dblp](https://dblp.org/pid/13/5240) | high |

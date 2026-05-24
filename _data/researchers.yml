@@ -1347,6 +1347,7 @@
     position: Research Fellow
   links:
     homepage: https://vothanhvinh.github.io/
+    scholar: https://scholar.google.com/citations?user=g1m5t54AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - theoretical
@@ -1362,6 +1363,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Vo Thanh Vinh
 - id: hoang-van-thuy-catholic-korea
   name: Hoang, Van Thuy
   affiliation:
