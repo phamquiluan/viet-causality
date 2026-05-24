@@ -222,6 +222,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5057260196
+    scholar: https://scholar.google.com/citations?user=F3dg9vMAAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-health
   - applied-econ
@@ -229,6 +230,7 @@
   source: scrape_openalex
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Van Phuong Hoang
 - id: le-hung-deakin
   name: Le, Hung
   affiliation:
