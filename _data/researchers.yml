@@ -2974,6 +2974,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/truong_k_1
+    scholar: https://scholar.google.com/citations?user=SVGhZXsAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - applied-health
@@ -2985,6 +2986,7 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Kieu Anh Thi Truong
 - id: vu-ha-ftu
   name: Vu, Ha
   affiliation:
