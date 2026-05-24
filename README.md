@@ -34,7 +34,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Name | Position | Affiliation | Country | Sub-areas | Links | Conf. |
 |---|---|---|---|---|---|---|
 | **Full Professor** | | | | | | |
-| Huynh, Van-Nam | Full Professor | Japan Advanced Institute of Science and Technology (JAIST) | Japan | `theoretical` |  | high |
+| [Van Nam Huynh](https://scholar.google.com/citations?user=XVThR3QAAAAJ&hl=en&oi=ao) | Full Professor | Japan Advanced Institute of Science and Technology (JAIST) | Japan | `theoretical` | [scholar](https://scholar.google.com/citations?user=XVThR3QAAAAJ&hl=en&oi=ao) | high |
 | Nguyen, Cuong Viet | Full Professor | Vietnam National University, Hanoi / National Economics University | Vietnam | `applied-econ`, `theoretical` |  | high |
 | Nguyen, Hung T. | Full Professor | Griffith University | Australia | `causal-ml`, `theoretical` | [orcid](https://orcid.org/0000-0002-3463-7232) | high |
 | Nguyen, Minh Le | Full Professor | JAIST, School of Information Science | Japan | `causal-nlp`, `applied-social` | [dblp](https://dblp.org/pid/n/MinhLeNguyen) | high |

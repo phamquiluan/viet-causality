@@ -1190,12 +1190,14 @@
     position: Full Professor
   links:
     openalex: https://openalex.org/A5067088014
+    scholar: https://scholar.google.com/citations?user=XVThR3QAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   notes: h=33, 3594 citations; uncertainty/decision-making with linguistic assessments.
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Van Nam Huynh
 - id: le-tam-riken
   name: Le, Tam
   affiliation:
