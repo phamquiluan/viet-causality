@@ -42,7 +42,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | [Dinh Phung](https://scholar.google.com/citations?user=OtA9SwIAAAAJ&hl=en&oi=ao) | Full Professor | Monash University | Australia | `causal-discovery`, `causal-ml` | [home](https://research.monash.edu/en/persons/dinh-phung) · [scholar](https://scholar.google.com/citations?user=OtA9SwIAAAAJ&hl=en&oi=ao) | high |
 | Tran, Cao Son | Full Professor | New Mexico State University | United States | `theoretical`, `causal-rl` |  | high |
 | [Truyen Tran](https://scholar.google.com/citations?user=zvspVLwAAAAJ&hl=en&oi=ao) | Full Professor | Deakin University, Applied AI Institute (A2I2) | Australia | `causal-discovery`, `causal-ml`, `applied-health` | [home](https://truyentran.github.io/) · [scholar](https://scholar.google.com/citations?user=zvspVLwAAAAJ&hl=en&oi=ao) | high |
-| Trinh, Quoc-Dien | Full Professor | Brigham and Women's Hospital / Harvard Medical School | United States | `applied-health` |  | high |
+| [Quoc-Dien Trinh](https://scholar.google.com/citations?user=d2THMCkAAAAJ&hl=en&oi=ao) | Full Professor | Brigham and Women's Hospital / Harvard Medical School | United States | `applied-health` | [scholar](https://scholar.google.com/citations?user=d2THMCkAAAAJ&hl=en&oi=ao) | high |
 | **Associate Research Professor** | | | | | | |
 | [Trang Quynh Nguyen](https://scholar.google.com/citations?user=1pjyYFsAAAAJ&hl=en&oi=ao) | Associate Research Professor | Johns Hopkins Bloomberg School of Public Health | United States | `theoretical`, `applied-health`, `applied-social` | [home](https://nqtrang.com/) · [scholar](https://scholar.google.com/citations?user=1pjyYFsAAAAJ&hl=en&oi=ao) | high |
 | **Associate Professor** | | | | | | |

@@ -2208,6 +2208,7 @@
     position: Full Professor
   links:
     openalex: https://openalex.org/A5077545940
+    scholar: https://scholar.google.com/citations?user=d2THMCkAAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-health
   key_papers:
@@ -2218,6 +2219,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Quoc-Dien Trinh
 - id: truong-buu-broad
   name: Truong, Buu
   affiliation:
