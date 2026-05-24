@@ -1836,7 +1836,7 @@
     position: Associate Professor
   links:
     homepage: https://ix.cs.uoregon.edu/~thienn/
-    scholar: https://scholar.google.com/citations?user=Da2FhegAAAAJ
+    scholar: https://scholar.google.com/citations?user=Da2FhegAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-nlp
   key_papers:
@@ -1856,6 +1856,7 @@
   source: scrape_dynaroars
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Thien Huu Nguyen
 - id: nguyen-thuy-ngoc-cmu
   name: Nguyen, Thuy Ngoc
   affiliation:
