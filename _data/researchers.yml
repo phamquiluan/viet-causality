@@ -1565,6 +1565,7 @@
   links:
     openalex: https://openalex.org/A5083875762
     orcid: https://orcid.org/0000-0003-0528-6303
+    scholar: https://scholar.google.com/citations?user=NoBo5b4AAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-health
   - theoretical
@@ -1576,6 +1577,7 @@
   source: scrape_openalex
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Tra My Pham
 - id: bui-ngoc-yale
   name: Bui, Ngoc
   affiliation:
