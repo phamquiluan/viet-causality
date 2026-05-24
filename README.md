@@ -187,7 +187,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | [Bao Duong](https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en&oi=ao) | high |
 | Duong, Hieu Minh | PhD Student | University of Louisville, J.B. Speed School of Engineering | United States | `causal-discovery`, `causal-time-series` |  | medium |
 | Duong, Tri Dung | PhD Student | University of Technology Sydney (UTS) | Australia | `counterfactual-fairness`, `counterfactual-explanation`, `causal-ml` |  | high |
-| Hoang, Nu | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` |  | high |
+| [Nu Hoang](https://scholar.google.com/citations?user=CiNpg4oAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=CiNpg4oAAAAJ&hl=en&oi=ao) | high |
 | Hoang, Tao | PhD Graduate | Previously University of South Australia (PhD with Jiuyong Li) | Australia | `causal-discovery`, `theoretical` | [dblp](https://dblp.org/pid/159/1950) | medium |
 | Le, Minh | PhD Student | Deakin University | Australia | `causal-discovery`, `theoretical` | [orcid](https://orcid.org/0000-0002-0684-6408) | medium |
 | Ngo, Dung Daniel T. | PhD Student | Carnegie Mellon University (CMU) - based on coauthors Steven Wu, Vasilis Syrgkanis | United States | `theoretical`, `causal-ml` | [dblp](https://dblp.org/pid/296/8379) | high |
