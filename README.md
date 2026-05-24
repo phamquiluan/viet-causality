@@ -125,7 +125,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Le, Truc Viet |  | University of Texas Medical Branch at Galveston | United States | `causal-ml` |  | high |
 | [Liem Viet Ngo](https://scholar.google.com/citations?user=9cy1P9cAAAAJ&hl=en&oi=ao) |  | UNSW Sydney | Australia | `theoretical` | [scholar](https://scholar.google.com/citations?user=9cy1P9cAAAAJ&hl=en&oi=ao) | high |
 | Ngo, Nghia Trung |  | Unknown - please verify | Unknown | `causal-nlp` |  | medium |
-| Ngo, Van Chan |  | Carnegie Mellon University | United States | `theoretical` |  | medium |
+| [Van Chan Ngo](https://scholar.google.com/citations?user=WCax4wMAAAAJ&hl=en&oi=ao) |  | Carnegie Mellon University | United States | `theoretical` | [scholar](https://scholar.google.com/citations?user=WCax4wMAAAAJ&hl=en&oi=ao) | medium |
 | Nguyen, Binh T. |  | Unknown - please verify | Unknown | `applied-health` |  | low |
 | Nguyen, Cattram |  | Murdoch Children's Research Institute / Royal Children's Hospital | Australia | `applied-health`, `theoretical` | [orcid](https://orcid.org/0000-0002-0599-8645) | high |
 | Nguyen, Chien Van |  | Unknown - please verify | Unknown | `causal-nlp` |  | medium |

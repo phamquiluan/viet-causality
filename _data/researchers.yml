@@ -1796,12 +1796,14 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5057227260
+    scholar: https://scholar.google.com/citations?user=WCax4wMAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   notes: h=7; quantitative analysis of probabilistic programs.
   source: scrape_semantic_scholar
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Van Chan Ngo
 - id: nguyen-anh-totti-auburn
   name: Nguyen, Anh (Totti)
   affiliation:
