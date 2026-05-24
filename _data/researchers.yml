@@ -777,7 +777,7 @@
     position: Full Professor
   links:
     homepage: https://truyentran.github.io/
-    scholar: https://scholar.google.com/citations?user=zvspVLwAAAAJ
+    scholar: https://scholar.google.com/citations?user=zvspVLwAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-ml
@@ -790,6 +790,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Truyen Tran
 - id: truong-buu-minh-thanh-unisa
   name: Truong, Buu Minh Thanh
   affiliation:
