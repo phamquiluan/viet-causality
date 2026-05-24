@@ -531,7 +531,7 @@
     country: Australia
     position: Senior Research Fellow
   links:
-    scholar: https://scholar.google.com.au/citations?user=BlTfdtMAAAAJ
+    scholar: https://scholar.google.com/citations?user=BlTfdtMAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-ml
@@ -542,6 +542,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Thin Nguyen
 - id: nguyen-toan-deakin-causal
   name: Nguyen, Toan
   affiliation:

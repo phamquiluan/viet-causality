@@ -72,7 +72,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | **Senior Research Scientist** | | | | | | |
 | Tran, Toan | Senior Research Scientist | VinAI Research / Hanoi University of Science and Technology (HUST) | Vietnam | `causal-ml` | [scholar](https://scholar.google.com/citations?user=PnwSuNMAAAAJ) | medium |
 | **Senior Research Fellow** | | | | | | |
-| Nguyen, Thin | Senior Research Fellow | Deakin University, A2I2 | Australia | `causal-discovery`, `causal-ml` | [scholar](https://scholar.google.com.au/citations?user=BlTfdtMAAAAJ) | high |
+| [Thin Nguyen](https://scholar.google.com/citations?user=BlTfdtMAAAAJ&hl=en&oi=ao) | Senior Research Fellow | Deakin University, A2I2 | Australia | `causal-discovery`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=BlTfdtMAAAAJ&hl=en&oi=ao) | high |
 | **Research Scientist** | | | | | | |
 | Ngo, Hoang-Anh | Research Scientist | Woolcock Institute Vietnam | Vietnam | `applied-health` | [scholar](https://scholar.google.com/citations?user=yelTvHAAAAAJ) | medium |
 | **Research Fellow** | | | | | | |
