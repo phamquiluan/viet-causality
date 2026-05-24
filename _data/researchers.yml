@@ -2166,6 +2166,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5026194168
+    scholar: https://scholar.google.com/citations?user=EWazzlkAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - theoretical
@@ -2177,6 +2178,7 @@
   source: scrape_semantic_scholar
   confidence: low
   last_verified: 2026-05-24
+  name_scholar: Christopher Tran
 - id: tran-dustin-google
   name: Tran, Dustin
   affiliation:

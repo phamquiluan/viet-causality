@@ -149,7 +149,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Phan, H. Giang |  | Hanoi Medical University | Vietnam | `theoretical`, `applied-health` |  | high |
 | Phan, Thuc D. |  | Griffith University | Australia | `causal-discovery`, `applied-bio` | [orcid](https://orcid.org/0000-0002-1690-7227) | high |
 | Phan, Vu H. N. |  | Rice University (likely) | United States | `theoretical` |  | medium |
-| Tran, Christopher |  | University of Illinois Chicago | United States | `causal-ml`, `theoretical` |  | low |
+| [Christopher Tran](https://scholar.google.com/citations?user=EWazzlkAAAAJ&hl=en&oi=ao) |  | University of Illinois Chicago | United States | `causal-ml`, `theoretical` | [scholar](https://scholar.google.com/citations?user=EWazzlkAAAAJ&hl=en&oi=ao) | low |
 | Tran, Hien |  | University of Freiburg | Germany | `causal-ml` | [orcid](https://orcid.org/0000-0001-7518-7488) | medium |
 | [Linh Tran](https://scholar.google.com/citations?user=ZnjEAXUAAAAJ&hl=en&oi=ao) |  | Johns Hopkins University | United States | `theoretical`, `applied-health` | [scholar](https://scholar.google.com/citations?user=ZnjEAXUAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0001-6429-0375) | high |
 | [Ngoc Tran](https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao) |  | Can Tho University / UT Austin | Vietnam | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0002-5061-6562) | high |
