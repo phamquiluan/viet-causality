@@ -1158,12 +1158,14 @@
     position: Assistant Professor
   links:
     arxiv: https://arxiv.org/a/pham_q_1
+    scholar: https://scholar.google.com/citations?user=zKX-0LIAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   notes: IEEE Senior Member; 'Quoc-Viet' Vietnamese given name.
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Viet Quoc Pham
 - id: nguyen-thi-kim-hue-padua
   name: Nguyen, Thi Kim Hue
   affiliation:
