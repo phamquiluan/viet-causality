@@ -977,6 +977,7 @@
   links:
     openalex: https://openalex.org/A5083724281
     orcid: https://orcid.org/0000-0003-1642-4468
+    scholar: https://scholar.google.com/citations?user=J-PcfGgAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-ml
@@ -984,6 +985,7 @@
   source: scrape_openalex
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Vu-Linh Nguyen
 - id: tran-ba-hien-eurecom
   name: Tran, Ba-Hien
   affiliation:

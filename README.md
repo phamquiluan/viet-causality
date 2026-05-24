@@ -139,7 +139,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Nguyen, Tran |  | University of Houston | United States | `causal-discovery` | [orcid](https://orcid.org/0000-0002-7800-8032) | medium |
 | Nguyen, Tri-Long |  | University of Copenhagen | Denmark | `causal-ml`, `causal-discovery`, `applied-health` | [orcid](https://orcid.org/0000-0002-6376-7212) | high |
 | Nguyen, Van Tham |  | Hanoi University of Industry | Vietnam | `theoretical` | [orcid](https://orcid.org/0000-0002-3972-3068) | medium |
-| Nguyen, Vu-Linh |  | Université de Technologie de Compiègne | France | `theoretical`, `causal-ml` | [orcid](https://orcid.org/0000-0003-1642-4468) | high |
+| [Vu-Linh Nguyen](https://scholar.google.com/citations?user=J-PcfGgAAAAJ&hl=en&oi=ao) |  | Université de Technologie de Compiègne | France | `theoretical`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=J-PcfGgAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0003-1642-4468) | high |
 | Pham, Dung |  | Hanoi Medical University | Vietnam | `applied-health`, `applied-social` |  | medium |
 | Pham, Duy T. |  | University of Texas Health Science Center at Houston | United States | `applied-health`, `applied-bio` | [orcid](https://orcid.org/0009-0007-2586-2087) | medium |
 | Pham, Hoa |  | Vietnam National University Ho Chi Minh City | Vietnam | `applied-health`, `theoretical` | [orcid](https://orcid.org/0000-0002-7012-6333) | medium |
