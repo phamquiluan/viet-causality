@@ -2767,7 +2767,7 @@
     country: Vietnam
     position: Senior Research Scientist
   links:
-    scholar: https://scholar.google.com/citations?user=PnwSuNMAAAAJ
+    scholar: https://scholar.google.com/citations?user=PnwSuNMAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   key_papers:
@@ -2779,6 +2779,7 @@
   source: manual_seed
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Toan Tran
 - id: tran-trong-hieu-vnu
   name: Tran, Trong Hieu
   affiliation:

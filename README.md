@@ -70,7 +70,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Nguyen, Hoang Thuan | Senior Lecturer | RMIT Vietnam | Vietnam | `causal-ml`, `applied-econ` |  | high |
 | Tran, Son N. | Senior Lecturer | University of Tasmania | Australia | `causal-ml`, `theoretical` |  | high |
 | **Senior Research Scientist** | | | | | | |
-| Tran, Toan | Senior Research Scientist | VinAI Research / Hanoi University of Science and Technology (HUST) | Vietnam | `causal-ml` | [scholar](https://scholar.google.com/citations?user=PnwSuNMAAAAJ) | medium |
+| [Toan Tran](https://scholar.google.com/citations?user=PnwSuNMAAAAJ&hl=en&oi=ao) | Senior Research Scientist | VinAI Research / Hanoi University of Science and Technology (HUST) | Vietnam | `causal-ml` | [scholar](https://scholar.google.com/citations?user=PnwSuNMAAAAJ&hl=en&oi=ao) | medium |
 | **Senior Research Fellow** | | | | | | |
 | [Thin Nguyen](https://scholar.google.com/citations?user=BlTfdtMAAAAJ&hl=en&oi=ao) | Senior Research Fellow | Deakin University, A2I2 | Australia | `causal-discovery`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=BlTfdtMAAAAJ&hl=en&oi=ao) | high |
 | **Research Scientist** | | | | | | |
