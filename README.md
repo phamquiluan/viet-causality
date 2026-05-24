@@ -82,7 +82,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Nguyen, Dung | Research Fellow | Deakin University, A2I2 | Australia | `causal-rl`, `causal-ml` |  | high |
 | Nguyen, Dung (Deakin-FPT) | Research Fellow | Deakin University, Geelong; past: FPT Software AI Center, Hue University, University of Sydney | Australia | `causal-rl` | [dblp](https://dblp.org/pid/13/2526-1) | high |
 | Nguyen, Phi Le | Research Fellow | AI4LIFE / Hanoi University of Science and Technology (HUST) | Vietnam | `causal-discovery`, `causal-ml` |  | medium |
-| Nguyen, Phuoc | Research Fellow | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com.au/citations?user=c4LnrZ0AAAAJ) | high |
+| [Phuoc Nguyen](https://scholar.google.com/citations?user=c4LnrZ0AAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=c4LnrZ0AAAAJ&hl=en&oi=ao) | high |
 | Pham, Vu Viet Hoang | Research Fellow | University of South Australia / University of Newcastle (likely) | Australia | `causal-discovery`, `applied-bio` | [dblp](https://dblp.org/pid/200/2832) | high |
 | Truong, Buu | Research Fellow | Broad Institute / Harvard / Massachusetts General Hospital | United States | `applied-bio`, `theoretical` |  | high |
 | Vo, Thanh Vinh | Research Fellow | National University of Singapore (NUS) | Singapore | `causal-ml`, `theoretical` | [home](https://vothanhvinh.github.io/) | high |

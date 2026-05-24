@@ -513,7 +513,7 @@
     country: Australia
     position: Research Fellow
   links:
-    scholar: https://scholar.google.com.au/citations?user=c4LnrZ0AAAAJ
+    scholar: https://scholar.google.com/citations?user=c4LnrZ0AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - theoretical
@@ -523,6 +523,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Phuoc Nguyen
 - id: nguyen-thin-deakin
   name: Nguyen, Thin
   affiliation:
