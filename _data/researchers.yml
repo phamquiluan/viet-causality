@@ -1979,6 +1979,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5053131708
+    scholar: https://scholar.google.com/citations?user=7xwD7AkAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - theoretical
@@ -1986,6 +1987,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Thuy-Ngoc Nguyen
 - id: nguyen-tin-d-mit
   name: Nguyen, Tin D.
   affiliation:
