@@ -1314,6 +1314,7 @@
     position: Faculty
   links:
     openalex: https://openalex.org/A5017268424
+    scholar: https://scholar.google.com/citations?user=qcpIUoQAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-discovery
@@ -1325,6 +1326,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Vo Nguyen Le Duy
 - id: nguyen-huy-son-delft
   name: Nguyen, Huy-Son
   affiliation:

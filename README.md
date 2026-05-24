@@ -108,7 +108,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Pham, Van Dai | Faculty | FPT University | Vietnam | `causal-ml` |  | high |
 | Tran, Quang-Thang | Faculty | Ho Chi Minh City University of Technology and Engineering | Vietnam | `causal-ml`, `applied-econ` |  | high |
 | Tran, Trong Hieu | Faculty | Vietnam National University, Hanoi | Vietnam | `theoretical` |  | high |
-| Vo Nguyen, Le Duy | Faculty | Nagoya Institute of Technology | Japan | `theoretical`, `causal-discovery` |  | high |
+| [Vo Nguyen Le Duy](https://scholar.google.com/citations?user=qcpIUoQAAAAJ&hl=en&oi=ao) | Faculty | Nagoya Institute of Technology | Japan | `theoretical`, `causal-discovery` | [scholar](https://scholar.google.com/citations?user=qcpIUoQAAAAJ&hl=en&oi=ao) | high |
 | **Other** | | | | | | |
 | Bui, Minh |  | University of Melbourne / Murdoch Children's Research Institute | Australia | `applied-health`, `theoretical` |  | high |
 | Dang, Lauren Eyler |  | UC Berkeley / UCSF (van der Laan lab) | United States | `theoretical`, `applied-health` | [orcid](https://orcid.org/0000-0002-2967-0855) | low |
