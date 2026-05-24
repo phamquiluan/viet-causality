@@ -733,6 +733,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/tran_h_1
+    scholar: https://scholar.google.com/citations?user=P8SBHWUAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - counterfactual-explanation
@@ -749,6 +750,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Ha Xuan Tran
 - id: tran-minh-ngoc-sydney
   name: Tran, Minh-Ngoc
   affiliation:

@@ -205,7 +205,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Pham, Luan | PhD Student | RMIT University | Australia | `theoretical`, `causal-discovery`, `applied-bio` |  | high |
 | Pham, Thai-Hoang | PhD Student | Ohio State University (AIMed lab, Ping Zhang) | United States | `causal-ml`, `applied-health`, `counterfactual-fairness` | [home](https://pth1993.github.io/) | high |
 | Tran, Ba-Hien | PhD Student | EURECOM / Cote d'Azur (likely) | France | `causal-ml` |  | medium |
-| Tran, Ha Xuan | PhD Student | University of South Australia (UniSA) | Australia | `causal-ml`, `counterfactual-explanation` |  | high |
+| [Ha Xuan Tran](https://scholar.google.com/citations?user=P8SBHWUAAAAJ&hl=en&oi=ao) | PhD Student | University of South Australia (UniSA) | Australia | `causal-ml`, `counterfactual-explanation` | [scholar](https://scholar.google.com/citations?user=P8SBHWUAAAAJ&hl=en&oi=ao) | high |
 | [Quang-Duy Tran](https://scholar.google.com/citations?user=DxEBVUUAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=DxEBVUUAAAAJ&hl=en&oi=ao) | high |
 | Truong Thi, Kieu-Anh | PhD Student | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `applied-health` |  | medium |
 | Truong, Buu Minh Thanh | PhD Student | University of South Australia | Australia | `causal-discovery`, `applied-bio` | [dblp](https://dblp.org/pid/210/8978) | high |
