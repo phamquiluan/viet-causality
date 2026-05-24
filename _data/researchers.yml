@@ -624,12 +624,14 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/nguyen_v_3
+    scholar: https://scholar.google.com/citations?user=V0KdkKIAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-nlp
   notes: RMIT; 'Vy' Vietnamese given name.
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Vy Nguyen
 - id: pham-duc-nghia-data61
   name: Pham, Duc Nghia
   affiliation:
