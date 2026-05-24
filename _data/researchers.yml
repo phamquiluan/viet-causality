@@ -2613,12 +2613,14 @@
     position: Faculty
   links:
     openalex: https://openalex.org/A5125063252
+    scholar: https://scholar.google.com/citations?user=1DqrHWEAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   notes: Co-author on Vietnam-led causal graph learning paper.
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Truong Thao Nguyen
 - id: nguyen-cam-van-thi-vnu
   name: Nguyen, Cam-Van Thi
   affiliation:

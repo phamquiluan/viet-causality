@@ -99,7 +99,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | [Bac Le](https://scholar.google.com/citations?user=UA_83MUAAAAJ&hl=en&oi=ao) | Faculty | VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` | [scholar](https://scholar.google.com/citations?user=UA_83MUAAAAJ&hl=en&oi=ao) | high |
 | [Duc-Trong Le](https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao) | Faculty | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `counterfactual-explanation`, `applied-health` | [scholar](https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao) | high |
 | Le, Hoang-Quynh | Faculty | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` |  | medium |
-| Nguyen Truong, Thao | Faculty | Hanoi University of Science and Technology | Vietnam | `causal-discovery` |  | high |
+| [Truong Thao Nguyen](https://scholar.google.com/citations?user=1DqrHWEAAAAJ&hl=en&oi=ao) | Faculty | Hanoi University of Science and Technology | Vietnam | `causal-discovery` | [scholar](https://scholar.google.com/citations?user=1DqrHWEAAAAJ&hl=en&oi=ao) | high |
 | [Cam-Van Thi Nguyen](https://scholar.google.com/citations?user=4KiBC1YAAAAJ&hl=en&oi=ao) | Faculty | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` | [scholar](https://scholar.google.com/citations?user=4KiBC1YAAAAJ&hl=en&oi=ao) | medium |
 | Nguyen, Long | Faculty | Le Quy Don Technical University, Faculty of IT, Hanoi | Vietnam | `causal-discovery`, `causal-time-series` | [dblp](https://dblp.org/pid/02/3500) | high |
 | Nguyen, Ngoc-Thao | Faculty | VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` |  | high |
