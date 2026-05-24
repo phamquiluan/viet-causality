@@ -56,7 +56,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Tran, Minh-Ngoc | Associate Professor | University of Sydney Business School | Australia | `theoretical`, `applied-econ` | [home](https://sites.google.com/site/mntran26/) | medium |
 | **Assistant Professor** | | | | | | |
 | Phan, Thomy | Junior Professor | University of Bayreuth, Chair of AI and Machine Learning | Germany | `counterfactual-explanation`, `causal-rl` | [dblp](https://dblp.org/pid/218/6646) | low |
-| Hoang, Trong Nghia | Assistant Professor | Washington State University | United States | `causal-discovery`, `causal-ml` | [home](https://htnghia87.github.io/) · [scholar](https://scholar.google.com/citations?user=E-kZZeQAAAAJ) | high |
+| [Trong Nghia Hoang](https://scholar.google.com/citations?user=E-kZZeQAAAAJ&hl=en&oi=ao) | Assistant Professor | Washington State University | United States | `causal-discovery`, `causal-ml` | [home](https://htnghia87.github.io/) · [scholar](https://scholar.google.com/citations?user=E-kZZeQAAAAJ&hl=en&oi=ao) | high |
 | Le, Thai | Assistant Professor | Indiana University Bloomington | United States | `counterfactual-explanation`, `causal-rl` | [home](https://thaile.web.illinois.edu/) · [scholar](https://scholar.google.com/citations?user=Fd8K7kAAAAAJ) | medium |
 | Nguyen, Cuong V. | Assistant Professor | Durham University, Department of Statistics | United Kingdom | `causal-ml`, `theoretical` | [home](https://nvcuong.github.io/) | medium |
 | Nguyen, Viet Anh | Assistant Professor | The Chinese University of Hong Kong (CUHK), SEEM | Hong Kong SAR | `counterfactual-explanation`, `theoretical` | [home](https://vietanhnguyen.info/) | high |

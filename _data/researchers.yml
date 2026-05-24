@@ -1593,7 +1593,7 @@
     position: Assistant Professor
   links:
     homepage: https://htnghia87.github.io/
-    scholar: https://scholar.google.com/citations?user=E-kZZeQAAAAJ
+    scholar: https://scholar.google.com/citations?user=E-kZZeQAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - causal-ml
@@ -1602,6 +1602,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Trong Nghia Hoang
 - id: huynh-phat-k-ndsu
   name: Huynh, Phat K.
   affiliation:
