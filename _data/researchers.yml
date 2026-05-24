@@ -1816,7 +1816,7 @@
     position: Associate Professor
   links:
     homepage: https://ix.cs.uoregon.edu/~thanhhng/
-    scholar: https://scholar.google.com/citations?user=6fpZnQIAAAAJ
+    scholar: https://scholar.google.com/citations?user=6fpZnQIAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   key_papers:
@@ -1827,6 +1827,7 @@
   source: scrape_dynaroars
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Thanh Nguyen
 - id: nguyen-thien-huu-oregon
   name: Nguyen, Thien Huu
   affiliation:
