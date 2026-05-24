@@ -204,7 +204,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Nguyen, Vy | PhD Student | RMIT University, School of Computing Technologies | Australia | `causal-nlp` |  | medium |
 | [Luan Pham](https://scholar.google.com/citations?user=YRS7knwAAAAJ&hl=en&oi=ao) | PhD Student | RMIT University | Australia | `theoretical`, `causal-discovery`, `applied-bio` | [scholar](https://scholar.google.com/citations?user=YRS7knwAAAAJ&hl=en&oi=ao) | high |
 | Pham, Thai-Hoang | PhD Student | Ohio State University (AIMed lab, Ping Zhang) | United States | `causal-ml`, `applied-health`, `counterfactual-fairness` | [home](https://pth1993.github.io/) | high |
-| Tran, Ba-Hien | PhD Student | EURECOM / Cote d'Azur (likely) | France | `causal-ml` |  | medium |
+| [Ba-Hien Tran](https://scholar.google.com/citations?user=FW26AagAAAAJ&hl=en&oi=ao) | PhD Student | EURECOM / Cote d'Azur (likely) | France | `causal-ml` | [scholar](https://scholar.google.com/citations?user=FW26AagAAAAJ&hl=en&oi=ao) | medium |
 | [Ha Xuan Tran](https://scholar.google.com/citations?user=P8SBHWUAAAAJ&hl=en&oi=ao) | PhD Student | University of South Australia (UniSA) | Australia | `causal-ml`, `counterfactual-explanation` | [scholar](https://scholar.google.com/citations?user=P8SBHWUAAAAJ&hl=en&oi=ao) | high |
 | [Quang-Duy Tran](https://scholar.google.com/citations?user=DxEBVUUAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=DxEBVUUAAAAJ&hl=en&oi=ao) | high |
 | Truong Thi, Kieu-Anh | PhD Student | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `applied-health` |  | medium |
