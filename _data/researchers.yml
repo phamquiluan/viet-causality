@@ -1266,6 +1266,7 @@
     dblp: https://dblp.org/pid/199/2079
     openalex: https://openalex.org/A5049149965
     orcid: https://orcid.org/0000-0002-1940-9290
+    scholar: https://scholar.google.com/citations?user=LrWKIb0AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - theoretical
@@ -1290,6 +1291,7 @@
   - scrape_dblp
   - scrape_openalex
   last_verified: 2026-05-24
+  name_scholar: Thong Pham
 - id: vo-nguyen-le-duy-nitech
   name: Vo Nguyen, Le Duy
   affiliation:
