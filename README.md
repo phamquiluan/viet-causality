@@ -164,7 +164,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Name | Position | Affiliation | Country | Sub-areas | Links | Conf. |
 |---|---|---|---|---|---|---|
 | [Hung Bui](https://scholar.google.com/citations?user=mDLwSZAAAAAJ&hl=en&oi=ao) | Industry Researcher | Formerly VinAI Research | Vietnam | `theoretical` | [home](https://sites.google.com/site/buihhung/) · [scholar](https://scholar.google.com/citations?user=mDLwSZAAAAAJ&hl=en&oi=ao) | medium |
-| Dinh, Truong Duy |  | Vietnam Posts and Telecommunications (VNPT) / PTIT | Vietnam | `causal-ml` |  | high |
+| [Truong Duy Dinh](https://scholar.google.com/citations?user=Pc42sHMAAAAJ&hl=en&oi=ao) |  | Vietnam Posts and Telecommunications (VNPT) / PTIT | Vietnam | `causal-ml` | [scholar](https://scholar.google.com/citations?user=Pc42sHMAAAAJ&hl=en&oi=ao) | high |
 | Doan, Thao | Industry Researcher | AbbVie (United States) | United States | `applied-health` |  | medium |
 | [Quang Duong](https://scholar.google.com/citations?user=pKcdq1AAAAAJ&hl=en&oi=ao) | Industry Researcher | Google (United States) | United States | `causal-ml` | [scholar](https://scholar.google.com/citations?user=pKcdq1AAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0002-3096-7314) | high |
 | [Tuan Le](https://scholar.google.com/citations?user=Fk1A1p4AAAAJ&hl=en&oi=ao) | Industry Researcher | Pfizer (Germany) | Germany | `causal-ml`, `theoretical` | [scholar](https://scholar.google.com/citations?user=Fk1A1p4AAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0001-7634-502X) | medium |

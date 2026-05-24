@@ -2436,6 +2436,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5041417996
+    scholar: https://scholar.google.com/citations?user=Pc42sHMAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   key_papers:
@@ -2445,6 +2446,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Truong Duy Dinh
 - id: ho-tung-manh-phenikaa
   name: Ho, Tung Manh
   affiliation:
