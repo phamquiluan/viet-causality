@@ -1483,6 +1483,7 @@
     position: Senior Researcher
   links:
     openalex: https://openalex.org/A5034100882
+    scholar: https://scholar.google.com/citations?user=AaE_1CAAAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - applied-bio
@@ -1490,6 +1491,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Vinh N. Dang
 - id: nguyen-cuong-v-durham
   name: Nguyen, Cuong V.
   affiliation:

@@ -90,7 +90,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Le, Tam | Postdoctoral Researcher | RIKEN Center for Advanced Intelligence Project (AIP) | Japan | `theoretical`, `causal-ml` | [dblp](https://dblp.org/pid/137/4218) | high |
 | Nguyen, Duy | Postdoc | UC Santa Cruz (current); past: Oxford University Clinical Research Unit (Ho Chi Minh City), HCMUS | United States | `counterfactual-explanation`, `theoretical` | [dblp](https://dblp.org/pid/13/5240) | high |
 | **Senior Researcher** | | | | | | |
-| Dang, Vinh N. | Senior Researcher | Paul Scherrer Institute | Switzerland | `theoretical`, `applied-bio` |  | high |
+| [Vinh N. Dang](https://scholar.google.com/citations?user=AaE_1CAAAAAJ&hl=en&oi=ao) | Senior Researcher | Paul Scherrer Institute | Switzerland | `theoretical`, `applied-bio` | [scholar](https://scholar.google.com/citations?user=AaE_1CAAAAAJ&hl=en&oi=ao) | high |
 | **Researcher** | | | | | | |
 | Dang, Hoang | Independent Researcher | Independent Researcher | Vietnam | `theoretical`, `causal-discovery` |  | medium |
 | Le, Tran Trong Khoi | Researcher | University Paris Est Creteil (EPIDERME) | France | `applied-health` |  | high |
