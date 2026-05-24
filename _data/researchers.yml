@@ -2123,6 +2123,7 @@
     position: Industry Researcher
   links:
     openalex: https://openalex.org/A5081819708
+    scholar: https://scholar.google.com/citations?user=wVazIm8AAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-ml
@@ -2134,6 +2135,7 @@
   source: scrape_semantic_scholar
   confidence: low
   last_verified: 2026-05-24
+  name_scholar: Dustin Tran
 - id: tran-linh-jhu
   name: Tran, Linh
   affiliation:
