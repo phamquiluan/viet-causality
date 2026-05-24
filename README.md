@@ -152,7 +152,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Tran, Christopher |  | University of Illinois Chicago | United States | `causal-ml`, `theoretical` |  | low |
 | Tran, Hien |  | University of Freiburg | Germany | `causal-ml` | [orcid](https://orcid.org/0000-0001-7518-7488) | medium |
 | [Linh Tran](https://scholar.google.com/citations?user=ZnjEAXUAAAAJ&hl=en&oi=ao) |  | Johns Hopkins University | United States | `theoretical`, `applied-health` | [scholar](https://scholar.google.com/citations?user=ZnjEAXUAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0001-6429-0375) | high |
-| Tran, Ngoc Mai |  | Can Tho University / UT Austin | Vietnam | `causal-discovery`, `theoretical` | [orcid](https://orcid.org/0000-0002-5061-6562) | high |
+| [Ngoc Tran](https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao) |  | Can Tho University / UT Austin | Vietnam | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0002-5061-6562) | high |
 | Tran, Teo |  | University of Pennsylvania | United States | `applied-health` |  | low |
 | Truong, Cong Khanh |  | University of Szeged | Hungary | `applied-health`, `theoretical` |  | medium |
 | Truong, Van Thi Thanh |  | UT Health Science Center at Houston | United States | `theoretical`, `applied-health` |  | high |

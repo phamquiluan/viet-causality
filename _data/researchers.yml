@@ -2820,6 +2820,7 @@
   links:
     openalex: https://openalex.org/A5082324019
     orcid: https://orcid.org/0000-0002-5061-6562
+    scholar: https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - theoretical
@@ -2832,6 +2833,7 @@
   source: scrape_openalex
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Ngoc Tran
 - id: tran-quang-thang-hcmute
   name: Tran, Quang-Thang
   affiliation:
