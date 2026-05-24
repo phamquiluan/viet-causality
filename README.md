@@ -211,7 +211,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | Truong, Buu Minh Thanh | PhD Student | University of South Australia | Australia | `causal-discovery`, `applied-bio` | [dblp](https://dblp.org/pid/210/8978) | high |
 | Vo, Kiet Q. H. | PhD Student | CISPA Helmholtz Center for Information Security / Saarland University | Germany | `theoretical`, `causal-ml` |  | high |
 | Vo, Tri-Nhan | PhD Student | Deakin University, A2I2 | Australia | `causal-ml` |  | medium |
-| Vo, Vy | PhD Student | Monash University / CSIRO's Data61 / VinAI Research | Australia | `causal-discovery`, `theoretical`, `counterfactual-explanation` |  | high |
+| [Vy Vo](https://scholar.google.com/citations?user=3CpFpFkAAAAJ&hl=en&oi=ao) | PhD Student | Monash University / CSIRO's Data61 / VinAI Research | Australia | `causal-discovery`, `theoretical`, `counterfactual-explanation` | [scholar](https://scholar.google.com/citations?user=3CpFpFkAAAAJ&hl=en&oi=ao) | high |
 
 <!-- TABLE_END -->
 

@@ -860,6 +860,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/vo_v_2
+    scholar: https://scholar.google.com/citations?user=3CpFpFkAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - theoretical
@@ -876,6 +877,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Vy Vo
 - id: nguyen-tri-long-copenhagen
   name: Nguyen, Tri-Long
   affiliation:
