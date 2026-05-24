@@ -1646,7 +1646,7 @@
     position: Assistant Professor
   links:
     homepage: https://thaile.web.illinois.edu/
-    scholar: https://scholar.google.com/citations?user=Fd8K7kAAAAAJ
+    scholar: https://scholar.google.com/citations?user=Fd8K7kAAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   - causal-rl
@@ -1659,6 +1659,7 @@
   source: scrape_dynaroars
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Thai Le
 - id: le-thien-minh-utc
   name: Le, Thien-Minh
   affiliation:
