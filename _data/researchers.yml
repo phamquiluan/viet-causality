@@ -1122,6 +1122,7 @@
     position: Assistant Professor
   links:
     homepage: https://vietanhnguyen.info/
+    scholar: https://scholar.google.com/citations?user=3iyf-EoAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   - theoretical
@@ -1133,6 +1134,7 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Viet Anh Nguyen
 - id: truong-cong-khanh-szeged
   name: Truong, Cong Khanh
   affiliation:
