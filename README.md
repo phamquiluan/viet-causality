@@ -78,7 +78,7 @@ _**155 researchers** across 18 countries. Confidence: 90 high, 56 medium, 9 low.
 | **Research Fellow** | | | | | | |
 | [Kien Do](https://scholar.google.com/citations?user=aD6y8joAAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `theoretical`, `causal-discovery`, `causal-cv` | [scholar](https://scholar.google.com/citations?user=aD6y8joAAAAJ&hl=en&oi=ao) | high |
 | Hoang, Van Thuy | Research Fellow | The Catholic University of Korea | South Korea | `causal-ml`, `applied-bio` |  | medium |
-| Le, Thao Minh | Research Fellow | Deakin University, A2I2 | Australia | `causal-cv`, `causal-ml` |  | high |
+| [Thao Minh Le](https://scholar.google.com/citations?user=0irkZtkAAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `causal-cv`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=0irkZtkAAAAJ&hl=en&oi=ao) | high |
 | Nguyen, Dung | Research Fellow | Deakin University, A2I2 | Australia | `causal-rl`, `causal-ml` |  | high |
 | Nguyen, Dung (Deakin-FPT) | Research Fellow | Deakin University, Geelong; past: FPT Software AI Center, Hue University, University of Sydney | Australia | `causal-rl` | [dblp](https://dblp.org/pid/13/2526-1) | high |
 | Nguyen, Phi Le | Research Fellow | AI4LIFE / Hanoi University of Science and Technology (HUST) | Vietnam | `causal-discovery`, `causal-ml` |  | medium |

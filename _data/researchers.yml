@@ -291,6 +291,7 @@
     position: Research Fellow
   links:
     arxiv: https://arxiv.org/a/le_t_1
+    scholar: https://scholar.google.com/citations?user=0irkZtkAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-cv
   - causal-ml
@@ -303,6 +304,7 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Thao Minh Le
 - id: le-thuc-duy-unisa
   name: Le, Thuc Duy
   affiliation:
