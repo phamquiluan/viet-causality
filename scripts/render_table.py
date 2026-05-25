@@ -127,16 +127,13 @@ def render_section(name: str, items: list[dict[str, Any]], group_by_rank: bool =
     out.append("|---|---|---|---|---|---|")
 
     if group_by_rank:
-        # Group rows under a rank sub-heading; within a rank, sort by
-        # recent_works count desc.
-        by_rank: dict[tuple[int, str], list[dict[str, Any]]] = {}
-        for entry in items:
-            i, rank, _ = academic_rank(entry)
-            by_rank.setdefault((i, rank), []).append(entry)
-        for (i, rank) in sorted(by_rank.keys()):
-            out.append(f"| **{rank}** | | | | | |")
-            for entry in sorted(by_rank[(i, rank)], key=sort_key_by_works):
-                out.append(row_for(entry))
+        # Sort by rank tier first (Full > Assoc > ...), then by recent_works
+        # count desc. No sub-heading rows — the Position column shows the rank.
+        def key(e: dict[str, Any]) -> tuple[int, int, str]:
+            i, _, _ = academic_rank(e)
+            return (i, -works_count(e), e.get("name", ""))
+        for entry in sorted(items, key=key):
+            out.append(row_for(entry))
     else:
         for entry in sorted(items, key=sort_key_by_works):
             out.append(row_for(entry))
