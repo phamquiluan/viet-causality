@@ -748,27 +748,6 @@
     year: 2018
     venue: International Journal of Obesity
     url: https://doi.org/10.1038/s41366-018-0103-4
-- id: nguyen-vy-rmit
-  name: Nguyen, Vy
-  affiliation:
-    institution: RMIT University, School of Computing Technologies
-    country: Australia
-    position: PhD Student
-  links:
-    arxiv: https://arxiv.org/a/nguyen_v_3
-    scholar: https://scholar.google.com/citations?user=V0KdkKIAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-nlp
-  notes: RMIT; 'Vy' Vietnamese given name.
-  source: scrape_arxiv
-  confidence: medium
-  last_verified: 2026-05-24
-  name_scholar: Vy Nguyen
-  recent_works:
-  - title: 'Hallucinate Less by Thinking More: Aspect-Based Causal Abstention for Large Language Models'
-    year: 2025
-    venue: arXiv (AAAI 2026)
-    url: https://arxiv.org/abs/2511.17170
 - id: pham-luan-rmit
   name: Pham, Luan
   affiliation:
