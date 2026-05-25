@@ -35,31 +35,6 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
-- id: trinh-quoc-dien-harvard
-  name: Trinh, Quoc-Dien
-  affiliation:
-    institution: Brigham and Women's Hospital / Harvard Medical School
-    country: United States
-    position: Full Professor
-  links:
-    openalex: https://openalex.org/A5077545940
-    scholar: https://scholar.google.com/citations?user=d2THMCkAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - applied-health
-  key_papers:
-  - title: 'Immortal-time bias: a crucial yet overlooked confounder in urological research'
-    venue: BJU Int
-    year: 2017
-  notes: h=79, 22711 citations; urology causal/comparative-effectiveness; Univ of Da Nang collab.
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: Quoc-Dien Trinh
-  recent_works:
-  - title: 'Immortal‐time bias: a crucial yet overlooked confounder in urological research'
-    year: 2017
-    venue: British Journal of Urology
-    url: https://doi.org/10.1111/bju.13966
 - id: nguyen-toan-deakin-pop-health
   name: Nguyen, Toan
   affiliation:

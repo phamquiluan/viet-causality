@@ -6,6 +6,7 @@ Usage:
 """
 from __future__ import annotations
 
+import subprocess
 import sys
 from pathlib import Path
 
@@ -49,6 +50,12 @@ def main() -> int:
             print(f"  {path.name}: dropped {removed} entries")
             total += removed
     print(f"Total dropped: {total}")
+    if total:
+        # Refresh _data/researchers.yml and README so the drop is visible.
+        subprocess.run(["python3", str(ROOT / "scripts" / "consolidate.py")],
+                       check=True, cwd=ROOT)
+        subprocess.run(["python3", str(ROOT / "scripts" / "render_table.py")],
+                       check=True, cwd=ROOT)
     return 0
 
 
