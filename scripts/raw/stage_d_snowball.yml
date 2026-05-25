@@ -200,12 +200,14 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5003913406
+    scholar: https://scholar.google.com/citations?user=SQyL0ZgAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   notes: OpenAlex h=27, 125 works, 1 causal-concept paper. Senior; co-author of Quoc-Viet Pham.
   source: scrape_snowball
   confidence: medium
   last_verified: 2026-05-24
+  name_scholar: Duy T. Ngo
 - id: dang-anh-hoang-jaist
   name: Dang, Anh-Hoang
   affiliation:
