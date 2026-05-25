@@ -1,7 +1,6 @@
 # Stage A output: walked dynaroars/phd-cs-us (~51), viet-wics (~66), VIS UK&IE (~22 CS)
 # Total walked: ~120; new causality matches found: 7
 # Excluded (no causality work found): Tri Dao, Truong Son Hy, Tu Vu, My Thai, Minh N. Do, AnHai Doan, Hung Le, Khoa Luu, Ngan Le, Long Tran-Thanh, The Anh Han, Long Nguyen, Hoang M. Le, Quoc Le, Anh Nguyen (Liverpool), Anh Nguyen (Montana), Van-Anh Nguyen (Monash), Phung Lai, Phi Le Nguyen, +30 others.
-
 - id: nguyen-thien-huu-oregon
   name: Nguyen, Thien Huu
   affiliation:
@@ -31,6 +30,23 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Thien Huu Nguyen
+  recent_works:
+  - title: Graph convolutional networks for event causality identification with rich document-level structures
+    year: 2021
+    venue: NAACL
+    url: https://doi.org/10.18653/v1/2021.naacl-main.273
+  - title: 'MECI: A multilingual dataset for event causality identification'
+    year: 2022
+    venue: COLING
+    url: https://doi.org/10.1145/3665348.3665353
+  - title: Mastering context-to-label representation transformation for event causality identification with diffusion models
+    year: 2024
+    venue: AAAI
+    url: https://doi.org/10.1609/aaai.v38i17.29840
+  - title: Hierarchical selection of important context for generative event causality identification with optimal transports
+    year: 2024
+    venue: LREC-COLING
+    url: https://doi.org/10.63317/2hqnogqdqgu3
 - id: nguyen-thanh-hong-oregon
   name: Nguyen, Thanh Hong
   affiliation:
@@ -51,6 +67,11 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Thanh Nguyen
+  recent_works:
+  - title: 'CounterNet: End-to-end training of prediction aware counterfactual explanations'
+    year: 2023
+    venue: KDD
+    url: https://doi.org/10.1145/3580305.3599290
 - id: nguyen-anh-totti-auburn
   name: Nguyen, Anh (Totti)
   affiliation:
@@ -76,6 +97,16 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Anh Totti Nguyen
+  recent_works:
+  - title: 'Double Trouble: How to not explain a text classifier''s decisions using counterfactuals synthesized by masked
+      language models'
+    year: 2022
+    venue: AACL
+    url: https://doi.org/10.48550/arxiv.2110.11929
+  - title: Explaining image classifiers by removing input features using generative models
+    year: 2020
+    venue: ACCV
+    url: https://doi.org/10.1007/978-3-030-69544-6_7
 - id: trieu-ni-asu
   name: Trieu, Ni
   affiliation:
@@ -97,6 +128,11 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Ni Trieu
+  recent_works:
+  - title: 'AITIA: Efficient Secure Computation of Bivariate Causal Discovery'
+    year: 2024
+    venue: ACM CCS
+    url: https://doi.org/10.1145/3658644.3670337
 - id: nguyen-nhi-nyu
   name: Nguyen, Nhi
   affiliation:
@@ -118,6 +154,10 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Nhi Nguyen
+  recent_works:
+  - title: 'Black Box Causal Inference: Effect Estimation via Meta Prediction'
+    year: 2026
+    venue: arXiv (preprint)
 - id: le-thai-indiana
   name: Le, Thai
   affiliation:
@@ -140,6 +180,12 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Thai Le
+  recent_works:
+  - title: A Novel Policy-graph Approach With Natural Language And Counterfactual Abstractions For Explaining Reinforcement
+      Learning Agents
+    year: 2023
+    venue: AAMAS Journal
+    url: https://doi.org/10.1007/s10458-023-09615-8
 - id: dang-tommy-ttu
   name: Dang, Tommy
   affiliation:
@@ -160,3 +206,8 @@
   confidence: low
   last_verified: 2026-05-24
   name_scholar: Tommy Dang
+  recent_works:
+  - title: 'ReactionFlow: An interactive visualization tool for causality analysis in biological pathways'
+    year: 2015
+    venue: BMC Proceedings (BioVis)
+    url: https://doi.org/10.1186/1753-6561-9-s6-s6

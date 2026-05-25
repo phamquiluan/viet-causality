@@ -2,7 +2,6 @@
 # New candidates: 34 (excluded 1 duplicate of Thai-Hoang Pham already in seed)
 # Strong cluster found: Deakin A2I2 PhD students and researchers
 # NOTE: some arXiv IDs reference 2026 papers; verify in Stage C before merging.
-
 - id: vo-vy-monash
   name: Vo, Vy
   affiliation:
@@ -29,6 +28,15 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Vy Vo
+  recent_works:
+  - title: Optimal Transport for Structure Learning Under Missing Data
+    year: 2024
+    venue: ICML
+    url: https://arxiv.org/abs/2402.15255
+  - title: 'ACCESS: A Benchmark for Abstract Causal Event Discovery and Reasoning'
+    year: 2025
+    venue: NAACL
+    url: https://doi.org/10.48550/arxiv.2502.08148
 - id: hoang-nu-deakin
   name: Hoang, Nu
   affiliation:
@@ -55,6 +63,15 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Nu Hoang
+  recent_works:
+  - title: Scalable Variational Causal Discovery Unconstrained by Acyclicity
+    year: 2024
+    venue: arXiv
+    url: https://arxiv.org/abs/2407.04992
+  - title: Enabling Causal Discovery in Post-Nonlinear Models with Normalizing Flows
+    year: 2024
+    venue: arXiv
+    url: https://arxiv.org/abs/2407.04980
 - id: tran-quang-duy-deakin
   name: Tran, Quang-Duy
   affiliation:
@@ -77,6 +94,11 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Quang-Duy Tran
+  recent_works:
+  - title: Robust Estimation of Causal Heteroscedastic Noise Models
+    year: 2023
+    venue: arXiv
+    url: https://arxiv.org/abs/2312.10102
 - id: nguyen-khoa-deakin
   name: Nguyen, Khoa
   affiliation:
@@ -95,6 +117,11 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  recent_works:
+  - title: Neural Autoregressive Flows for Markov Boundary Learning
+    year: 2026
+    venue: arXiv
+    url: https://openalex.org/W7140347371
 - id: nguyen-minh-hoang-deakin
   name: Nguyen, Minh Hoang
   affiliation:
@@ -119,6 +146,15 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
+    year: 2025
+    venue: arXiv
+    url: https://arxiv.org/abs/2508.13721
+  - title: Variable-Agnostic Causal Exploration for Reinforcement Learning
+    year: 2024
+    venue: arXiv
+    url: https://arxiv.org/abs/2407.12437
 - id: do-van-dai-deakin
   name: Do, Van Dai
   affiliation:
@@ -139,6 +175,11 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
+    year: 2025
+    venue: arXiv
+    url: https://arxiv.org/abs/2508.13721
 - id: nguyen-dung-deakin
   name: Nguyen, Dung
   affiliation:
@@ -161,6 +202,11 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Dung Nguyen
+  recent_works:
+  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
+    year: 2025
+    venue: arXiv
+    url: https://arxiv.org/abs/2508.13721
 - id: nguyen-dang-deakin
   name: Nguyen, Dang
   affiliation:
@@ -183,6 +229,11 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Dang Nguyen
+  recent_works:
+  - title: Efficient Classification with Counterfactual Reasoning and Active Learning
+    year: 2022
+    venue: arXiv
+    url: https://arxiv.org/abs/2207.12086
 - id: vo-tri-nhan-deakin
   name: Vo, Tri-Nhan
   affiliation:
@@ -199,6 +250,11 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Trí Nhân Võ
+  recent_works:
+  - title: Causal-Aware Generative Adversarial Networks with Reinforcement Learning
+    year: 2025
+    venue: arXiv
+    url: https://arxiv.org/abs/2510.24046
 - id: duong-tri-dung-uts
   name: Duong, Tri Dung
   affiliation:
@@ -231,6 +287,22 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Dung Duong
+  recent_works:
+  - title: Achieving counterfactual fairness with imperfect structural causal model
+    year: 2023
+    venue: Expert Systems with Applications
+    url: https://doi.org/10.1016/j.eswa.2023.122411
+  - title: Achieving Counterfactual Fairness with Imperfect Structural Causal Model
+    year: 2023
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.2303.14665
+  - title: Stochastic intervention for causal inference via reinforcement learning
+    year: 2022
+    venue: Neurocomputing
+    url: https://doi.org/10.1016/j.neucom.2022.01.086
+  - title: Stochastic Intervention for Causal Effect Estimation
+    year: 2021
+    url: https://doi.org/10.1109/ijcnn52387.2021.9533959
 - id: do-kien-deakin
   name: Do, Kien
   affiliation:
@@ -259,6 +331,10 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Kien Do
+  recent_works:
+  - title: Causal Inference via Style Transfer for Out-of-distribution Generalisation
+    year: 2023
+    url: https://doi.org/10.1145/3580305.3599270
 - id: le-thao-minh-deakin
   name: Le, Thao Minh
   affiliation:
@@ -282,6 +358,11 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Thao Minh Le
+  recent_works:
+  - title: 'Finding the Trigger: Causal Abductive Reasoning on Video Events'
+    year: 2025
+    venue: ArXiv.org
+    url: https://doi.org/10.48550/arxiv.2501.09304
 - id: le-vuong-amazon
   name: Le, Vuong
   affiliation:
@@ -304,6 +385,11 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Vuong Le
+  recent_works:
+  - title: 'Finding the Trigger: Causal Abductive Reasoning on Video Events'
+    year: 2025
+    venue: arXiv
+    url: https://arxiv.org/abs/2501.09304
 - id: le-minh-khoa-deakin
   name: Le, Minh Khoa
   affiliation:
@@ -324,6 +410,11 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'Learning Structural Causal Models from Ordering: Identifiable Flow Models'
+    year: 2024
+    venue: AAAI
+    url: https://arxiv.org/abs/2412.09843
 - id: vo-tat-thang-paris
   name: Vo, Tat-Thang
   affiliation:
@@ -355,6 +446,11 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Tat-Thang Vo
+  recent_works:
+  - title: 'Recanting Twins: Addressing Intermediate Confounding in Mediation Analysis'
+    year: 2026
+    venue: Statistics in Medicine
+    url: https://doi.org/10.1002/sim.70432
 - id: le-tran-trong-khoi-paris
   name: Le, Tran Trong Khoi
   affiliation:
@@ -374,6 +470,11 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  recent_works:
+  - title: Integration of aggregated data in causally interpretable meta-analysis by inverse weighting
+    year: 2025
+    venue: arXiv (stat.ME)
+    url: https://arxiv.org/abs/2503.05634
 - id: nguyen-phi-le-hust
   name: Nguyen, Phi Le
   affiliation:
@@ -395,6 +496,11 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Phi Le Nguyen
+  recent_works:
+  - title: Causal Graph Learning via Distributional Invariance of Cause-Effect Relationship
+    year: 2026
+    venue: TMLR
+    url: https://openalex.org/W7127740639
 - id: nguyen-nang-hung-tokyo
   name: Nguyen, Nang Hung
   affiliation:
@@ -416,6 +522,11 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Nang Hung Nguyen
+  recent_works:
+  - title: Causal Graph Learning via Distributional Invariance of Cause-Effect Relationship
+    year: 2026
+    venue: TMLR
+    url: https://openalex.org/W7127740639
 - id: hoang-van-thuy-catholic-korea
   name: Hoang, Van Thuy
   affiliation:
@@ -437,6 +548,11 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Van Thuy Hoang
+  recent_works:
+  - title: Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction
+    year: 2025
+    venue: arXiv
+    url: https://openalex.org/W7124818306
 - id: le-duc-trong-vnu
   name: Le, Duc-Trong
   affiliation:
@@ -459,6 +575,10 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Duc-Trong Le
+  recent_works:
+  - title: 'CLEAR: Causal Learning Framework For Robust Histopathology Tumor Detection Under OOD Shifts'
+    year: 2025
+    venue: arXiv
 - id: pham-huy-hieu-vinuni
   name: Pham, Huy-Hieu
   affiliation:
@@ -480,6 +600,10 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Hieu H. Pham
+  recent_works:
+  - title: 'CLEAR: Causal Learning Framework For Robust Histopathology Tumor Detection Under OOD Shifts'
+    year: 2025
+    venue: arXiv
 - id: truong-thi-kieu-anh-vnu
   name: Truong Thi, Kieu-Anh
   affiliation:
@@ -501,6 +625,10 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Kieu Anh Thi Truong
+  recent_works:
+  - title: 'CLEAR: Causal Learning Framework For Robust Histopathology Tumor Detection Under OOD Shifts'
+    year: 2025
+    venue: arXiv
 - id: le-hoang-quynh-vnu
   name: Le, Hoang-Quynh
   affiliation:
@@ -519,6 +647,11 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems'
+    year: 2026
+    venue: arXiv
+    url: https://doi.org/10.1145/3805712.3808574
 - id: nguyen-quang-huy-vnu
   name: Nguyen, Quang-Huy
   affiliation:
@@ -537,6 +670,11 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems'
+    year: 2026
+    venue: arXiv
+    url: https://doi.org/10.1145/3805712.3808574
 - id: nguyen-cam-van-thi-vnu
   name: Nguyen, Cam-Van Thi
   affiliation:
@@ -557,6 +695,11 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Cam-Van Thi Nguyen
+  recent_works:
+  - title: 'From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems'
+    year: 2026
+    venue: arXiv
+    url: https://doi.org/10.1145/3805712.3808574
 - id: nguyen-huy-son-delft
   name: Nguyen, Huy-Son
   affiliation:
@@ -575,6 +718,11 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems'
+    year: 2026
+    venue: arXiv
+    url: https://doi.org/10.1145/3805712.3808574
 - id: pham-luan-rmit
   name: Pham, Luan
   affiliation:
@@ -599,6 +747,11 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Luan Pham
+  recent_works:
+  - title: 'Root Cause Analysis for Microservice System based on Causal Inference: How Far Are We?'
+    year: 2024
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.2408.13729
 - id: dang-hoang-vn
   name: Dang, Hoang
   affiliation:
@@ -614,20 +767,15 @@
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
-- id: nguyen-tu-anh-hoang-deakin
-  name: Nguyen, Tu Anh Hoang
-  affiliation:
-    institution: Deakin University, A2I2
-    country: Australia
-    position: PhD Student
-  links:
-    arxiv: https://arxiv.org/a/nguyen_t_5
-  sub_areas:
-  - causal-ml
-  notes: Deakin A2I2.
-  source: scrape_arxiv
-  confidence: medium
-  last_verified: 2026-05-24
+  recent_works:
+  - title: 'Minimum Specification Perturbation: Robustness as Distance-to-Falsification in Causal Inference'
+    year: 2026
+    venue: arXiv
+    url: https://arxiv.org/abs/2605.01579
+  - title: Effect-Level Validation for Causal Discovery
+    year: 2026
+    venue: arXiv
+    url: https://arxiv.org/abs/2602.08340
 - id: pham-cuong-rochester
   name: Pham, Cuong T.
   affiliation:
@@ -652,6 +800,15 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  recent_works:
+  - title: Nonparametric assessment of regimen response curve estimators
+    year: 2024
+    venue: arXiv (stat.ME)
+    url: https://arxiv.org/abs/2402.11466
+  - title: Sensitivity analysis for constructing optimal regimes in the presence of treatment non-compliance
+    year: 2022
+    venue: arXiv
+    url: https://arxiv.org/abs/2207.08964
 - id: nguyen-vy-rmit
   name: Nguyen, Vy
   affiliation:
@@ -668,6 +825,11 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Vy Nguyen
+  recent_works:
+  - title: 'Hallucinate Less by Thinking More: Aspect-Based Causal Abstention for Large Language Models'
+    year: 2025
+    venue: arXiv (AAAI 2026)
+    url: https://arxiv.org/abs/2511.17170
 - id: duong-hieu-minh-louisville
   name: Duong, Hieu Minh
   affiliation:
@@ -685,6 +847,11 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Hieu Minh Duong
+  recent_works:
+  - title: 'CaST: Causal Discovery via Spatio-Temporal Graphs in Disaster Tweets'
+    year: 2025
+    venue: IEEE BigData
+    url: https://doi.org/10.1109/BigData66926.2025.11401631
 - id: nguyen-long-louisville
   name: Nguyen, Long
   affiliation:
@@ -721,6 +888,11 @@
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
+  recent_works:
+  - title: Causal Strategic Learning with Competitive Selection
+    year: 2023
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.2308.16262
 - id: pham-quoc-viet-tcd
   name: Pham, Quoc-Viet
   affiliation:
@@ -738,6 +910,11 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Viet Quoc Pham
+  recent_works:
+  - title: 'Knowledge Abstraction for Knowledge-based Semantic Communication: A Generative Causality Invariant Approach'
+    year: 2025
+    venue: ArXiv.org
+    url: https://doi.org/10.48550/arxiv.2507.17784
 - id: nguyen-minh-duong
   name: Nguyen, Minh-Duong
   affiliation:
@@ -754,6 +931,15 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Minh-Duong Nguyen
+  recent_works:
+  - title: 'Knowledge Abstraction for Knowledge-based Semantic Communication: A Generative Causality Invariant Approach'
+    year: 2025
+    venue: arXiv
+    url: https://arxiv.org/abs/2507.17784
+  - title: 'SC-GIR: Goal-Oriented Semantic Communication via Invariant Representation Learning for Image Transmission'
+    year: 2026
+    venue: IEEE Trans. Mobile Computing
+    url: https://doi.org/10.1109/TMC.2025.3600434
 - id: tran-ha-xuan-unisa
   name: Tran, Ha Xuan
   affiliation:
@@ -781,3 +967,20 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Ha Xuan Tran
+  recent_works:
+  - title: Causal Recommendation Method for Personalised Chemotherapy Optimisation in Breast Cancer
+    year: 2026
+    venue: Communications in computer and information science
+    url: https://doi.org/10.1007/978-981-95-6786-7_27
+  - title: Personalized Interventions to Increase the Employment Success of People With Disability
+    year: 2023
+    venue: IEEE Transactions on Big Data
+    url: https://doi.org/10.1109/tbdata.2023.3291547
+  - title: Linking a predictive model to causal effect estimation
+    year: 2023
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.2304.04566
+  - title: Explanatory causal effects for model agnostic explanations
+    year: 2022
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.2206.11529

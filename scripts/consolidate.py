@@ -132,6 +132,36 @@ def merge_papers(a: list, b: list) -> list:
     return out
 
 
+def merge_recent_works(a: list, b: list) -> list:
+    """Same as merge_papers but cap at 4. Prefer entries with URLs."""
+    seen = set()
+    out: list = []
+    # First pass: prefer items with URL
+    combined = list(a or []) + list(b or [])
+    for paper in combined:
+        if not paper or not paper.get("url"):
+            continue
+        title = (paper.get("title") or "").strip().lower()
+        if title in seen:
+            continue
+        seen.add(title)
+        out.append(paper)
+        if len(out) >= 4:
+            break
+    if len(out) < 4:
+        for paper in combined:
+            if not paper or paper.get("url"):
+                continue
+            title = (paper.get("title") or "").strip().lower()
+            if title in seen:
+                continue
+            seen.add(title)
+            out.append(paper)
+            if len(out) >= 4:
+                break
+    return out
+
+
 def merge_sub_areas(a: list, b: list) -> list:
     seen = set()
     out: list = []
@@ -162,10 +192,12 @@ def merge_two(canon: dict, other: dict) -> dict:
         "id": canon.get("id") or other.get("id"),
         "name": canon.get("name") or other.get("name"),
         "name_vi": canon.get("name_vi") or other.get("name_vi"),
+        "name_scholar": canon.get("name_scholar") or other.get("name_scholar"),
         "affiliation": merged_aff,
         "links": merge_links(canon.get("links") or {}, other.get("links") or {}),
         "sub_areas": merge_sub_areas(canon.get("sub_areas"), other.get("sub_areas")),
         "key_papers": merge_papers(canon.get("key_papers"), other.get("key_papers")),
+        "recent_works": merge_recent_works(canon.get("recent_works"), other.get("recent_works")),
         "alumnus_of": (canon.get("alumnus_of") or other.get("alumnus_of")),
         # Combine notes (deduplicated)
         "notes": " | ".join(

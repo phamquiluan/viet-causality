@@ -28,17 +28,22 @@ def fmt_link(label: str, url: str) -> str:
     return f"[{label}]({url})"
 
 
-def fmt_links(links: dict[str, str]) -> str:
-    parts = []
-    for label, key in [("home", "homepage"), ("scholar", "scholar"), ("dblp", "dblp"), ("orcid", "orcid")]:
-        v = (links or {}).get(key)
-        if v:
-            parts.append(fmt_link(label, v))
-    return " · ".join(parts)
-
-
 def fmt_areas(areas: list[str]) -> str:
     return ", ".join(f"`{a}`" for a in (areas or []))
+
+
+def fmt_recent_works(works: list[dict]) -> str:
+    """Render up to 4 works as [1][2][3][4] hyperlinks; items lacking URL appear as plain [N]."""
+    if not works:
+        return ""
+    parts = []
+    for i, w in enumerate(works[:4], 1):
+        url = (w or {}).get("url") or ""
+        if url:
+            parts.append(f"[\\[{i}\\]]({url})")
+        else:
+            parts.append(f"\\[{i}\\]")
+    return "".join(parts)
 
 
 # Academic seniority ladder. Match by substring (lowercased) against the
@@ -109,7 +114,7 @@ def render_section(name: str, items: list[dict[str, Any]], group_by_rank: bool =
     if not items:
         return out
     out.append(f"\n### {name} ({len(items)})\n")
-    out.append("| Name | Position | Affiliation | Country | Sub-areas | Links | Conf. |")
+    out.append("| Name | Position | Affiliation | Country | Sub-areas | Recent works | Conf. |")
     out.append("|---|---|---|---|---|---|---|")
 
     if group_by_rank:
@@ -144,7 +149,7 @@ def row_for(entry: dict[str, Any]) -> str:
         aff.get("institution", "") or "",
         aff.get("country", "") or "",
         fmt_areas(entry.get("sub_areas", [])),
-        fmt_links(entry.get("links", {})),
+        fmt_recent_works(entry.get("recent_works") or []),
         entry.get("confidence", "") or "",
     ]) + " |"
 

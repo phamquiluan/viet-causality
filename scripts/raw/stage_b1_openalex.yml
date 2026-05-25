@@ -4,7 +4,6 @@
 # Removed entries were probabilistic-methods researchers swept up by the broader
 # OpenAlex Topic T11303 (Bayesian Modeling and Causal Inference).
 # See scripts/audit_openalex.py for the audit logic.
-
 - id: nguyen-tri-long-copenhagen
   name: Nguyen, Tri-Long
   affiliation:
@@ -29,6 +28,21 @@
   source: scrape_openalex
   confidence: high
   last_verified: 2026-05-24
+  recent_works:
+  - title: Introduction to Directed Acyclic Graphs (DAGs) for bias visualization
+    year: 2026
+    url: https://doi.org/10.1201/9781003300809-4
+  - title: Understanding and defining causal effects
+    year: 2026
+    url: https://doi.org/10.1201/9781003300809-5
+  - title: On the aggregation of published prognostic scores for causal inference in observational studies
+    year: 2020
+    venue: Statistics in Medicine
+    url: https://doi.org/10.1002/sim.8489
+  - title: The use of prognostic scores for causal inference with general treatment regimes
+    year: 2019
+    venue: Statistics in Medicine
+    url: https://doi.org/10.1002/sim.8084
 - id: nguyen-michael-diab-au
   name: Nguyen, Michael
   affiliation:
@@ -44,6 +58,12 @@
   source: scrape_openalex
   confidence: medium
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'Broadening the reach of the FDA Sentinel system: A roadmap for integrating electronic health record data in a
+      causal analysis framework'
+    year: 2021
+    venue: npj Digital Medicine
+    url: https://doi.org/10.1038/s41746-021-00542-0
 - id: tran-ngoc-mai-cantho
   name: Tran, Ngoc Mai
   affiliation:
@@ -67,6 +87,18 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Ngoc Tran
+  recent_works:
+  - title: The tropical geometry of causal inference for extremes
+    year: 2022
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.2207.10227
+  - title: Causal inference for extremes on river networks
+    year: 2021
+    url: https://doi.org/10.5194/egusphere-egu21-341
+  - title: Causal Discovery of a River Network from its Extremes.
+    year: 2021
+    venue: arXiv (Cornell University)
+    url: https://openalex.org/W3128646675
 - id: dang-lauren-eyler-berkeley
   name: Dang, Lauren Eyler
   affiliation:
@@ -89,6 +121,16 @@
   confidence: low
   last_verified: 2026-05-24
   name_scholar: Lauren Eyler Dang
+  recent_works:
+  - title: Start with the Target Trial Protocol, Then Follow the Roadmap for Causal Inference
+    year: 2023
+    venue: Epidemiology
+    url: https://doi.org/10.1097/ede.0000000000001637
+  - title: 'An application of the Causal Roadmap in two safety monitoring case studies: Causal inference and outcome prediction
+      using electronic health record data'
+    year: 2023
+    venue: Journal of Clinical and Translational Science
+    url: https://doi.org/10.1017/cts.2023.632
 - id: tran-linh-jhu
   name: Tran, Linh
   affiliation:
@@ -110,6 +152,16 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Linh Tran
+  recent_works:
+  - title: Robust variance estimation and inference for causal effect estimation
+    year: 2018
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.1810.03030
+  - title: Comparative Causal Effect Estimation and Robust Variance for Longitudinal Data Structures with Applications to
+      Observational HIV Treatment
+    year: 2016
+    venue: eScholarship (California Digital Library)
+    url: https://openalex.org/W2551809854
 - id: le-tuan-pfizer
   name: Le, Tuan
   affiliation:
@@ -128,6 +180,11 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Tuan Le
+  recent_works:
+  - title: 'Hybrid Memoised Wake-Sleep: Approximate Inference at the Discrete-Continuous Interface'
+    year: 2021
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.2107.06393
 - id: pham-thong-shiga
   name: Pham, Thong
   affiliation:
@@ -148,6 +205,22 @@
   source: scrape_openalex
   confidence: high
   last_verified: 2026-05-24
+  recent_works:
+  - title: Statistical causal discovery in developing adverse outcome pathway
+    year: 2026
+    venue: Environmental Toxicology and Chemistry
+    url: https://doi.org/10.1093/etojnl/vgag067
+  - title: Causal-discovery-based root-cause analysis and its application in time-series prediction error diagnosis
+    year: 2025
+    url: https://doi.org/10.1109/ijcnn64981.2025.11228702
+  - title: Causal Additive Models with Unobserved Causal Paths and Backdoor Paths
+    year: 2025
+    venue: ArXiv.org
+    url: https://doi.org/10.48550/arxiv.2502.07646
+  - title: 'Integrating Large Language Models in Causal Discovery: A Statistical Causal Approach'
+    year: 2024
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.2402.01454
 - id: pham-thai-aut
   name: Pham, Thai
   affiliation:
@@ -164,6 +237,16 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Thai T. Pham
+  recent_works:
+  - title: A Deep Causal Inference Approach to Measuring the Effects of Forming Group Loans in Online Non-profit Microfinance
+      Platform
+    year: 2017
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.1706.02795
+  - title: Balancing Method for High Dimensional Causal Inference
+    year: 2017
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.1702.04473
 - id: nguyen-son-phuc-vnuhcm
   name: Nguyen, Son Phuc
   affiliation:
@@ -179,6 +262,10 @@
   source: scrape_openalex
   confidence: high
   last_verified: 2026-05-24
+  recent_works:
+  - title: A Brief Introduction to Causal Inference
+    year: 2021
+    url: https://doi.org/10.53901/ezfy6oj557r
 - id: pham-duy-t-uthsc
   name: Pham, Duy T.
   affiliation:
@@ -195,6 +282,11 @@
   source: scrape_openalex
   confidence: medium
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'GEM: Scalable and flexible gene-environment interaction analysis in millions of samples'
+    year: 2020
+    venue: bioRxiv (Cold Spring Harbor Laboratory)
+    url: https://doi.org/10.1101/2020.05.13.090803
 - id: pham-dung-hmu
   name: Pham, Dung
   affiliation:
@@ -210,6 +302,11 @@
   source: scrape_openalex
   confidence: medium
   last_verified: 2026-05-24
+  recent_works:
+  - title: Design and analysis of cluster randomized trials
+    year: 2024
+    venue: Asia Pacific Education Review
+    url: https://doi.org/10.1007/s12564-024-09984-z
 - id: le-minh-deakin
   name: Le, Minh
   affiliation:
@@ -227,6 +324,11 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Minh Khoa Le
+  recent_works:
+  - title: 'Learning Structural Causal Models from Ordering: Identifiable Flow Models'
+    year: 2024
+    venue: arXiv (Cornell University)
+    url: https://openalex.org/W4405433011
 - id: pham-thong-arxiv
   name: Pham, Thong
   affiliation:
@@ -241,3 +343,23 @@
   source: scrape_openalex
   confidence: low
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'I-CAM-UV: Integrating Causal Graphs over Non-Identical Variable Sets Using Causal Additive Models with Unobserved
+      Variables'
+    year: 2026
+    venue: Proceedings of the AAAI Conference on Artificial Intelligence
+    url: https://doi.org/10.1609/aaai.v40i30.39772
+  - title: 'I-CAM-UV: Integrating Causal Graphs over Non-Identical Variable Sets Using Causal Additive Models with Unobserved
+      Variables'
+    year: 2026
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.2603.03207
+  - title: 'I-CAM-UV: Integrating Causal Graphs over Non-Identical Variable Sets Using Causal Additive Models with Unobserved
+      Variables'
+    year: 2026
+    venue: ArXiv.org
+    url: https://openalex.org/W7133570292
+  - title: Operationalizing Longitudinal Causal Discovery Under Real-World Workflow Constraints
+    year: 2026
+    venue: ArXiv.org
+    url: https://openalex.org/W7133267419

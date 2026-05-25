@@ -1,7 +1,6 @@
 # Stage B2 output: Semantic Scholar sweep (mostly via OpenAlex Topic T10845/T11303 fallback)
 # After 2026-05-24 audit: 21 entries removed for having zero works tagged under
 # narrow causality concepts. See scripts/audit_openalex.py.
-
 - id: tran-linh-jhu-b2
   name: Tran, Linh
   affiliation:
@@ -17,6 +16,16 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  recent_works:
+  - title: Robust variance estimation and inference for causal effect estimation
+    year: 2018
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.1810.03030
+  - title: Comparative Causal Effect Estimation and Robust Variance for Longitudinal Data Structures with Applications to
+      Observational HIV Treatment
+    year: 2016
+    venue: eScholarship (California Digital Library)
+    url: https://openalex.org/W2551809854
 - id: nguyen-tri-long-copenhagen-b2
   name: Nguyen, Tri-Long
   affiliation:
@@ -46,6 +55,11 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Quoc-Dien Trinh
+  recent_works:
+  - title: 'Immortal‐time bias: a crucial yet overlooked confounder in urological research'
+    year: 2017
+    venue: British Journal of Urology
+    url: https://doi.org/10.1111/bju.13966
 - id: nguyen-toan-deakin-pop-health
   name: Nguyen, Toan
   affiliation:
@@ -65,6 +79,18 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  recent_works:
+  - title: Utilising causal inference methods to estimate effects and strategise interventions in observational health data
+    year: 2024
+    venue: PLoS ONE
+    url: https://doi.org/10.1371/journal.pone.0314761
+  - title: Causal Inference via Style Transfer for Out-of-distribution Generalisation
+    year: 2023
+    url: https://doi.org/10.1145/3580305.3599270
+  - title: Causal Inference via Style Transfer for Out-of-distribution Generalisation
+    year: 2022
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.2212.03063
 - id: huynh-phat-k-ndsu
   name: Huynh, Phat K.
   affiliation:
@@ -86,6 +112,11 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Phat Kim Huynh
+  recent_works:
+  - title: Causal Inference in Longitudinal Studies Using Causal Bayesian Network with Latent Variables
+    year: 2022
+    venue: 2022 Annual Reliability and Maintainability Symposium (RAMS)
+    url: https://doi.org/10.1109/rams51457.2022.9893992
 - id: tran-dustin-google
   name: Tran, Dustin
   affiliation:
@@ -107,6 +138,15 @@
   confidence: low
   last_verified: 2026-05-24
   name_scholar: Dustin Tran
+  recent_works:
+  - title: Implicit Causal Models for Genome-wide Association Studies
+    year: 2017
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.1710.10742
+  - title: Model Criticism for Bayesian Causal Inference
+    year: 2016
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.1610.09037
 - id: bui-minh-melbourne
   name: Bui, Minh
   affiliation:
@@ -129,6 +169,24 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Minh Bui
+  recent_works:
+  - title: 'Causation and familial confounding as explanations for the associations of polygenic risk scores with breast cancer:
+      Evidence from innovative ICE FALCON and ICE CRISTAL analyses'
+    year: 2024
+    venue: Genetic Epidemiology
+    url: https://doi.org/10.1002/gepi.22556
+  - title: Causal relationships between breast cancer risk factors based on mammographic features
+    year: 2023
+    venue: Breast Cancer Research
+    url: https://doi.org/10.1186/s13058-023-01733-1
+  - title: Causal relationships between breast cancer mammogram risk scores based on textural features and density
+    year: 2023
+    venue: Research Square
+    url: https://doi.org/10.21203/rs.3.rs-2542474/v1
+  - title: Use of twin studies to make inference about causation for measured exposures by examining familial confounding
+    year: 2022
+    venue: Elsevier eBooks
+    url: https://doi.org/10.1016/b978-0-12-821514-2.00040-4
 - id: tran-christopher-uic
   name: Tran, Christopher
   affiliation:
@@ -150,6 +208,15 @@
   confidence: low
   last_verified: 2026-05-24
   name_scholar: Christopher Tran
+  recent_works:
+  - title: Improving Data-driven Heterogeneous Treatment Effect Estimation Under Structure Uncertainty
+    year: 2022
+    venue: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+    url: https://doi.org/10.1145/3534678.3539444
+  - title: Heterogeneous Peer Effects in the Linear Threshold Model
+    year: 2022
+    venue: Proceedings of the AAAI Conference on Artificial Intelligence
+    url: https://doi.org/10.1609/aaai.v36i4.20336
 - id: huynh-van-nam-jaist
   name: Huynh, Van-Nam
   affiliation:
@@ -166,6 +233,11 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Van Nam Huynh
+  recent_works:
+  - title: Causal Inference in Econometrics
+    year: 2015
+    venue: Studies in computational intelligence
+    url: https://doi.org/10.1007/978-3-319-27284-9
 - id: tran-cao-son-nmsu
   name: Tran, Cao Son
   affiliation:
@@ -183,6 +255,10 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Tran Cao Son
+  recent_works:
+  - title: Benchmarking an AI-Guided Reasoning-Based Operator Support System on the Three Mile Island Accident Scenario
+    year: 2020
+    url: https://doi.org/10.1115/icone2020-16400
 - id: truong-buu-broad
   name: Truong, Buu
   affiliation:
@@ -205,6 +281,24 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Buu Truong
+  recent_works:
+  - title: Leveraging polygenic risk scores to infer causal directions in genotype-by-environment interactions between complex
+      traits
+    year: 2026
+    venue: Human Genetics
+    url: https://doi.org/10.1007/s00439-025-02799-x
+  - title: 'Correction to: Identifying miRNA synergism using multiple-intervention causal inference'
+    year: 2020
+    venue: BMC Bioinformatics
+    url: https://doi.org/10.1186/s12859-020-3369-1
+  - title: Identifying miRNA synergism using multiple-intervention causal inference
+    year: 2019
+    venue: BMC Bioinformatics
+    url: https://doi.org/10.1186/s12859-019-3215-5
+  - title: Identifying miRNA synergism using multiple-intervention causal inference
+    year: 2019
+    venue: bioRxiv (Cold Spring Harbor Laboratory)
+    url: https://doi.org/10.1101/652180
 - id: nguyen-truong-thao-hust
   name: Nguyen Truong, Thao
   affiliation:
@@ -221,6 +315,15 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Truong Thao Nguyen
+  recent_works:
+  - title: Causal Graph Learning via Distributional Invariance of Cause-Effect Relationship
+    year: 2026
+    venue: arXiv (Cornell University)
+    url: https://openalex.org/W7127740639
+  - title: Causal Graph Learning via Distributional Invariance of Cause-Effect Relationship
+    year: 2026
+    venue: Open MIND
+    url: https://doi.org/10.48550/arxiv.2602.03353
 - id: nguyen-thanh-an-vnuhcm
   name: Nguyen, Thanh-An
   affiliation:
@@ -243,6 +346,12 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Thanh-An Nguyen
+  recent_works:
+  - title: 'Enhancing counterfactual explanations with causal inference: integrating DirectLiNGAM and variational autoencoders
+      for constraint-aware generation'
+    year: 2025
+    venue: Applied Intelligence
+    url: https://doi.org/10.1007/s10489-025-06945-w
 - id: nguyen-ngoc-thao-vnuhcm
   name: Nguyen, Ngoc-Thao
   affiliation:
@@ -258,6 +367,12 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'Enhancing counterfactual explanations with causal inference: integrating DirectLiNGAM and variational autoencoders
+      for constraint-aware generation'
+    year: 2025
+    venue: Applied Intelligence
+    url: https://doi.org/10.1007/s10489-025-06945-w
 - id: le-bac-vnuhcm
   name: Le, Bac
   affiliation:
@@ -275,6 +390,12 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Bac Le
+  recent_works:
+  - title: 'Enhancing counterfactual explanations with causal inference: integrating DirectLiNGAM and variational autoencoders
+      for constraint-aware generation'
+    year: 2025
+    venue: Applied Intelligence
+    url: https://doi.org/10.1007/s10489-025-06945-w
 - id: le-hao-duong-llm-cd
   name: Le, Hao Duong
   affiliation:
@@ -294,6 +415,11 @@
   source: scrape_semantic_scholar
   confidence: medium
   last_verified: 2026-05-24
+  recent_works:
+  - title: Multi-Agent Causal Discovery Using Large Language Models
+    year: 2024
+    venue: arXiv
+    url: https://doi.org/10.48550/arxiv.2407.15073
 - id: huynh-thi-hong-tram-hcm
   name: Huynh, Thi Hong Tram
   affiliation:
@@ -314,6 +440,12 @@
   source: scrape_semantic_scholar
   confidence: medium
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
+      teaching'
+    year: 2018
+    venue: Y HOC TP HO CHI MINH
+    url: https://doi.org/10.32895/ump.mpr.2.3.12
 - id: doan-toan-causal-steering
   name: Doan, Toan
   affiliation:
@@ -332,3 +464,7 @@
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
+  recent_works:
+  - title: Causal Direct Preference Optimization for Language Model Alignment
+    year: 2026
+    url: https://doi.org/10.18653/v1/2026.findings-eacl.58

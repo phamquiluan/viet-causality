@@ -5,7 +5,6 @@
 # Affiliations from OpenAlex last_known_institutions (2026-05-24).
 
 # ============ Pass 1 candidates ============
-
 - id: pham-vu-hong-son-vnuhcm
   name: Pham, Vu Hong Son
   affiliation:
@@ -22,6 +21,23 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: PHAM VU HONG SON
+  recent_works:
+  - title: MOESM5 of Identifying miRNA synergism using multiple-intervention causal inference
+    year: 2019
+    venue: Figshare
+    url: https://doi.org/10.6084/m9.figshare.11471313
+  - title: MOESM6 of Identifying miRNA synergism using multiple-intervention causal inference
+    year: 2019
+    venue: Figshare
+    url: https://doi.org/10.6084/m9.figshare.11471322
+  - title: MOESM3 of Identifying miRNA synergism using multiple-intervention causal inference
+    year: 2019
+    venue: Figshare
+    url: https://doi.org/10.6084/m9.figshare.11471298
+  - title: MOESM1 of Identifying miRNA synergism using multiple-intervention causal inference
+    year: 2019
+    venue: Figshare
+    url: https://doi.org/10.6084/m9.figshare.11471289
 - id: nguyen-tuong-l-melbourne
   name: Nguyen, Tuong L.
   affiliation:
@@ -39,6 +55,24 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Tuong L Nguyen
+  recent_works:
+  - title: 'Causation and familial confounding as explanations for the associations of polygenic risk scores with breast cancer:
+      Evidence from innovative ICE FALCON and ICE CRISTAL analyses'
+    year: 2024
+    venue: Genetic Epidemiology
+    url: https://doi.org/10.1002/gepi.22556
+  - title: Causal relationships between breast cancer risk factors based on mammographic features
+    year: 2023
+    venue: Breast Cancer Research
+    url: https://doi.org/10.1186/s13058-023-01733-1
+  - title: Causal relationships between breast cancer mammogram risk scores based on textural features and density
+    year: 2023
+    venue: Research Square
+    url: https://doi.org/10.21203/rs.3.rs-2542474/v1
+  - title: Inference about causation between body mass index and DNA methylation in blood from a twin family study
+    year: 2018
+    venue: International Journal of Obesity
+    url: https://doi.org/10.1038/s41366-018-0103-4
 - id: trinh-ho-n-melbourne
   name: Trinh, Ho N.
   affiliation:
@@ -54,6 +88,15 @@
   source: scrape_snowball
   confidence: medium
   last_verified: 2026-05-24
+  recent_works:
+  - title: Causal relationships between breast cancer risk factors based on mammographic features
+    year: 2023
+    venue: Breast Cancer Research
+    url: https://doi.org/10.1186/s13058-023-01733-1
+  - title: Causal relationships between breast cancer mammogram risk scores based on textural features and density
+    year: 2023
+    venue: Research Square
+    url: https://doi.org/10.21203/rs.3.rs-2542474/v1
 - id: le-trung-tim-q-usf
   name: Le, Trung Tim Q.
   affiliation:
@@ -68,6 +111,11 @@
   source: scrape_snowball
   confidence: low
   last_verified: 2026-05-24
+  recent_works:
+  - title: Causal Inference in Longitudinal Studies Using Causal Bayesian Network with Latent Variables
+    year: 2022
+    venue: 2022 Annual Reliability and Maintainability Symposium (RAMS)
+    url: https://doi.org/10.1109/rams51457.2022.9893992
 - id: dinh-nam-ncstate
   name: Dinh, Nam T.
   affiliation:
@@ -85,6 +133,10 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Nam Dinh
+  recent_works:
+  - title: Benchmarking an AI-Guided Reasoning-Based Operator Support System on the Three Mile Island Accident Scenario
+    year: 2020
+    url: https://doi.org/10.1115/icone2020-16400
 - id: tran-ngoc-dang-uq
   name: Tran, Ngoc Dang
   name_vi: Trần Ngọc Đăng
@@ -103,6 +155,12 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Tran Ngoc Dang
+  recent_works:
+  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
+      teaching'
+    year: 2018
+    venue: Y HOC TP HO CHI MINH
+    url: https://doi.org/10.32895/ump.mpr.2.3.12
 - id: le-huynh-thi-cam-hong-uoeh
   name: Le Huynh, Thi Cam Hong
   affiliation:
@@ -117,6 +175,12 @@
   source: scrape_snowball
   confidence: medium
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
+      teaching'
+    year: 2018
+    venue: Y HOC TP HO CHI MINH
+    url: https://doi.org/10.32895/ump.mpr.2.3.12
 - id: vo-minh-tuan-uit
   name: Vo, Minh Tuan
   affiliation:
@@ -132,6 +196,12 @@
   source: scrape_snowball
   confidence: medium
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
+      teaching'
+    year: 2018
+    venue: Y HOC TP HO CHI MINH
+    url: https://doi.org/10.32895/ump.mpr.2.3.12
 - id: nguyen-dung-huu-bachmai
   name: Nguyen, Dung Huu
   affiliation:
@@ -147,6 +217,11 @@
   source: scrape_snowball
   confidence: high
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
+    year: 2025
+    venue: ArXiv.org
+    url: https://openalex.org/W4414536845
 - id: pham-duc-truong-birmingham
   name: Pham, Duc Truong
   affiliation:
@@ -164,6 +239,12 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Duc Truong Pham
+  recent_works:
+  - title: 'CAUSALRLSTACK: adaptive balancing of deep representation and causal effect estimation with application to HIV-related
+      health data'
+    year: 2025
+    venue: BioData Mining
+    url: https://doi.org/10.1186/s13040-025-00492-3
 - id: tran-khai-quang-cattien
   name: Tran, Khai Quang
   affiliation:
@@ -179,6 +260,12 @@
   source: scrape_snowball
   confidence: low
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'CAUSALRLSTACK: adaptive balancing of deep representation and causal effect estimation with application to HIV-related
+      health data'
+    year: 2025
+    venue: BioData Mining
+    url: https://doi.org/10.1186/s13040-025-00492-3
 - id: nguyen-h-tran-sydney
   name: Tran, Nguyen H.
   affiliation:
@@ -196,6 +283,11 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Nguyen H. Tran
+  recent_works:
+  - title: 'Knowledge Abstraction for Knowledge-based Semantic Communication: A Generative Causality Invariant Approach'
+    year: 2025
+    venue: ArXiv.org
+    url: https://doi.org/10.48550/arxiv.2507.17784
 - id: ngo-duy-t
   name: Ngo, Duy T.
   affiliation:
@@ -212,6 +304,11 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Duy T. Ngo
+  recent_works:
+  - title: 'Knowledge Abstraction for Knowledge-based Semantic Communication: A Generative Causality Invariant Approach'
+    year: 2025
+    venue: ArXiv.org
+    url: https://doi.org/10.48550/arxiv.2507.17784
 - id: dang-anh-hoang-jaist
   name: Dang, Anh-Hoang
   affiliation:
@@ -227,6 +324,11 @@
   source: scrape_snowball
   confidence: low
   last_verified: 2026-05-24
+  recent_works:
+  - title: 'Survey and analysis of hallucinations in large language models: attribution to prompting strategies or model behavior'
+    year: 2025
+    venue: Frontiers in Artificial Intelligence
+    url: https://doi.org/10.3389/frai.2025.1622292
 - id: tran-duc-vu-jaist
   name: Tran, Duc-Vu
   affiliation:
@@ -244,3 +346,8 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Vu Tran
+  recent_works:
+  - title: 'Survey and analysis of hallucinations in large language models: attribution to prompting strategies or model behavior'
+    year: 2025
+    venue: Frontiers in Artificial Intelligence
+    url: https://doi.org/10.3389/frai.2025.1622292
