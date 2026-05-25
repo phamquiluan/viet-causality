@@ -705,6 +705,7 @@
     position: Associate Professor
   links:
     openalex: https://openalex.org/A5027558961
+    scholar: https://scholar.google.com/citations?user=2QacQMgAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - theoretical
@@ -712,6 +713,7 @@
   source: scrape_snowball
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Nguyen H. Tran
 - id: tran-quang-duy-deakin
   name: Tran, Quang-Duy
   affiliation:
