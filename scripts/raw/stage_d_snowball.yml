@@ -116,27 +116,6 @@
     year: 2022
     venue: 2022 Annual Reliability and Maintainability Symposium (RAMS)
     url: https://doi.org/10.1109/rams51457.2022.9893992
-- id: dinh-nam-ncstate
-  name: Dinh, Nam T.
-  affiliation:
-    institution: North Carolina State University
-    country: United States
-    position: Full Professor
-  links:
-    openalex: https://openalex.org/A5069550444
-    scholar: https://scholar.google.com/citations?user=k66mpoIAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-ml
-  - theoretical
-  notes: OpenAlex h=39, 289 works, 1 causal-concept paper. Senior; co-author of Tran Cao Son.
-  source: scrape_snowball
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: Nam Dinh
-  recent_works:
-  - title: Benchmarking an AI-Guided Reasoning-Based Operator Support System on the Three Mile Island Accident Scenario
-    year: 2020
-    url: https://doi.org/10.1115/icone2020-16400
 - id: tran-ngoc-dang-uq
   name: Tran, Ngoc Dang
   name_vi: Trần Ngọc Đăng

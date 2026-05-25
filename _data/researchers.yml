@@ -1889,27 +1889,6 @@
     year: 2015
     venue: BMC Proceedings (BioVis)
     url: https://doi.org/10.1186/1753-6561-9-s6-s6
-- id: dinh-nam-ncstate
-  name: Dinh, Nam T.
-  affiliation:
-    institution: North Carolina State University
-    country: United States
-    position: Full Professor
-  links:
-    openalex: https://openalex.org/A5069550444
-    scholar: https://scholar.google.com/citations?user=k66mpoIAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-ml
-  - theoretical
-  notes: OpenAlex h=39, 289 works, 1 causal-concept paper. Senior; co-author of Tran Cao Son.
-  source: scrape_snowball
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: Nam Dinh
-  recent_works:
-  - title: Benchmarking an AI-Guided Reasoning-Based Operator Support System on the Three Mile Island Accident Scenario
-    year: 2020
-    url: https://doi.org/10.1115/icone2020-16400
 - id: duong-hieu-minh-louisville
   name: Duong, Hieu Minh
   affiliation:
