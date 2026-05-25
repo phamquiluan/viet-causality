@@ -109,7 +109,7 @@ _**115 researchers** across 15 countries. Confidence: 67 high, 39 medium, 9 low.
 | Le Huynh, Thi Cam Hong |  | University of Occupational and Environmental Health Japan | Japan | `applied-health` |  | medium |
 | Le, Hao Duong |  | Unknown - please verify | Unknown | `causal-discovery`, `causal-nlp` |  | medium |
 | Le, Trung Tim Q. |  | University of South Florida | United States | `causal-ml` |  | low |
-| Ngo, Duy T. |  | Unknown - please verify | Unknown | `causal-ml` |  | medium |
+| [Duy T. Ngo](https://scholar.google.com/citations?user=SQyL0ZgAAAAJ&hl=en&oi=ao) |  | Unknown - please verify | Unknown | `causal-ml` | [scholar](https://scholar.google.com/citations?user=SQyL0ZgAAAAJ&hl=en&oi=ao) | medium |
 | Nguyen, Dung Huu |  | Bach Mai Hospital | Vietnam | `applied-health`, `causal-ml` |  | high |
 | Nguyen, Son Phuc |  | Vietnam National University Ho Chi Minh City | Vietnam | `theoretical`, `causal-ml` |  | high |
 | Nguyen, Tri-Long |  | University of Copenhagen | Denmark | `causal-ml`, `causal-discovery`, `applied-health` | [orcid](https://orcid.org/0000-0002-6376-7212) | high |
