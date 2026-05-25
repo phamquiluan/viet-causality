@@ -229,6 +229,7 @@
     position: PhD Student
   links:
     openalex: https://openalex.org/A5018668377
+    scholar: https://scholar.google.com/citations?user=tZYQOWIAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - causal-nlp
@@ -236,3 +237,4 @@
   source: scrape_snowball
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Vu Tran
