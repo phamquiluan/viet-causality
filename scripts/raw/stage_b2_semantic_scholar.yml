@@ -256,15 +256,16 @@
 - id: nguyen-truong-thao-hust
   name: Nguyen Truong, Thao
   affiliation:
-    institution: Hanoi University of Science and Technology
-    country: Vietnam
-    position: Faculty
+    institution: AIST (National Institute of Advanced Industrial Science and Technology)
+    country: Japan
+    position: Senior Researcher
   links:
     openalex: https://openalex.org/A5125063252
     scholar: https://scholar.google.com/citations?user=1DqrHWEAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
-  notes: Co-author on Vietnam-led causal graph learning paper.
+  notes: Senior Researcher at AIST Japan (focus on distributed deep learning, federated learning, HPC). Co-author on a
+    Vietnam-led causal graph learning paper.
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24

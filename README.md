@@ -25,7 +25,7 @@ _**102 researchers** across 15 countries._
 
 **By category:** Academic (68), Industry (5), PhD Students (29).
 
-**By country (top 8):** Australia (36), Vietnam (22), United States (20), Japan (8), Germany (3), South Korea (3), Unknown (2), Denmark (1).
+**By country (top 8):** Australia (36), Vietnam (21), United States (20), Japan (9), Germany (3), South Korea (3), Unknown (2), Denmark (1).
 
 **By sub-area (top 8):** `causal-ml` (48), `causal-discovery` (34), `theoretical` (32), `applied-health` (26), `counterfactual-explanation` (18), `causal-nlp` (9), `applied-bio` (7), `causal-rl` (6).
 
@@ -67,8 +67,8 @@ _**102 researchers** across 15 countries._
 | [Phi Le Nguyen](https://scholar.google.com/citations?user=L_NKoQwAAAAJ&hl=en&oi=ao) | Research Fellow | AI4LIFE / Hanoi University of Science and Technology (HUST) | Vietnam | `causal-discovery`, `causal-ml` | [\[1\]](https://openalex.org/W7127740639) |
 | [Phuoc Nguyen](https://scholar.google.com/citations?user=c4LnrZ0AAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [\[1\]](https://doi.org/10.1109/icdm58522.2023.00069) |
 | [Tam Le](https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en&oi=ao) | Postdoctoral Researcher | RIKEN Center for Advanced Intelligence Project (AIP) | Japan | `theoretical`, `causal-ml` | [\[1\]](https://doi.org/10.48550/arxiv.2311.00927) |
+| [Truong Thao Nguyen](https://scholar.google.com/citations?user=1DqrHWEAAAAJ&hl=en&oi=ao) | Senior Researcher | AIST (National Institute of Advanced Industrial Science and Technology) | Japan | `causal-discovery` | [\[1\]](https://openalex.org/W7127740639)[\[2\]](https://doi.org/10.48550/arxiv.2602.03353) |
 | Dang, Hoang | Independent Researcher | Independent Researcher | Vietnam | `theoretical`, `causal-discovery` | [\[1\]](https://arxiv.org/abs/2605.01579)[\[2\]](https://arxiv.org/abs/2602.08340) |
-| [Truong Thao Nguyen](https://scholar.google.com/citations?user=1DqrHWEAAAAJ&hl=en&oi=ao) | Faculty | Hanoi University of Science and Technology | Vietnam | `causal-discovery` | [\[1\]](https://openalex.org/W7127740639)[\[2\]](https://doi.org/10.48550/arxiv.2602.03353) |
 | Pham, Cuong T. | Faculty | University of Rochester Medical Center, Biostatistics and Computational Biology | United States | `theoretical`, `applied-health` | [\[1\]](https://arxiv.org/abs/2402.11466)[\[2\]](https://arxiv.org/abs/2207.08964) |
 | [Bac Le](https://scholar.google.com/citations?user=UA_83MUAAAAJ&hl=en&oi=ao) | Faculty | VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` | [\[1\]](https://doi.org/10.1007/s10489-025-06945-w) |
 | [Duc-Trong Le](https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao) | Faculty | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `counterfactual-explanation`, `applied-health` | \[1\] |

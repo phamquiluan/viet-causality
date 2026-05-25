@@ -1441,6 +1441,32 @@
     year: 2024
     venue: CLeaR
     url: https://doi.org/10.48550/arxiv.2311.00927
+- id: nguyen-truong-thao-hust
+  name: Nguyen Truong, Thao
+  affiliation:
+    institution: AIST (National Institute of Advanced Industrial Science and Technology)
+    country: Japan
+    position: Senior Researcher
+  links:
+    openalex: https://openalex.org/A5125063252
+    scholar: https://scholar.google.com/citations?user=1DqrHWEAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  notes: Senior Researcher at AIST Japan (focus on distributed deep learning, federated learning, HPC). Co-author on a Vietnam-led
+    causal graph learning paper.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Truong Thao Nguyen
+  recent_works:
+  - title: Causal Graph Learning via Distributional Invariance of Cause-Effect Relationship
+    year: 2026
+    venue: arXiv (Cornell University)
+    url: https://openalex.org/W7127740639
+  - title: Causal Graph Learning via Distributional Invariance of Cause-Effect Relationship
+    year: 2026
+    venue: Open MIND
+    url: https://doi.org/10.48550/arxiv.2602.03353
 - id: nguyen-minh-le-jaist
   name: Nguyen, Minh Le
   affiliation:
@@ -2547,31 +2573,6 @@
     year: 2026
     venue: arXiv
     url: https://arxiv.org/abs/2604.19663
-- id: nguyen-truong-thao-hust
-  name: Nguyen Truong, Thao
-  affiliation:
-    institution: Hanoi University of Science and Technology
-    country: Vietnam
-    position: Faculty
-  links:
-    openalex: https://openalex.org/A5125063252
-    scholar: https://scholar.google.com/citations?user=1DqrHWEAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-discovery
-  notes: Co-author on Vietnam-led causal graph learning paper.
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: Truong Thao Nguyen
-  recent_works:
-  - title: Causal Graph Learning via Distributional Invariance of Cause-Effect Relationship
-    year: 2026
-    venue: arXiv (Cornell University)
-    url: https://openalex.org/W7127740639
-  - title: Causal Graph Learning via Distributional Invariance of Cause-Effect Relationship
-    year: 2026
-    venue: Open MIND
-    url: https://doi.org/10.48550/arxiv.2602.03353
 - id: nguyen-cam-van-thi-vnu
   name: Nguyen, Cam-Van Thi
   affiliation:
