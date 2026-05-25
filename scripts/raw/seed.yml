@@ -179,22 +179,26 @@
   last_verified: 2026-05-24
   name_scholar: Thin Nguyen
   recent_works:
+  - title: Causal Discovery via Bayesian Optimization
+    year: 2025
+    venue: ICLR
+    url: https://arxiv.org/abs/2501.14997
+  - title: Reinforcement Learning for Causal Discovery without Acyclicity Constraints (ALIAS)
+    year: 2025
+    venue: TMLR
+    url: https://arxiv.org/abs/2408.13448
+  - title: Identifying Causal Direction via Variational Bayesian Compression
+    year: 2025
+    venue: ICML
+    url: https://arxiv.org/abs/2505.07503
+  - title: Neural Autoregressive Flows for Markov Boundary Learning
+    year: 2025
+    venue: ICDM
+    url: https://doi.org/10.1109/icdm65498.2025.00071
   - title: Causal Direct Preference Optimization for Language Model Alignment
     year: 2026
-    venue: Underline Science Inc.
+    venue: Findings of EACL
     url: https://doi.org/10.48448/9hnc-3t28
-  - title: Causal Activation Steering via Sparse Mediation
-    year: 2026
-    venue: Underline Science Inc.
-    url: https://doi.org/10.48448/vz9j-0j31
-  - title: Integrative multi-omics framework for causal gene discovery in Long COVID
-    year: 2025
-    venue: PLoS Computational Biology
-    url: https://doi.org/10.1371/journal.pcbi.1013725
-  - title: 'TACO: TabPFN Augmented Causal Outcomes for Early Detection of Long COVID'
-    year: 2025
-    venue: Machine Learning Science and Technology
-    url: https://doi.org/10.1088/2632-2153/ae62ca
 - id: phung-dinh-monash
   name: Phung, Dinh
   affiliation:

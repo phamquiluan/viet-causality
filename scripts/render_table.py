@@ -53,9 +53,12 @@ ACADEMIC_RANK: list[tuple[str, str]] = [
     ("emeritus professor", "Emeritus Professor"),
     ("associate research professor", "Associate Research Professor"),
     ("associate professor", "Associate Professor"),
+    # AU/UK "Senior Lecturer" sits between Associate Professor and the
+    # Assistant-Professor tier (per the user's heuristic).
+    ("senior lecturer", "Senior Lecturer"),
     ("junior professor", "Assistant Professor"),
     ("assistant professor", "Assistant Professor"),
-    ("senior lecturer", "Senior Lecturer"),
+    # AU/UK "Lecturer" is equivalent in rank to US "Assistant Professor".
     ("lecturer", "Lecturer"),
     ("senior research scientist", "Senior Research Scientist"),
     ("senior research fellow", "Senior Research Fellow"),
