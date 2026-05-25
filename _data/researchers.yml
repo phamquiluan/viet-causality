@@ -2067,30 +2067,6 @@
     year: 2020
     venue: ACCV
     url: https://doi.org/10.1007/978-3-030-69544-6_7
-- id: nguyen-duy-ucsc
-  name: Nguyen, Duy
-  affiliation:
-    institution: 'UC Santa Cruz (current); past: Oxford University Clinical Research Unit (Ho Chi Minh City), HCMUS'
-    country: United States
-    position: Postdoc
-  links:
-    dblp: https://dblp.org/pid/13/5240
-  sub_areas:
-  - counterfactual-explanation
-  - theoretical
-  key_papers:
-  - title: Counterfactual Plans under Distributional Ambiguity
-    venue: ICLR
-    year: 2022
-  notes: Co-author of seed nguyen-viet-anh-cuhk; confirmed VN affiliation history (HCMUS, OUCRU Vietnam).
-  source: scrape_dblp
-  confidence: high
-  last_verified: 2026-05-24
-  recent_works:
-  - title: Counterfactual Plans under Distributional Ambiguity
-    year: 2022
-    venue: ICLR
-    url: https://doi.org/10.48550/arxiv.2201.12487
 - id: nguyen-nhi-nyu
   name: Nguyen, Nhi
   affiliation:
