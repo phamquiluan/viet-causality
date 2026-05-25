@@ -39,6 +39,30 @@ def save_yaml(entries: list[dict[str, Any]]) -> None:
     subprocess.run(["python3", str(ROOT / "scripts" / "render_table.py")], check=True, cwd=ROOT)
 
 
+def propagate_to_raw(eid: str, url: str, display: str) -> None:
+    """Also write scholar info into the raw file that contains this entry,
+    so it survives the next consolidate.py run."""
+    raw_dir = ROOT / "scripts" / "raw"
+    for path in sorted(raw_dir.glob("*.yml")):
+        entries = yaml.safe_load(path.read_text(encoding="utf-8")) or []
+        for e in entries:
+            if e.get("id") == eid:
+                links = e.setdefault("links", {})
+                links["scholar"] = url
+                e["name_scholar"] = display
+                # Preserve leading comments.
+                old = path.read_text(encoding="utf-8")
+                header = ""
+                for line in old.split("\n"):
+                    if line.startswith("#") or line.strip() == "":
+                        header += line + "\n"
+                    else:
+                        break
+                body = yaml.dump(entries, sort_keys=False, allow_unicode=True, default_flow_style=False, width=120)
+                path.write_text(header + body, encoding="utf-8")
+                return
+
+
 def commit(message: str) -> None:
     subprocess.run(["git", "add", "-A"], check=True, cwd=ROOT)
     subprocess.run(
@@ -79,6 +103,8 @@ def main() -> int:
         links["scholar"] = url
         entry["name_scholar"] = display
         save_yaml(entries)
+        # Also write into the raw file so consolidate.py preserves it.
+        propagate_to_raw(eid, url, display)
         commit(f"scholar: {eid} -> {display}")
         print(f"[{done+1}/{len(batch)}] {eid} -> {display}")
         done += 1
