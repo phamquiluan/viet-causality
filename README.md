@@ -143,7 +143,7 @@ _**102 researchers** across 15 countries._
 | [Vu Tran](https://scholar.google.com/citations?user=tZYQOWIAAAAJ&hl=en&oi=ao) | PhD Student | Japan Advanced Institute of Science and Technology | Japan | `causal-ml`, `causal-nlp` | [\[1\]](https://doi.org/10.3389/frai.2025.1622292) |
 | [Quang-Duy Tran](https://scholar.google.com/citations?user=DxEBVUUAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [\[1\]](https://arxiv.org/abs/2312.10102) |
 | [Kieu Anh Thi Truong](https://scholar.google.com/citations?user=SVGhZXsAAAAJ&hl=en&oi=ao) | PhD Student | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `applied-health` | \[1\] |
-| Vo, Kiet Q. H. | PhD Student | CISPA Helmholtz Center for Information Security / Saarland University | Germany | `theoretical`, `causal-ml` | [\[1\]](https://doi.org/10.48550/arxiv.2308.16262) |
+| [Kiet Q. H. Vo](https://scholar.google.com/citations?user=gsXWmc4AAAAJ&hl=en&oi=ao) | PhD Student | CISPA Helmholtz Center for Information Security / Saarland University | Germany | `theoretical`, `causal-ml` | [\[1\]](https://doi.org/10.48550/arxiv.2308.16262) |
 | [Trí Nhân Võ](https://scholar.google.com/citations?user=RLoZBGwAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-ml` | [\[1\]](https://arxiv.org/abs/2510.24046) |
 
 <!-- TABLE_END -->

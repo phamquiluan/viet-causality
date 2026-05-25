@@ -854,6 +854,7 @@
   links:
     arxiv: https://arxiv.org/a/vo_k_1
     openalex: https://openalex.org/A5111034088
+    scholar: https://scholar.google.com/citations?user=gsXWmc4AAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-ml
@@ -871,6 +872,7 @@
     year: 2023
     venue: arXiv (Cornell University)
     url: https://doi.org/10.48550/arxiv.2308.16262
+  name_scholar: Kiet Q. H. Vo
 - id: pham-quoc-viet-tcd
   name: Pham, Quoc-Viet
   affiliation:
