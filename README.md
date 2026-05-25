@@ -117,7 +117,7 @@ _**115 researchers** across 15 countries. Confidence: 67 high, 39 medium, 9 low.
 | Pham, Dung |  | Hanoi Medical University | Vietnam | `applied-health`, `applied-social` |  | medium |
 | Pham, Duy T. |  | University of Texas Health Science Center at Houston | United States | `applied-health`, `applied-bio` | [orcid](https://orcid.org/0009-0007-2586-2087) | medium |
 | [Thai T. Pham](https://scholar.google.com/citations?user=tJzykd0AAAAJ&hl=en&oi=ao) |  | Auckland University of Technology | New Zealand | `causal-ml` | [scholar](https://scholar.google.com/citations?user=tJzykd0AAAAJ&hl=en&oi=ao) | medium |
-| Pham, Vu Hong Son |  | Vietnam National University Ho Chi Minh City | Vietnam | `causal-ml` |  | high |
+| [PHAM VU HONG SON](https://scholar.google.com/citations?user=j2fNB2MAAAAJ&hl=en&oi=ao) |  | Vietnam National University Ho Chi Minh City | Vietnam | `causal-ml` | [scholar](https://scholar.google.com/citations?user=j2fNB2MAAAAJ&hl=en&oi=ao) | high |
 | [Christopher Tran](https://scholar.google.com/citations?user=EWazzlkAAAAJ&hl=en&oi=ao) |  | University of Illinois Chicago | United States | `causal-ml`, `theoretical` | [scholar](https://scholar.google.com/citations?user=EWazzlkAAAAJ&hl=en&oi=ao) | low |
 | Tran, Khai Quang |  | Cat Tien National Park (Vietnam) | Vietnam | `applied-health` |  | low |
 | Tran, Linh |  | Johns Hopkins University | United States | `theoretical`, `applied-health` | [scholar](https://scholar.google.com/citations?user=ZnjEAXUAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0001-6429-0375) | high |
