@@ -72,6 +72,7 @@
     position: Full Professor
   links:
     openalex: https://openalex.org/A5069550444
+    scholar: https://scholar.google.com/citations?user=k66mpoIAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - theoretical
@@ -79,6 +80,7 @@
   source: scrape_snowball
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Nam Dinh
 - id: tran-ngoc-dang-uq
   name: Tran, Ngoc Dang
   name_vi: Trần Ngọc Đăng
