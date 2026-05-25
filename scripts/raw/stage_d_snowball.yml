@@ -14,12 +14,14 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5062984384
+    scholar: https://scholar.google.com/citations?user=j2fNB2MAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   notes: OpenAlex h=17, 122 works, 6 causal-concept papers. Surfaced via co-authorship with truong-buu-broad.
   source: scrape_snowball
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: PHAM VU HONG SON
 - id: nguyen-tuong-l-melbourne
   name: Nguyen, Tuong L.
   affiliation:
