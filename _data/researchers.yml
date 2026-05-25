@@ -1485,14 +1485,14 @@
   last_verified: 2026-05-24
   name_scholar: Nguyen Le Minh
   recent_works:
-  - title: 'Lost in Modality: Evaluating the Effectiveness of Text-Based Membership Inference Attacks on Large Multimodal
-      Models'
-    year: 2026
-    url: https://doi.org/10.14428/esann/2026.es2026-176
-  - title: 'Survey and analysis of hallucinations in large language models: attribution to prompting strategies or model behavior'
+  - title: Causal Relation-Aware Data Augmentation for Legal Textual Entailment
     year: 2025
-    venue: Frontiers in Artificial Intelligence
-    url: https://doi.org/10.3389/frai.2025.1622292
+    venue: LNCS (Springer)
+    url: https://link.springer.com/chapter/10.1007/978-3-031-97141-9_27
+  - title: 'Causal Intersectionality and Dual Form of Gradient Descent for Multimodal Analysis: A Case Study on Hateful Memes'
+    year: 2024
+    venue: LREC-COLING
+    url: https://aclanthology.org/2024.lrec-main.259/
 - id: nguyen-nang-hung-tokyo
   name: Nguyen, Nang Hung
   affiliation:
@@ -1809,29 +1809,6 @@
     year: 2021
     venue: EMNLP
     url: https://doi.org/10.18653/v1/2021.emnlp-main.644
-- id: pham-duc-truong-birmingham
-  name: Pham, Duc Truong
-  affiliation:
-    institution: University of Birmingham
-    country: United Kingdom
-    position: Full Professor
-  links:
-    openalex: https://openalex.org/A5078859004
-    scholar: https://scholar.google.com/citations?user=n2MiiDEAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-ml
-  - theoretical
-  notes: OpenAlex h=65, 907 works, 2 causal-concept papers. Senior researcher; co-author of Viet Anh Nguyen (CUHK).
-  source: scrape_snowball
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: Duc Truong Pham
-  recent_works:
-  - title: 'CAUSALRLSTACK: adaptive balancing of deep representation and causal effect estimation with application to HIV-related
-      health data'
-    year: 2025
-    venue: BioData Mining
-    url: https://doi.org/10.1186/s13040-025-00492-3
 - id: dang-lauren-eyler-berkeley
   name: Dang, Lauren Eyler
   affiliation:

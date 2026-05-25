@@ -201,29 +201,6 @@
     year: 2025
     venue: ArXiv.org
     url: https://openalex.org/W4414536845
-- id: pham-duc-truong-birmingham
-  name: Pham, Duc Truong
-  affiliation:
-    institution: University of Birmingham
-    country: United Kingdom
-    position: Full Professor
-  links:
-    openalex: https://openalex.org/A5078859004
-    scholar: https://scholar.google.com/citations?user=n2MiiDEAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-ml
-  - theoretical
-  notes: OpenAlex h=65, 907 works, 2 causal-concept papers. Senior researcher; co-author of Viet Anh Nguyen (CUHK).
-  source: scrape_snowball
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: Duc Truong Pham
-  recent_works:
-  - title: 'CAUSALRLSTACK: adaptive balancing of deep representation and causal effect estimation with application to HIV-related
-      health data'
-    year: 2025
-    venue: BioData Mining
-    url: https://doi.org/10.1186/s13040-025-00492-3
 - id: tran-khai-quang-cattien
   name: Tran, Khai Quang
   affiliation:
