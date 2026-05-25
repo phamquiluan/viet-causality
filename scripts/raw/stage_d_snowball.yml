@@ -30,6 +30,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5067110590
+    scholar: https://scholar.google.com/citations?user=LPgBdSIAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - applied-health
@@ -37,6 +38,7 @@
   source: scrape_snowball
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Tuong L Nguyen
 - id: trinh-ho-n-melbourne
   name: Trinh, Ho N.
   affiliation:

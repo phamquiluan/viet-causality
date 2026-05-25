@@ -113,7 +113,7 @@ _**115 researchers** across 15 countries. Confidence: 67 high, 39 medium, 9 low.
 | Nguyen, Dung Huu |  | Bach Mai Hospital | Vietnam | `applied-health`, `causal-ml` |  | high |
 | Nguyen, Son Phuc |  | Vietnam National University Ho Chi Minh City | Vietnam | `theoretical`, `causal-ml` |  | high |
 | Nguyen, Tri-Long |  | University of Copenhagen | Denmark | `causal-ml`, `causal-discovery`, `applied-health` | [orcid](https://orcid.org/0000-0002-6376-7212) | high |
-| Nguyen, Tuong L. |  | The University of Melbourne | Australia | `causal-ml`, `applied-health` |  | high |
+| [Tuong L Nguyen](https://scholar.google.com/citations?user=LPgBdSIAAAAJ&hl=en&oi=ao) |  | The University of Melbourne | Australia | `causal-ml`, `applied-health` | [scholar](https://scholar.google.com/citations?user=LPgBdSIAAAAJ&hl=en&oi=ao) | high |
 | Pham, Dung |  | Hanoi Medical University | Vietnam | `applied-health`, `applied-social` |  | medium |
 | Pham, Duy T. |  | University of Texas Health Science Center at Houston | United States | `applied-health`, `applied-bio` | [orcid](https://orcid.org/0009-0007-2586-2087) | medium |
 | [Thai T. Pham](https://scholar.google.com/citations?user=tJzykd0AAAAJ&hl=en&oi=ao) |  | Auckland University of Technology | New Zealand | `causal-ml` | [scholar](https://scholar.google.com/citations?user=tJzykd0AAAAJ&hl=en&oi=ao) | medium |
