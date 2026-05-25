@@ -1,0 +1,783 @@
+# Stage B4 output: arXiv sweep
+# New candidates: 34 (excluded 1 duplicate of Thai-Hoang Pham already in seed)
+# Strong cluster found: Deakin A2I2 PhD students and researchers
+# NOTE: some arXiv IDs reference 2026 papers; verify in Stage C before merging.
+
+- id: vo-vy-monash
+  name: Vo, Vy
+  affiliation:
+    institution: Monash University / CSIRO's Data61 / VinAI Research
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/vo_v_2
+    scholar: https://scholar.google.com/citations?user=3CpFpFkAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  - counterfactual-explanation
+  key_papers:
+  - title: Optimal Transport for Structure Learning Under Missing Data
+    venue: ICML
+    year: 2024
+    url: https://arxiv.org/abs/2402.15255
+  - title: 'ACCESS: A Benchmark for Abstract Causal Event Discovery and Reasoning'
+    venue: NAACL
+    year: 2025
+  notes: Co-authors Dinh Phung and Trung Le; 5+ causality papers.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Vy Vo
+- id: hoang-nu-deakin
+  name: Hoang, Nu
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/hoang_n_1
+    scholar: https://scholar.google.com/citations?user=CiNpg4oAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  key_papers:
+  - title: Scalable Variational Causal Discovery Unconstrained by Acyclicity
+    venue: arXiv
+    year: 2024
+    url: https://arxiv.org/abs/2407.04992
+  - title: Enabling Causal Discovery in Post-Nonlinear Models with Normalizing Flows
+    venue: arXiv
+    year: 2024
+    url: https://arxiv.org/abs/2407.04980
+  notes: Co-authors Bao Duong, Thin Nguyen at Deakin A2I2.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Nu Hoang
+- id: tran-quang-duy-deakin
+  name: Tran, Quang-Duy
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/tran_q_2
+    scholar: https://scholar.google.com/citations?user=DxEBVUUAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  key_papers:
+  - title: Robust Estimation of Causal Heteroscedastic Noise Models
+    venue: arXiv
+    year: 2023
+    url: https://arxiv.org/abs/2312.10102
+  notes: Deakin A2I2; co-authors Bao Duong, Phuoc Nguyen, Thin Nguyen.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Quang-Duy Tran
+- id: nguyen-khoa-deakin
+  name: Nguyen, Khoa
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_k_4
+  sub_areas:
+  - causal-discovery
+  key_papers:
+  - title: Neural Autoregressive Flows for Markov Boundary Learning
+    venue: arXiv
+    year: 2026
+  notes: Deakin A2I2; co-authors Bao Duong, Viet Huynh, Thin Nguyen.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-minh-hoang-deakin
+  name: Nguyen, Minh Hoang
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_m_5
+  sub_areas:
+  - causal-rl
+  - causal-ml
+  key_papers:
+  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
+    venue: arXiv
+    year: 2025
+    url: https://arxiv.org/abs/2508.13721
+  - title: Variable-Agnostic Causal Exploration for Reinforcement Learning
+    venue: arXiv
+    year: 2024
+    url: https://arxiv.org/abs/2407.12437
+  notes: Deakin A2I2.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: do-van-dai-deakin
+  name: Do, Van Dai
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/do_v_1
+  sub_areas:
+  - causal-rl
+  - causal-ml
+  key_papers:
+  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
+    venue: arXiv
+    year: 2025
+    url: https://arxiv.org/abs/2508.13721
+  notes: Deakin A2I2; 'Van Dai' Vietnamese given-name pattern.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-dung-deakin
+  name: Nguyen, Dung
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: Research Fellow
+  links:
+    arxiv: https://arxiv.org/a/nguyen_d_5
+    scholar: https://scholar.google.com/citations?user=O5OU_kUAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-rl
+  - causal-ml
+  key_papers:
+  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
+    venue: arXiv
+    year: 2025
+    url: https://arxiv.org/abs/2508.13721
+  notes: Deakin A2I2.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Dung Nguyen
+- id: nguyen-dang-deakin
+  name: Nguyen, Dang
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_d_6
+    scholar: https://scholar.google.com/citations?user=UtlivOcAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  - counterfactual-explanation
+  key_papers:
+  - title: Efficient Classification with Counterfactual Reasoning and Active Learning
+    venue: arXiv
+    year: 2022
+    url: https://arxiv.org/abs/2207.12086
+  notes: Deakin A2I2.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Dang Nguyen
+- id: vo-tri-nhan-deakin
+  name: Vo, Tri-Nhan
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/vo_t_1
+    scholar: https://scholar.google.com/citations?user=RLoZBGwAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  notes: Deakin A2I2; hyphenated Vietnamese given name 'Tri-Nhan'.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Trí Nhân Võ
+- id: duong-tri-dung-uts
+  name: Duong, Tri Dung
+  affiliation:
+    institution: University of Technology Sydney (UTS)
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/duong_t_1
+    scholar: https://scholar.google.com/citations?user=hoq2nt8AAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5027240350
+  sub_areas:
+  - counterfactual-fairness
+  - counterfactual-explanation
+  - causal-ml
+  key_papers:
+  - title: Achieving Counterfactual Fairness with Imperfect Structural Causal Model
+    venue: arXiv
+    year: 2023
+    url: https://arxiv.org/abs/2303.14665
+  - title: Causality-based Counterfactual Explanation for Classification Models
+    venue: arXiv
+    year: 2021
+    url: https://arxiv.org/abs/2105.00703
+  - title: Stochastic Intervention for Causal Inference via Reinforcement Learning
+    venue: arXiv
+    year: 2021
+    url: https://arxiv.org/abs/2105.13514
+  notes: UTS; 4+ causality papers.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Dung Duong
+- id: do-kien-deakin
+  name: Do, Kien
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: Research Fellow
+  links:
+    arxiv: https://arxiv.org/a/do_k_1
+    scholar: https://scholar.google.com/citations?user=aD6y8joAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5001806269
+  sub_areas:
+  - theoretical
+  - causal-discovery
+  - causal-cv
+  key_papers:
+  - title: 'Finding the Trigger: Causal Abductive Reasoning on Video Events'
+    venue: arXiv
+    year: 2025
+    url: https://arxiv.org/abs/2501.09304
+  - title: 'Learning Structural Causal Models from Ordering: Identifiable Flow Models'
+    venue: AAAI
+    year: 2024
+    url: https://arxiv.org/abs/2412.09843
+  notes: Deakin A2I2.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Kien Do
+- id: le-thao-minh-deakin
+  name: Le, Thao Minh
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: Research Fellow
+  links:
+    arxiv: https://arxiv.org/a/le_t_1
+    scholar: https://scholar.google.com/citations?user=0irkZtkAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5079045166
+  sub_areas:
+  - causal-cv
+  - causal-ml
+  key_papers:
+  - title: 'Finding the Trigger: Causal Abductive Reasoning on Video Events'
+    venue: arXiv
+    year: 2025
+    url: https://arxiv.org/abs/2501.09304
+  notes: Deakin A2I2.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Thao Minh Le
+- id: le-vuong-amazon
+  name: Le, Vuong
+  affiliation:
+    institution: Amazon Melbourne
+    country: Australia
+    position: Industry Researcher
+  links:
+    arxiv: https://arxiv.org/a/le_v_2
+    scholar: https://scholar.google.com/citations?user=WjMGgVIAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-cv
+  - causal-ml
+  key_papers:
+  - title: 'Finding the Trigger: Causal Abductive Reasoning on Video Events'
+    venue: arXiv
+    year: 2025
+    url: https://arxiv.org/abs/2501.09304
+  notes: Amazon Melbourne; prior Deakin affiliation; 'Vuong' distinctively Vietnamese.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Vuong Le
+- id: le-minh-khoa-deakin
+  name: Le, Minh Khoa
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/le_m_1
+  sub_areas:
+  - theoretical
+  - causal-discovery
+  key_papers:
+  - title: 'Learning Structural Causal Models from Ordering: Identifiable Flow Models'
+    venue: AAAI
+    year: 2024
+    url: https://arxiv.org/abs/2412.09843
+  notes: Deakin A2I2.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: vo-tat-thang-paris
+  name: Vo, Tat-Thang
+  affiliation:
+    institution: Faculty of Medicine, University Paris Est Creteil (EPIDERME)
+    country: France
+    position: Researcher
+  links:
+    arxiv: https://arxiv.org/a/vo_t_2
+    scholar: https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5125205210
+  sub_areas:
+  - applied-health
+  - theoretical
+  key_papers:
+  - title: Integration of aggregated data in causally interpretable meta-analysis by inverse weighting
+    venue: arXiv (stat.ME)
+    year: 2025
+    url: https://arxiv.org/abs/2503.05634
+  - title: Transportability of aggregate trial results to an external environment in causally interpretable meta-analysis
+    venue: arXiv
+    year: 2024
+    url: https://arxiv.org/abs/2408.04854
+  - title: 'Recanting twins: addressing intermediate confounding in mediation analysis'
+    venue: arXiv
+    year: 2024
+    url: https://arxiv.org/abs/2401.04450
+  notes: Meta-analysis + mediation analysis + transportability; 4+ causal-inference papers.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Tat-Thang Vo
+- id: le-tran-trong-khoi-paris
+  name: Le, Tran Trong Khoi
+  affiliation:
+    institution: University Paris Est Creteil (EPIDERME)
+    country: France
+    position: Researcher
+  links:
+    arxiv: https://arxiv.org/a/le_t_2
+  sub_areas:
+  - applied-health
+  key_papers:
+  - title: Integration of aggregated data in causally interpretable meta-analysis by inverse weighting
+    venue: arXiv (stat.ME)
+    year: 2025
+    url: https://arxiv.org/abs/2503.05634
+  notes: Full triple-given-name unambiguously Vietnamese.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-phi-le-hust
+  name: Nguyen, Phi Le
+  affiliation:
+    institution: AI4LIFE / Hanoi University of Science and Technology (HUST)
+    country: Vietnam
+    position: Research Fellow
+  links:
+    arxiv: https://arxiv.org/a/nguyen_p_3
+    scholar: https://scholar.google.com/citations?user=L_NKoQwAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  - causal-ml
+  key_papers:
+  - title: Causal Graph Learning via Distributional Invariance of Cause-Effect Relationship
+    venue: TMLR
+    year: 2026
+  notes: HUST/AI4LIFE Vietnam.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Phi Le Nguyen
+- id: nguyen-nang-hung-tokyo
+  name: Nguyen, Nang Hung
+  affiliation:
+    institution: The University of Tokyo
+    country: Japan
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_n_1
+    scholar: https://scholar.google.com/citations?user=hL8bnjIAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  - causal-ml
+  key_papers:
+  - title: Causal Graph Learning via Distributional Invariance of Cause-Effect Relationship
+    venue: TMLR
+    year: 2026
+  notes: Tokyo; 'Nang Hung' Vietnamese given name.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Nang Hung Nguyen
+- id: hoang-van-thuy-catholic-korea
+  name: Hoang, Van Thuy
+  affiliation:
+    institution: The Catholic University of Korea
+    country: South Korea
+    position: Research Fellow
+  links:
+    arxiv: https://arxiv.org/a/hoang_v_1
+    scholar: https://scholar.google.com/citations?user=E7Cc8rAAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  - applied-bio
+  key_papers:
+  - title: Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction
+    venue: arXiv
+    year: 2025
+  notes: '''Van Thuy'' is Vietnamese given-name pattern; Catholic University of Korea.'
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Van Thuy Hoang
+- id: le-duc-trong-vnu
+  name: Le, Duc-Trong
+  affiliation:
+    institution: VNU University of Engineering and Technology
+    country: Vietnam
+    position: Faculty
+  links:
+    arxiv: https://arxiv.org/a/le_d_1
+    scholar: https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  - counterfactual-explanation
+  - applied-health
+  key_papers:
+  - title: 'CLEAR: Causal Learning Framework For Robust Histopathology Tumor Detection Under OOD Shifts'
+    venue: arXiv
+    year: 2025
+  notes: VNU-UET Hanoi confirmed.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Duc-Trong Le
+- id: pham-huy-hieu-vinuni
+  name: Pham, Huy-Hieu
+  affiliation:
+    institution: VinUniversity / VinUni-Illinois Smart Health Center
+    country: Vietnam
+    position: Assistant Professor
+  links:
+    arxiv: https://arxiv.org/a/pham_h_2
+    scholar: https://scholar.google.com/citations?user=mXcFcNkAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  - applied-health
+  key_papers:
+  - title: 'CLEAR: Causal Learning Framework For Robust Histopathology Tumor Detection Under OOD Shifts'
+    venue: arXiv
+    year: 2025
+  notes: VinUniversity Hanoi.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Hieu H. Pham
+- id: truong-thi-kieu-anh-vnu
+  name: Truong Thi, Kieu-Anh
+  affiliation:
+    institution: VNU University of Engineering and Technology
+    country: Vietnam
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/truong_k_1
+    scholar: https://scholar.google.com/citations?user=SVGhZXsAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  - applied-health
+  key_papers:
+  - title: 'CLEAR: Causal Learning Framework For Robust Histopathology Tumor Detection Under OOD Shifts'
+    venue: arXiv
+    year: 2025
+  notes: VNU-UET Hanoi.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Kieu Anh Thi Truong
+- id: le-hoang-quynh-vnu
+  name: Le, Hoang-Quynh
+  affiliation:
+    institution: VNU University of Engineering and Technology
+    country: Vietnam
+    position: Faculty
+  links:
+    arxiv: https://arxiv.org/a/le_h_1
+  sub_areas:
+  - counterfactual-explanation
+  key_papers:
+  - title: 'From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems'
+    venue: arXiv
+    year: 2026
+  notes: VNU-UET Hanoi.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-quang-huy-vnu
+  name: Nguyen, Quang-Huy
+  affiliation:
+    institution: VNU University of Engineering and Technology
+    country: Vietnam
+    position: Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_q_3
+  sub_areas:
+  - counterfactual-explanation
+  key_papers:
+  - title: 'From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems'
+    venue: arXiv
+    year: 2026
+  notes: VNU-UET Hanoi.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-cam-van-thi-vnu
+  name: Nguyen, Cam-Van Thi
+  affiliation:
+    institution: VNU University of Engineering and Technology
+    country: Vietnam
+    position: Faculty
+  links:
+    arxiv: https://arxiv.org/a/nguyen_c_1
+    scholar: https://scholar.google.com/citations?user=4KiBC1YAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - counterfactual-explanation
+  key_papers:
+  - title: 'From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems'
+    venue: arXiv
+    year: 2026
+  notes: '''Thi'' marker, ''Cam-Van'' Vietnamese given name; VNU-UET.'
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Cam-Van Thi Nguyen
+- id: nguyen-huy-son-delft
+  name: Nguyen, Huy-Son
+  affiliation:
+    institution: Delft University of Technology
+    country: Netherlands
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_h_3
+  sub_areas:
+  - counterfactual-explanation
+  key_papers:
+  - title: 'From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems'
+    venue: arXiv
+    year: 2026
+  notes: TU Delft.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: pham-luan-rmit
+  name: Pham, Luan
+  affiliation:
+    institution: RMIT University
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/pham_l_1
+    scholar: https://scholar.google.com/citations?user=YRS7knwAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5102903082
+  sub_areas:
+  - theoretical
+  - causal-discovery
+  - applied-bio
+  key_papers:
+  - title: 'Root Cause Analysis for Microservice System based on Causal Inference: How Far Are We?'
+    venue: arXiv
+    year: 2024
+    url: https://arxiv.org/abs/2408.13729
+  notes: RMIT (luan.pham@rmit.edu.au); 4+ papers on causal inference for software/microservices.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Luan Pham
+- id: dang-hoang-vn
+  name: Dang, Hoang
+  affiliation:
+    institution: Independent Researcher
+    country: Vietnam
+    position: Independent Researcher
+  links:
+    arxiv: https://arxiv.org/a/dang_h_1
+  sub_areas:
+  - theoretical
+  - causal-discovery
+  notes: Co-author with Luan Pham (RMIT); 'Hoang' Vietnamese given name.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: nguyen-tu-anh-hoang-deakin
+  name: Nguyen, Tu Anh Hoang
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_t_5
+  sub_areas:
+  - causal-ml
+  notes: Deakin A2I2.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+- id: pham-cuong-rochester
+  name: Pham, Cuong T.
+  affiliation:
+    institution: University of Rochester Medical Center, Biostatistics and Computational Biology
+    country: United States
+    position: Faculty
+  links:
+    arxiv: https://arxiv.org/a/pham_c_1
+  sub_areas:
+  - theoretical
+  - applied-health
+  key_papers:
+  - title: Nonparametric assessment of regimen response curve estimators
+    venue: arXiv (stat.ME)
+    year: 2024
+    url: https://arxiv.org/abs/2402.11466
+  - title: Sensitivity analysis for constructing optimal regimes in the presence of treatment non-compliance
+    venue: arXiv
+    year: 2022
+    url: https://arxiv.org/abs/2207.08964
+  notes: Biostatistics; treatment regimes; IV; marginal structural models.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-vy-rmit
+  name: Nguyen, Vy
+  affiliation:
+    institution: RMIT University, School of Computing Technologies
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_v_3
+    scholar: https://scholar.google.com/citations?user=V0KdkKIAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-nlp
+  notes: RMIT; 'Vy' Vietnamese given name.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Vy Nguyen
+- id: duong-hieu-minh-louisville
+  name: Duong, Hieu Minh
+  affiliation:
+    institution: University of Louisville, J.B. Speed School of Engineering
+    country: United States
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/duong_h_1
+    scholar: https://scholar.google.com/citations?user=-C06MVsAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  - causal-time-series
+  notes: '''Hieu Minh'' Vietnamese given-name pattern.'
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Hieu Minh Duong
+- id: nguyen-long-louisville
+  name: Nguyen, Long
+  affiliation:
+    institution: University of Louisville, J.B. Speed School of Engineering
+    country: United States
+    position: Faculty
+  links:
+    arxiv: https://arxiv.org/a/nguyen_l_2
+  sub_areas:
+  - causal-discovery
+  - causal-time-series
+  notes: Co-author of Hieu Minh Duong at Louisville.
+  source: scrape_arxiv
+  confidence: low
+  last_verified: 2026-05-24
+- id: vo-kiet-cispa
+  name: Vo, Kiet Q. H.
+  affiliation:
+    institution: CISPA Helmholtz Center for Information Security / Saarland University
+    country: Germany
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/vo_k_1
+    openalex: https://openalex.org/A5111034088
+  sub_areas:
+  - theoretical
+  - causal-ml
+  key_papers:
+  - title: Causal Strategic Learning with Competitive Selection
+    venue: arXiv
+    year: 2023
+    url: https://arxiv.org/abs/2308.16262
+  notes: '''Kiet'' Vietnamese given name; CISPA/Saarland.'
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+- id: pham-quoc-viet-tcd
+  name: Pham, Quoc-Viet
+  affiliation:
+    institution: Trinity College Dublin
+    country: Ireland
+    position: Assistant Professor
+  links:
+    arxiv: https://arxiv.org/a/pham_q_1
+    scholar: https://scholar.google.com/citations?user=zKX-0LIAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5062525719
+  sub_areas:
+  - causal-ml
+  notes: IEEE Senior Member; 'Quoc-Viet' Vietnamese given name.
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Viet Quoc Pham
+- id: nguyen-minh-duong
+  name: Nguyen, Minh-Duong
+  affiliation:
+    institution: Pukyong National University, Korea (per Quoc-Viet Pham collaboration)
+    country: South Korea
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/nguyen_m_6
+    scholar: https://scholar.google.com/citations?user=3ea0RLkAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  notes: '''Minh-Duong'' Vietnamese given name; co-author Quoc-Viet Pham.'
+  source: scrape_arxiv
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Minh-Duong Nguyen
+- id: tran-ha-xuan-unisa
+  name: Tran, Ha Xuan
+  affiliation:
+    institution: University of South Australia (UniSA)
+    country: Australia
+    position: PhD Student
+  links:
+    arxiv: https://arxiv.org/a/tran_h_1
+    scholar: https://scholar.google.com/citations?user=P8SBHWUAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5026924748
+  sub_areas:
+  - causal-ml
+  - counterfactual-explanation
+  key_papers:
+  - title: Linking a predictive model to causal effect estimation
+    venue: arXiv
+    year: 2023
+    url: https://arxiv.org/abs/2304.04566
+  - title: Explanatory causal effects for model agnostic explanations
+    venue: arXiv
+    year: 2022
+    url: https://arxiv.org/abs/2206.11529
+  notes: UniSA; co-author Thuc Duy Le.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Ha Xuan Tran

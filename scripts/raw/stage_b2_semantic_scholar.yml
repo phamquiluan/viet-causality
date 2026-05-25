@@ -1,0 +1,334 @@
+# Stage B2 output: Semantic Scholar sweep (mostly via OpenAlex Topic T10845/T11303 fallback)
+# After 2026-05-24 audit: 21 entries removed for having zero works tagged under
+# narrow causality concepts. See scripts/audit_openalex.py.
+
+- id: tran-linh-jhu-b2
+  name: Tran, Linh
+  affiliation:
+    institution: Johns Hopkins University
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5006359310
+  sub_areas:
+  - theoretical
+  - applied-health
+  notes: DUPE of B1 tran-linh-jhu. TMLE / longitudinal causal effects; UC Berkeley alumnus.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-tri-long-copenhagen-b2
+  name: Nguyen, Tri-Long
+  affiliation:
+    institution: University of Copenhagen
+    country: Denmark
+  notes: DUPE of B1 nguyen-tri-long-copenhagen. Counterfactual prediction; propensity scores.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: trinh-quoc-dien-harvard
+  name: Trinh, Quoc-Dien
+  affiliation:
+    institution: Brigham and Women's Hospital / Harvard Medical School
+    country: United States
+    position: Full Professor
+  links:
+    openalex: https://openalex.org/A5077545940
+    scholar: https://scholar.google.com/citations?user=d2THMCkAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - applied-health
+  key_papers:
+  - title: 'Immortal-time bias: a crucial yet overlooked confounder in urological research'
+    venue: BJU Int
+    year: 2017
+  notes: h=79, 22711 citations; urology causal/comparative-effectiveness; Univ of Da Nang collab.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Quoc-Dien Trinh
+- id: nguyen-toan-deakin-pop-health
+  name: Nguyen, Toan
+  affiliation:
+    institution: Deakin University
+    country: Australia
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5102874067
+  sub_areas:
+  - applied-health
+  - causal-ml
+  key_papers:
+  - title: Utilising causal inference methods to estimate effects and strategise interventions in observational health data
+    venue: PLoS ONE
+    year: 2024
+  notes: h=12; Deakin A2I2; DISTINCT from seed tran-toan-vinai.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: huynh-phat-k-ndsu
+  name: Huynh, Phat K.
+  affiliation:
+    institution: North Dakota State University
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5053781401
+    scholar: https://scholar.google.com/citations?user=Wo5c6BEAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  - applied-health
+  key_papers:
+  - title: Causal Inference in Longitudinal Studies Using Causal Bayesian Network with Latent Variables
+    venue: Annual Reliability and Maintainability Symposium (RAMS)
+    year: 2022
+  notes: HCMC International University alumnus.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Phat Kim Huynh
+- id: tran-dustin-google
+  name: Tran, Dustin
+  affiliation:
+    institution: Google DeepMind
+    country: United States
+    position: Industry Researcher
+  links:
+    openalex: https://openalex.org/A5081819708
+    scholar: https://scholar.google.com/citations?user=wVazIm8AAAAJ&hl=en&oi=ao
+  sub_areas:
+  - theoretical
+  - causal-ml
+  key_papers:
+  - title: Implicit Causal Models for Genome-wide Association Studies
+    venue: arXiv
+    year: 2017
+  notes: h=37, 5104 citations; probabilistic ML (Edward, TFP); causality via implicit causal models. VERIFY ethnicity.
+  source: scrape_semantic_scholar
+  confidence: low
+  last_verified: 2026-05-24
+  name_scholar: Dustin Tran
+- id: bui-minh-melbourne
+  name: Bui, Minh
+  affiliation:
+    institution: University of Melbourne / Murdoch Children's Research Institute
+    country: Australia
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5075177965
+    scholar: https://scholar.google.com/citations?user=9dd36HMAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - applied-health
+  - theoretical
+  key_papers:
+  - title: 'Inference about causation from examination of familial confounding (ICE FALCON): a model for assessing causation
+      analogous to Mendelian randomization'
+    venue: International Journal of Epidemiology
+    year: 2020
+  notes: h=44; ICE FALCON method developer; VN Academy of Science and Technology affiliation.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Minh Bui
+- id: tran-christopher-uic
+  name: Tran, Christopher
+  affiliation:
+    institution: University of Illinois Chicago
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5026194168
+    scholar: https://scholar.google.com/citations?user=EWazzlkAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  - theoretical
+  key_papers:
+  - title: Improving Data-driven Heterogeneous Treatment Effect Estimation Under Structure Uncertainty
+    venue: KDD
+    year: 2022
+  notes: Anglicized given name; verify ethnicity.
+  source: scrape_semantic_scholar
+  confidence: low
+  last_verified: 2026-05-24
+  name_scholar: Christopher Tran
+- id: huynh-van-nam-jaist
+  name: Huynh, Van-Nam
+  affiliation:
+    institution: Japan Advanced Institute of Science and Technology (JAIST)
+    country: Japan
+    position: Full Professor
+  links:
+    openalex: https://openalex.org/A5067088014
+    scholar: https://scholar.google.com/citations?user=XVThR3QAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - theoretical
+  notes: h=33, 3594 citations; uncertainty/decision-making with linguistic assessments.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Van Nam Huynh
+- id: tran-cao-son-nmsu
+  name: Tran, Cao Son
+  affiliation:
+    institution: New Mexico State University
+    country: United States
+    position: Full Professor
+  links:
+    openalex: https://openalex.org/A5063459912
+    scholar: https://scholar.google.com/citations?user=7jKj_NcAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - theoretical
+  - causal-rl
+  notes: h=29, 5903 citations; probabilistic action / planning.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Tran Cao Son
+- id: truong-buu-broad
+  name: Truong, Buu
+  affiliation:
+    institution: Broad Institute / Harvard / Massachusetts General Hospital
+    country: United States
+    position: Research Fellow
+  links:
+    openalex: https://openalex.org/A5066650734
+    scholar: https://scholar.google.com/citations?user=e8cttx0AAAAJ&hl=en&oi=ao
+  sub_areas:
+  - applied-bio
+  - theoretical
+  key_papers:
+  - title: Leveraging polygenic risk scores to infer causal directions in genotype-by-environment interactions between complex
+      traits
+    venue: Human Genetics
+    year: 2026
+  notes: h=16; statistical genetics + causal direction inference; Vietnam genomics.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Buu Truong
+- id: nguyen-truong-thao-hust
+  name: Nguyen Truong, Thao
+  affiliation:
+    institution: Hanoi University of Science and Technology
+    country: Vietnam
+    position: Faculty
+  links:
+    openalex: https://openalex.org/A5125063252
+    scholar: https://scholar.google.com/citations?user=1DqrHWEAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  notes: Co-author on Vietnam-led causal graph learning paper.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Truong Thao Nguyen
+- id: nguyen-thanh-an-vnuhcm
+  name: Nguyen, Thanh-An
+  affiliation:
+    institution: Ho Chi Minh City University of Science / VNU-HCM
+    country: Vietnam
+    position: Faculty
+  links:
+    openalex: https://openalex.org/A5102029387
+    scholar: https://scholar.google.com/citations?user=MORsnW4AAAAJ&hl=en&oi=ao
+  sub_areas:
+  - counterfactual-explanation
+  - causal-discovery
+  key_papers:
+  - title: 'Enhancing counterfactual explanations with causal inference: integrating DirectLiNGAM and variational autoencoders
+      for constraint-aware generation'
+    venue: Applied Intelligence
+    year: 2025
+  notes: VNU-HCM.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Thanh-An Nguyen
+- id: nguyen-ngoc-thao-vnuhcm
+  name: Nguyen, Ngoc-Thao
+  affiliation:
+    institution: VNU-HCM
+    country: Vietnam
+    position: Faculty
+  links:
+    openalex: https://openalex.org/A5102781573
+  sub_areas:
+  - counterfactual-explanation
+  - causal-discovery
+  notes: Co-author on the DirectLiNGAM+VAE paper above.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+- id: le-bac-vnuhcm
+  name: Le, Bac
+  affiliation:
+    institution: VNU-HCM
+    country: Vietnam
+    position: Faculty
+  links:
+    openalex: https://openalex.org/A5057761132
+    scholar: https://scholar.google.com/citations?user=UA_83MUAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - counterfactual-explanation
+  - causal-discovery
+  notes: Counterfactual explanations / interpretable ML; VNU-HCM.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Bac Le
+- id: le-hao-duong-llm-cd
+  name: Le, Hao Duong
+  affiliation:
+    institution: Unknown - please verify
+    country: Unknown
+    position: Unknown - please verify
+  links:
+    semantic_scholar: https://www.semanticscholar.org/author/2383875687
+  sub_areas:
+  - causal-discovery
+  - causal-nlp
+  key_papers:
+  - title: Multi-Agent Causal Discovery Using Large Language Models
+    venue: arXiv
+    year: 2024
+  notes: LLM-based multi-agent causal discovery.
+  source: scrape_semantic_scholar
+  confidence: medium
+  last_verified: 2026-05-24
+- id: huynh-thi-hong-tram-hcm
+  name: Huynh, Thi Hong Tram
+  affiliation:
+    institution: Unknown (paper at Vietnamese journal Y Hoc TP Ho Chi Minh)
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5035043762
+  sub_areas:
+  - applied-health
+  - theoretical
+  key_papers:
+  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
+      teaching'
+    venue: Y Hoc TP Ho Chi Minh
+    year: 2018
+  notes: DAG-based causal inference education.
+  source: scrape_semantic_scholar
+  confidence: medium
+  last_verified: 2026-05-24
+- id: doan-toan-causal-steering
+  name: Doan, Toan
+  affiliation:
+    institution: Unknown - please verify
+    country: Unknown
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5130364768
+  sub_areas:
+  - causal-nlp
+  - counterfactual-explanation
+  key_papers:
+  - title: Causal Activation Steering via Sparse Mediation
+    year: 2026
+  notes: Mechanistic interpretability via causal mediation.
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-24

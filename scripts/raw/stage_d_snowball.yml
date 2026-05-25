@@ -1,0 +1,220 @@
+# Stage D snowball: co-author graph walk from confirmed researchers with
+# OpenAlex IDs, on works tagged with narrow causality concepts. Two passes:
+# Pass 1 (27 seeds): 9 candidates -> 8 after OpenAlex-ID dedup
+# Pass 2 (55 seeds, after find_openalex_ids.py expansion): 7 more candidates
+# Affiliations from OpenAlex last_known_institutions (2026-05-24).
+
+# ============ Pass 1 candidates ============
+
+- id: pham-vu-hong-son-vnuhcm
+  name: "Pham, Vu Hong Son"
+  affiliation:
+    institution: "Vietnam National University Ho Chi Minh City"
+    country: "Vietnam"
+    position: "Unknown - please verify"
+  links:
+    openalex: "https://openalex.org/A5062984384"
+  sub_areas: [causal-ml]
+  notes: "OpenAlex h=17, 122 works, 6 causal-concept papers. Surfaced via co-authorship with truong-buu-broad."
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24
+
+- id: nguyen-tuong-l-melbourne
+  name: "Nguyen, Tuong L."
+  affiliation:
+    institution: "The University of Melbourne"
+    country: "Australia"
+    position: "Unknown - please verify"
+  links:
+    openalex: "https://openalex.org/A5067110590"
+  sub_areas: [causal-ml, applied-health]
+  notes: "OpenAlex h=22, 144 works, 4 causal-concept papers. Co-author of Minh Bui at Melbourne."
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24
+
+- id: trinh-ho-n-melbourne
+  name: "Trinh, Ho N."
+  affiliation:
+    institution: "The University of Melbourne"
+    country: "Australia"
+    position: "Unknown - please verify"
+  links:
+    openalex: "https://openalex.org/A5102481961"
+  sub_areas: [causal-ml, applied-health]
+  notes: "OpenAlex h=5, 7 works, 2 causal-concept papers. Co-author of Minh Bui."
+  source: scrape_snowball
+  confidence: medium
+  last_verified: 2026-05-24
+
+- id: le-trung-tim-q-usf
+  name: "Le, Trung Tim Q."
+  affiliation:
+    institution: "University of South Florida"
+    country: "United States"
+    position: "Unknown - please verify"
+  links:
+    openalex: "https://openalex.org/A5029649294"
+  sub_areas: [causal-ml]
+  notes: "OpenAlex h=1, 2 works only, 3 causal-concept papers. Junior; co-author of Phat K. Huynh."
+  source: scrape_snowball
+  confidence: low
+  last_verified: 2026-05-24
+
+- id: dinh-nam-ncstate
+  name: "Dinh, Nam T."
+  affiliation:
+    institution: "North Carolina State University"
+    country: "United States"
+    position: "Full Professor"
+  links:
+    openalex: "https://openalex.org/A5069550444"
+  sub_areas: [causal-ml, theoretical]
+  notes: "OpenAlex h=39, 289 works, 1 causal-concept paper. Senior; co-author of Tran Cao Son."
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24
+
+- id: tran-ngoc-dang-uq
+  name: "Tran, Ngoc Dang"
+  name_vi: "Trần Ngọc Đăng"
+  affiliation:
+    institution: "The University of Queensland"
+    country: "Australia"
+    position: "Unknown - please verify"
+  links:
+    openalex: "https://openalex.org/A5025952021"
+  sub_areas: [applied-health, causal-ml]
+  notes: "OpenAlex h=37, 185 works, 2 causal-concept papers. Senior; co-author of Huynh Thi Hong Tram (HCMUS)."
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24
+
+- id: le-huynh-thi-cam-hong-uoeh
+  name: "Le Huynh, Thi Cam Hong"
+  affiliation:
+    institution: "University of Occupational and Environmental Health Japan"
+    country: "Japan"
+    position: "Unknown - please verify"
+  links:
+    openalex: "https://openalex.org/A5047121210"
+  sub_areas: [applied-health]
+  notes: "OpenAlex h=9, 27 works, 2 causal-concept papers. Co-author of Huynh Thi Hong Tram."
+  source: scrape_snowball
+  confidence: medium
+  last_verified: 2026-05-24
+
+- id: vo-minh-tuan-uit
+  name: "Vo, Minh Tuan"
+  affiliation:
+    institution: "University of Information Technology (likely VNU-HCM UIT)"
+    country: "Vietnam"
+    position: "Unknown - please verify"
+  links:
+    openalex: "https://openalex.org/A5007360217"
+  sub_areas: [applied-health, causal-ml]
+  notes: "OpenAlex h=9, 71 works, 2 causal-concept papers. Co-author of Huynh Thi Hong Tram."
+  source: scrape_snowball
+  confidence: medium
+  last_verified: 2026-05-24
+
+# ============ Pass 2 candidates (new OpenAlex seeds from find_openalex_ids.py) ============
+
+- id: nguyen-dung-huu-bachmai
+  name: "Nguyen, Dung Huu"
+  affiliation:
+    institution: "Bach Mai Hospital"
+    country: "Vietnam"
+    position: "Unknown - please verify"
+  links:
+    openalex: "https://openalex.org/A5103781292"
+  sub_areas: [applied-health, causal-ml]
+  notes: "OpenAlex h=8, 37 works, 3 causal-concept papers. Vietnamese clinician; co-author of Thin Nguyen (Deakin)."
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24
+
+- id: pham-duc-truong-birmingham
+  name: "Pham, Duc Truong"
+  affiliation:
+    institution: "University of Birmingham"
+    country: "United Kingdom"
+    position: "Full Professor"
+  links:
+    openalex: "https://openalex.org/A5078859004"
+  sub_areas: [causal-ml, theoretical]
+  notes: "OpenAlex h=65, 907 works, 2 causal-concept papers. Senior researcher; co-author of Viet Anh Nguyen (CUHK)."
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24
+
+- id: tran-khai-quang-cattien
+  name: "Tran, Khai Quang"
+  affiliation:
+    institution: "Cat Tien National Park (Vietnam)"
+    country: "Vietnam"
+    position: "Unknown - please verify"
+  links:
+    openalex: "https://openalex.org/A5077466678"
+  sub_areas: [applied-health]
+  notes: "OpenAlex h=2, 22 works, 2 causal-concept papers. Non-academic affiliation (national park); flagged for affiliation verification."
+  source: scrape_snowball
+  confidence: low
+  last_verified: 2026-05-24
+
+- id: nguyen-h-tran-sydney
+  name: "Tran, Nguyen H."
+  affiliation:
+    institution: "The University of Sydney"
+    country: "Australia"
+    position: "Associate Professor"
+  links:
+    openalex: "https://openalex.org/A5027558961"
+  sub_areas: [causal-ml, theoretical]
+  notes: "OpenAlex h=48, 365 works, 1 causal-concept paper. Real name Nguyen Hoang Tran; co-author of Quoc-Viet Pham."
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24
+
+- id: ngo-duy-t
+  name: "Ngo, Duy T."
+  affiliation:
+    institution: "Unknown - please verify"
+    country: "Unknown"
+    position: "Unknown - please verify"
+  links:
+    openalex: "https://openalex.org/A5003913406"
+  sub_areas: [causal-ml]
+  notes: "OpenAlex h=27, 125 works, 1 causal-concept paper. Senior; co-author of Quoc-Viet Pham."
+  source: scrape_snowball
+  confidence: medium
+  last_verified: 2026-05-24
+
+- id: dang-anh-hoang-jaist
+  name: "Dang, Anh-Hoang"
+  affiliation:
+    institution: "Japan Advanced Institute of Science and Technology"
+    country: "Japan"
+    position: "Unknown - please verify"
+  links:
+    openalex: "https://openalex.org/A5119786626"
+  sub_areas: [causal-ml, causal-nlp]
+  notes: "OpenAlex h=1, 1 work, 1 causal-concept paper. Junior; co-author of Minh Le Nguyen (JAIST)."
+  source: scrape_snowball
+  confidence: low
+  last_verified: 2026-05-24
+
+- id: tran-duc-vu-jaist
+  name: "Tran, Duc-Vu"
+  affiliation:
+    institution: "Japan Advanced Institute of Science and Technology"
+    country: "Japan"
+    position: "PhD Student"
+  links:
+    openalex: "https://openalex.org/A5018668377"
+  sub_areas: [causal-ml, causal-nlp]
+  notes: "OpenAlex h=12, 66 works, 1 causal-concept paper. Co-author of Minh Le Nguyen (JAIST)."
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24

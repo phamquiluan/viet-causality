@@ -7,5 +7,4 @@ venv/
 .idea/
 .vscode/
 scripts/cache/
-scripts/raw/
 *.log

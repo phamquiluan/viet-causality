@@ -1,0 +1,383 @@
+# Original hand-curated seed (manual_seed source).
+# This file is one of the inputs to scripts/consolidate.py.
+
+- id: duong-bao-deakin
+  name: Duong, Bao
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    homepage: ''
+    scholar: https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  key_papers:
+  - title: Causal Discovery via Bayesian Optimization
+    venue: ICLR
+    year: 2025
+    url: https://arxiv.org/abs/2501.14997
+  - title: Scalable Variational Causal Discovery Unconstrained by Acyclicity
+    year: 2024
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Bao Duong
+- id: le-thuc-duy-unisa
+  name: Le, Thuc Duy
+  affiliation:
+    institution: University of South Australia (UniSA)
+    country: Australia
+    position: Associate Professor
+  links:
+    homepage: https://people.unisa.edu.au/Thuc.Le
+    scholar: https://scholar.google.com/citations?user=wMSCRxUAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5078680441
+  sub_areas:
+  - causal-discovery
+  - applied-bio
+  - applied-health
+  key_papers:
+  - title: Causal Inference with Conditional Instruments Using Deep Generative Models
+    venue: AAAI
+    year: 2023
+  notes: Causal discovery for bioinformatics (gene regulatory networks, cancer drivers, drug targets); co-organizer KDD Workshop
+    on Causal Discovery 2020-2022.
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Thuc  Duy Le
+- id: le-trung-monash
+  name: Le, Trung
+  affiliation:
+    institution: Monash University
+    country: Australia
+    position: Senior Lecturer
+  links:
+    homepage: https://research.monash.edu/en/persons/trung-le
+    scholar: https://scholar.google.com/citations?user=gysdMxwAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  notes: Deep generative + Bayesian methods; co-authors on causal structure learning papers with Phung's group. Causality
+    is recurring but not primary.
+  source: manual_seed
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Trung Le
+- id: nguyen-duc-thanh-deakin
+  name: Nguyen, Duc Thanh
+  affiliation:
+    institution: Deakin University
+    country: Australia
+    position: Senior Lecturer
+  links:
+    scholar: https://scholar.google.com/citations?user=4vExyv8AAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5024634557
+  sub_areas:
+  - causal-discovery
+  - causal-cv
+  key_papers:
+  - title: 'MrPC: Causal Structure Learning in Distributed Systems'
+    venue: PAKDD
+    year: 2020
+  notes: Also co-author on 'causal inference via style transfer for OOD generalisation'.
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Duc Thanh Nguyen
+- id: nguyen-phuoc-deakin
+  name: Nguyen, Phuoc
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: Research Fellow
+  links:
+    scholar: https://scholar.google.com/citations?user=c4LnrZ0AAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  key_papers:
+  - title: Differentiable Bayesian Structure Learning with Acyclicity Assurance
+    year: 2024
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Phuoc Nguyen
+- id: nguyen-thin-deakin
+  name: Nguyen, Thin
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: Senior Research Fellow
+  links:
+    scholar: https://scholar.google.com/citations?user=BlTfdtMAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5100705489
+  sub_areas:
+  - causal-discovery
+  - causal-ml
+  key_papers:
+  - title: Reinforcement Learning for Causal Discovery without Acyclicity Constraints (ALIAS)
+    year: 2024
+  notes: Bayesian deep learning and graphical causal models.
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Thin Nguyen
+- id: phung-dinh-monash
+  name: Phung, Dinh
+  affiliation:
+    institution: Monash University
+    country: Australia
+    position: Full Professor
+  links:
+    homepage: https://research.monash.edu/en/persons/dinh-phung
+    scholar: https://scholar.google.com/citations?user=OtA9SwIAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  - causal-ml
+  key_papers:
+  - title: Optimal Transport for Structure Learning Under Missing Data
+    year: 2024
+  notes: Bayesian ML; structure learning via optimal transport for causal graph recovery.
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Dinh Phung
+- id: tran-minh-ngoc-sydney
+  name: Tran, Minh-Ngoc
+  affiliation:
+    institution: University of Sydney Business School
+    country: Australia
+    position: Associate Professor
+  links:
+    homepage: https://sites.google.com/site/mntran26/
+    scholar: https://scholar.google.com/citations?user=98A6Dq8AAAAJ&hl=en&oi=ao
+  sub_areas:
+  - theoretical
+  - applied-econ
+  notes: Bayesian computation, variational Bayes; methods used in causal econometrics. Causality not primary.
+  source: manual_seed
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Minh-Ngoc Tran
+- id: tran-truyen-deakin
+  name: Tran, Truyen
+  affiliation:
+    institution: Deakin University, Applied AI Institute (A2I2)
+    country: Australia
+    position: Full Professor
+  links:
+    homepage: https://truyentran.github.io/
+    scholar: https://scholar.google.com/citations?user=zvspVLwAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5085471517
+  sub_areas:
+  - causal-discovery
+  - causal-ml
+  - applied-health
+  key_papers:
+  - title: 'Learning Structural Causal Models from Ordering: Identifiable Flow Models'
+    venue: AAAI
+    year: 2024
+  notes: Head of AI for Health & Science at Deakin A2I2; leads a dense causal-discovery group (Bayesian, RL-based, flow-based).
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Truyen Tran
+- id: nguyen-viet-anh-cuhk
+  name: Nguyen, Viet Anh
+  affiliation:
+    institution: The Chinese University of Hong Kong (CUHK), SEEM
+    country: Hong Kong SAR
+    position: Assistant Professor
+  links:
+    homepage: https://vietanhnguyen.info/
+    scholar: https://scholar.google.com/citations?user=3iyf-EoAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5100625770
+  sub_areas:
+  - counterfactual-explanation
+  - theoretical
+  key_papers:
+  - title: Counterfactual Plans under Distributional Ambiguity
+    venue: ICLR
+    year: 2022
+  notes: Distributionally robust optimization and counterfactual recourse/plans.
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Viet Anh Nguyen
+- id: vo-thanh-vinh-nus
+  name: Vo, Thanh Vinh
+  affiliation:
+    institution: National University of Singapore (NUS)
+    country: Singapore
+    position: Research Fellow
+  links:
+    homepage: https://vothanhvinh.github.io/
+    scholar: https://scholar.google.com/citations?user=g1m5t54AAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5112989120
+  sub_areas:
+  - causal-ml
+  - theoretical
+  key_papers:
+  - title: Federated causal inference from observational data
+    venue: Machine Learning (Springer)
+    year: 2025
+  - title: Adaptive Multi-Source Causal Inference
+    venue: CIKM
+    year: 2022
+  notes: Causal inference from observational data; federated/multi-source causal inference; stochastic confounders. Simons
+    Institute affiliate.
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Vo Thanh Vinh
+- id: nguyen-cuong-v-durham
+  name: Nguyen, Cuong V.
+  affiliation:
+    institution: Durham University, Department of Statistics
+    country: United Kingdom
+    position: Assistant Professor
+  links:
+    homepage: https://nvcuong.github.io/
+    scholar: https://scholar.google.com/citations?user=CG9yOXoAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  - theoretical
+  notes: ML/stats, variational continual learning; some counterfactual-related work. Courtesy affiliation FIU. Causality not
+    primary.
+  source: manual_seed
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Cuong V. Nguyen
+- id: hoang-trong-nghia-wsu
+  name: Hoang, Trong Nghia
+  affiliation:
+    institution: Washington State University
+    country: United States
+    position: Assistant Professor
+  links:
+    homepage: https://htnghia87.github.io/
+    scholar: https://scholar.google.com/citations?user=E-kZZeQAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  - causal-ml
+  notes: NSF CAREER 2026. Efficient causal discovery (quadratic-complexity); uncertainty-aware AI. Ex-MIT-IBM Watson, AWS
+    AI Labs.
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Trong Nghia Hoang
+- id: nguyen-trang-quynh-jhu
+  name: Nguyen, Trang Quynh
+  affiliation:
+    institution: Johns Hopkins Bloomberg School of Public Health
+    country: United States
+    position: Associate Research Professor
+  links:
+    homepage: https://nqtrang.com/
+    scholar: https://scholar.google.com/citations?user=1pjyYFsAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5083690232
+  sub_areas:
+  - theoretical
+  - applied-health
+  - applied-social
+  key_papers:
+  - title: 'Clarifying causal mediation analysis: Effect identification via three assumptions and five potential outcomes'
+    venue: Journal of Causal Inference
+    year: 2022
+  notes: Causal mediation analysis; sensitivity analysis; transportability; treatment effect heterogeneity.
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Trang Quynh Nguyen
+- id: nguyen-xuanlong-michigan
+  name: Nguyen, XuanLong (Long)
+  affiliation:
+    institution: University of Michigan, Department of Statistics
+    country: United States
+    position: Full Professor
+  links:
+    homepage: https://dept.stat.lsa.umich.edu/~xuanlong/
+    scholar: https://scholar.google.com/citations?user=Az7XqxQAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - theoretical
+  notes: Bayesian nonparametrics; optimal transport. Causality is not the primary focus of recent publications; flagged for
+    verification of specific causal-inference contributions.
+  source: manual_seed
+  confidence: low
+  last_verified: 2026-05-24
+  name_scholar: XuanLong Nguyen
+- id: pham-thai-hoang-osu
+  name: Pham, Thai-Hoang
+  affiliation:
+    institution: Ohio State University (AIMed lab, Ping Zhang)
+    country: United States
+    position: PhD Student
+  links:
+    homepage: https://pth1993.github.io/
+    scholar: https://scholar.google.com/citations?user=bht4j9oAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  - applied-health
+  - counterfactual-fairness
+  key_papers:
+  - title: 'The Boundaries of Fair AI in Medical Image Prognosis: A Causal Perspective'
+    year: 2024
+  notes: Causal perspective on fair AI in medical prognosis; treatment effect estimation.
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Thai-Hoang Pham
+- id: bui-hung-hai-vinai
+  name: Bui, Hung Hai
+  affiliation:
+    institution: Formerly VinAI Research
+    country: Vietnam
+    position: Industry Researcher
+  links:
+    homepage: https://sites.google.com/site/buihhung/
+    scholar: https://scholar.google.com/citations?user=mDLwSZAAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - theoretical
+  notes: Probabilistic graphical models; Bayesian inference; relational/sequential models. Causality-adjacent rather than
+    primary. Ex-DeepMind, Adobe, SRI, formerly Director of VinAI Research (acquired by Qualcomm 2025).
+  source: manual_seed
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Hung Bui
+- id: ngo-hoang-anh-woolcock
+  name: Ngo, Hoang-Anh
+  affiliation:
+    institution: Woolcock Institute Vietnam
+    country: Vietnam
+    position: Research Scientist
+  links:
+    scholar: https://scholar.google.com/citations?user=yelTvHAAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - applied-health
+  notes: Epidemiology + online ML; relevance to applied causal epidemiology.
+  source: manual_seed
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Hoang-Anh Ngo
+- id: tran-toan-vinai
+  name: Tran, Toan
+  affiliation:
+    institution: VinAI Research / Hanoi University of Science and Technology (HUST)
+    country: Vietnam
+    position: Senior Research Scientist
+  links:
+    scholar: https://scholar.google.com/citations?user=PnwSuNMAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  key_papers:
+  - title: 'CASUAL: Conditional Support Alignment'
+    venue: AAAI
+    year: 2025
+  notes: 'Domain adaptation and causal representation work. Note: VinAI was acquired by Qualcomm in 2025; affiliation may
+    have updated.'
+  source: manual_seed
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Toan Tran

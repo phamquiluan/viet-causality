@@ -1,0 +1,162 @@
+# Stage A output: walked dynaroars/phd-cs-us (~51), viet-wics (~66), VIS UK&IE (~22 CS)
+# Total walked: ~120; new causality matches found: 7
+# Excluded (no causality work found): Tri Dao, Truong Son Hy, Tu Vu, My Thai, Minh N. Do, AnHai Doan, Hung Le, Khoa Luu, Ngan Le, Long Tran-Thanh, The Anh Han, Long Nguyen, Hoang M. Le, Quoc Le, Anh Nguyen (Liverpool), Anh Nguyen (Montana), Van-Anh Nguyen (Monash), Phung Lai, Phi Le Nguyen, +30 others.
+
+- id: nguyen-thien-huu-oregon
+  name: Nguyen, Thien Huu
+  affiliation:
+    institution: University of Oregon
+    country: United States
+    position: Associate Professor
+  links:
+    homepage: https://ix.cs.uoregon.edu/~thienn/
+    scholar: https://scholar.google.com/citations?user=Da2FhegAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-nlp
+  key_papers:
+  - title: Graph convolutional networks for event causality identification with rich document-level structures
+    venue: NAACL
+    year: 2021
+  - title: 'MECI: A multilingual dataset for event causality identification'
+    venue: COLING
+    year: 2022
+  - title: Mastering context-to-label representation transformation for event causality identification with diffusion models
+    venue: AAAI
+    year: 2024
+  - title: Hierarchical selection of important context for generative event causality identification with optimal transports
+    venue: LREC-COLING
+    year: 2024
+  notes: Sustained research line on event causality identification in NLP (4+ papers in NAACL, AAAI, COLING).
+  source: scrape_dynaroars
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Thien Huu Nguyen
+- id: nguyen-thanh-hong-oregon
+  name: Nguyen, Thanh Hong
+  affiliation:
+    institution: University of Oregon
+    country: United States
+    position: Associate Professor
+  links:
+    homepage: https://ix.cs.uoregon.edu/~thanhhng/
+    scholar: https://scholar.google.com/citations?user=6fpZnQIAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - counterfactual-explanation
+  key_papers:
+  - title: 'CounterNet: End-to-end training of prediction aware counterfactual explanations'
+    venue: KDD
+    year: 2023
+  notes: CounterNet paper introduces end-to-end training of counterfactual explanations for ML predictions.
+  source: scrape_dynaroars
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Thanh Nguyen
+- id: nguyen-anh-totti-auburn
+  name: Nguyen, Anh (Totti)
+  affiliation:
+    institution: Auburn University
+    country: United States
+    position: Associate Professor
+  links:
+    homepage: https://anhnguyen.me/
+    scholar: https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - counterfactual-explanation
+  - causal-cv
+  key_papers:
+  - title: 'Double Trouble: How to not explain a text classifier''s decisions using counterfactuals synthesized by masked
+      language models'
+    venue: AACL
+    year: 2022
+  - title: Explaining image classifiers by removing input features using generative models
+    venue: ACCV
+    year: 2020
+  notes: Works on counterfactual generation for explaining image and text classifiers within his XAI research.
+  source: scrape_dynaroars
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Anh Totti Nguyen
+- id: trieu-ni-asu
+  name: Trieu, Ni
+  affiliation:
+    institution: Arizona State University
+    country: United States
+    position: Assistant Professor
+  links:
+    homepage: https://nitrieu.github.io/
+    scholar: https://scholar.google.com/citations?user=AZgugwsAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  key_papers:
+  - title: 'AITIA: Efficient Secure Computation of Bivariate Causal Discovery'
+    venue: ACM CCS
+    year: 2024
+  notes: AITIA (CCS 2024) is the first two-party MPC protocol for bivariate causal discovery; cross-listed in dynaroars and
+    viet-wics.
+  source: scrape_dynaroars
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Ni Trieu
+- id: nguyen-nhi-nyu
+  name: Nguyen, Nhi
+  affiliation:
+    institution: New York University
+    country: United States
+    position: PhD Student
+  links:
+    homepage: https://iam-nhi-nguyen.github.io/
+    scholar: https://scholar.google.com/citations?user=QxwMTFsAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  key_papers:
+  - title: 'Black Box Causal Inference: Effect Estimation via Meta Prediction'
+    venue: arXiv (preprint)
+    year: 2026
+  notes: Co-author on Black Box Causal Inference (BBCI), which learns to estimate average and conditional treatment effects
+    via meta-prediction.
+  source: scrape_viet_wics
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Nhi Nguyen
+- id: le-thai-indiana
+  name: Le, Thai
+  affiliation:
+    institution: Indiana University Bloomington
+    country: United States
+    position: Assistant Professor
+  links:
+    homepage: https://thaile.web.illinois.edu/
+    scholar: https://scholar.google.com/citations?user=Fd8K7kAAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - counterfactual-explanation
+  - causal-rl
+  key_papers:
+  - title: A Novel Policy-graph Approach With Natural Language And Counterfactual Abstractions For Explaining Reinforcement
+      Learning Agents
+    venue: AAMAS Journal
+    year: 2023
+  notes: Uses counterfactual abstractions to explain RL agent policies; one published causal/counterfactual paper to date.
+  source: scrape_dynaroars
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Thai Le
+- id: dang-tommy-ttu
+  name: Dang, Tommy
+  affiliation:
+    institution: Texas Tech University
+    country: United States
+    position: Associate Professor
+  links:
+    homepage: https://www.myweb.ttu.edu/tnhondan/
+    scholar: https://scholar.google.com/citations?user=B1b-yVAAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - applied-bio
+  key_papers:
+  - title: 'ReactionFlow: An interactive visualization tool for causality analysis in biological pathways'
+    venue: BMC Proceedings (BioVis)
+    year: 2015
+  notes: Single visualization-focused paper on causality in biological pathways; older work, not core research area.
+  source: scrape_dynaroars
+  confidence: low
+  last_verified: 2026-05-24
+  name_scholar: Tommy Dang

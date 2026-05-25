@@ -1,0 +1,360 @@
+# Stage B3 output: DBLP venue-restricted sweep
+# 12,019 paper-author pairs across 63 queries; 247 unique VN-surname authors; 30 candidates
+# Significant dupes with B1, B2, B4 (Pham Thong, Duong Tri Dung, Tran Quang-Duy, Vo Vy, Nguyen Phi Le, etc.)
+# Reconcile in Stage C.
+
+- id: pham-thong-osaka
+  name: Pham, Thong
+  affiliation:
+    institution: Osaka University, SANKEN; cross-appointed Shiga University; Visiting Scientist at RIKEN AIP Causal Inference
+      Team
+    country: Japan
+    position: Associate Professor
+  links:
+    dblp: https://dblp.org/pid/199/2079
+    scholar: https://scholar.google.com/citations?user=LrWKIb0AAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  key_papers:
+  - title: 'I-CAM-UV: Integrating Causal Graphs over Non-Identical Variable Sets Using Causal Additive Models'
+    venue: AAAI
+    year: 2026
+  - title: 'Integrating Large Language Models in Causal Discovery: A Statistical Causal Approach'
+    venue: TMLR
+    year: 2025
+  - title: Scalable Counterfactual Distribution Estimation in Multivariate Causal Models
+    venue: CLeaR
+    year: 2024
+  notes: 'DBLP: 11 causality papers; RIKEN AIP Visiting Scientist. UPDATES dupe pham-thong-shiga + pham-thong-arxiv (B1).'
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Thong Pham
+- id: nguyen-minh-hoang-kaist
+  name: Nguyen, Minh Hoang
+  affiliation:
+    institution: KAIST, Department of Computer Science (current); previously University of Auckland
+    country: South Korea
+    position: PhD Student
+  links:
+    dblp: https://dblp.org/pid/32/5736
+    scholar: https://scholar.google.com/citations?user=bU_mv-8AAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-rl
+  - causal-ml
+  key_papers:
+  - title: 'Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformers'
+    venue: IJCAI
+    year: 2025
+  - title: Variable-Agnostic Causal Exploration for Reinforcement Learning
+    venue: ECML/PKDD
+    year: 2024
+  notes: 'DBLP: 5 causality papers; updates affiliation of B4 dupe (was Deakin).'
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Minh Hoang Nguyen
+- id: le-hung-deakin
+  name: Le, Hung
+  affiliation:
+    institution: Deakin University, Applied Artificial Intelligence Institute (A2I2)
+    country: Australia
+    position: Senior Lecturer (ARC DECRA Fellow)
+  links:
+    dblp: https://dblp.org/pid/45/466-2
+    scholar: https://scholar.google.com/citations?user=q2HbxngAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-rl
+  - causal-discovery
+  - causal-ml
+  key_papers:
+  - title: Reinforcement Learning for Causal Discovery without Acyclicity Constraints
+    venue: TMLR
+    year: 2025
+  - title: 'Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformers'
+    venue: IJCAI
+    year: 2025
+  notes: 'DBLP: 6 causality papers; ARC DECRA Fellow; Deakin A2I2 (Truyen Tran group alumnus).'
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Hung Le
+- id: ngo-dung-daniel-cmu
+  name: Ngo, Dung Daniel T.
+  affiliation:
+    institution: Carnegie Mellon University (CMU) - based on coauthors Steven Wu, Vasilis Syrgkanis
+    country: United States
+    position: PhD Student
+  links:
+    dblp: https://dblp.org/pid/296/8379
+    scholar: https://scholar.google.com/citations?user=mBHPMZUAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - theoretical
+  - causal-ml
+  key_papers:
+  - title: 'Strategic Instrumental Variable Regression: Recovering Causal Relationships From Strategic Responses'
+    venue: ICML
+    year: 2022
+  - title: 'Incentive-Aware Synthetic Control: Accurate Counterfactual Estimation via Incentivized Exploration'
+    venue: TMLR
+    year: 2026
+  notes: 'DBLP: 4 causality papers at ICML/TMLR. ''Dung'' Vietnamese given name (Daniel is Western middle).'
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Dung Daniel Ngo
+- id: nguyen-vu-amazon
+  name: Nguyen, Vu
+  affiliation:
+    institution: Amazon; previously University of Oxford, Deakin University
+    country: United Kingdom
+    position: Applied Scientist
+  links:
+    dblp: https://dblp.org/pid/59/4389
+    scholar: https://scholar.google.com/citations?user=5RQyC9cAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-nlp
+  - theoretical
+  key_papers:
+  - title: Bayesian Topic Regression for Causal Inference
+    venue: EMNLP
+    year: 2021
+  notes: 'DBLP: 2 causality papers; Oxford/Deakin alumnus.'
+  source: scrape_dblp
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Vu Nguyen
+- id: nguyen-toan-deakin-causal
+  name: Nguyen, Toan
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    dblp: https://dblp.org/pid/62/4324-4
+    scholar: https://scholar.google.com/citations?user=G44wtd4AAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  - causal-nlp
+  key_papers:
+  - title: Causal Direct Preference Optimization for Language Model Alignment
+    venue: EACL (Findings)
+    year: 2026
+  - title: Causal Inference via Style Transfer for Out-of-distribution Generalisation
+    venue: KDD
+    year: 2023
+  notes: 'DBLP: 3 causality papers including KDD 2023 (first author). DISTINCT from Toan Tran (seed) and Toan Nguyen (B2 health).'
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Toan Nguyen
+- id: doan-toan-deakin
+  name: Doan, Toan
+  affiliation:
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
+  links:
+    dblp: https://dblp.org/pid/382/7295
+  sub_areas:
+  - causal-nlp
+  - counterfactual-explanation
+  key_papers:
+  - title: Causal Direct Preference Optimization for Language Model Alignment
+    venue: EACL Findings
+    year: 2026
+  - title: Causal Activation Steering via Sparse Mediation
+    venue: EACL Findings
+    year: 2026
+  notes: 'DBLP: 2 causality papers, both EACL 2026 Findings; Deakin A2I2; updates B2 dupe doan-toan-causal-steering.'
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+- id: pham-vu-viet-hoang-unisa
+  name: Pham, Vu Viet Hoang
+  affiliation:
+    institution: University of South Australia / University of Newcastle (likely)
+    country: Australia
+    position: Research Fellow
+  links:
+    dblp: https://dblp.org/pid/200/2832
+    scholar: https://scholar.google.com/citations?user=McmcPUUAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5062956281
+  sub_areas:
+  - causal-discovery
+  - applied-bio
+  key_papers:
+  - title: A pseudotemporal causality approach to identifying miRNA-mRNA interactions during biological processes
+    venue: Bioinformatics
+    year: 2021
+  - title: Identifying miRNA-mRNA regulatory relationships in breast cancer with invariant causal prediction
+    venue: BMC Bioinformatics
+    year: 2019
+  notes: 'DBLP: 4 causality papers; UniSA causal lab alumnus (Thuc Duy Le co-author).'
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Vu Viet Hoang Pham
+- id: truong-buu-minh-thanh-unisa
+  name: Truong, Buu Minh Thanh
+  affiliation:
+    institution: University of South Australia
+    country: Australia
+    position: PhD Student
+  links:
+    dblp: https://dblp.org/pid/210/8978
+    openalex: https://openalex.org/A5066650734
+  sub_areas:
+  - causal-discovery
+  - applied-bio
+  key_papers:
+  - title: Identifying miRNA synergism using multiple-intervention causal inference
+    venue: BMC Bioinformatics
+    year: 2019
+  notes: 'DBLP: 4 causality papers; UniSA causal lab (Thuc Duy Le co-author).'
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+- id: hoang-tao-unisa
+  name: Hoang, Tao
+  affiliation:
+    institution: Previously University of South Australia (PhD with Jiuyong Li)
+    country: Australia
+    position: PhD Graduate
+  links:
+    dblp: https://dblp.org/pid/159/1950
+    openalex: https://openalex.org/A5013074693
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  key_papers:
+  - title: A Fast PC Algorithm for High Dimensional Causal Discovery with Multi-Core PCs
+    venue: IEEE/ACM Trans Comp Biology and Bioinformatics
+    year: 2019
+  - title: 'ParallelPC: An R Package for Efficient Causal Exploration in Genomic Data'
+    venue: PAKDD Workshops
+    year: 2018
+  notes: 'DBLP: 4 causality papers; UniSA causal lab; ''Tao'' could be VN or Chinese - verify.'
+  source: scrape_dblp
+  confidence: medium
+  last_verified: 2026-05-24
+- id: le-tam-riken
+  name: Le, Tam
+  affiliation:
+    institution: RIKEN Center for Advanced Intelligence Project (AIP)
+    country: Japan
+    position: Postdoctoral Researcher
+  links:
+    dblp: https://dblp.org/pid/137/4218
+    scholar: https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en&oi=ao
+  sub_areas:
+  - theoretical
+  - causal-ml
+  key_papers:
+  - title: Scalable Counterfactual Distribution Estimation in Multivariate Causal Models
+    venue: CLeaR
+    year: 2024
+  notes: RIKEN AIP postdoc; Makoto Yamada's lab; optimal transport for ML.
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Tam Le
+- id: nguyen-duy-ucsc
+  name: Nguyen, Duy
+  affiliation:
+    institution: 'UC Santa Cruz (current); past: Oxford University Clinical Research Unit (Ho Chi Minh City), HCMUS'
+    country: United States
+    position: Postdoc
+  links:
+    dblp: https://dblp.org/pid/13/5240
+  sub_areas:
+  - counterfactual-explanation
+  - theoretical
+  key_papers:
+  - title: Counterfactual Plans under Distributional Ambiguity
+    venue: ICLR
+    year: 2022
+  notes: Co-author of seed nguyen-viet-anh-cuhk; confirmed VN affiliation history (HCMUS, OUCRU Vietnam).
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-minh-le-jaist
+  name: Nguyen, Minh Le
+  affiliation:
+    institution: JAIST, School of Information Science
+    country: Japan
+    position: Full Professor
+  links:
+    dblp: https://dblp.org/pid/n/MinhLeNguyen
+    scholar: https://scholar.google.com/citations?user=vM9772wAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5077641909
+  sub_areas:
+  - causal-nlp
+  - applied-social
+  key_papers:
+  - title: 'Causal Intersectionality and Dual Form of Gradient Descent for Multimodal Analysis: A Case Study on Hateful Memes'
+    venue: LREC/COLING
+    year: 2024
+  notes: 'DBLP: 3 causality papers; JAIST faculty; 400+ pubs.'
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Nguyen Le Minh
+- id: nguyen-long-lqdtu
+  name: Nguyen, Long
+  affiliation:
+    institution: Le Quy Don Technical University, Faculty of IT, Hanoi
+    country: Vietnam
+    position: Faculty
+  links:
+    dblp: https://dblp.org/pid/02/3500
+  sub_areas:
+  - causal-discovery
+  - causal-time-series
+  key_papers:
+  - title: 'CaST: Causal Discovery via Spatio-Temporal Graphs in Disaster Recovery'
+    venue: IEEE Big Data
+    year: 2025
+  notes: 'DBLP: 2 causality papers; Le Quy Don Tech U Hanoi confirmed.'
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-dung-deakin-fpt
+  name: Nguyen, Dung (Deakin-FPT)
+  affiliation:
+    institution: 'Deakin University, Geelong; past: FPT Software AI Center, Hue University, University of Sydney'
+    country: Australia
+    position: Research Fellow
+  links:
+    dblp: https://dblp.org/pid/13/2526-1
+  sub_areas:
+  - causal-rl
+  notes: Confirmed past FPT and Hue Univ affiliations; updates B4 dupe nguyen-dung-deakin.
+  source: scrape_dblp
+  confidence: high
+  last_verified: 2026-05-24
+- id: phan-thomy-bayreuth
+  name: Phan, Thomy
+  affiliation:
+    institution: University of Bayreuth, Chair of AI and Machine Learning
+    country: Germany
+    position: Junior Professor
+  links:
+    dblp: https://dblp.org/pid/218/6646
+    scholar: https://scholar.google.com/citations?user=yny05hUAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - counterfactual-explanation
+  - causal-rl
+  key_papers:
+  - title: Truncated Counterfactual Learning for Anytime Multi-Agent Path Finding
+    venue: AAAI
+    year: 2026
+  - title: Counterfactual Online Learning for Open-Loop Monte-Carlo Planning
+    venue: AAAI
+    year: 2025
+  notes: PhD LMU Munich; surname suggests Vietnamese-German diaspora; needs ethnicity verification.
+  source: scrape_dblp
+  confidence: low
+  last_verified: 2026-05-24
+  name_scholar: Thomy Phan

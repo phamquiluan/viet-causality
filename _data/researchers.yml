@@ -34,6 +34,7 @@
   links:
     arxiv: https://arxiv.org/a/do_k_1
     scholar: https://scholar.google.com/citations?user=aD6y8joAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5001806269
   sub_areas:
   - theoretical
   - causal-discovery
@@ -131,6 +132,7 @@
   links:
     arxiv: https://arxiv.org/a/duong_t_1
     scholar: https://scholar.google.com/citations?user=hoq2nt8AAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5027240350
   sub_areas:
   - counterfactual-fairness
   - counterfactual-explanation
@@ -187,6 +189,7 @@
     position: PhD Graduate
   links:
     dblp: https://dblp.org/pid/159/1950
+    openalex: https://openalex.org/A5013074693
   sub_areas:
   - causal-discovery
   - theoretical
@@ -261,6 +264,7 @@
   links:
     arxiv: https://arxiv.org/a/le_t_1
     scholar: https://scholar.google.com/citations?user=0irkZtkAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5079045166
   sub_areas:
   - causal-cv
   - causal-ml
@@ -283,6 +287,7 @@
   links:
     homepage: https://people.unisa.edu.au/Thuc.Le
     scholar: https://scholar.google.com/citations?user=wMSCRxUAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5078680441
   sub_areas:
   - causal-discovery
   - applied-bio
@@ -366,6 +371,7 @@
     position: Senior Lecturer
   links:
     scholar: https://scholar.google.com/citations?user=4vExyv8AAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5024634557
   sub_areas:
   - causal-discovery
   - causal-cv
@@ -473,6 +479,7 @@
     position: Senior Research Fellow
   links:
     scholar: https://scholar.google.com/citations?user=BlTfdtMAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5100705489
   sub_areas:
   - causal-discovery
   - causal-ml
@@ -570,6 +577,7 @@
   links:
     arxiv: https://arxiv.org/a/pham_l_1
     scholar: https://scholar.google.com/citations?user=YRS7knwAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5102903082
   sub_areas:
   - theoretical
   - causal-discovery
@@ -593,6 +601,7 @@
   links:
     dblp: https://dblp.org/pid/200/2832
     scholar: https://scholar.google.com/citations?user=McmcPUUAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5062956281
   sub_areas:
   - causal-discovery
   - applied-bio
@@ -637,6 +646,7 @@
   links:
     arxiv: https://arxiv.org/a/tran_h_1
     scholar: https://scholar.google.com/citations?user=P8SBHWUAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5026924748
   sub_areas:
   - causal-ml
   - counterfactual-explanation
@@ -683,7 +693,22 @@
   sub_areas:
   - applied-health
   - causal-ml
-  notes: OpenAlex h=37, 185 works, 2 causal-concept papers. Senior researcher; co-author of Huynh Thi Hong Tram (HCMUS).
+  notes: OpenAlex h=37, 185 works, 2 causal-concept papers. Senior; co-author of Huynh Thi Hong Tram (HCMUS).
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-h-tran-sydney
+  name: Tran, Nguyen H.
+  affiliation:
+    institution: The University of Sydney
+    country: Australia
+    position: Associate Professor
+  links:
+    openalex: https://openalex.org/A5027558961
+  sub_areas:
+  - causal-ml
+  - theoretical
+  notes: OpenAlex h=48, 365 works, 1 causal-concept paper. Real name Nguyen Hoang Tran; co-author of Quoc-Viet Pham.
   source: scrape_snowball
   confidence: high
   last_verified: 2026-05-24
@@ -718,6 +743,7 @@
   links:
     homepage: https://truyentran.github.io/
     scholar: https://scholar.google.com/citations?user=zvspVLwAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5085471517
   sub_areas:
   - causal-discovery
   - causal-ml
@@ -754,16 +780,27 @@
     position: PhD Student
   links:
     dblp: https://dblp.org/pid/210/8978
+    openalex: https://openalex.org/A5066650734
+    scholar: https://scholar.google.com/citations?user=e8cttx0AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   - applied-bio
+  - theoretical
   key_papers:
   - title: Identifying miRNA synergism using multiple-intervention causal inference
     venue: BMC Bioinformatics
     year: 2019
-  notes: 'DBLP: 4 causality papers; UniSA causal lab (Thuc Duy Le co-author).'
-  source: scrape_dblp
+  - title: Leveraging polygenic risk scores to infer causal directions in genotype-by-environment interactions between complex
+      traits
+    venue: Human Genetics
+    year: 2026
+  notes: 'DBLP: 4 causality papers; UniSA causal lab (Thuc Duy Le co-author). | h=16; statistical genetics + causal direction
+    inference; Vietnam genomics.'
   confidence: high
+  source: scrape_dblp
+  sources_all:
+  - scrape_dblp
+  - scrape_semantic_scholar
   last_verified: 2026-05-24
 - id: vo-tri-nhan-deakin
   name: Vo, Tri-Nhan
@@ -863,6 +900,7 @@
   links:
     arxiv: https://arxiv.org/a/vo_t_2
     scholar: https://scholar.google.com/citations?user=VMFhSVcAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5125205210
   sub_areas:
   - applied-health
   - theoretical
@@ -934,6 +972,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/vo_k_1
+    openalex: https://openalex.org/A5111034088
   sub_areas:
   - theoretical
   - causal-ml
@@ -955,6 +994,7 @@
   links:
     homepage: https://vietanhnguyen.info/
     scholar: https://scholar.google.com/citations?user=3iyf-EoAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5100625770
   sub_areas:
   - counterfactual-explanation
   - theoretical
@@ -976,6 +1016,7 @@
   links:
     arxiv: https://arxiv.org/a/pham_q_1
     scholar: https://scholar.google.com/citations?user=zKX-0LIAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5062525719
   sub_areas:
   - causal-ml
   notes: IEEE Senior Member; 'Quoc-Viet' Vietnamese given name.
@@ -983,6 +1024,21 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Viet Quoc Pham
+- id: dang-anh-hoang-jaist
+  name: Dang, Anh-Hoang
+  affiliation:
+    institution: Japan Advanced Institute of Science and Technology
+    country: Japan
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5119786626
+  sub_areas:
+  - causal-ml
+  - causal-nlp
+  notes: OpenAlex h=1, 1 work, 1 causal-concept paper. Junior; co-author of Minh Le Nguyen (JAIST).
+  source: scrape_snowball
+  confidence: low
+  last_verified: 2026-05-24
 - id: huynh-van-nam-jaist
   name: Huynh, Van-Nam
   affiliation:
@@ -1043,6 +1099,7 @@
   links:
     dblp: https://dblp.org/pid/n/MinhLeNguyen
     scholar: https://scholar.google.com/citations?user=vM9772wAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5077641909
   sub_areas:
   - causal-nlp
   - applied-social
@@ -1112,6 +1169,21 @@
   - scrape_dblp
   - scrape_openalex
   last_verified: 2026-05-24
+- id: tran-duc-vu-jaist
+  name: Tran, Duc-Vu
+  affiliation:
+    institution: Japan Advanced Institute of Science and Technology
+    country: Japan
+    position: PhD Student
+  links:
+    openalex: https://openalex.org/A5018668377
+  sub_areas:
+  - causal-ml
+  - causal-nlp
+  notes: OpenAlex h=12, 66 works, 1 causal-concept paper. Co-author of Minh Le Nguyen (JAIST).
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24
 - id: nguyen-huy-son-delft
   name: Nguyen, Huy-Son
   affiliation:
@@ -1155,6 +1227,7 @@
   links:
     homepage: https://vothanhvinh.github.io/
     scholar: https://scholar.google.com/citations?user=g1m5t54AAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5112989120
   sub_areas:
   - causal-ml
   - theoretical
@@ -1278,6 +1351,21 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Vu Nguyen
+- id: pham-duc-truong-birmingham
+  name: Pham, Duc Truong
+  affiliation:
+    institution: University of Birmingham
+    country: United Kingdom
+    position: Full Professor
+  links:
+    openalex: https://openalex.org/A5078859004
+  sub_areas:
+  - causal-ml
+  - theoretical
+  notes: OpenAlex h=65, 907 works, 2 causal-concept papers. Senior researcher; co-author of Viet Anh Nguyen (CUHK).
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24
 - id: dang-lauren-eyler-berkeley
   name: Dang, Lauren Eyler
   affiliation:
@@ -1331,8 +1419,7 @@
   sub_areas:
   - causal-ml
   - theoretical
-  notes: OpenAlex h=39, 289 works, 1 causal-concept paper. Senior researcher; co-author of Tran Cao Son. Alt name Dinh, Nam
-    T.
+  notes: OpenAlex h=39, 289 works, 1 causal-concept paper. Senior; co-author of Tran Cao Son.
   source: scrape_snowball
   confidence: high
   last_verified: 2026-05-24
@@ -1575,6 +1662,7 @@
   links:
     homepage: https://nqtrang.com/
     scholar: https://scholar.google.com/citations?user=1pjyYFsAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5083690232
   sub_areas:
   - theoretical
   - applied-health
@@ -1666,20 +1754,6 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Thai-Hoang Pham
-- id: pham-vu-rutgers
-  name: Pham, Vu
-  affiliation:
-    institution: Rutgers, The State University of New Jersey
-    country: United States
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5062956281
-  sub_areas:
-  - causal-ml
-  notes: OpenAlex h=13, 57 works, 3 causal-concept papers. Co-author of Truong Buu (Broad). Alt name Hoang VV Pham.
-  source: scrape_snowball
-  confidence: medium
-  last_verified: 2026-05-24
 - id: tran-cao-son-nmsu
   name: Tran, Cao Son
   affiliation:
@@ -1804,28 +1878,6 @@
   confidence: high
   last_verified: 2026-05-24
   name_scholar: Quoc-Dien Trinh
-- id: truong-buu-broad
-  name: Truong, Buu
-  affiliation:
-    institution: Broad Institute / Harvard / Massachusetts General Hospital
-    country: United States
-    position: Research Fellow
-  links:
-    openalex: https://openalex.org/A5066650734
-    scholar: https://scholar.google.com/citations?user=e8cttx0AAAAJ&hl=en&oi=ao
-  sub_areas:
-  - applied-bio
-  - theoretical
-  key_papers:
-  - title: Leveraging polygenic risk scores to infer causal directions in genotype-by-environment interactions between complex
-      traits
-    venue: Human Genetics
-    year: 2026
-  notes: h=16; statistical genetics + causal direction inference; Vietnam genomics.
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: Buu Truong
 - id: le-hao-duong-llm-cd
   name: Le, Hao Duong
   affiliation:
@@ -1843,6 +1895,20 @@
     year: 2024
   notes: LLM-based multi-agent causal discovery.
   source: scrape_semantic_scholar
+  confidence: medium
+  last_verified: 2026-05-24
+- id: ngo-duy-t
+  name: Ngo, Duy T.
+  affiliation:
+    institution: Unknown - please verify
+    country: Unknown
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5003913406
+  sub_areas:
+  - causal-ml
+  notes: OpenAlex h=27, 125 works, 1 causal-concept paper. Senior; co-author of Quoc-Viet Pham.
+  source: scrape_snowball
   confidence: medium
   last_verified: 2026-05-24
 - id: bui-hung-hai-vinai
@@ -2005,6 +2071,21 @@
   confidence: medium
   last_verified: 2026-05-24
   name_scholar: Cam-Van Thi Nguyen
+- id: nguyen-dung-huu-bachmai
+  name: Nguyen, Dung Huu
+  affiliation:
+    institution: Bach Mai Hospital
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5103781292
+  sub_areas:
+  - applied-health
+  - causal-ml
+  notes: OpenAlex h=8, 37 works, 3 causal-concept papers. Vietnamese clinician; co-author of Thin Nguyen (Deakin).
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-24
 - id: nguyen-long-lqdtu
   name: Nguyen, Long
   affiliation:
@@ -2169,6 +2250,21 @@
   source: scrape_snowball
   confidence: high
   last_verified: 2026-05-24
+- id: tran-khai-quang-cattien
+  name: Tran, Khai Quang
+  affiliation:
+    institution: Cat Tien National Park (Vietnam)
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5077466678
+  sub_areas:
+  - applied-health
+  notes: OpenAlex h=2, 22 works, 2 causal-concept papers. Non-academic affiliation (national park); flagged for affiliation
+    verification.
+  source: scrape_snowball
+  confidence: low
+  last_verified: 2026-05-24
 - id: tran-ngoc-mai-cantho
   name: Tran, Ngoc Mai
   affiliation:
@@ -2244,8 +2340,7 @@
   sub_areas:
   - applied-health
   - causal-ml
-  notes: OpenAlex h=9, 71 works, 2 causal-concept papers. Co-author of Huynh Thi Hong Tram. Country flagged MM in OpenAlex
-    but UIT is in Vietnam (VNU-HCM).
+  notes: OpenAlex h=9, 71 works, 2 causal-concept papers. Co-author of Huynh Thi Hong Tram.
   source: scrape_snowball
   confidence: medium
   last_verified: 2026-05-24

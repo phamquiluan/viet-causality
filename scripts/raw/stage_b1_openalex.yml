@@ -1,0 +1,243 @@
+# Stage B1 output: OpenAlex sweep
+# After 2026-05-24 audit: 32 entries removed for having zero works tagged under
+# narrow causality concepts (C158600405, C11671645, C163504300, C115086926).
+# Removed entries were probabilistic-methods researchers swept up by the broader
+# OpenAlex Topic T11303 (Bayesian Modeling and Causal Inference).
+# See scripts/audit_openalex.py for the audit logic.
+
+- id: nguyen-tri-long-copenhagen
+  name: Nguyen, Tri-Long
+  affiliation:
+    institution: University of Copenhagen
+    country: Denmark
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5005130676
+    orcid: https://orcid.org/0000-0002-6376-7212
+  sub_areas:
+  - causal-ml
+  - causal-discovery
+  - applied-health
+  key_papers:
+  - title: The use of prognostic scores for causal inference with general treatment regimes
+    venue: Statistics in Medicine
+    year: 2019
+  - title: On the aggregation of published prognostic scores for causal inference in observational studies
+    venue: Statistics in Medicine
+    year: 2020
+  notes: 'OpenAlex: 23 causal-inference papers, h=17, citations 1466. Strong VN-affiliation history.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: nguyen-michael-diab-au
+  name: Nguyen, Michael
+  affiliation:
+    institution: Diabetes Australia
+    country: Australia
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5073895565
+    orcid: https://orcid.org/0000-0002-0530-1908
+  sub_areas:
+  - applied-health
+  notes: 'OpenAlex: 10 causal-inference papers, h=31.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: tran-ngoc-mai-cantho
+  name: Tran, Ngoc Mai
+  affiliation:
+    institution: Can Tho University / UT Austin
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5082324019
+    orcid: https://orcid.org/0000-0002-5061-6562
+    scholar: https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  - theoretical
+  key_papers:
+  - title: Causal Discovery of a River Network from its Extremes
+    year: 2021
+  - title: The tropical geometry of causal inference for extremes
+    year: 2022
+  notes: 'OpenAlex: 7 causal-inference papers, h=12; tropical-geometry approach to causal discovery.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Ngoc Tran
+- id: dang-lauren-eyler-berkeley
+  name: Dang, Lauren Eyler
+  affiliation:
+    institution: UC Berkeley / UCSF (van der Laan lab)
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5049187271
+    orcid: https://orcid.org/0000-0002-2967-0855
+    scholar: https://scholar.google.com/citations?user=p5xOjAIAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - theoretical
+  - applied-health
+  key_papers:
+  - title: Start with the Target Trial Protocol, Then Follow the Roadmap for Causal Inference
+    venue: Epidemiology
+    year: 2023
+  notes: 'OpenAlex: 7 causal-inference papers; van der Laan lab. Cross-cultural surname; verify Vietnamese heritage.'
+  source: scrape_openalex
+  confidence: low
+  last_verified: 2026-05-24
+  name_scholar: Lauren Eyler Dang
+- id: tran-linh-jhu
+  name: Tran, Linh
+  affiliation:
+    institution: Johns Hopkins University
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5006359310
+    orcid: https://orcid.org/0000-0001-6429-0375
+    scholar: https://scholar.google.com/citations?user=ZnjEAXUAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - theoretical
+  - applied-health
+  key_papers:
+  - title: Robust variance estimation and inference for causal effect estimation
+    year: 2018
+  notes: 'OpenAlex: 6 causal-inference papers, h=16; TMLE/longitudinal causal effects.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Linh Tran
+- id: le-tuan-pfizer
+  name: Le, Tuan
+  affiliation:
+    institution: Pfizer (Germany)
+    country: Germany
+    position: Industry Researcher
+  links:
+    openalex: https://openalex.org/A5100458405
+    orcid: https://orcid.org/0000-0001-7634-502X
+    scholar: https://scholar.google.com/citations?user=Fk1A1p4AAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  - theoretical
+  notes: 'OpenAlex: 5 causal-inference papers, h=10.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Tuan Le
+- id: pham-thong-shiga
+  name: Pham, Thong
+  affiliation:
+    institution: Shiga University
+    country: Japan
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5049149965
+    orcid: https://orcid.org/0000-0002-1940-9290
+  sub_areas:
+  - causal-discovery
+  key_papers:
+  - title: 'Integrating Large Language Models in Causal Discovery: A Statistical Causal Approach'
+    year: 2024
+  - title: Causal Additive Models with Unobserved Causal Paths and Backdoor Paths
+    year: 2025
+  notes: 'OpenAlex: 4 causal-inference papers, h=6; LLM-augmented causal discovery; may merge with A5127835151.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: pham-thai-aut
+  name: Pham, Thai
+  affiliation:
+    institution: Auckland University of Technology
+    country: New Zealand
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5039111784
+    scholar: https://scholar.google.com/citations?user=tJzykd0AAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  notes: 'OpenAlex: 4 causal-inference papers, h=5.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Thai T. Pham
+- id: nguyen-son-phuc-vnuhcm
+  name: Nguyen, Son Phuc
+  affiliation:
+    institution: Vietnam National University Ho Chi Minh City
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5058777096
+  sub_areas:
+  - theoretical
+  - causal-ml
+  notes: 'OpenAlex: 3 causal-inference papers.'
+  source: scrape_openalex
+  confidence: high
+  last_verified: 2026-05-24
+- id: pham-duy-t-uthsc
+  name: Pham, Duy T.
+  affiliation:
+    institution: University of Texas Health Science Center at Houston
+    country: United States
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5101420627
+    orcid: https://orcid.org/0009-0007-2586-2087
+  sub_areas:
+  - applied-health
+  - applied-bio
+  notes: 'OpenAlex: 2 causal-inference papers, h=5.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: pham-dung-hmu
+  name: Pham, Dung
+  affiliation:
+    institution: Hanoi Medical University
+    country: Vietnam
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5114109853
+  sub_areas:
+  - applied-health
+  - applied-social
+  notes: 'OpenAlex: 2 causal-inference papers; clustered randomized trials.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+- id: le-minh-deakin
+  name: Le, Minh
+  affiliation:
+    institution: Deakin University
+    country: Australia
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5016537664
+    orcid: https://orcid.org/0000-0002-0684-6408
+    scholar: https://scholar.google.com/citations?user=v087cnkAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-discovery
+  notes: 'OpenAlex: 2 causal-inference papers; Deakin A2I2.'
+  source: scrape_openalex
+  confidence: medium
+  last_verified: 2026-05-24
+  name_scholar: Minh Khoa Le
+- id: pham-thong-arxiv
+  name: Pham, Thong
+  affiliation:
+    institution: Unknown - may be same as pham-thong-shiga
+    country: Unknown
+    position: Unknown - please verify
+  links:
+    openalex: https://openalex.org/A5127835151
+  sub_areas:
+  - causal-discovery
+  notes: 'OpenAlex: 5 causal-inference papers including I-CAM-UV AAAI 2026; reconcile with pham-thong-shiga (A5049149965).'
+  source: scrape_openalex
+  confidence: low
+  last_verified: 2026-05-24

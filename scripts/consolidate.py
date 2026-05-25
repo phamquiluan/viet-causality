@@ -78,6 +78,12 @@ def merge_key(entry: dict[str, Any]) -> str:
     return " ".join(sorted(tokens))
 
 
+def openalex_id(entry: dict[str, Any]) -> str | None:
+    url = (entry.get("links") or {}).get("openalex", "")
+    m = re.search(r"openalex\.org/(A\w+)", url or "")
+    return m.group(1) if m else None
+
+
 def load_yaml_list(path: Path) -> list[dict[str, Any]]:
     if not path.exists():
         return []
@@ -192,7 +198,23 @@ def main() -> int:
             all_entries.append(e)
     print(f"loaded {len(all_entries)} raw entries from {len(files)} files")
 
-    # Group by merge_key
+    # Group by merge_key; entries that share an OpenAlex ID are forced
+    # into the same group via a precomputed alias.
+    oa_to_key: dict[str, str] = {}
+    for entry in all_entries:
+        oa = openalex_id(entry)
+        if not oa:
+            continue
+        k = MANUAL_ALIASES.get(merge_key(entry), merge_key(entry))
+        if oa in oa_to_key and oa_to_key[oa] != k:
+            # alias: map both keys to the lexicographically smaller one
+            canonical = min(oa_to_key[oa], k)
+            MANUAL_ALIASES[oa_to_key[oa]] = canonical
+            MANUAL_ALIASES[k] = canonical
+            oa_to_key[oa] = canonical
+        else:
+            oa_to_key[oa] = k
+
     groups: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for entry in all_entries:
         k = merge_key(entry)
