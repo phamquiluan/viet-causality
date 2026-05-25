@@ -34,7 +34,7 @@ _**115 researchers** across 15 countries. Confidence: 67 high, 39 medium, 9 low.
 | Name | Position | Affiliation | Country | Sub-areas | Links | Conf. |
 |---|---|---|---|---|---|---|
 | **Full Professor** | | | | | | |
-| Dinh, Nam T. | Full Professor | North Carolina State University | United States | `causal-ml`, `theoretical` |  | high |
+| [Nam Dinh](https://scholar.google.com/citations?user=k66mpoIAAAAJ&hl=en&oi=ao) | Full Professor | North Carolina State University | United States | `causal-ml`, `theoretical` | [scholar](https://scholar.google.com/citations?user=k66mpoIAAAAJ&hl=en&oi=ao) | high |
 | [Van Nam Huynh](https://scholar.google.com/citations?user=XVThR3QAAAAJ&hl=en&oi=ao) | Full Professor | Japan Advanced Institute of Science and Technology (JAIST) | Japan | `theoretical` | [scholar](https://scholar.google.com/citations?user=XVThR3QAAAAJ&hl=en&oi=ao) | high |
 | [Nguyen Le Minh](https://scholar.google.com/citations?user=vM9772wAAAAJ&hl=en&oi=ao) | Full Professor | JAIST, School of Information Science | Japan | `causal-nlp`, `applied-social` | [scholar](https://scholar.google.com/citations?user=vM9772wAAAAJ&hl=en&oi=ao) · [dblp](https://dblp.org/pid/n/MinhLeNguyen) | high |
 | [XuanLong Nguyen](https://scholar.google.com/citations?user=Az7XqxQAAAAJ&hl=en&oi=ao) | Full Professor | University of Michigan, Department of Statistics | United States | `theoretical` | [home](https://dept.stat.lsa.umich.edu/~xuanlong/) · [scholar](https://scholar.google.com/citations?user=Az7XqxQAAAAJ&hl=en&oi=ao) | low |
