@@ -121,7 +121,7 @@ _**115 researchers** across 15 countries. Confidence: 67 high, 39 medium, 9 low.
 | [Christopher Tran](https://scholar.google.com/citations?user=EWazzlkAAAAJ&hl=en&oi=ao) |  | University of Illinois Chicago | United States | `causal-ml`, `theoretical` | [scholar](https://scholar.google.com/citations?user=EWazzlkAAAAJ&hl=en&oi=ao) | low |
 | Tran, Khai Quang |  | Cat Tien National Park (Vietnam) | Vietnam | `applied-health` |  | low |
 | Tran, Linh |  | Johns Hopkins University | United States | `theoretical`, `applied-health` | [scholar](https://scholar.google.com/citations?user=ZnjEAXUAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0001-6429-0375) | high |
-| Tran, Ngoc Dang |  | The University of Queensland | Australia | `applied-health`, `causal-ml` |  | high |
+| [Tran Ngoc Dang](https://scholar.google.com/citations?user=Q74L0YYAAAAJ&hl=en&oi=ao) |  | The University of Queensland | Australia | `applied-health`, `causal-ml` | [scholar](https://scholar.google.com/citations?user=Q74L0YYAAAAJ&hl=en&oi=ao) | high |
 | [Ngoc Tran](https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao) |  | Can Tho University / UT Austin | Vietnam | `causal-discovery`, `theoretical` | [scholar](https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao) · [orcid](https://orcid.org/0000-0002-5061-6562) | high |
 | Trinh, Ho N. |  | The University of Melbourne | Australia | `causal-ml`, `applied-health` |  | medium |
 | Vo, Minh Tuan |  | University of Information Technology (likely VNU-HCM UIT) | Vietnam | `applied-health`, `causal-ml` |  | medium |
