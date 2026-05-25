@@ -90,6 +90,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5025952021
+    scholar: https://scholar.google.com/citations?user=Q74L0YYAAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-health
   - causal-ml
@@ -97,6 +98,7 @@
   source: scrape_snowball
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Tran Ngoc Dang
 - id: le-huynh-thi-cam-hong-uoeh
   name: Le Huynh, Thi Cam Hong
   affiliation:
