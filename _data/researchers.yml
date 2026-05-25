@@ -1186,30 +1186,6 @@
   - scrape_openalex
   - scrape_semantic_scholar
   last_verified: 2026-05-24
-- id: le-tran-trong-khoi-paris
-  name: Le, Tran Trong Khoi
-  affiliation:
-    institution: University Paris Est Creteil (EPIDERME)
-    country: France
-    position: Researcher
-  links:
-    arxiv: https://arxiv.org/a/le_t_2
-  sub_areas:
-  - applied-health
-  key_papers:
-  - title: Integration of aggregated data in causally interpretable meta-analysis by inverse weighting
-    venue: arXiv (stat.ME)
-    year: 2025
-    url: https://arxiv.org/abs/2503.05634
-  notes: Full triple-given-name unambiguously Vietnamese.
-  source: scrape_arxiv
-  confidence: high
-  last_verified: 2026-05-24
-  recent_works:
-  - title: Integration of aggregated data in causally interpretable meta-analysis by inverse weighting
-    year: 2025
-    venue: arXiv (stat.ME)
-    url: https://arxiv.org/abs/2503.05634
 - id: vo-tat-thang-paris
   name: Vo, Tat-Thang
   affiliation:
