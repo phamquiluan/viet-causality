@@ -340,9 +340,9 @@
 - id: le-tam-riken
   name: Le, Tam
   affiliation:
-    institution: RIKEN Center for Advanced Intelligence Project (AIP)
+    institution: Institute of Statistical Mathematics (ISM), Japan
     country: Japan
-    position: Postdoctoral Researcher
+    position: Assistant Professor
   links:
     dblp: https://dblp.org/pid/137/4218
     scholar: https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en&oi=ao
@@ -353,7 +353,8 @@
   - title: Scalable Counterfactual Distribution Estimation in Multivariate Causal Models
     venue: CLeaR
     year: 2024
-  notes: RIKEN AIP postdoc; Makoto Yamada's lab; optimal transport for ML.
+  notes: Assistant Professor at ISM Japan (previously postdoc at RIKEN AIP, Makoto Yamada's lab); optimal transport,
+    geometric methods, counterfactual distribution estimation.
   source: scrape_dblp
   confidence: high
   last_verified: 2026-05-24
