@@ -101,6 +101,15 @@ def academic_rank(entry: dict[str, Any]) -> tuple[int, str, str]:
     return (len(ACADEMIC_RANK), "Other", entry.get("name", ""))
 
 
+def works_count(entry: dict[str, Any]) -> int:
+    return len(entry.get("recent_works") or [])
+
+
+def sort_key_by_works(entry: dict[str, Any]) -> tuple[int, str]:
+    """Sort by recent_works count desc, then name asc (stable tiebreaker)."""
+    return (-works_count(entry), entry.get("name", ""))
+
+
 def position_label(entry: dict[str, Any]) -> str:
     """Normalize the position field into a display label (or empty)."""
     pos = ((entry.get("affiliation") or {}).get("position") or "")
@@ -118,16 +127,18 @@ def render_section(name: str, items: list[dict[str, Any]], group_by_rank: bool =
     out.append("|---|---|---|---|---|---|---|")
 
     if group_by_rank:
-        # Group rows under a rank sub-heading row.
-        current_rank: str | None = None
-        for entry in sorted(items, key=academic_rank):
-            _i, rank, _ = academic_rank(entry)
-            if rank != current_rank:
-                out.append(f"| **{rank}** | | | | | | |")
-                current_rank = rank
-            out.append(row_for(entry))
+        # Group rows under a rank sub-heading; within a rank, sort by
+        # recent_works count desc.
+        by_rank: dict[tuple[int, str], list[dict[str, Any]]] = {}
+        for entry in items:
+            i, rank, _ = academic_rank(entry)
+            by_rank.setdefault((i, rank), []).append(entry)
+        for (i, rank) in sorted(by_rank.keys()):
+            out.append(f"| **{rank}** | | | | | | |")
+            for entry in sorted(by_rank[(i, rank)], key=sort_key_by_works):
+                out.append(row_for(entry))
     else:
-        for entry in sorted(items, key=lambda e: e.get("name", "")):
+        for entry in sorted(items, key=sort_key_by_works):
             out.append(row_for(entry))
     return out
 
