@@ -1365,6 +1365,7 @@
     position: Full Professor
   links:
     openalex: https://openalex.org/A5078859004
+    scholar: https://scholar.google.com/citations?user=n2MiiDEAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
   - theoretical
@@ -1372,6 +1373,7 @@
   source: scrape_snowball
   confidence: high
   last_verified: 2026-05-24
+  name_scholar: Duc Truong Pham
 - id: dang-lauren-eyler-berkeley
   name: Dang, Lauren Eyler
   affiliation:
