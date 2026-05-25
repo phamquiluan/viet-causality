@@ -378,7 +378,7 @@
 - id: le-thuc-duy-unisa
   name: Le, Thuc Duy
   affiliation:
-    institution: University of South Australia (UniSA)
+    institution: Adelaide University (formerly UniSA)
     country: Australia
     position: Associate Professor
   links:
@@ -398,8 +398,24 @@
   source: manual_seed
   confidence: high
   last_verified: 2026-05-24
-  name_scholar: Thuc  Duy Le
+  name_scholar: Thuc Duy Le
   recent_works:
+  - title: 'Data-driven Causal Effect Estimation Based on Graphical Causal Modelling: A Survey'
+    year: 2024
+    venue: ACM Computing Surveys
+    url: https://doi.org/10.1145/3636423
+  - title: Multi-Source Causal Feature Selection
+    year: 2020
+    venue: IEEE TPAMI
+    url: https://doi.org/10.1109/tpami.2019.2908373
+  - title: A Fast PC Algorithm for High Dimensional Causal Discovery with Multi-Core PCs
+    year: 2019
+    venue: IEEE/ACM TCBB
+    url: https://doi.org/10.1109/tcbb.2016.2591526
+  - title: Causal Decision Trees
+    year: 2017
+    venue: IEEE TKDE
+    url: https://doi.org/10.1109/tkde.2016.2619350
   - title: Ancestral Instrument Method for Causal Inference without Complete Knowledge
     year: 2022
     venue: arXiv (Cornell University)
