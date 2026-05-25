@@ -423,19 +423,19 @@
 - id: le-trung-monash
   name: Le, Trung
   affiliation:
-    institution: Monash University
+    institution: Monash University, Department of Data Science and AI (DSAI)
     country: Australia
-    position: Senior Lecturer
+    position: Associate Professor
   links:
     homepage: https://research.monash.edu/en/persons/trung-le
     scholar: https://scholar.google.com/citations?user=gysdMxwAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
-  notes: Deep generative + Bayesian methods; co-authors on causal structure learning papers with Phung's group. Causality
-    is recurring but not primary.
+  notes: Deep generative + Bayesian methods; co-authors on causal structure learning papers with Phung's group. Promoted to
+    Associate Professor in 2025 (Assistant Professor 2020-2025, Monash postdoc 2018-2020, Deakin postdoc 2016-2018).
   source: manual_seed
   confidence: medium
-  last_verified: 2026-05-24
+  last_verified: 2026-05-25
   name_scholar: Trung Le
   recent_works:
   - title: Ordering-based Causal Discovery via Generalized Score Matching
