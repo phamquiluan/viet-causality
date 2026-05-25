@@ -123,8 +123,8 @@ def render_section(name: str, items: list[dict[str, Any]], group_by_rank: bool =
     if not items:
         return out
     out.append(f"\n### {name} ({len(items)})\n")
-    out.append("| Name | Position | Affiliation | Country | Sub-areas | Recent works | Conf. |")
-    out.append("|---|---|---|---|---|---|---|")
+    out.append("| Name | Position | Affiliation | Country | Sub-areas | Recent works |")
+    out.append("|---|---|---|---|---|---|")
 
     if group_by_rank:
         # Group rows under a rank sub-heading; within a rank, sort by
@@ -134,7 +134,7 @@ def render_section(name: str, items: list[dict[str, Any]], group_by_rank: bool =
             i, rank, _ = academic_rank(entry)
             by_rank.setdefault((i, rank), []).append(entry)
         for (i, rank) in sorted(by_rank.keys()):
-            out.append(f"| **{rank}** | | | | | | |")
+            out.append(f"| **{rank}** | | | | | |")
             for entry in sorted(by_rank[(i, rank)], key=sort_key_by_works):
                 out.append(row_for(entry))
     else:
@@ -161,13 +161,11 @@ def row_for(entry: dict[str, Any]) -> str:
         aff.get("country", "") or "",
         fmt_areas(entry.get("sub_areas", [])),
         fmt_recent_works(entry.get("recent_works") or []),
-        entry.get("confidence", "") or "",
     ]) + " |"
 
 
 def render_rows(entries: list[dict[str, Any]]) -> str:
     from collections import Counter
-    conf_count = Counter(e.get("confidence", "") for e in entries)
     countries = Counter((e.get("affiliation") or {}).get("country", "Unknown") for e in entries)
     sub_count: Counter = Counter()
     for e in entries:
@@ -180,9 +178,7 @@ def render_rows(entries: list[dict[str, Any]]) -> str:
 
     out: list[str] = []
     out.append(
-        f"_**{len(entries)} researchers** across {len(countries)} countries. "
-        f"Confidence: {conf_count.get('high', 0)} high, "
-        f"{conf_count.get('medium', 0)} medium, {conf_count.get('low', 0)} low._"
+        f"_**{len(entries)} researchers** across {len(countries)} countries._"
     )
     out.append(
         f"\n**By category:** Academic ({len(bucketed['Academic'])}), "
