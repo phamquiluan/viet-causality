@@ -170,8 +170,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Quick paths:
 - [dynaroars/phd-cs-us — Vietnamese CS faculty in the US](https://github.com/dynaroars/phd-cs-us/blob/main/viet-cs-profs-us.md)
 - [viet-wics — Vietnamese Women in CS](https://viet-wics.github.io/)
 - [VIS UK & Ireland — Vietnamese Intellectual Society members](https://vis-ukandireland.org/members/members-list/)
-- [AVSE Global — Association of Vietnamese Scientists & Experts](https://avseglobal.org/)
-- [PyWhy — open-source causal inference community](https://github.com/py-why)
 
 ## License
 
