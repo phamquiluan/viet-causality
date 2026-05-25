@@ -560,29 +560,6 @@
     year: 2025
     venue: arXiv
     url: https://arxiv.org/abs/2508.13721
-- id: nguyen-dung-deakin-fpt
-  name: Nguyen, Dung (Deakin-FPT)
-  affiliation:
-    institution: 'Deakin University, Geelong; past: FPT Software AI Center, Hue University, University of Sydney'
-    country: Australia
-    position: Research Fellow
-  links:
-    dblp: https://dblp.org/pid/13/2526-1
-  sub_areas:
-  - causal-rl
-  notes: Confirmed past FPT and Hue Univ affiliations; updates B4 dupe nguyen-dung-deakin.
-  source: scrape_dblp
-  confidence: high
-  last_verified: 2026-05-24
-  recent_works:
-  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
-    year: 2025
-    venue: arXiv
-    url: https://arxiv.org/abs/2508.13721
-  - title: Revisiting the Dataset Bias Problem from a Statistical Perspective
-    year: 2024
-    venue: ECAI
-    url: https://arxiv.org/abs/2402.03577
 - id: nguyen-khoa-deakin
   name: Nguyen, Khoa
   affiliation:
