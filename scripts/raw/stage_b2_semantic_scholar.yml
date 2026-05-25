@@ -238,27 +238,6 @@
     year: 2015
     venue: Studies in computational intelligence
     url: https://doi.org/10.1007/978-3-319-27284-9
-- id: tran-cao-son-nmsu
-  name: Tran, Cao Son
-  affiliation:
-    institution: New Mexico State University
-    country: United States
-    position: Full Professor
-  links:
-    openalex: https://openalex.org/A5063459912
-    scholar: https://scholar.google.com/citations?user=7jKj_NcAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - theoretical
-  - causal-rl
-  notes: h=29, 5903 citations; probabilistic action / planning.
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: Tran Cao Son
-  recent_works:
-  - title: Benchmarking an AI-Guided Reasoning-Based Operator Support System on the Three Mile Island Accident Scenario
-    year: 2020
-    url: https://doi.org/10.1115/icone2020-16400
 - id: truong-buu-broad
   name: Truong, Buu
   affiliation:

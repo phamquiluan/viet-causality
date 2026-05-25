@@ -200,6 +200,10 @@
   last_verified: 2026-05-24
   name_scholar: Dinh Phung
   recent_works:
+  - title: Ordering-based Causal Discovery via Generalized Score Matching
+    year: 2026
+    venue: arXiv
+    url: https://arxiv.org/abs/2601.16249
   - title: Optimal Transport for Structure Learning Under Missing Data
     year: 2024
     url: https://doi.org/10.48550/arxiv.2402.15255

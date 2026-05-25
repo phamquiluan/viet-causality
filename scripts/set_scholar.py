@@ -64,7 +64,10 @@ def propagate_to_raw(eid: str, url: str, display: str) -> None:
 
 
 def commit(message: str) -> None:
-    subprocess.run(["git", "add", "-A"], check=True, cwd=ROOT)
+    # Only stage the files this script touches — never `git add -A`, which
+    # sweeps unrelated working-copy state into commits.
+    subprocess.run(["git", "add", "_data/researchers.yml", "README.md", "scripts/raw/"],
+                   check=True, cwd=ROOT)
     subprocess.run(
         ["git", "-c", "user.name=viet-causality",
          "-c", "user.email=phamquiluan@gmail.com",

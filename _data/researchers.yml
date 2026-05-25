@@ -83,6 +83,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/do_v_1
+    scholar: https://scholar.google.com/citations?user=FS9C_qgAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-rl
   - causal-ml
@@ -100,6 +101,7 @@
     year: 2025
     venue: arXiv
     url: https://arxiv.org/abs/2508.13721
+  name_scholar: Dai Do
 - id: doan-toan-deakin
   name: Doan, Toan
   affiliation:
