@@ -1,5 +1,31 @@
 # Original hand-curated seed (manual_seed source).
 # This file is one of the inputs to scripts/consolidate.py.
+- id: ha-huong-rmit
+  name: Ha, Huong
+  affiliation:
+    institution: RMIT University, School of Computing Technologies
+    country: Australia
+    position: Senior Lecturer
+  links:
+    scholar: https://scholar.google.com/citations?user=Uf3o7_UAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  - applied-se
+  key_papers:
+  - title: 'Root Cause Analysis for Microservice System based on Causal Inference: How Far Are We?'
+    venue: ASE
+    year: 2024
+  notes: Senior Lecturer at RMIT (AI / Software Engineering / Bayesian Optimization / Trustworthy ML). Works on causal
+    inference applied to root-cause analysis in microservices.
+  source: manual_seed
+  confidence: high
+  last_verified: 2026-05-31
+  name_scholar: Huong Ha
+  recent_works:
+  - title: 'Root Cause Analysis for Microservice System based on Causal Inference: How Far Are We?'
+    year: 2024
+    venue: ASE
+    url: https://doi.org/10.1145/3691620.3695065
 - id: duong-bao-deakin
   name: Duong, Bao
   affiliation:

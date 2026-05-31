@@ -699,6 +699,10 @@
     year: 2026
     venue: arXiv
     url: https://arxiv.org/abs/2604.19663
+  - title: Bundle Recommendation with Item-Level Causation-Enhanced Multi-view Learning
+    year: 2024
+    venue: ECML/PKDD (LNCS)
+    url: https://doi.org/10.1007/978-3-031-70371-3_19
 - id: nguyen-huy-son-delft
   name: Nguyen, Huy-Son
   affiliation:
