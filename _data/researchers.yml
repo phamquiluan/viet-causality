@@ -2471,10 +2471,11 @@
 - id: le-duc-trong-vnu
   name: Le, Duc-Trong
   affiliation:
-    institution: VNU University of Engineering and Technology
+    institution: VNU University of Engineering and Technology, Faculty of IT
     country: Vietnam
-    position: Faculty
+    position: Assistant Professor
   links:
+    homepage: https://uet.vnu.edu.vn/~trongld/
     arxiv: https://arxiv.org/a/le_d_1
     scholar: https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao
   sub_areas:
@@ -2485,15 +2486,25 @@
   - title: 'CLEAR: Causal Learning Framework For Robust Histopathology Tumor Detection Under OOD Shifts'
     venue: arXiv
     year: 2025
-  notes: VNU-UET Hanoi confirmed.
+  notes: Assistant Professor and Head of Computer Science Department at VNU-UET Faculty of IT. Robustness, fairness, explainability,
+    multimodal learning, causation-aware recommendation; co-supervises with Hieu H. Pham (VinUni).
   source: scrape_arxiv
   confidence: high
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
   name_scholar: Duc-Trong Le
   recent_works:
+  - title: 'From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems'
+    year: 2026
+    venue: SIGIR
+    url: https://arxiv.org/abs/2604.19663
   - title: 'CLEAR: Causal Learning Framework For Robust Histopathology Tumor Detection Under OOD Shifts'
     year: 2025
     venue: arXiv
+    url: https://arxiv.org/abs/2510.14273
+  - title: Bundle Recommendation with Item-Level Causation-Enhanced Multi-view Learning
+    year: 2024
+    venue: ECML/PKDD (LNCS)
+    url: https://doi.org/10.1007/978-3-031-70371-3_19
 - id: le-hoang-quynh-vnu
   name: Le, Hoang-Quynh
   affiliation:
