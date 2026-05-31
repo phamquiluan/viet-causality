@@ -748,35 +748,6 @@
     year: 2018
     venue: International Journal of Obesity
     url: https://doi.org/10.1038/s41366-018-0103-4
-- id: pham-luan-rmit
-  name: Pham, Luan
-  affiliation:
-    institution: RMIT University
-    country: Australia
-    position: PhD Student
-  links:
-    arxiv: https://arxiv.org/a/pham_l_1
-    scholar: https://scholar.google.com/citations?user=YRS7knwAAAAJ&hl=en&oi=ao
-    openalex: https://openalex.org/A5102903082
-  sub_areas:
-  - theoretical
-  - causal-discovery
-  - applied-bio
-  key_papers:
-  - title: 'Root Cause Analysis for Microservice System based on Causal Inference: How Far Are We?'
-    venue: arXiv
-    year: 2024
-    url: https://arxiv.org/abs/2408.13729
-  notes: RMIT (luan.pham@rmit.edu.au); 4+ papers on causal inference for software/microservices.
-  source: scrape_arxiv
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: Luan Pham
-  recent_works:
-  - title: 'Root Cause Analysis for Microservice System based on Causal Inference: How Far Are We?'
-    year: 2024
-    venue: arXiv (Cornell University)
-    url: https://doi.org/10.48550/arxiv.2408.13729
 - id: pham-vu-viet-hoang-unisa
   name: Pham, Vu Viet Hoang
   affiliation:
