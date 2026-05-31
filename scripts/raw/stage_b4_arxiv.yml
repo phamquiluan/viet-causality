@@ -106,17 +106,19 @@
     country: Australia
     position: PhD Student
   links:
-    arxiv: https://arxiv.org/a/nguyen_k_4
+    scholar: https://scholar.google.com/citations?user=4scqXHMAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   key_papers:
   - title: Neural Autoregressive Flows for Markov Boundary Learning
-    venue: arXiv
-    year: 2026
-  notes: Deakin A2I2; co-authors Bao Duong, Viet Huynh, Thin Nguyen.
+    venue: ICDM
+    year: 2025
+  notes: PhD student at Deakin A2I2 (2024-2027) under Thin Nguyen and Bao Duong. Full name Anh-Khoa Nguyen. Part of
+    CDOZ team (won 4 of top 10 ADIA Lab Causal Discovery Challenge awards).
   source: scrape_arxiv
-  confidence: medium
-  last_verified: 2026-05-24
+  confidence: high
+  last_verified: 2026-05-31
+  name_scholar: Khoa Nguyen
   recent_works:
   - title: Neural Autoregressive Flows for Markov Boundary Learning
     year: 2026
@@ -214,8 +216,9 @@
   affiliation:
     institution: Deakin University, A2I2
     country: Australia
-    position: PhD Student
+    position: Research Lecturer
   links:
+    homepage: https://nphdang.wordpress.com/
     arxiv: https://arxiv.org/a/nguyen_d_6
     scholar: https://scholar.google.com/citations?user=UtlivOcAAAAJ&hl=en&oi=ao
   sub_areas:
@@ -223,13 +226,18 @@
   - counterfactual-explanation
   key_papers:
   - title: Efficient Classification with Counterfactual Reasoning and Active Learning
-    venue: arXiv
+    venue: PAKDD / Springer LNCS
     year: 2022
     url: https://arxiv.org/abs/2207.12086
-  notes: Deakin A2I2.
+  - title: Causal-aware Anomaly Detection for Tabular Data
+    venue: ICML
+    year: 2026
+  notes: PhD completed at Deakin A2I2 (2022); now Research Lecturer / Research Fellow. Active in counterfactual reasoning,
+    causal-aware anomaly detection (ICML 2026). Collaborators include Trung Le, Thuc Duy Le, Svetha Venkatesh, Sunil
+    Gupta.
   source: scrape_arxiv
-  confidence: medium
-  last_verified: 2026-05-24
+  confidence: high
+  last_verified: 2026-05-31
   name_scholar: Dang Nguyen
   recent_works:
   - title: Efficient Classification with Counterfactual Reasoning and Active Learning
@@ -260,9 +268,9 @@
 - id: duong-tri-dung-uts
   name: Duong, Tri Dung
   affiliation:
-    institution: University of Technology Sydney (UTS)
+    institution: Commonwealth Bank of Australia (CBA); PhD at University of Technology Sydney (UTS)
     country: Australia
-    position: PhD Student
+    position: Data Scientist
   links:
     arxiv: https://arxiv.org/a/duong_t_1
     scholar: https://scholar.google.com/citations?user=hoq2nt8AAAAJ&hl=en&oi=ao
@@ -273,18 +281,19 @@
   - causal-ml
   key_papers:
   - title: Achieving Counterfactual Fairness with Imperfect Structural Causal Model
-    venue: arXiv
-    year: 2023
+    venue: Expert Systems with Applications
+    year: 2024
     url: https://arxiv.org/abs/2303.14665
   - title: Causality-based Counterfactual Explanation for Classification Models
-    venue: arXiv
-    year: 2021
-    url: https://arxiv.org/abs/2105.00703
+    venue: Knowledge-Based Systems
+    year: 2024
+    url: https://doi.org/10.1016/j.knosys.2024.112200
   - title: Stochastic Intervention for Causal Inference via Reinforcement Learning
-    venue: arXiv
-    year: 2021
-    url: https://arxiv.org/abs/2105.13514
-  notes: UTS; 4+ causality papers.
+    venue: Neurocomputing
+    year: 2022
+    url: https://doi.org/10.1016/j.neucom.2022.01.086
+  notes: PhD completed at UTS in Guandong Xu's group; now Data Scientist at Commonwealth Bank of Australia (CBA). 4+
+    causality papers on counterfactual fairness / explanations / causal ML.
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
@@ -855,18 +864,22 @@
 - id: nguyen-minh-duong
   name: Nguyen, Minh-Duong
   affiliation:
-    institution: Pukyong National University, Korea (per Quoc-Viet Pham collaboration)
-    country: South Korea
-    position: PhD Student
+    institution: VinUniversity (current postdoc); PhD at Pusan National University (PNU), South Korea
+    country: Vietnam
+    position: Postdoctoral Researcher
   links:
+    homepage: https://github.com/skydvn
     arxiv: https://arxiv.org/a/nguyen_m_6
     scholar: https://scholar.google.com/citations?user=3ea0RLkAAAAJ&hl=en&oi=ao
+    dblp: https://dblp.org/pid/157/4392.html
   sub_areas:
   - causal-ml
-  notes: '''Minh-Duong'' Vietnamese given name; co-author Quoc-Viet Pham.'
+  notes: PhD at Pusan National University (NOT Pukyong NU - distinct Busan institutions; PhD conferred 2025); now postdoc
+    at VinUniversity Hanoi (Fall 2025). BE from HUST. Causality is peripheral; primary work is federated/continual learning,
+    domain generalization, semantic communication. Frequent co-author of Quoc-Viet Pham.
   source: scrape_arxiv
-  confidence: medium
-  last_verified: 2026-05-24
+  confidence: high
+  last_verified: 2026-05-31
   name_scholar: Minh-Duong Nguyen
   recent_works:
   - title: 'Knowledge Abstraction for Knowledge-based Semantic Communication: A Generative Causality Invariant Approach'

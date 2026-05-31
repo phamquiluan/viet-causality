@@ -46,27 +46,6 @@
     year: 2019
     venue: Statistics in Medicine
     url: https://doi.org/10.1002/sim.8084
-- id: nguyen-michael-diab-au
-  name: Nguyen, Michael
-  affiliation:
-    institution: Diabetes Australia
-    country: Australia
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5073895565
-    orcid: https://orcid.org/0000-0002-0530-1908
-  sub_areas:
-  - applied-health
-  notes: 'OpenAlex: 10 causal-inference papers, h=31.'
-  source: scrape_openalex
-  confidence: medium
-  last_verified: 2026-05-24
-  recent_works:
-  - title: 'Broadening the reach of the FDA Sentinel system: A roadmap for integrating electronic health record data in a
-      causal analysis framework'
-    year: 2021
-    venue: npj Digital Medicine
-    url: https://doi.org/10.1038/s41746-021-00542-0
 - id: tran-ngoc-mai-cantho
   name: Tran, Ngoc Mai
   affiliation:
@@ -103,29 +82,6 @@
     year: 2021
     venue: arXiv (Cornell University)
     url: https://openalex.org/W3128646675
-- id: le-tuan-pfizer
-  name: Le, Tuan
-  affiliation:
-    institution: Pfizer (Germany)
-    country: Germany
-    position: Industry Researcher
-  links:
-    openalex: https://openalex.org/A5100458405
-    orcid: https://orcid.org/0000-0001-7634-502X
-    scholar: https://scholar.google.com/citations?user=Fk1A1p4AAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-ml
-  - theoretical
-  notes: 'OpenAlex: 5 causal-inference papers, h=10.'
-  source: scrape_openalex
-  confidence: medium
-  last_verified: 2026-05-24
-  name_scholar: Tuan Le
-  recent_works:
-  - title: 'Hybrid Memoised Wake-Sleep: Approximate Inference at the Discrete-Continuous Interface'
-    year: 2021
-    venue: arXiv (Cornell University)
-    url: https://doi.org/10.48550/arxiv.2107.06393
 - id: pham-thong-shiga
   name: Pham, Thong
   affiliation:

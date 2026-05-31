@@ -71,11 +71,13 @@
     url: https://doi.org/10.1109/rams51457.2022.9893992
 - id: tran-dustin-google
   name: Tran, Dustin
+  name_vi: Dustin Viet Tran
   affiliation:
-    institution: Google DeepMind
+    institution: xAI (formerly Google DeepMind)
     country: United States
     position: Industry Researcher
   links:
+    homepage: https://dustintran.com/
     openalex: https://openalex.org/A5081819708
     scholar: https://scholar.google.com/citations?user=wVazIm8AAAAJ&hl=en&oi=ao
   sub_areas:
@@ -83,12 +85,14 @@
   - causal-ml
   key_papers:
   - title: Implicit Causal Models for Genome-wide Association Studies
-    venue: arXiv
-    year: 2017
-  notes: h=37, 5104 citations; probabilistic ML (Edward, TFP); causality via implicit causal models. VERIFY ethnicity.
+    venue: ICLR
+    year: 2018
+  notes: 'Vietnamese heritage confirmed (full name Dustin Viet Tran; @dustinvtran handle). Ex-Google DeepMind Senior
+    Staff Research Scientist (8 yrs, departed Sep 2025); now Member of Technical Staff at xAI leading post-training.
+    Causality work is historical (Implicit Causal Models for GWAS, ICLR 2018); recent output is LLM/Gemini.'
   source: scrape_semantic_scholar
-  confidence: low
-  last_verified: 2026-05-24
+  confidence: high
+  last_verified: 2026-05-31
   name_scholar: Dustin Tran
   recent_works:
   - title: Implicit Causal Models for Genome-wide Association Studies
@@ -195,12 +199,14 @@
 - id: truong-buu-broad
   name: Truong, Buu
   affiliation:
-    institution: Broad Institute / Harvard / Massachusetts General Hospital
+    institution: Harvard T.H. Chan School of Public Health / Broad Institute / Massachusetts General Hospital
     country: United States
-    position: Research Fellow
+    position: PhD Student
   links:
+    homepage: https://buutrg.github.io/
     openalex: https://openalex.org/A5066650734
     scholar: https://scholar.google.com/citations?user=e8cttx0AAAAJ&hl=en&oi=ao
+    orcid: https://orcid.org/0000-0003-0043-0812
   sub_areas:
   - applied-bio
   - theoretical
@@ -209,10 +215,12 @@
       traits
     venue: Human Genetics
     year: 2026
-  notes: h=16; statistical genetics + causal direction inference; Vietnam genomics.
+  notes: PhD student in Genetic Epidemiology & Statistical Genetics at Harvard (Alkes Price lab); Computational Biologist
+    II at Broad Institute (Pradeep Natarajan lab). Earlier visiting researcher at UniSA / SAHMRI. MD training at Pham
+    Ngoc Thach Univ of Medicine, Vietnam. h=16, ~1000 citations.
   source: scrape_semantic_scholar
   confidence: high
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
   name_scholar: Buu Truong
   recent_works:
   - title: Leveraging polygenic risk scores to infer causal directions in genotype-by-environment interactions between complex
@@ -364,21 +372,26 @@
 - id: doan-toan-causal-steering
   name: Doan, Toan
   affiliation:
-    institution: Unknown - please verify
-    country: Unknown
-    position: Unknown - please verify
+    institution: Deakin University, A2I2
+    country: Australia
+    position: PhD Student
   links:
+    homepage: https://experts.deakin.edu.au/71681-toan-doan-doan
+    scholar: https://scholar.google.com/citations?user=ws5eRqAAAAAJ&hl=en&oi=ao
     openalex: https://openalex.org/A5130364768
   sub_areas:
   - causal-nlp
   - counterfactual-explanation
   key_papers:
   - title: Causal Activation Steering via Sparse Mediation
+    venue: Findings of EACL
     year: 2026
-  notes: Mechanistic interpretability via causal mediation.
+  notes: PhD candidate at Deakin A2I2 (advisor Thin Nguyen). Mechanistic interpretability via causal mediation; first-author
+    EACL Findings 2026.
   source: scrape_semantic_scholar
   confidence: high
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
+  name_scholar: Toan Doan
   recent_works:
   - title: Causal Direct Preference Optimization for Language Model Alignment
     year: 2026

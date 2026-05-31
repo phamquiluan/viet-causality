@@ -77,9 +77,9 @@
   sub_areas:
   - causal-ml
   - applied-health
-  notes: Assistant Professor at USF, PI of SPACHeS Lab (joint appointment with Medical Engineering). PhD from Oklahoma
-    State, Vietnam Education Foundation (VEF) Fellow, previously at VNU-HCM. Full name 'Trung (Tim) Quoc Le'. Causal
-    work in longitudinal Bayesian networks (healthcare) and causal layers in GNNs for grid resilience.
+  notes: Assistant Professor at USF, PI of SPACHeS Lab (joint appointment with Medical Engineering). PhD from Oklahoma State,
+    Vietnam Education Foundation (VEF) Fellow, previously at VNU-HCM. Full name 'Trung (Tim) Quoc Le'. Causal work in longitudinal
+    Bayesian networks (healthcare) and causal layers in GNNs for grid resilience.
   source: scrape_snowball
   confidence: high
   last_verified: 2026-05-31
@@ -107,8 +107,8 @@
   sub_areas:
   - applied-health
   - causal-ml
-  notes: Associate Professor and Head of Department of Environmental Health at UMP HCMC. h=37 (185 works). Frequently
-    co-publishes with UQ's Dung Phung on climate-health studies (which caused the earlier UQ tag).
+  notes: Associate Professor and Head of Department of Environmental Health at UMP HCMC. h=37 (185 works). Frequently co-publishes
+    with UQ's Dung Phung on climate-health studies (which caused the earlier UQ tag).
   source: scrape_snowball
   confidence: high
   last_verified: 2026-05-31
@@ -218,28 +218,6 @@
   source: scrape_snowball
   confidence: low
   last_verified: 2026-05-24
-  recent_works:
-  - title: 'Survey and analysis of hallucinations in large language models: attribution to prompting strategies or model behavior'
-    year: 2025
-    venue: Frontiers in Artificial Intelligence
-    url: https://doi.org/10.3389/frai.2025.1622292
-- id: tran-duc-vu-jaist
-  name: Tran, Duc-Vu
-  affiliation:
-    institution: Japan Advanced Institute of Science and Technology
-    country: Japan
-    position: PhD Student
-  links:
-    openalex: https://openalex.org/A5018668377
-    scholar: https://scholar.google.com/citations?user=tZYQOWIAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-ml
-  - causal-nlp
-  notes: OpenAlex h=12, 66 works, 1 causal-concept paper. Co-author of Minh Le Nguyen (JAIST).
-  source: scrape_snowball
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: Vu Tran
   recent_works:
   - title: 'Survey and analysis of hallucinations in large language models: attribution to prompting strategies or model behavior'
     year: 2025

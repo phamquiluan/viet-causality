@@ -46,11 +46,11 @@
 - id: nguyen-minh-hoang-kaist
   name: Nguyen, Minh Hoang
   affiliation:
-    institution: KAIST, Department of Computer Science (current); previously University of Auckland
-    country: South Korea
+    institution: Deakin University, A2I2
+    country: Australia
     position: PhD Student
   links:
-    dblp: https://dblp.org/pid/32/5736
+    homepage: https://mhngu23.github.io/mhnguyen-ai.github.io/
     scholar: https://scholar.google.com/citations?user=bU_mv-8AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-rl
@@ -62,10 +62,11 @@
   - title: Variable-Agnostic Causal Exploration for Reinforcement Learning
     venue: ECML/PKDD
     year: 2024
-  notes: 'DBLP: 5 causality papers; updates affiliation of B4 dupe (was Deakin).'
+  notes: PhD candidate at Deakin A2I2 (supervisor Hung Le, 2023-2026). Prior education at RMIT (MSc AI) and Monash
+    (BEng Civil). DBLP pid 32/5736 is a disambiguation page — the KAIST entry there is a different person.
   source: scrape_dblp
   confidence: high
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
   name_scholar: Minh Hoang Nguyen
   recent_works:
   - title: 'Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformers'
@@ -113,10 +114,11 @@
 - id: ngo-dung-daniel-cmu
   name: Ngo, Dung Daniel T.
   affiliation:
-    institution: Carnegie Mellon University (CMU) - based on coauthors Steven Wu, Vasilis Syrgkanis
+    institution: J.P. Morgan Chase AI Research
     country: United States
-    position: PhD Student
+    position: Research Scientist
   links:
+    homepage: https://dtngo.com/
     dblp: https://dblp.org/pid/296/8379
     scholar: https://scholar.google.com/citations?user=mBHPMZUAAAAJ&hl=en&oi=ao
   sub_areas:
@@ -129,10 +131,12 @@
   - title: 'Incentive-Aware Synthetic Control: Accurate Counterfactual Estimation via Incentivized Exploration'
     venue: TMLR
     year: 2026
-  notes: 'DBLP: 4 causality papers at ICML/TMLR. ''Dung'' Vietnamese given name (Daniel is Western middle).'
+  notes: AI Research Scientist at JPMorgan AI (since 2025). PhD CS from University of Minnesota (2019-2025) co-advised
+    by Zhiwei Steven Wu (now CMU) and Maria Gini. Full name Tuan Dung Ngo. 4 causality papers at ICML/TMLR/ICLR. NOT
+    at CMU as previously listed.
   source: scrape_dblp
   confidence: high
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
   name_scholar: Dung Daniel Ngo
   recent_works:
   - title: 'Strategic Instrumental Variable Regression: Recovering Causal Relationships From Strategic Responses'
@@ -172,10 +176,11 @@
 - id: nguyen-toan-deakin-causal
   name: Nguyen, Toan
   affiliation:
-    institution: Deakin University, A2I2
+    institution: UNSW Sydney (current); previously Deakin University, A2I2
     country: Australia
-    position: PhD Student
+    position: Postdoctoral Researcher
   links:
+    homepage: http://nktoan.github.io/
     dblp: https://dblp.org/pid/62/4324-4
     scholar: https://scholar.google.com/citations?user=G44wtd4AAAAJ&hl=en&oi=ao
   sub_areas:
@@ -188,10 +193,12 @@
   - title: Causal Inference via Style Transfer for Out-of-distribution Generalisation
     venue: KDD
     year: 2023
-  notes: 'DBLP: 3 causality papers including KDD 2023 (first author). DISTINCT from Toan Tran (seed) and Toan Nguyen (B2 health).'
+  notes: Postdoc at UNSW Sydney (Flora Salim's lab, since Sept 2025). PhD at Deakin A2I2 advised by Thin Nguyen and
+    Kien Do. 4 causal papers (KDD 2023 first-author, WACV 2024, ESA 2024, EACL Findings 2026 co-author). DISTINCT from
+    Toan Tran (seed) and Toan Nguyen (B2 health).
   source: scrape_dblp
   confidence: high
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
   name_scholar: Toan Nguyen
   recent_works:
   - title: Causal Direct Preference Optimization for Language Model Alignment
@@ -309,34 +316,6 @@
     year: 2019
     venue: bioRxiv (Cold Spring Harbor Laboratory)
     url: https://doi.org/10.1101/652180
-- id: hoang-tao-unisa
-  name: Hoang, Tao
-  affiliation:
-    institution: Previously University of South Australia (PhD with Jiuyong Li)
-    country: Australia
-    position: PhD Graduate
-  links:
-    dblp: https://dblp.org/pid/159/1950
-    openalex: https://openalex.org/A5013074693
-  sub_areas:
-  - causal-discovery
-  - theoretical
-  key_papers:
-  - title: A Fast PC Algorithm for High Dimensional Causal Discovery with Multi-Core PCs
-    venue: IEEE/ACM Trans Comp Biology and Bioinformatics
-    year: 2019
-  - title: 'ParallelPC: An R Package for Efficient Causal Exploration in Genomic Data'
-    venue: PAKDD Workshops
-    year: 2018
-  notes: 'DBLP: 4 causality papers; UniSA causal lab; ''Tao'' could be VN or Chinese - verify.'
-  source: scrape_dblp
-  confidence: medium
-  last_verified: 2026-05-24
-  recent_works:
-  - title: A Fast PC Algorithm for High Dimensional Causal Discovery with Multi-Core PCs
-    year: 2016
-    venue: IEEE/ACM Transactions on Computational Biology and Bioinformatics
-    url: https://doi.org/10.1109/tcbb.2016.2591526
 - id: le-tam-riken
   name: Le, Tam
   affiliation:

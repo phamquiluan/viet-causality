@@ -31,9 +31,9 @@
   affiliation:
     institution: Deakin University, A2I2
     country: Australia
-    position: PhD Student
+    position: Associate Research Fellow
   links:
-    homepage: ''
+    homepage: https://experts.deakin.edu.au/61326-bao-duong
     scholar: https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
@@ -45,9 +45,11 @@
     url: https://arxiv.org/abs/2501.14997
   - title: Scalable Variational Causal Discovery Unconstrained by Acyclicity
     year: 2024
+  notes: Full name Thai Bao Duong Nguyen. Recently completed PhD at Deakin A2I2; now Associate Research Fellow. Prolific
+    causal-discovery output (DrBO/ICLR 2025, ALIAS/TMLR 2025, ICML 2025, SDM 2024).
   source: manual_seed
   confidence: high
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
   name_scholar: Bao Duong
   recent_works:
   - title: Causal Discovery via Bayesian Optimization

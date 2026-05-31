@@ -106,12 +106,15 @@
   name_scholar: Dai Do
 - id: doan-toan-deakin
   name: Doan, Toan
+  name_scholar: Toan Doan
   affiliation:
     institution: Deakin University, A2I2
     country: Australia
     position: PhD Student
   links:
     dblp: https://dblp.org/pid/382/7295
+    homepage: https://experts.deakin.edu.au/71681-toan-doan-doan
+    scholar: https://scholar.google.com/citations?user=ws5eRqAAAAAJ&hl=en&oi=ao
     openalex: https://openalex.org/A5130364768
   sub_areas:
   - causal-nlp
@@ -132,22 +135,23 @@
     year: 2026
     venue: EACL Findings
     url: https://doi.org/10.48448/vz9j-0j31
-  notes: 'DBLP: 2 causality papers, both EACL 2026 Findings; Deakin A2I2; updates B2 dupe doan-toan-causal-steering. | Mechanistic
-    interpretability via causal mediation.'
+  notes: 'DBLP: 2 causality papers, both EACL 2026 Findings; Deakin A2I2; updates B2 dupe doan-toan-causal-steering. | PhD
+    candidate at Deakin A2I2 (advisor Thin Nguyen). Mechanistic interpretability via causal mediation; first-author EACL Findings
+    2026.'
   confidence: high
   source: scrape_dblp
   sources_all:
   - scrape_dblp
   - scrape_semantic_scholar
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
 - id: duong-bao-deakin
   name: Duong, Bao
   affiliation:
     institution: Deakin University, A2I2
     country: Australia
-    position: PhD Student
+    position: Associate Research Fellow
   links:
-    homepage: ''
+    homepage: https://experts.deakin.edu.au/61326-bao-duong
     scholar: https://scholar.google.com/citations?user=M676aK0AAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
@@ -159,9 +163,11 @@
     url: https://arxiv.org/abs/2501.14997
   - title: Scalable Variational Causal Discovery Unconstrained by Acyclicity
     year: 2024
+  notes: Full name Thai Bao Duong Nguyen. Recently completed PhD at Deakin A2I2; now Associate Research Fellow. Prolific causal-discovery
+    output (DrBO/ICLR 2025, ALIAS/TMLR 2025, ICML 2025, SDM 2024).
   source: manual_seed
   confidence: high
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
   name_scholar: Bao Duong
   recent_works:
   - title: Causal Discovery via Bayesian Optimization
@@ -175,9 +181,9 @@
 - id: duong-tri-dung-uts
   name: Duong, Tri Dung
   affiliation:
-    institution: University of Technology Sydney (UTS)
+    institution: Commonwealth Bank of Australia (CBA); PhD at University of Technology Sydney (UTS)
     country: Australia
-    position: PhD Student
+    position: Data Scientist
   links:
     arxiv: https://arxiv.org/a/duong_t_1
     scholar: https://scholar.google.com/citations?user=hoq2nt8AAAAJ&hl=en&oi=ao
@@ -188,18 +194,19 @@
   - causal-ml
   key_papers:
   - title: Achieving Counterfactual Fairness with Imperfect Structural Causal Model
-    venue: arXiv
-    year: 2023
+    venue: Expert Systems with Applications
+    year: 2024
     url: https://arxiv.org/abs/2303.14665
   - title: Causality-based Counterfactual Explanation for Classification Models
-    venue: arXiv
-    year: 2021
-    url: https://arxiv.org/abs/2105.00703
+    venue: Knowledge-Based Systems
+    year: 2024
+    url: https://doi.org/10.1016/j.knosys.2024.112200
   - title: Stochastic Intervention for Causal Inference via Reinforcement Learning
-    venue: arXiv
-    year: 2021
-    url: https://arxiv.org/abs/2105.13514
-  notes: UTS; 4+ causality papers.
+    venue: Neurocomputing
+    year: 2022
+    url: https://doi.org/10.1016/j.neucom.2022.01.086
+  notes: PhD completed at UTS in Guandong Xu's group; now Data Scientist at Commonwealth Bank of Australia (CBA). 4+ causality
+    papers on counterfactual fairness / explanations / causal ML.
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
@@ -281,34 +288,6 @@
     year: 2024
     venue: arXiv
     url: https://arxiv.org/abs/2407.04980
-- id: hoang-tao-unisa
-  name: Hoang, Tao
-  affiliation:
-    institution: Previously University of South Australia (PhD with Jiuyong Li)
-    country: Australia
-    position: PhD Graduate
-  links:
-    dblp: https://dblp.org/pid/159/1950
-    openalex: https://openalex.org/A5013074693
-  sub_areas:
-  - causal-discovery
-  - theoretical
-  key_papers:
-  - title: A Fast PC Algorithm for High Dimensional Causal Discovery with Multi-Core PCs
-    venue: IEEE/ACM Trans Comp Biology and Bioinformatics
-    year: 2019
-  - title: 'ParallelPC: An R Package for Efficient Causal Exploration in Genomic Data'
-    venue: PAKDD Workshops
-    year: 2018
-  notes: 'DBLP: 4 causality papers; UniSA causal lab; ''Tao'' could be VN or Chinese - verify.'
-  source: scrape_dblp
-  confidence: medium
-  last_verified: 2026-05-24
-  recent_works:
-  - title: A Fast PC Algorithm for High Dimensional Causal Discovery with Multi-Core PCs
-    year: 2016
-    venue: IEEE/ACM Transactions on Computational Biology and Bioinformatics
-    url: https://doi.org/10.1109/tcbb.2016.2591526
 - id: le-hung-deakin
   name: Le, Hung
   affiliation:
@@ -482,8 +461,9 @@
   affiliation:
     institution: Deakin University, A2I2
     country: Australia
-    position: PhD Student
+    position: Research Lecturer
   links:
+    homepage: https://nphdang.wordpress.com/
     arxiv: https://arxiv.org/a/nguyen_d_6
     scholar: https://scholar.google.com/citations?user=UtlivOcAAAAJ&hl=en&oi=ao
   sub_areas:
@@ -491,13 +471,17 @@
   - counterfactual-explanation
   key_papers:
   - title: Efficient Classification with Counterfactual Reasoning and Active Learning
-    venue: arXiv
+    venue: PAKDD / Springer LNCS
     year: 2022
     url: https://arxiv.org/abs/2207.12086
-  notes: Deakin A2I2.
+  - title: Causal-aware Anomaly Detection for Tabular Data
+    venue: ICML
+    year: 2026
+  notes: PhD completed at Deakin A2I2 (2022); now Research Lecturer / Research Fellow. Active in counterfactual reasoning,
+    causal-aware anomaly detection (ICML 2026). Collaborators include Trung Le, Thuc Duy Le, Svetha Venkatesh, Sunil Gupta.
   source: scrape_arxiv
-  confidence: medium
-  last_verified: 2026-05-24
+  confidence: high
+  last_verified: 2026-05-31
   name_scholar: Dang Nguyen
   recent_works:
   - title: Efficient Classification with Counterfactual Reasoning and Active Learning
@@ -567,43 +551,70 @@
     country: Australia
     position: PhD Student
   links:
-    arxiv: https://arxiv.org/a/nguyen_k_4
+    scholar: https://scholar.google.com/citations?user=4scqXHMAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
   key_papers:
   - title: Neural Autoregressive Flows for Markov Boundary Learning
-    venue: arXiv
-    year: 2026
-  notes: Deakin A2I2; co-authors Bao Duong, Viet Huynh, Thin Nguyen.
+    venue: ICDM
+    year: 2025
+  notes: PhD student at Deakin A2I2 (2024-2027) under Thin Nguyen and Bao Duong. Full name Anh-Khoa Nguyen. Part of CDOZ team
+    (won 4 of top 10 ADIA Lab Causal Discovery Challenge awards).
   source: scrape_arxiv
-  confidence: medium
-  last_verified: 2026-05-24
+  confidence: high
+  last_verified: 2026-05-31
+  name_scholar: Khoa Nguyen
   recent_works:
   - title: Neural Autoregressive Flows for Markov Boundary Learning
     year: 2026
     venue: arXiv
     url: https://openalex.org/W7140347371
-- id: nguyen-michael-diab-au
-  name: Nguyen, Michael
+- id: nguyen-minh-hoang-kaist
+  name: Nguyen, Minh Hoang
+  name_scholar: Minh Hoang Nguyen
   affiliation:
-    institution: Diabetes Australia
+    institution: Deakin University, A2I2
     country: Australia
-    position: Unknown - please verify
+    position: PhD Student
   links:
-    openalex: https://openalex.org/A5073895565
-    orcid: https://orcid.org/0000-0002-0530-1908
+    homepage: https://mhngu23.github.io/mhnguyen-ai.github.io/
+    scholar: https://scholar.google.com/citations?user=bU_mv-8AAAAJ&hl=en&oi=ao
+    arxiv: https://arxiv.org/a/nguyen_m_5
   sub_areas:
-  - applied-health
-  notes: 'OpenAlex: 10 causal-inference papers, h=31.'
-  source: scrape_openalex
-  confidence: medium
-  last_verified: 2026-05-24
+  - causal-rl
+  - causal-ml
+  key_papers:
+  - title: 'Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformers'
+    venue: IJCAI
+    year: 2025
+  - title: Variable-Agnostic Causal Exploration for Reinforcement Learning
+    venue: ECML/PKDD
+    year: 2024
+  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
+    venue: arXiv
+    year: 2025
+    url: https://arxiv.org/abs/2508.13721
   recent_works:
-  - title: 'Broadening the reach of the FDA Sentinel system: A roadmap for integrating electronic health record data in a
-      causal analysis framework'
-    year: 2021
-    venue: npj Digital Medicine
-    url: https://doi.org/10.1038/s41746-021-00542-0
+  - title: 'Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformers'
+    year: 2025
+    venue: IJCAI
+    url: https://doi.org/10.24963/ijcai.2024/667
+  - title: Variable-Agnostic Causal Exploration for Reinforcement Learning
+    year: 2024
+    venue: ECML/PKDD
+    url: https://doi.org/10.48550/arxiv.2407.12437
+  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
+    year: 2025
+    venue: arXiv
+    url: https://arxiv.org/abs/2508.13721
+  notes: Deakin A2I2. | PhD candidate at Deakin A2I2 (supervisor Hung Le, 2023-2026). Prior education at RMIT (MSc AI) and
+    Monash (BEng Civil). DBLP pid 32/5736 is a disambiguation page — the KAIST entry there is a different person.
+  confidence: high
+  source: scrape_dblp
+  sources_all:
+  - scrape_arxiv
+  - scrape_dblp
+  last_verified: 2026-05-31
 - id: nguyen-phuoc-deakin
   name: Nguyen, Phuoc
   affiliation:
@@ -671,10 +682,11 @@
   name: Nguyen, Toan
   name_scholar: Toan Nguyen
   affiliation:
-    institution: Deakin University, A2I2
+    institution: UNSW Sydney (current); previously Deakin University, A2I2
     country: Australia
-    position: PhD Student
+    position: Postdoctoral Researcher
   links:
+    homepage: http://nktoan.github.io/
     dblp: https://dblp.org/pid/62/4324-4
     scholar: https://scholar.google.com/citations?user=G44wtd4AAAAJ&hl=en&oi=ao
     openalex: https://openalex.org/A5102874067
@@ -705,14 +717,15 @@
     year: 2024
     venue: PLoS ONE
     url: https://doi.org/10.1371/journal.pone.0314761
-  notes: 'DBLP: 3 causality papers including KDD 2023 (first author). DISTINCT from Toan Tran (seed) and Toan Nguyen (B2 health).
-    | h=12; Deakin A2I2; DISTINCT from seed tran-toan-vinai.'
+  notes: Postdoc at UNSW Sydney (Flora Salim's lab, since Sept 2025). PhD at Deakin A2I2 advised by Thin Nguyen and Kien Do.
+    4 causal papers (KDD 2023 first-author, WACV 2024, ESA 2024, EACL Findings 2026 co-author). DISTINCT from Toan Tran (seed)
+    and Toan Nguyen (B2 health). | h=12; Deakin A2I2; DISTINCT from seed tran-toan-vinai.
   confidence: high
   source: scrape_dblp
   sources_all:
   - scrape_dblp
   - scrape_semantic_scholar
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
 - id: nguyen-tuong-l-melbourne
   name: Nguyen, Tuong L.
   affiliation:
@@ -978,7 +991,9 @@
   links:
     dblp: https://dblp.org/pid/210/8978
     openalex: https://openalex.org/A5066650734
+    homepage: https://buutrg.github.io/
     scholar: https://scholar.google.com/citations?user=e8cttx0AAAAJ&hl=en&oi=ao
+    orcid: https://orcid.org/0000-0003-0043-0812
   sub_areas:
   - causal-discovery
   - applied-bio
@@ -1005,14 +1020,15 @@
     year: 2019
     venue: BMC Bioinformatics
     url: https://doi.org/10.1186/s12859-019-3215-5
-  notes: 'DBLP: 4 causality papers; UniSA causal lab (Thuc Duy Le co-author). | h=16; statistical genetics + causal direction
-    inference; Vietnam genomics.'
+  notes: 'DBLP: 4 causality papers; UniSA causal lab (Thuc Duy Le co-author). | PhD student in Genetic Epidemiology & Statistical
+    Genetics at Harvard (Alkes Price lab); Computational Biologist II at Broad Institute (Pradeep Natarajan lab). Earlier
+    visiting researcher at UniSA / SAHMRI. MD training at Pham Ngoc Thach Univ of Medicine, Vietnam. h=16, ~1000 citations.'
   confidence: high
   source: scrape_dblp
   sources_all:
   - scrape_dblp
   - scrape_semantic_scholar
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
 - id: vo-tri-nhan-deakin
   name: Vo, Tri-Nhan
   affiliation:
@@ -1178,29 +1194,6 @@
     year: 2026
     venue: Statistics in Medicine
     url: https://doi.org/10.1002/sim.70432
-- id: le-tuan-pfizer
-  name: Le, Tuan
-  affiliation:
-    institution: Pfizer (Germany)
-    country: Germany
-    position: Industry Researcher
-  links:
-    openalex: https://openalex.org/A5100458405
-    orcid: https://orcid.org/0000-0001-7634-502X
-    scholar: https://scholar.google.com/citations?user=Fk1A1p4AAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-ml
-  - theoretical
-  notes: 'OpenAlex: 5 causal-inference papers, h=10.'
-  source: scrape_openalex
-  confidence: medium
-  last_verified: 2026-05-24
-  name_scholar: Tuan Le
-  recent_works:
-  - title: 'Hybrid Memoised Wake-Sleep: Approximate Inference at the Discrete-Continuous Interface'
-    year: 2021
-    venue: arXiv (Cornell University)
-    url: https://doi.org/10.48550/arxiv.2107.06393
 - id: phan-thomy-bayreuth
   name: Phan, Thomy
   affiliation:
@@ -1537,28 +1530,6 @@
   - scrape_dblp
   - scrape_openalex
   last_verified: 2026-05-24
-- id: tran-duc-vu-jaist
-  name: Tran, Duc-Vu
-  affiliation:
-    institution: Japan Advanced Institute of Science and Technology
-    country: Japan
-    position: PhD Student
-  links:
-    openalex: https://openalex.org/A5018668377
-    scholar: https://scholar.google.com/citations?user=tZYQOWIAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-ml
-  - causal-nlp
-  notes: OpenAlex h=12, 66 works, 1 causal-concept paper. Co-author of Minh Le Nguyen (JAIST).
-  source: scrape_snowball
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: Vu Tran
-  recent_works:
-  - title: 'Survey and analysis of hallucinations in large language models: attribution to prompting strategies or model behavior'
-    year: 2025
-    venue: Frontiers in Artificial Intelligence
-    url: https://doi.org/10.3389/frai.2025.1622292
 - id: nguyen-huy-son-delft
   name: Nguyen, Huy-Son
   affiliation:
@@ -1653,76 +1624,6 @@
     year: 2025
     venue: arXiv
     url: https://openalex.org/W7124818306
-- id: nguyen-minh-hoang-kaist
-  name: Nguyen, Minh Hoang
-  name_scholar: Minh Hoang Nguyen
-  affiliation:
-    institution: KAIST, Department of Computer Science (current); previously University of Auckland
-    country: South Korea
-    position: PhD Student
-  links:
-    dblp: https://dblp.org/pid/32/5736
-    scholar: https://scholar.google.com/citations?user=bU_mv-8AAAAJ&hl=en&oi=ao
-    arxiv: https://arxiv.org/a/nguyen_m_5
-  sub_areas:
-  - causal-rl
-  - causal-ml
-  key_papers:
-  - title: 'Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformers'
-    venue: IJCAI
-    year: 2025
-  - title: Variable-Agnostic Causal Exploration for Reinforcement Learning
-    venue: ECML/PKDD
-    year: 2024
-  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
-    venue: arXiv
-    year: 2025
-    url: https://arxiv.org/abs/2508.13721
-  recent_works:
-  - title: 'Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformers'
-    year: 2025
-    venue: IJCAI
-    url: https://doi.org/10.24963/ijcai.2024/667
-  - title: Variable-Agnostic Causal Exploration for Reinforcement Learning
-    year: 2024
-    venue: ECML/PKDD
-    url: https://doi.org/10.48550/arxiv.2407.12437
-  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
-    year: 2025
-    venue: arXiv
-    url: https://arxiv.org/abs/2508.13721
-  notes: 'DBLP: 5 causality papers; updates affiliation of B4 dupe (was Deakin). | Deakin A2I2.'
-  confidence: high
-  source: scrape_dblp
-  sources_all:
-  - scrape_arxiv
-  - scrape_dblp
-  last_verified: 2026-05-24
-- id: nguyen-minh-duong
-  name: Nguyen, Minh-Duong
-  affiliation:
-    institution: Pukyong National University, Korea (per Quoc-Viet Pham collaboration)
-    country: South Korea
-    position: PhD Student
-  links:
-    arxiv: https://arxiv.org/a/nguyen_m_6
-    scholar: https://scholar.google.com/citations?user=3ea0RLkAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-ml
-  notes: '''Minh-Duong'' Vietnamese given name; co-author Quoc-Viet Pham.'
-  source: scrape_arxiv
-  confidence: medium
-  last_verified: 2026-05-24
-  name_scholar: Minh-Duong Nguyen
-  recent_works:
-  - title: 'Knowledge Abstraction for Knowledge-based Semantic Communication: A Generative Causality Invariant Approach'
-    year: 2025
-    venue: arXiv
-    url: https://arxiv.org/abs/2507.17784
-  - title: 'SC-GIR: Goal-Oriented Semantic Communication via Invariant Representation Learning for Image Transmission'
-    year: 2026
-    venue: IEEE Trans. Mobile Computing
-    url: https://doi.org/10.1109/TMC.2025.3600434
 - id: nguyen-vu-amazon
   name: Nguyen, Vu
   affiliation:
@@ -1924,10 +1825,11 @@
 - id: ngo-dung-daniel-cmu
   name: Ngo, Dung Daniel T.
   affiliation:
-    institution: Carnegie Mellon University (CMU) - based on coauthors Steven Wu, Vasilis Syrgkanis
+    institution: J.P. Morgan Chase AI Research
     country: United States
-    position: PhD Student
+    position: Research Scientist
   links:
+    homepage: https://dtngo.com/
     dblp: https://dblp.org/pid/296/8379
     scholar: https://scholar.google.com/citations?user=mBHPMZUAAAAJ&hl=en&oi=ao
   sub_areas:
@@ -1940,10 +1842,12 @@
   - title: 'Incentive-Aware Synthetic Control: Accurate Counterfactual Estimation via Incentivized Exploration'
     venue: TMLR
     year: 2026
-  notes: 'DBLP: 4 causality papers at ICML/TMLR. ''Dung'' Vietnamese given name (Daniel is Western middle).'
+  notes: AI Research Scientist at JPMorgan AI (since 2025). PhD CS from University of Minnesota (2019-2025) co-advised by
+    Zhiwei Steven Wu (now CMU) and Maria Gini. Full name Tuan Dung Ngo. 4 causality papers at ICML/TMLR/ICLR. NOT at CMU as
+    previously listed.
   source: scrape_dblp
   confidence: high
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
   name_scholar: Dung Daniel Ngo
   recent_works:
   - title: 'Strategic Instrumental Variable Regression: Recovering Causal Relationships From Strategic Responses'
@@ -2247,11 +2151,13 @@
     url: https://doi.org/10.1609/aaai.v36i4.20336
 - id: tran-dustin-google
   name: Tran, Dustin
+  name_vi: Dustin Viet Tran
   affiliation:
-    institution: Google DeepMind
+    institution: xAI (formerly Google DeepMind)
     country: United States
     position: Industry Researcher
   links:
+    homepage: https://dustintran.com/
     openalex: https://openalex.org/A5081819708
     scholar: https://scholar.google.com/citations?user=wVazIm8AAAAJ&hl=en&oi=ao
   sub_areas:
@@ -2259,12 +2165,14 @@
   - causal-ml
   key_papers:
   - title: Implicit Causal Models for Genome-wide Association Studies
-    venue: arXiv
-    year: 2017
-  notes: h=37, 5104 citations; probabilistic ML (Edward, TFP); causality via implicit causal models. VERIFY ethnicity.
+    venue: ICLR
+    year: 2018
+  notes: Vietnamese heritage confirmed (full name Dustin Viet Tran; @dustinvtran handle). Ex-Google DeepMind Senior Staff
+    Research Scientist (8 yrs, departed Sep 2025); now Member of Technical Staff at xAI leading post-training. Causality work
+    is historical (Implicit Causal Models for GWAS, ICLR 2018); recent output is LLM/Gemini.
   source: scrape_semantic_scholar
-  confidence: low
-  last_verified: 2026-05-24
+  confidence: high
+  last_verified: 2026-05-31
   name_scholar: Dustin Tran
   recent_works:
   - title: Implicit Causal Models for Genome-wide Association Studies
@@ -2484,6 +2392,35 @@
     year: 2024
     venue: ECML/PKDD (LNCS)
     url: https://doi.org/10.1007/978-3-031-70371-3_19
+- id: nguyen-minh-duong
+  name: Nguyen, Minh-Duong
+  affiliation:
+    institution: VinUniversity (current postdoc); PhD at Pusan National University (PNU), South Korea
+    country: Vietnam
+    position: Postdoctoral Researcher
+  links:
+    homepage: https://github.com/skydvn
+    arxiv: https://arxiv.org/a/nguyen_m_6
+    scholar: https://scholar.google.com/citations?user=3ea0RLkAAAAJ&hl=en&oi=ao
+    dblp: https://dblp.org/pid/157/4392.html
+  sub_areas:
+  - causal-ml
+  notes: PhD at Pusan National University (NOT Pukyong NU - distinct Busan institutions; PhD conferred 2025); now postdoc
+    at VinUniversity Hanoi (Fall 2025). BE from HUST. Causality is peripheral; primary work is federated/continual learning,
+    domain generalization, semantic communication. Frequent co-author of Quoc-Viet Pham.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-31
+  name_scholar: Minh-Duong Nguyen
+  recent_works:
+  - title: 'Knowledge Abstraction for Knowledge-based Semantic Communication: A Generative Causality Invariant Approach'
+    year: 2025
+    venue: arXiv
+    url: https://arxiv.org/abs/2507.17784
+  - title: 'SC-GIR: Goal-Oriented Semantic Communication via Invariant Representation Learning for Image Transmission'
+    year: 2026
+    venue: IEEE Trans. Mobile Computing
+    url: https://doi.org/10.1109/TMC.2025.3600434
 - id: nguyen-ngoc-thao-vnuhcm
   name: Nguyen, Ngoc-Thao
   affiliation:
