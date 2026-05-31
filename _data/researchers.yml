@@ -2471,26 +2471,40 @@
 - id: le-hoang-quynh-vnu
   name: Le, Hoang-Quynh
   affiliation:
-    institution: VNU University of Engineering and Technology
+    institution: VNU University of Engineering and Technology, Faculty of Information Technology (DS&KT Lab)
     country: Vietnam
-    position: Faculty
+    position: Lecturer
   links:
+    homepage: https://uet.vnu.edu.vn/~lhquynh/
     arxiv: https://arxiv.org/a/le_h_1
+    scholar: https://scholar.google.com/citations?user=LBYOZ00AAAAJ&hl=en
+    dblp: https://dblp.org/pid/73/8938.html
+    orcid: https://orcid.org/0000-0002-1778-0600
   sub_areas:
   - counterfactual-explanation
+  - causal-ml
   key_papers:
   - title: 'From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems'
     venue: arXiv
     year: 2026
-  notes: VNU-UET Hanoi.
+  - title: Bundle Recommendation with Item-Level Causation-Enhanced Multi-view Learning
+    venue: ECML/PKDD (LNCS)
+    year: 2024
+  notes: Lecturer at VNU-UET Hanoi (Data Science and Knowledge Technology Lab); biomedical NLP, multimodal learning, causation-aware
+    recommendation.
   source: scrape_arxiv
-  confidence: medium
-  last_verified: 2026-05-24
+  confidence: high
+  last_verified: 2026-05-31
+  name_scholar: Hoang-Quynh Le
   recent_works:
   - title: 'From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems'
     year: 2026
     venue: arXiv
     url: https://arxiv.org/abs/2604.19663
+  - title: Bundle Recommendation with Item-Level Causation-Enhanced Multi-view Learning
+    year: 2024
+    venue: ECML/PKDD (LNCS)
+    url: https://doi.org/10.1007/978-3-031-70371-3_19
 - id: nguyen-cam-van-thi-vnu
   name: Nguyen, Cam-Van Thi
   affiliation:

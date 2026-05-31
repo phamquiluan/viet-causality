@@ -27,7 +27,7 @@ _**98 researchers** across 15 countries._
 
 **By country (top 8):** Australia (33), United States (20), Vietnam (20), Japan (9), Germany (3), South Korea (3), Unknown (2), Denmark (1).
 
-**By sub-area (top 8):** `causal-ml` (48), `causal-discovery` (32), `theoretical` (30), `applied-health` (26), `counterfactual-explanation` (18), `causal-nlp` (8), `causal-rl` (6), `causal-cv` (5).
+**By sub-area (top 8):** `causal-ml` (49), `causal-discovery` (32), `theoretical` (30), `applied-health` (26), `counterfactual-explanation` (18), `causal-nlp` (8), `causal-rl` (6), `causal-cv` (5).
 
 ### Academic (64)
 
@@ -59,6 +59,7 @@ _**98 researchers** across 15 countries._
 | [Hieu H. Pham](https://scholar.google.com/citations?user=mXcFcNkAAAAJ&hl=en&oi=ao) | Assistant Professor | VinUniversity / VinUni-Illinois Smart Health Center | Vietnam | `causal-ml`, `applied-health` | [\[1\]](https://arxiv.org/abs/2510.14273) |
 | [Viet Quoc Pham](https://scholar.google.com/citations?user=zKX-0LIAAAAJ&hl=en&oi=ao) | Assistant Professor | Trinity College Dublin | Ireland | `causal-ml` | [\[1\]](https://doi.org/10.48550/arxiv.2507.17784) |
 | [Ni Trieu](https://scholar.google.com/citations?user=AZgugwsAAAAJ&hl=en&oi=ao) | Assistant Professor | Arizona State University | United States | `causal-discovery` | [\[1\]](https://doi.org/10.1145/3658644.3670337) |
+| [Hoang-Quynh Le](https://scholar.google.com/citations?user=LBYOZ00AAAAJ&hl=en) | Lecturer | VNU University of Engineering and Technology, Faculty of Information Technology (DS&KT Lab) | Vietnam | `counterfactual-explanation`, `causal-ml` | [\[1\]](https://arxiv.org/abs/2604.19663)[\[2\]](https://doi.org/10.1007/978-3-031-70371-3_19) |
 | [Phuoc Nguyen](https://scholar.google.com/citations?user=c4LnrZ0AAAAJ&hl=en&oi=ao) | Research Lecturer | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [\[1\]](https://doi.org/10.1109/icdm58522.2023.00069) |
 | [Toan Tran](https://scholar.google.com/citations?user=PnwSuNMAAAAJ&hl=en&oi=ao) | Senior Research Scientist | VinAI Research / Hanoi University of Science and Technology (HUST) | Vietnam | `causal-ml` | [\[1\]](https://doi.org/10.1609/aaai.v39i18.34166) |
 | [Vo Thanh Vinh](https://scholar.google.com/citations?user=g1m5t54AAAAJ&hl=en&oi=ao) | Research Fellow | National University of Singapore (NUS) | Singapore | `causal-ml`, `theoretical` | [\[1\]](https://doi.org/10.1007/s10994-025-06819-9)[\[2\]](https://doi.org/10.48550/arxiv.2506.05445)[\[3\]](https://doi.org/10.48550/arxiv.2308.13047)[\[4\]](https://doi.org/10.48550/arxiv.2301.00346) |
@@ -68,7 +69,6 @@ _**98 researchers** across 15 countries._
 | [Truong Thao Nguyen](https://scholar.google.com/citations?user=1DqrHWEAAAAJ&hl=en&oi=ao) | Senior Researcher | AIST (National Institute of Advanced Industrial Science and Technology) | Japan | `causal-discovery` | [\[1\]](https://openalex.org/W7127740639)[\[2\]](https://doi.org/10.48550/arxiv.2602.03353) |
 | [Bac Le](https://scholar.google.com/citations?user=UA_83MUAAAAJ&hl=en&oi=ao) | Faculty | VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` | [\[1\]](https://doi.org/10.1007/s10489-025-06945-w) |
 | [Duc-Trong Le](https://scholar.google.com/citations?user=irb6x1cAAAAJ&hl=en&oi=ao) | Faculty | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `counterfactual-explanation`, `applied-health` | \[1\] |
-| Le, Hoang-Quynh | Faculty | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` | [\[1\]](https://arxiv.org/abs/2604.19663) |
 | [Cam-Van Thi Nguyen](https://scholar.google.com/citations?user=4KiBC1YAAAAJ&hl=en&oi=ao) | Faculty | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` | [\[1\]](https://arxiv.org/abs/2604.19663) |
 | Nguyen, Long | Faculty | Le Quy Don Technical University, Faculty of IT, Hanoi | Vietnam | `causal-discovery`, `causal-time-series` | \[1\] |
 | Nguyen, Ngoc-Thao | Faculty | VNU-HCM | Vietnam | `counterfactual-explanation`, `causal-discovery` | [\[1\]](https://doi.org/10.1007/s10489-025-06945-w) |
