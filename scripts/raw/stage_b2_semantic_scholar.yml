@@ -125,10 +125,11 @@
 - id: bui-minh-melbourne
   name: Bui, Minh
   affiliation:
-    institution: University of Melbourne / Murdoch Children's Research Institute
+    institution: University of Melbourne, Centre for Epidemiology and Biostatistics (MSPGH)
     country: Australia
-    position: Unknown - please verify
+    position: Research Fellow
   links:
+    homepage: https://findanexpert.unimelb.edu.au/profile/26048-minh-bui
     openalex: https://openalex.org/A5075177965
     scholar: https://scholar.google.com/citations?user=9dd36HMAAAAJ&hl=en&oi=ao
   sub_areas:
@@ -139,7 +140,8 @@
       analogous to Mendelian randomization'
     venue: International Journal of Epidemiology
     year: 2020
-  notes: h=44; ICE FALCON method developer; VN Academy of Science and Technology affiliation.
+  notes: Research Fellow (Statistical Analysis) at UoM Centre for Epidemiology and Biostatistics; h=44; co-developer
+    of the ICE FALCON and ICE CRISTAL methods with John Hopper et al. Distinct from ANU's Bui Quang Minh (IQ-TREE phylogenomics).
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
