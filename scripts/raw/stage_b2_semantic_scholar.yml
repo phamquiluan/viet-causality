@@ -310,15 +310,18 @@
 - id: nguyen-ngoc-thao-vnuhcm
   name: Nguyen, Ngoc-Thao
   affiliation:
-    institution: VNU-HCM
+    institution: HCMUS (VNU-HCM University of Science), Faculty of Information Technology
     country: Vietnam
-    position: Faculty
+    position: Lecturer
   links:
+    homepage: https://www.fit.hcmus.edu.vn/~nnthao/
     openalex: https://openalex.org/A5102781573
+    orcid: https://orcid.org/0000-0003-0252-6519
   sub_areas:
   - counterfactual-explanation
   - causal-discovery
-  notes: Co-author on the DirectLiNGAM+VAE paper above.
+  notes: Lecturer at HCMUS Faculty of IT (AI & Data Science group); broader portfolio is computer vision. The DirectLiNGAM+VAE
+    counterfactual-explanations paper is her only causality publication on record.
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
