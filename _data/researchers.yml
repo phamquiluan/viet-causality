@@ -2106,10 +2106,10 @@
     year: 2021
     venue: NAACL
     url: https://doi.org/10.18653/v1/2021.naacl-main.273
-  - title: 'MECI: A multilingual dataset for event causality identification'
+  - title: 'MECI: A Multilingual Dataset for Event Causality Identification'
     year: 2022
     venue: COLING
-    url: https://doi.org/10.1145/3665348.3665353
+    url: https://aclanthology.org/2022.coling-1.206/
   - title: Mastering context-to-label representation transformation for event causality identification with diffusion models
     year: 2024
     venue: AAAI
