@@ -5,39 +5,6 @@
 # Affiliations from OpenAlex last_known_institutions (2026-05-24).
 
 # ============ Pass 1 candidates ============
-- id: pham-vu-hong-son-vnuhcm
-  name: Pham, Vu Hong Son
-  affiliation:
-    institution: Vietnam National University Ho Chi Minh City
-    country: Vietnam
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5062984384
-    scholar: https://scholar.google.com/citations?user=j2fNB2MAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-ml
-  notes: OpenAlex h=17, 122 works, 6 causal-concept papers. Surfaced via co-authorship with truong-buu-broad.
-  source: scrape_snowball
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: PHAM VU HONG SON
-  recent_works:
-  - title: MOESM5 of Identifying miRNA synergism using multiple-intervention causal inference
-    year: 2019
-    venue: Figshare
-    url: https://doi.org/10.6084/m9.figshare.11471313
-  - title: MOESM6 of Identifying miRNA synergism using multiple-intervention causal inference
-    year: 2019
-    venue: Figshare
-    url: https://doi.org/10.6084/m9.figshare.11471322
-  - title: MOESM3 of Identifying miRNA synergism using multiple-intervention causal inference
-    year: 2019
-    venue: Figshare
-    url: https://doi.org/10.6084/m9.figshare.11471298
-  - title: MOESM1 of Identifying miRNA synergism using multiple-intervention causal inference
-    year: 2019
-    venue: Figshare
-    url: https://doi.org/10.6084/m9.figshare.11471289
 - id: nguyen-tuong-l-melbourne
   name: Nguyen, Tuong L.
   affiliation:
@@ -100,39 +67,51 @@
 - id: le-trung-tim-q-usf
   name: Le, Trung Tim Q.
   affiliation:
-    institution: University of South Florida
+    institution: University of South Florida, Industrial & Management Systems Engineering (SPACHeS Lab)
     country: United States
-    position: Unknown - please verify
+    position: Assistant Professor
   links:
+    homepage: https://sites.google.com/view/spaches/members
     openalex: https://openalex.org/A5029649294
+    scholar: https://scholar.google.com/citations?user=klbqvLMAAAAJ&hl=en
   sub_areas:
   - causal-ml
-  notes: OpenAlex h=1, 2 works only, 3 causal-concept papers. Junior; co-author of Phat K. Huynh.
+  - applied-health
+  notes: Assistant Professor at USF, PI of SPACHeS Lab (joint appointment with Medical Engineering). PhD from Oklahoma
+    State, Vietnam Education Foundation (VEF) Fellow, previously at VNU-HCM. Full name 'Trung (Tim) Quoc Le'. Causal
+    work in longitudinal Bayesian networks (healthcare) and causal layers in GNNs for grid resilience.
   source: scrape_snowball
-  confidence: low
-  last_verified: 2026-05-24
+  confidence: high
+  last_verified: 2026-05-31
+  name_scholar: Trung Q. Le
   recent_works:
+  - title: Multilayer GNN for predictive maintenance and clustering in power grids
+    year: 2025
+    venue: iScience (Cell Press)
+    url: https://arxiv.org/abs/2507.07298
   - title: Causal Inference in Longitudinal Studies Using Causal Bayesian Network with Latent Variables
     year: 2022
-    venue: 2022 Annual Reliability and Maintainability Symposium (RAMS)
+    venue: RAMS
     url: https://doi.org/10.1109/rams51457.2022.9893992
 - id: tran-ngoc-dang-uq
   name: Tran, Ngoc Dang
   name_vi: Trần Ngọc Đăng
   affiliation:
-    institution: The University of Queensland
-    country: Australia
-    position: Unknown - please verify
+    institution: University of Medicine and Pharmacy at Ho Chi Minh City (UMP HCMC), Department of Environmental Health
+    country: Vietnam
+    position: Associate Professor
   links:
+    homepage: https://lancetcountdown.org/staff-member/tran-ngoc-dang/
     openalex: https://openalex.org/A5025952021
     scholar: https://scholar.google.com/citations?user=Q74L0YYAAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-health
   - causal-ml
-  notes: OpenAlex h=37, 185 works, 2 causal-concept papers. Senior; co-author of Huynh Thi Hong Tram (HCMUS).
+  notes: Associate Professor and Head of Department of Environmental Health at UMP HCMC. h=37 (185 works). Frequently
+    co-publishes with UQ's Dung Phung on climate-health studies (which caused the earlier UQ tag).
   source: scrape_snowball
   confidence: high
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
   name_scholar: Tran Ngoc Dang
   recent_works:
   - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
@@ -160,47 +139,6 @@
     year: 2018
     venue: Y HOC TP HO CHI MINH
     url: https://doi.org/10.32895/ump.mpr.2.3.12
-- id: vo-minh-tuan-uit
-  name: Vo, Minh Tuan
-  affiliation:
-    institution: University of Information Technology (likely VNU-HCM UIT)
-    country: Vietnam
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5007360217
-  sub_areas:
-  - applied-health
-  - causal-ml
-  notes: OpenAlex h=9, 71 works, 2 causal-concept papers. Co-author of Huynh Thi Hong Tram.
-  source: scrape_snowball
-  confidence: medium
-  last_verified: 2026-05-24
-  recent_works:
-  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
-      teaching'
-    year: 2018
-    venue: Y HOC TP HO CHI MINH
-    url: https://doi.org/10.32895/ump.mpr.2.3.12
-- id: nguyen-dung-huu-bachmai
-  name: Nguyen, Dung Huu
-  affiliation:
-    institution: Bach Mai Hospital
-    country: Vietnam
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5103781292
-  sub_areas:
-  - applied-health
-  - causal-ml
-  notes: OpenAlex h=8, 37 works, 3 causal-concept papers. Vietnamese clinician; co-author of Thin Nguyen (Deakin).
-  source: scrape_snowball
-  confidence: high
-  last_verified: 2026-05-24
-  recent_works:
-  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
-    year: 2025
-    venue: ArXiv.org
-    url: https://openalex.org/W4414536845
 - id: tran-khai-quang-cattien
   name: Tran, Khai Quang
   affiliation:

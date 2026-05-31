@@ -1,31 +1,6 @@
 # Stage B2 output: Semantic Scholar sweep (mostly via OpenAlex Topic T10845/T11303 fallback)
 # After 2026-05-24 audit: 21 entries removed for having zero works tagged under
 # narrow causality concepts. See scripts/audit_openalex.py.
-- id: tran-linh-jhu-b2
-  name: Tran, Linh
-  affiliation:
-    institution: Johns Hopkins University
-    country: United States
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5006359310
-  sub_areas:
-  - theoretical
-  - applied-health
-  notes: DUPE of B1 tran-linh-jhu. TMLE / longitudinal causal effects; UC Berkeley alumnus.
-  source: scrape_semantic_scholar
-  confidence: high
-  last_verified: 2026-05-24
-  recent_works:
-  - title: Robust variance estimation and inference for causal effect estimation
-    year: 2018
-    venue: arXiv (Cornell University)
-    url: https://doi.org/10.48550/arxiv.1810.03030
-  - title: Comparative Causal Effect Estimation and Robust Variance for Longitudinal Data Structures with Applications to
-      Observational HIV Treatment
-    year: 2016
-    venue: eScholarship (California Digital Library)
-    url: https://openalex.org/W2551809854
 - id: nguyen-tri-long-copenhagen-b2
   name: Nguyen, Tri-Long
   affiliation:
@@ -69,10 +44,11 @@
 - id: huynh-phat-k-ndsu
   name: Huynh, Phat K.
   affiliation:
-    institution: North Dakota State University
+    institution: North Carolina A&T State University, Industrial & Systems Engineering
     country: United States
-    position: Unknown - please verify
+    position: Assistant Professor
   links:
+    homepage: https://profiles.ncat.edu/en/persons/phat-huynh/
     openalex: https://openalex.org/A5053781401
     scholar: https://scholar.google.com/citations?user=Wo5c6BEAAAAJ&hl=en&oi=ao
   sub_areas:
@@ -82,10 +58,11 @@
   - title: Causal Inference in Longitudinal Studies Using Causal Bayesian Network with Latent Variables
     venue: Annual Reliability and Maintainability Symposium (RAMS)
     year: 2022
-  notes: HCMC International University alumnus.
+  notes: Assistant Professor at NC A&T (PASSIO Lab). HCMC International University BS; MS at NDSU 2022; PhD at USF 2023
+    under Trung Q. Le.
   source: scrape_semantic_scholar
   confidence: high
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
   name_scholar: Phat Kim Huynh
   recent_works:
   - title: Causal Inference in Longitudinal Studies Using Causal Bayesian Network with Latent Variables
@@ -140,8 +117,8 @@
       analogous to Mendelian randomization'
     venue: International Journal of Epidemiology
     year: 2020
-  notes: Research Fellow (Statistical Analysis) at UoM Centre for Epidemiology and Biostatistics; h=44; co-developer
-    of the ICE FALCON and ICE CRISTAL methods with John Hopper et al. Distinct from ANU's Bui Quang Minh (IQ-TREE phylogenomics).
+  notes: Research Fellow (Statistical Analysis) at UoM Centre for Epidemiology and Biostatistics; h=44; co-developer of the
+    ICE FALCON and ICE CRISTAL methods with John Hopper et al. Distinct from ANU's Bui Quang Minh (IQ-TREE phylogenomics).
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
@@ -266,8 +243,8 @@
     scholar: https://scholar.google.com/citations?user=1DqrHWEAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-discovery
-  notes: Senior Researcher at AIST Japan (focus on distributed deep learning, federated learning, HPC). Co-author on a
-    Vietnam-led causal graph learning paper.
+  notes: Senior Researcher at AIST Japan (focus on distributed deep learning, federated learning, HPC). Co-author on a Vietnam-led
+    causal graph learning paper.
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-24
@@ -359,10 +336,12 @@
 - id: le-hao-duong-llm-cd
   name: Le, Hao Duong
   affiliation:
-    institution: Unknown - please verify
-    country: Unknown
-    position: Unknown - please verify
+    institution: Tsinghua University, Department of Industrial Engineering (SILAB)
+    country: China
+    position: PhD Student
   links:
+    homepage: https://thuie-isda.github.io/Members/
+    scholar: https://scholar.google.com/citations?user=lyKJAqYAAAAJ&hl=en
     semantic_scholar: https://www.semanticscholar.org/author/2383875687
   sub_areas:
   - causal-discovery
@@ -371,41 +350,17 @@
   - title: Multi-Agent Causal Discovery Using Large Language Models
     venue: arXiv
     year: 2024
-  notes: LLM-based multi-agent causal discovery.
+  notes: PhD candidate (goes by 'Oliver') at Tsinghua SILAB. Vietnamese (Le surname + Duong middle name, VSA activities
+    at NTUST). LLM-based multi-agent causal discovery (42+ citations on the 2024 first-author paper).
   source: scrape_semantic_scholar
-  confidence: medium
-  last_verified: 2026-05-24
+  confidence: high
+  last_verified: 2026-05-31
+  name_scholar: Hao Duong Le
   recent_works:
   - title: Multi-Agent Causal Discovery Using Large Language Models
     year: 2024
     venue: arXiv
     url: https://doi.org/10.48550/arxiv.2407.15073
-- id: huynh-thi-hong-tram-hcm
-  name: Huynh, Thi Hong Tram
-  affiliation:
-    institution: Unknown (paper at Vietnamese journal Y Hoc TP Ho Chi Minh)
-    country: Vietnam
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5035043762
-  sub_areas:
-  - applied-health
-  - theoretical
-  key_papers:
-  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
-      teaching'
-    venue: Y Hoc TP Ho Chi Minh
-    year: 2018
-  notes: DAG-based causal inference education.
-  source: scrape_semantic_scholar
-  confidence: medium
-  last_verified: 2026-05-24
-  recent_works:
-  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
-      teaching'
-    year: 2018
-    venue: Y HOC TP HO CHI MINH
-    url: https://doi.org/10.32895/ump.mpr.2.3.12
 - id: doan-toan-causal-steering
   name: Doan, Toan
   affiliation:

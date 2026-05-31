@@ -859,30 +859,6 @@
     year: 2022
     venue: arXiv (Cornell University)
     url: https://doi.org/10.48550/arxiv.2206.11529
-- id: tran-ngoc-dang-uq
-  name: Tran, Ngoc Dang
-  name_vi: Trần Ngọc Đăng
-  affiliation:
-    institution: The University of Queensland
-    country: Australia
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5025952021
-    scholar: https://scholar.google.com/citations?user=Q74L0YYAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - applied-health
-  - causal-ml
-  notes: OpenAlex h=37, 185 works, 2 causal-concept papers. Senior; co-author of Huynh Thi Hong Tram (HCMUS).
-  source: scrape_snowball
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: Tran Ngoc Dang
-  recent_works:
-  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
-      teaching'
-    year: 2018
-    venue: Y HOC TP HO CHI MINH
-    url: https://doi.org/10.32895/ump.mpr.2.3.12
 - id: nguyen-h-tran-sydney
   name: Tran, Nguyen H.
   affiliation:
@@ -1093,6 +1069,34 @@
     year: 2025
     venue: NAACL
     url: https://doi.org/10.48550/arxiv.2502.08148
+- id: le-hao-duong-llm-cd
+  name: Le, Hao Duong
+  affiliation:
+    institution: Tsinghua University, Department of Industrial Engineering (SILAB)
+    country: China
+    position: PhD Student
+  links:
+    homepage: https://thuie-isda.github.io/Members/
+    scholar: https://scholar.google.com/citations?user=lyKJAqYAAAAJ&hl=en
+    semantic_scholar: https://www.semanticscholar.org/author/2383875687
+  sub_areas:
+  - causal-discovery
+  - causal-nlp
+  key_papers:
+  - title: Multi-Agent Causal Discovery Using Large Language Models
+    venue: arXiv
+    year: 2024
+  notes: PhD candidate (goes by 'Oliver') at Tsinghua SILAB. Vietnamese (Le surname + Duong middle name, VSA activities at
+    NTUST). LLM-based multi-agent causal discovery (42+ citations on the 2024 first-author paper).
+  source: scrape_semantic_scholar
+  confidence: high
+  last_verified: 2026-05-31
+  name_scholar: Hao Duong Le
+  recent_works:
+  - title: Multi-Agent Causal Discovery Using Large Language Models
+    year: 2024
+    venue: arXiv
+    url: https://doi.org/10.48550/arxiv.2407.15073
 - id: nguyen-tri-long-copenhagen
   name: Nguyen, Tri-Long
   name_scholar: Long Nguyen
@@ -1578,32 +1582,6 @@
     year: 2026
     venue: arXiv
     url: https://arxiv.org/abs/2604.19663
-- id: pham-thai-aut
-  name: Pham, Thai
-  affiliation:
-    institution: Auckland University of Technology
-    country: New Zealand
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5039111784
-    scholar: https://scholar.google.com/citations?user=tJzykd0AAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-ml
-  notes: 'OpenAlex: 4 causal-inference papers, h=5.'
-  source: scrape_openalex
-  confidence: medium
-  last_verified: 2026-05-24
-  name_scholar: Thai T. Pham
-  recent_works:
-  - title: A Deep Causal Inference Approach to Measuring the Effects of Forming Group Loans in Online Non-profit Microfinance
-      Platform
-    year: 2017
-    venue: arXiv (Cornell University)
-    url: https://doi.org/10.48550/arxiv.1706.02795
-  - title: Balancing Method for High Dimensional Causal Inference
-    year: 2017
-    venue: arXiv (Cornell University)
-    url: https://doi.org/10.48550/arxiv.1702.04473
 - id: vo-thanh-vinh-nus
   name: Vo, Thanh Vinh
   affiliation:
@@ -1771,38 +1749,6 @@
     year: 2021
     venue: EMNLP
     url: https://doi.org/10.18653/v1/2021.emnlp-main.644
-- id: dang-lauren-eyler-berkeley
-  name: Dang, Lauren Eyler
-  affiliation:
-    institution: UC Berkeley / UCSF (van der Laan lab)
-    country: United States
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5049187271
-    orcid: https://orcid.org/0000-0002-2967-0855
-    scholar: https://scholar.google.com/citations?user=p5xOjAIAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - theoretical
-  - applied-health
-  key_papers:
-  - title: Start with the Target Trial Protocol, Then Follow the Roadmap for Causal Inference
-    venue: Epidemiology
-    year: 2023
-  notes: 'OpenAlex: 7 causal-inference papers; van der Laan lab. Cross-cultural surname; verify Vietnamese heritage.'
-  source: scrape_openalex
-  confidence: low
-  last_verified: 2026-05-24
-  name_scholar: Lauren Eyler Dang
-  recent_works:
-  - title: Start with the Target Trial Protocol, Then Follow the Roadmap for Causal Inference
-    year: 2023
-    venue: Epidemiology
-    url: https://doi.org/10.1097/ede.0000000000001637
-  - title: 'An application of the Causal Roadmap in two safety monitoring case studies: Causal inference and outcome prediction
-      using electronic health record data'
-    year: 2023
-    venue: Journal of Clinical and Translational Science
-    url: https://doi.org/10.1017/cts.2023.632
 - id: duong-hieu-minh-louisville
   name: Duong, Hieu Minh
   affiliation:
@@ -1863,10 +1809,11 @@
 - id: huynh-phat-k-ndsu
   name: Huynh, Phat K.
   affiliation:
-    institution: North Dakota State University
+    institution: North Carolina A&T State University, Industrial & Systems Engineering
     country: United States
-    position: Unknown - please verify
+    position: Assistant Professor
   links:
+    homepage: https://profiles.ncat.edu/en/persons/phat-huynh/
     openalex: https://openalex.org/A5053781401
     scholar: https://scholar.google.com/citations?user=Wo5c6BEAAAAJ&hl=en&oi=ao
   sub_areas:
@@ -1876,10 +1823,11 @@
   - title: Causal Inference in Longitudinal Studies Using Causal Bayesian Network with Latent Variables
     venue: Annual Reliability and Maintainability Symposium (RAMS)
     year: 2022
-  notes: HCMC International University alumnus.
+  notes: Assistant Professor at NC A&T (PASSIO Lab). HCMC International University BS; MS at NDSU 2022; PhD at USF 2023 under
+    Trung Q. Le.
   source: scrape_semantic_scholar
   confidence: high
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
   name_scholar: Phat Kim Huynh
   recent_works:
   - title: Causal Inference in Longitudinal Studies Using Causal Bayesian Network with Latent Variables
@@ -1947,21 +1895,31 @@
 - id: le-trung-tim-q-usf
   name: Le, Trung Tim Q.
   affiliation:
-    institution: University of South Florida
+    institution: University of South Florida, Industrial & Management Systems Engineering (SPACHeS Lab)
     country: United States
-    position: Unknown - please verify
+    position: Assistant Professor
   links:
+    homepage: https://sites.google.com/view/spaches/members
     openalex: https://openalex.org/A5029649294
+    scholar: https://scholar.google.com/citations?user=klbqvLMAAAAJ&hl=en
   sub_areas:
   - causal-ml
-  notes: OpenAlex h=1, 2 works only, 3 causal-concept papers. Junior; co-author of Phat K. Huynh.
+  - applied-health
+  notes: Assistant Professor at USF, PI of SPACHeS Lab (joint appointment with Medical Engineering). PhD from Oklahoma State,
+    Vietnam Education Foundation (VEF) Fellow, previously at VNU-HCM. Full name 'Trung (Tim) Quoc Le'. Causal work in longitudinal
+    Bayesian networks (healthcare) and causal layers in GNNs for grid resilience.
   source: scrape_snowball
-  confidence: low
-  last_verified: 2026-05-24
+  confidence: high
+  last_verified: 2026-05-31
+  name_scholar: Trung Q. Le
   recent_works:
+  - title: Multilayer GNN for predictive maintenance and clustering in power grids
+    year: 2025
+    venue: iScience (Cell Press)
+    url: https://arxiv.org/abs/2507.07298
   - title: Causal Inference in Longitudinal Studies Using Causal Bayesian Network with Latent Variables
     year: 2022
-    venue: 2022 Annual Reliability and Maintainability Symposium (RAMS)
+    venue: RAMS
     url: https://doi.org/10.1109/rams51457.2022.9893992
 - id: ngo-dung-daniel-cmu
   name: Ngo, Dung Daniel T.
@@ -2317,41 +2275,42 @@
     year: 2016
     venue: arXiv (Cornell University)
     url: https://doi.org/10.48550/arxiv.1610.09037
-- id: tran-linh-jhu
-  name: Tran, Linh
-  name_scholar: Linh Tran
+- id: tran-ngoc-mai-cantho
+  name: Tran, Ngoc Mai
   affiliation:
-    institution: Johns Hopkins University
+    institution: University of Texas at Austin, Department of Mathematics
     country: United States
-    position: Unknown - please verify
+    position: Assistant Professor
   links:
-    openalex: https://openalex.org/A5006359310
-    orcid: https://orcid.org/0000-0001-6429-0375
-    scholar: https://scholar.google.com/citations?user=ZnjEAXUAAAAJ&hl=en&oi=ao
+    homepage: https://web.ma.utexas.edu/users/ntran/
+    openalex: https://openalex.org/A5082324019
+    orcid: https://orcid.org/0000-0002-5061-6562
+    scholar: https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao
   sub_areas:
+  - causal-discovery
   - theoretical
-  - applied-health
   key_papers:
-  - title: Robust variance estimation and inference for causal effect estimation
-    year: 2018
-  recent_works:
-  - title: Robust variance estimation and inference for causal effect estimation
-    year: 2018
-    venue: arXiv (Cornell University)
-    url: https://doi.org/10.48550/arxiv.1810.03030
-  - title: Comparative Causal Effect Estimation and Robust Variance for Longitudinal Data Structures with Applications to
-      Observational HIV Treatment
-    year: 2016
-    venue: eScholarship (California Digital Library)
-    url: https://openalex.org/W2551809854
-  notes: 'DUPE of B1 tran-linh-jhu. TMLE / longitudinal causal effects; UC Berkeley alumnus. | OpenAlex: 6 causal-inference
-    papers, h=16; TMLE/longitudinal causal effects.'
-  confidence: high
+  - title: Causal Discovery of a River Network from its Extremes
+    year: 2021
+  - title: The tropical geometry of causal inference for extremes
+    year: 2022
+  notes: 'OpenAlex: 7 causal-inference papers, h=12; tropical-geometry approach to causal discovery.'
   source: scrape_openalex
-  sources_all:
-  - scrape_openalex
-  - scrape_semantic_scholar
+  confidence: high
   last_verified: 2026-05-24
+  name_scholar: Ngoc Tran
+  recent_works:
+  - title: The tropical geometry of causal inference for extremes
+    year: 2022
+    venue: arXiv (Cornell University)
+    url: https://doi.org/10.48550/arxiv.2207.10227
+  - title: Causal inference for extremes on river networks
+    year: 2021
+    url: https://doi.org/10.5194/egusphere-egu21-341
+  - title: Causal Discovery of a River Network from its Extremes.
+    year: 2021
+    venue: arXiv (Cornell University)
+    url: https://openalex.org/W3128646675
 - id: trieu-ni-asu
   name: Trieu, Ni
   affiliation:
@@ -2378,30 +2337,6 @@
     year: 2024
     venue: ACM CCS
     url: https://doi.org/10.1145/3658644.3670337
-- id: le-hao-duong-llm-cd
-  name: Le, Hao Duong
-  affiliation:
-    institution: Unknown - please verify
-    country: Unknown
-    position: Unknown - please verify
-  links:
-    semantic_scholar: https://www.semanticscholar.org/author/2383875687
-  sub_areas:
-  - causal-discovery
-  - causal-nlp
-  key_papers:
-  - title: Multi-Agent Causal Discovery Using Large Language Models
-    venue: arXiv
-    year: 2024
-  notes: LLM-based multi-agent causal discovery.
-  source: scrape_semantic_scholar
-  confidence: medium
-  last_verified: 2026-05-24
-  recent_works:
-  - title: Multi-Agent Causal Discovery Using Large Language Models
-    year: 2024
-    venue: arXiv
-    url: https://doi.org/10.48550/arxiv.2407.15073
 - id: ngo-duy-t
   name: Ngo, Duy T.
   affiliation:
@@ -2423,32 +2358,6 @@
     year: 2025
     venue: ArXiv.org
     url: https://doi.org/10.48550/arxiv.2507.17784
-- id: huynh-thi-hong-tram-hcm
-  name: Huynh, Thi Hong Tram
-  affiliation:
-    institution: Unknown (paper at Vietnamese journal Y Hoc TP Ho Chi Minh)
-    country: Vietnam
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5035043762
-  sub_areas:
-  - applied-health
-  - theoretical
-  key_papers:
-  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
-      teaching'
-    venue: Y Hoc TP Ho Chi Minh
-    year: 2018
-  notes: DAG-based causal inference education.
-  source: scrape_semantic_scholar
-  confidence: medium
-  last_verified: 2026-05-24
-  recent_works:
-  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
-      teaching'
-    year: 2018
-    venue: Y HOC TP HO CHI MINH
-    url: https://doi.org/10.32895/ump.mpr.2.3.12
 - id: le-bac-vnuhcm
   name: Le, Bac
   affiliation:
@@ -2575,26 +2484,6 @@
     year: 2024
     venue: ECML/PKDD (LNCS)
     url: https://doi.org/10.1007/978-3-031-70371-3_19
-- id: nguyen-dung-huu-bachmai
-  name: Nguyen, Dung Huu
-  affiliation:
-    institution: Bach Mai Hospital
-    country: Vietnam
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5103781292
-  sub_areas:
-  - applied-health
-  - causal-ml
-  notes: OpenAlex h=8, 37 works, 3 causal-concept papers. Vietnamese clinician; co-author of Thin Nguyen (Deakin).
-  source: scrape_snowball
-  confidence: high
-  last_verified: 2026-05-24
-  recent_works:
-  - title: 'CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning'
-    year: 2025
-    venue: ArXiv.org
-    url: https://openalex.org/W4414536845
 - id: nguyen-ngoc-thao-vnuhcm
   name: Nguyen, Ngoc-Thao
   affiliation:
@@ -2717,26 +2606,6 @@
     year: 2025
     venue: Applied Intelligence
     url: https://doi.org/10.1007/s10489-025-06945-w
-- id: pham-dung-hmu
-  name: Pham, Dung
-  affiliation:
-    institution: Hanoi Medical University
-    country: Vietnam
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5114109853
-  sub_areas:
-  - applied-health
-  - applied-social
-  notes: 'OpenAlex: 2 causal-inference papers; clustered randomized trials.'
-  source: scrape_openalex
-  confidence: medium
-  last_verified: 2026-05-24
-  recent_works:
-  - title: Design and analysis of cluster randomized trials
-    year: 2024
-    venue: Asia Pacific Education Review
-    url: https://doi.org/10.1007/s12564-024-09984-z
 - id: pham-huy-hieu-vinuni
   name: Pham, Huy-Hieu
   affiliation:
@@ -2763,39 +2632,6 @@
     year: 2025
     venue: arXiv
     url: https://arxiv.org/abs/2510.14273
-- id: pham-vu-hong-son-vnuhcm
-  name: Pham, Vu Hong Son
-  affiliation:
-    institution: Vietnam National University Ho Chi Minh City
-    country: Vietnam
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5062984384
-    scholar: https://scholar.google.com/citations?user=j2fNB2MAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-ml
-  notes: OpenAlex h=17, 122 works, 6 causal-concept papers. Surfaced via co-authorship with truong-buu-broad.
-  source: scrape_snowball
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: PHAM VU HONG SON
-  recent_works:
-  - title: MOESM5 of Identifying miRNA synergism using multiple-intervention causal inference
-    year: 2019
-    venue: Figshare
-    url: https://doi.org/10.6084/m9.figshare.11471313
-  - title: MOESM6 of Identifying miRNA synergism using multiple-intervention causal inference
-    year: 2019
-    venue: Figshare
-    url: https://doi.org/10.6084/m9.figshare.11471322
-  - title: MOESM3 of Identifying miRNA synergism using multiple-intervention causal inference
-    year: 2019
-    venue: Figshare
-    url: https://doi.org/10.6084/m9.figshare.11471298
-  - title: MOESM1 of Identifying miRNA synergism using multiple-intervention causal inference
-    year: 2019
-    venue: Figshare
-    url: https://doi.org/10.6084/m9.figshare.11471289
 - id: tran-khai-quang-cattien
   name: Tran, Khai Quang
   affiliation:
@@ -2817,41 +2653,32 @@
     year: 2025
     venue: BioData Mining
     url: https://doi.org/10.1186/s13040-025-00492-3
-- id: tran-ngoc-mai-cantho
-  name: Tran, Ngoc Mai
+- id: tran-ngoc-dang-uq
+  name: Tran, Ngoc Dang
+  name_vi: Trần Ngọc Đăng
   affiliation:
-    institution: Can Tho University / UT Austin
+    institution: University of Medicine and Pharmacy at Ho Chi Minh City (UMP HCMC), Department of Environmental Health
     country: Vietnam
-    position: Unknown - please verify
+    position: Associate Professor
   links:
-    openalex: https://openalex.org/A5082324019
-    orcid: https://orcid.org/0000-0002-5061-6562
-    scholar: https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao
+    homepage: https://lancetcountdown.org/staff-member/tran-ngoc-dang/
+    openalex: https://openalex.org/A5025952021
+    scholar: https://scholar.google.com/citations?user=Q74L0YYAAAAJ&hl=en&oi=ao
   sub_areas:
-  - causal-discovery
-  - theoretical
-  key_papers:
-  - title: Causal Discovery of a River Network from its Extremes
-    year: 2021
-  - title: The tropical geometry of causal inference for extremes
-    year: 2022
-  notes: 'OpenAlex: 7 causal-inference papers, h=12; tropical-geometry approach to causal discovery.'
-  source: scrape_openalex
+  - applied-health
+  - causal-ml
+  notes: Associate Professor and Head of Department of Environmental Health at UMP HCMC. h=37 (185 works). Frequently co-publishes
+    with UQ's Dung Phung on climate-health studies (which caused the earlier UQ tag).
+  source: scrape_snowball
   confidence: high
-  last_verified: 2026-05-24
-  name_scholar: Ngoc Tran
+  last_verified: 2026-05-31
+  name_scholar: Tran Ngoc Dang
   recent_works:
-  - title: The tropical geometry of causal inference for extremes
-    year: 2022
-    venue: arXiv (Cornell University)
-    url: https://doi.org/10.48550/arxiv.2207.10227
-  - title: Causal inference for extremes on river networks
-    year: 2021
-    url: https://doi.org/10.5194/egusphere-egu21-341
-  - title: Causal Discovery of a River Network from its Extremes.
-    year: 2021
-    venue: arXiv (Cornell University)
-    url: https://openalex.org/W3128646675
+  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
+      teaching'
+    year: 2018
+    venue: Y HOC TP HO CHI MINH
+    url: https://doi.org/10.32895/ump.mpr.2.3.12
 - id: tran-toan-vinai
   name: Tran, Toan
   affiliation:
@@ -2902,24 +2729,3 @@
   - title: 'CLEAR: Causal Learning Framework For Robust Histopathology Tumor Detection Under OOD Shifts'
     year: 2025
     venue: arXiv
-- id: vo-minh-tuan-uit
-  name: Vo, Minh Tuan
-  affiliation:
-    institution: University of Information Technology (likely VNU-HCM UIT)
-    country: Vietnam
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5007360217
-  sub_areas:
-  - applied-health
-  - causal-ml
-  notes: OpenAlex h=9, 71 works, 2 causal-concept papers. Co-author of Huynh Thi Hong Tram.
-  source: scrape_snowball
-  confidence: medium
-  last_verified: 2026-05-24
-  recent_works:
-  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
-      teaching'
-    year: 2018
-    venue: Y HOC TP HO CHI MINH
-    url: https://doi.org/10.32895/ump.mpr.2.3.12

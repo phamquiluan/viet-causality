@@ -70,10 +70,11 @@
 - id: tran-ngoc-mai-cantho
   name: Tran, Ngoc Mai
   affiliation:
-    institution: Can Tho University / UT Austin
-    country: Vietnam
-    position: Unknown - please verify
+    institution: University of Texas at Austin, Department of Mathematics
+    country: United States
+    position: Assistant Professor
   links:
+    homepage: https://web.ma.utexas.edu/users/ntran/
     openalex: https://openalex.org/A5082324019
     orcid: https://orcid.org/0000-0002-5061-6562
     scholar: https://scholar.google.com/citations?user=V4HsfhYAAAAJ&hl=en&oi=ao
@@ -102,69 +103,6 @@
     year: 2021
     venue: arXiv (Cornell University)
     url: https://openalex.org/W3128646675
-- id: dang-lauren-eyler-berkeley
-  name: Dang, Lauren Eyler
-  affiliation:
-    institution: UC Berkeley / UCSF (van der Laan lab)
-    country: United States
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5049187271
-    orcid: https://orcid.org/0000-0002-2967-0855
-    scholar: https://scholar.google.com/citations?user=p5xOjAIAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - theoretical
-  - applied-health
-  key_papers:
-  - title: Start with the Target Trial Protocol, Then Follow the Roadmap for Causal Inference
-    venue: Epidemiology
-    year: 2023
-  notes: 'OpenAlex: 7 causal-inference papers; van der Laan lab. Cross-cultural surname; verify Vietnamese heritage.'
-  source: scrape_openalex
-  confidence: low
-  last_verified: 2026-05-24
-  name_scholar: Lauren Eyler Dang
-  recent_works:
-  - title: Start with the Target Trial Protocol, Then Follow the Roadmap for Causal Inference
-    year: 2023
-    venue: Epidemiology
-    url: https://doi.org/10.1097/ede.0000000000001637
-  - title: 'An application of the Causal Roadmap in two safety monitoring case studies: Causal inference and outcome prediction
-      using electronic health record data'
-    year: 2023
-    venue: Journal of Clinical and Translational Science
-    url: https://doi.org/10.1017/cts.2023.632
-- id: tran-linh-jhu
-  name: Tran, Linh
-  affiliation:
-    institution: Johns Hopkins University
-    country: United States
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5006359310
-    orcid: https://orcid.org/0000-0001-6429-0375
-    scholar: https://scholar.google.com/citations?user=ZnjEAXUAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - theoretical
-  - applied-health
-  key_papers:
-  - title: Robust variance estimation and inference for causal effect estimation
-    year: 2018
-  notes: 'OpenAlex: 6 causal-inference papers, h=16; TMLE/longitudinal causal effects.'
-  source: scrape_openalex
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: Linh Tran
-  recent_works:
-  - title: Robust variance estimation and inference for causal effect estimation
-    year: 2018
-    venue: arXiv (Cornell University)
-    url: https://doi.org/10.48550/arxiv.1810.03030
-  - title: Comparative Causal Effect Estimation and Robust Variance for Longitudinal Data Structures with Applications to
-      Observational HIV Treatment
-    year: 2016
-    venue: eScholarship (California Digital Library)
-    url: https://openalex.org/W2551809854
 - id: le-tuan-pfizer
   name: Le, Tuan
   affiliation:
@@ -224,32 +162,6 @@
     year: 2024
     venue: arXiv (Cornell University)
     url: https://doi.org/10.48550/arxiv.2402.01454
-- id: pham-thai-aut
-  name: Pham, Thai
-  affiliation:
-    institution: Auckland University of Technology
-    country: New Zealand
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5039111784
-    scholar: https://scholar.google.com/citations?user=tJzykd0AAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-ml
-  notes: 'OpenAlex: 4 causal-inference papers, h=5.'
-  source: scrape_openalex
-  confidence: medium
-  last_verified: 2026-05-24
-  name_scholar: Thai T. Pham
-  recent_works:
-  - title: A Deep Causal Inference Approach to Measuring the Effects of Forming Group Loans in Online Non-profit Microfinance
-      Platform
-    year: 2017
-    venue: arXiv (Cornell University)
-    url: https://doi.org/10.48550/arxiv.1706.02795
-  - title: Balancing Method for High Dimensional Causal Inference
-    year: 2017
-    venue: arXiv (Cornell University)
-    url: https://doi.org/10.48550/arxiv.1702.04473
 - id: nguyen-son-phuc-vnuhcm
   name: Nguyen, Son Phuc
   affiliation:
@@ -290,26 +202,6 @@
     year: 2020
     venue: bioRxiv (Cold Spring Harbor Laboratory)
     url: https://doi.org/10.1101/2020.05.13.090803
-- id: pham-dung-hmu
-  name: Pham, Dung
-  affiliation:
-    institution: Hanoi Medical University
-    country: Vietnam
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5114109853
-  sub_areas:
-  - applied-health
-  - applied-social
-  notes: 'OpenAlex: 2 causal-inference papers; clustered randomized trials.'
-  source: scrape_openalex
-  confidence: medium
-  last_verified: 2026-05-24
-  recent_works:
-  - title: Design and analysis of cluster randomized trials
-    year: 2024
-    venue: Asia Pacific Education Review
-    url: https://doi.org/10.1007/s12564-024-09984-z
 - id: le-minh-deakin
   name: Le, Minh
   affiliation:
