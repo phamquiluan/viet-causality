@@ -7,10 +7,11 @@
 - id: nguyen-tri-long-copenhagen
   name: Nguyen, Tri-Long
   affiliation:
-    institution: University of Copenhagen
+    institution: University of Copenhagen, Section of Epidemiology
     country: Denmark
-    position: Unknown - please verify
+    position: Associate Professor
   links:
+    homepage: https://publichealth.ku.dk/staff/?pure=en/persons/643606
     openalex: https://openalex.org/A5005130676
     orcid: https://orcid.org/0000-0002-6376-7212
   sub_areas:
@@ -24,10 +25,12 @@
   - title: On the aggregation of published prognostic scores for causal inference in observational studies
     venue: Statistics in Medicine
     year: 2020
-  notes: 'OpenAlex: 23 causal-inference papers, h=17, citations 1466. Strong VN-affiliation history.'
+  notes: 'Associate Professor at University of Copenhagen, Section of Epidemiology. OpenAlex: 23 causal-inference papers,
+    h=17. Display name: Long Nguyen.'
   source: scrape_openalex
   confidence: high
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
+  name_scholar: Long Nguyen
   recent_works:
   - title: Introduction to Directed Acyclic Graphs (DAGs) for bias visualization
     year: 2026
