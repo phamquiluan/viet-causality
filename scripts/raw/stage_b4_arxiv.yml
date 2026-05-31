@@ -555,8 +555,8 @@
   - title: 'CLEAR: Causal Learning Framework For Robust Histopathology Tumor Detection Under OOD Shifts'
     venue: arXiv
     year: 2025
-  notes: Assistant Professor and Head of Computer Science Department at VNU-UET Faculty of IT. Robustness, fairness,
-    explainability, multimodal learning, causation-aware recommendation; co-supervises with Hieu H. Pham (VinUni).
+  notes: Assistant Professor and Head of Computer Science Department at VNU-UET Faculty of IT. Robustness, fairness, explainability,
+    multimodal learning, causation-aware recommendation; co-supervises with Hieu H. Pham (VinUni).
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-31
@@ -647,8 +647,8 @@
   - title: Bundle Recommendation with Item-Level Causation-Enhanced Multi-view Learning
     venue: ECML/PKDD (LNCS)
     year: 2024
-  notes: Lecturer at VNU-UET Hanoi (Data Science and Knowledge Technology Lab); biomedical NLP, multimodal learning,
-    causation-aware recommendation.
+  notes: Lecturer at VNU-UET Hanoi (Data Science and Knowledge Technology Lab); biomedical NLP, multimodal learning, causation-aware
+    recommendation.
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-31
@@ -762,8 +762,8 @@
     venue: Pharmacotherapy
     year: 2026
     url: https://doi.org/10.1002/phar.70069
-  notes: PhD candidate at URMC Biostatistics since 2019, advised by Ashkan Ertefaie. Causal inference for individualized
-    treatment regimes, IV analysis, semiparametric theory.
+  notes: PhD candidate at URMC Biostatistics since 2019, advised by Ashkan Ertefaie. Causal inference for individualized treatment
+    regimes, IV analysis, semiparametric theory.
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
@@ -802,21 +802,6 @@
     year: 2025
     venue: IEEE BigData
     url: https://doi.org/10.1109/BigData66926.2025.11401631
-- id: nguyen-long-louisville
-  name: Nguyen, Long
-  affiliation:
-    institution: University of Louisville, J.B. Speed School of Engineering
-    country: United States
-    position: Faculty
-  links:
-    arxiv: https://arxiv.org/a/nguyen_l_2
-  sub_areas:
-  - causal-discovery
-  - causal-time-series
-  notes: Co-author of Hieu Minh Duong at Louisville.
-  source: scrape_arxiv
-  confidence: low
-  last_verified: 2026-05-24
 - id: vo-kiet-cispa
   name: Vo, Kiet Q. H.
   affiliation:

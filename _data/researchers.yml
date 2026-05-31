@@ -2027,21 +2027,6 @@
     year: 2020
     venue: ACCV
     url: https://doi.org/10.1007/978-3-030-69544-6_7
-- id: nguyen-long-louisville
-  name: Nguyen, Long
-  affiliation:
-    institution: University of Louisville, J.B. Speed School of Engineering
-    country: United States
-    position: Faculty
-  links:
-    arxiv: https://arxiv.org/a/nguyen_l_2
-  sub_areas:
-  - causal-discovery
-  - causal-time-series
-  notes: Co-author of Hieu Minh Duong at Louisville.
-  source: scrape_arxiv
-  confidence: low
-  last_verified: 2026-05-24
 - id: nguyen-nhi-nyu
   name: Nguyen, Nhi
   affiliation:
