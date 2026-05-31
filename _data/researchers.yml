@@ -2027,6 +2027,21 @@
     year: 2020
     venue: ACCV
     url: https://doi.org/10.1007/978-3-030-69544-6_7
+- id: nguyen-long-louisville
+  name: Nguyen, Long
+  affiliation:
+    institution: University of Louisville, J.B. Speed School of Engineering
+    country: United States
+    position: Faculty
+  links:
+    arxiv: https://arxiv.org/a/nguyen_l_2
+  sub_areas:
+  - causal-discovery
+  - causal-time-series
+  notes: Co-author of Hieu Minh Duong at Louisville.
+  source: scrape_arxiv
+  confidence: low
+  last_verified: 2026-05-24
 - id: nguyen-nhi-nyu
   name: Nguyen, Nhi
   affiliation:
@@ -2591,33 +2606,6 @@
     year: 2025
     venue: ArXiv.org
     url: https://openalex.org/W4414536845
-- id: nguyen-long-lqdtu
-  name: Nguyen, Long
-  affiliation:
-    institution: Le Quy Don Technical University, Faculty of IT, Hanoi
-    country: Vietnam
-    position: Faculty
-  links:
-    dblp: https://dblp.org/pid/02/3500
-    arxiv: https://arxiv.org/a/nguyen_l_2
-  sub_areas:
-  - causal-discovery
-  - causal-time-series
-  key_papers:
-  - title: 'CaST: Causal Discovery via Spatio-Temporal Graphs in Disaster Recovery'
-    venue: IEEE Big Data
-    year: 2025
-  recent_works:
-  - title: 'CaST: Causal Discovery via Spatio-Temporal Graphs in Disaster Recovery'
-    year: 2025
-    venue: IEEE Big Data
-  notes: 'Co-author of Hieu Minh Duong at Louisville. | DBLP: 2 causality papers; Le Quy Don Tech U Hanoi confirmed.'
-  confidence: high
-  source: scrape_dblp
-  sources_all:
-  - scrape_arxiv
-  - scrape_dblp
-  last_verified: 2026-05-24
 - id: nguyen-ngoc-thao-vnuhcm
   name: Nguyen, Ngoc-Thao
   affiliation:

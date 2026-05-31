@@ -353,8 +353,8 @@
   - title: Scalable Counterfactual Distribution Estimation in Multivariate Causal Models
     venue: CLeaR
     year: 2024
-  notes: Assistant Professor at ISM Japan (previously postdoc at RIKEN AIP, Makoto Yamada's lab); optimal transport,
-    geometric methods, counterfactual distribution estimation.
+  notes: Assistant Professor at ISM Japan (previously postdoc at RIKEN AIP, Makoto Yamada's lab); optimal transport, geometric
+    methods, counterfactual distribution estimation.
   source: scrape_dblp
   confidence: high
   last_verified: 2026-05-24
@@ -395,29 +395,6 @@
     year: 2024
     venue: LREC-COLING
     url: https://aclanthology.org/2024.lrec-main.259/
-- id: nguyen-long-lqdtu
-  name: Nguyen, Long
-  affiliation:
-    institution: Le Quy Don Technical University, Faculty of IT, Hanoi
-    country: Vietnam
-    position: Faculty
-  links:
-    dblp: https://dblp.org/pid/02/3500
-  sub_areas:
-  - causal-discovery
-  - causal-time-series
-  key_papers:
-  - title: 'CaST: Causal Discovery via Spatio-Temporal Graphs in Disaster Recovery'
-    venue: IEEE Big Data
-    year: 2025
-  notes: 'DBLP: 2 causality papers; Le Quy Don Tech U Hanoi confirmed.'
-  source: scrape_dblp
-  confidence: high
-  last_verified: 2026-05-24
-  recent_works:
-  - title: 'CaST: Causal Discovery via Spatio-Temporal Graphs in Disaster Recovery'
-    year: 2025
-    venue: IEEE Big Data
 - id: phan-thomy-bayreuth
   name: Phan, Thomy
   affiliation:
