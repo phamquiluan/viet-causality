@@ -2383,30 +2383,6 @@
     year: 2025
     venue: ArXiv.org
     url: https://doi.org/10.48550/arxiv.2507.17784
-- id: dang-hoang-vn
-  name: Dang, Hoang
-  affiliation:
-    institution: Independent Researcher
-    country: Vietnam
-    position: Independent Researcher
-  links:
-    arxiv: https://arxiv.org/a/dang_h_1
-  sub_areas:
-  - theoretical
-  - causal-discovery
-  notes: Co-author with Luan Pham (RMIT); 'Hoang' Vietnamese given name.
-  source: scrape_arxiv
-  confidence: medium
-  last_verified: 2026-05-24
-  recent_works:
-  - title: 'Minimum Specification Perturbation: Robustness as Distance-to-Falsification in Causal Inference'
-    year: 2026
-    venue: arXiv
-    url: https://arxiv.org/abs/2605.01579
-  - title: Effect-Level Validation for Causal Discovery
-    year: 2026
-    venue: arXiv
-    url: https://arxiv.org/abs/2602.08340
 - id: huynh-thi-hong-tram-hcm
   name: Huynh, Thi Hong Tram
   affiliation:

@@ -356,8 +356,8 @@
     venue: arXiv
     year: 2025
     url: https://arxiv.org/abs/2501.09304
-  notes: Assistant Professor at Penn State; visual reasoning + causal reasoning for video. Previously Research Fellow
-    at Deakin A2I2.
+  notes: Assistant Professor at Penn State; visual reasoning + causal reasoning for video. Previously Research Fellow at Deakin
+    A2I2.
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
@@ -472,8 +472,8 @@
   - title: Causal Graph Learning via Distributional Invariance of Cause-Effect Relationship
     venue: TMLR
     year: 2026
-  notes: Associate Professor at HUST SoICT; Director of the Institute for AI Innovation and Societal Impact (AI4LIFE,
-    since 2024) and Managing Director of BKAI (since 2021). PhD from SOKENDAI / NII Japan (2019).
+  notes: Associate Professor at HUST SoICT; Director of the Institute for AI Innovation and Societal Impact (AI4LIFE, since
+    2024) and Managing Director of BKAI (since 2021). PhD from SOKENDAI / NII Japan (2019).
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
@@ -526,8 +526,8 @@
   - title: Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction
     venue: arXiv
     year: 2025
-  notes: PhD student at CUK Network Science Lab (advisor Prof. O-Joun Lee); reportedly completed PhD early 2026. Graph
-    representation learning + causal inference for molecular property prediction.
+  notes: PhD student at CUK Network Science Lab (advisor Prof. O-Joun Lee); reportedly completed PhD early 2026. Graph representation
+    learning + causal inference for molecular property prediction.
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
@@ -708,30 +708,6 @@
     year: 2026
     venue: arXiv
     url: https://arxiv.org/abs/2604.19663
-- id: dang-hoang-vn
-  name: Dang, Hoang
-  affiliation:
-    institution: Independent Researcher
-    country: Vietnam
-    position: Independent Researcher
-  links:
-    arxiv: https://arxiv.org/a/dang_h_1
-  sub_areas:
-  - theoretical
-  - causal-discovery
-  notes: Co-author with Luan Pham (RMIT); 'Hoang' Vietnamese given name.
-  source: scrape_arxiv
-  confidence: medium
-  last_verified: 2026-05-24
-  recent_works:
-  - title: 'Minimum Specification Perturbation: Robustness as Distance-to-Falsification in Causal Inference'
-    year: 2026
-    venue: arXiv
-    url: https://arxiv.org/abs/2605.01579
-  - title: Effect-Level Validation for Causal Discovery
-    year: 2026
-    venue: arXiv
-    url: https://arxiv.org/abs/2602.08340
 - id: pham-cuong-rochester
   name: Pham, Cuong T.
   affiliation:
