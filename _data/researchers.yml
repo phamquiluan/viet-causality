@@ -347,34 +347,6 @@
   - scrape_arxiv
   - scrape_openalex
   last_verified: 2026-05-24
-- id: le-thao-minh-deakin
-  name: Le, Thao Minh
-  affiliation:
-    institution: Deakin University, A2I2
-    country: Australia
-    position: Research Fellow
-  links:
-    arxiv: https://arxiv.org/a/le_t_1
-    scholar: https://scholar.google.com/citations?user=0irkZtkAAAAJ&hl=en&oi=ao
-    openalex: https://openalex.org/A5079045166
-  sub_areas:
-  - causal-cv
-  - causal-ml
-  key_papers:
-  - title: 'Finding the Trigger: Causal Abductive Reasoning on Video Events'
-    venue: arXiv
-    year: 2025
-    url: https://arxiv.org/abs/2501.09304
-  notes: Deakin A2I2.
-  source: scrape_arxiv
-  confidence: high
-  last_verified: 2026-05-24
-  name_scholar: Thao Minh Le
-  recent_works:
-  - title: 'Finding the Trigger: Causal Abductive Reasoning on Video Events'
-    year: 2025
-    venue: ArXiv.org
-    url: https://doi.org/10.48550/arxiv.2501.09304
 - id: le-thuc-duy-unisa
   name: Le, Thuc Duy
   affiliation:
@@ -1912,6 +1884,36 @@
     year: 2023
     venue: AAMAS Journal
     url: https://doi.org/10.1007/s10458-023-09615-8
+- id: le-thao-minh-deakin
+  name: Le, Thao Minh
+  affiliation:
+    institution: Pennsylvania State University
+    country: United States
+    position: Assistant Professor
+  links:
+    homepage: https://thaolmk54.github.io/
+    arxiv: https://arxiv.org/a/le_t_1
+    scholar: https://scholar.google.com/citations?user=0irkZtkAAAAJ&hl=en&oi=ao
+    openalex: https://openalex.org/A5079045166
+  sub_areas:
+  - causal-cv
+  - causal-ml
+  key_papers:
+  - title: 'Finding the Trigger: Causal Abductive Reasoning on Video Events'
+    venue: arXiv
+    year: 2025
+    url: https://arxiv.org/abs/2501.09304
+  notes: Assistant Professor at Penn State; visual reasoning + causal reasoning for video. Previously Research Fellow at Deakin
+    A2I2.
+  source: scrape_arxiv
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Thao Minh Le
+  recent_works:
+  - title: 'Finding the Trigger: Causal Abductive Reasoning on Video Events'
+    year: 2025
+    venue: ArXiv.org
+    url: https://doi.org/10.48550/arxiv.2501.09304
 - id: le-trung-tim-q-usf
   name: Le, Trung Tim Q.
   affiliation:

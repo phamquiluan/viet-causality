@@ -340,10 +340,11 @@
 - id: le-thao-minh-deakin
   name: Le, Thao Minh
   affiliation:
-    institution: Deakin University, A2I2
-    country: Australia
-    position: Research Fellow
+    institution: Pennsylvania State University
+    country: United States
+    position: Assistant Professor
   links:
+    homepage: https://thaolmk54.github.io/
     arxiv: https://arxiv.org/a/le_t_1
     scholar: https://scholar.google.com/citations?user=0irkZtkAAAAJ&hl=en&oi=ao
     openalex: https://openalex.org/A5079045166
@@ -355,7 +356,8 @@
     venue: arXiv
     year: 2025
     url: https://arxiv.org/abs/2501.09304
-  notes: Deakin A2I2.
+  notes: Assistant Professor at Penn State; visual reasoning + causal reasoning for video. Previously Research Fellow
+    at Deakin A2I2.
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24

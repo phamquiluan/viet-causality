@@ -25,7 +25,7 @@ _**99 researchers** across 15 countries._
 
 **By category:** Academic (66), Industry (5), PhD Students (28).
 
-**By country (top 8):** Australia (34), Vietnam (21), United States (19), Japan (9), Germany (3), South Korea (3), Unknown (2), Denmark (1).
+**By country (top 8):** Australia (33), Vietnam (21), United States (20), Japan (9), Germany (3), South Korea (3), Unknown (2), Denmark (1).
 
 **By sub-area (top 8):** `causal-ml` (48), `causal-discovery` (33), `theoretical` (31), `applied-health` (26), `counterfactual-explanation` (18), `causal-nlp` (8), `causal-rl` (6), `causal-cv` (5).
 
@@ -53,6 +53,7 @@ _**99 researchers** across 15 countries._
 | [Trong Nghia Hoang](https://scholar.google.com/citations?user=E-kZZeQAAAAJ&hl=en&oi=ao) | Assistant Professor | Washington State University | United States | `causal-discovery`, `causal-ml` | [\[1\]](https://arxiv.org/abs/2602.03353)[\[2\]](https://proceedings.mlr.press/v180/vo22a.html)[\[3\]](https://arxiv.org/abs/2106.00456)[\[4\]](https://arxiv.org/abs/2105.14877) |
 | [Tam Le](https://scholar.google.com/citations?user=ZyrRB_8AAAAJ&hl=en&oi=ao) | Assistant Professor | Institute of Statistical Mathematics (ISM), Japan | Japan | `theoretical`, `causal-ml` | [\[1\]](https://doi.org/10.48550/arxiv.2311.00927) |
 | [Thai Le](https://scholar.google.com/citations?user=Fd8K7kAAAAAJ&hl=en&oi=ao) | Assistant Professor | Indiana University Bloomington | United States | `counterfactual-explanation`, `causal-rl` | [\[1\]](https://doi.org/10.1007/s10458-023-09615-8) |
+| [Thao Minh Le](https://scholar.google.com/citations?user=0irkZtkAAAAJ&hl=en&oi=ao) | Assistant Professor | Pennsylvania State University | United States | `causal-cv`, `causal-ml` | [\[1\]](https://doi.org/10.48550/arxiv.2501.09304) |
 | [Viet Anh Nguyen](https://scholar.google.com/citations?user=3iyf-EoAAAAJ&hl=en&oi=ao) | Assistant Professor | The Chinese University of Hong Kong (CUHK), SEEM | Hong Kong SAR | `counterfactual-explanation`, `theoretical` | [\[1\]](https://doi.org/10.1186/s13040-025-00492-3) |
 | [Hieu H. Pham](https://scholar.google.com/citations?user=mXcFcNkAAAAJ&hl=en&oi=ao) | Assistant Professor | VinUniversity / VinUni-Illinois Smart Health Center | Vietnam | `causal-ml`, `applied-health` | [\[1\]](https://arxiv.org/abs/2510.14273) |
 | [Viet Quoc Pham](https://scholar.google.com/citations?user=zKX-0LIAAAAJ&hl=en&oi=ao) | Assistant Professor | Trinity College Dublin | Ireland | `causal-ml` | [\[1\]](https://doi.org/10.48550/arxiv.2507.17784) |
@@ -61,7 +62,6 @@ _**99 researchers** across 15 countries._
 | [Vo Thanh Vinh](https://scholar.google.com/citations?user=g1m5t54AAAAJ&hl=en&oi=ao) | Research Fellow | National University of Singapore (NUS) | Singapore | `causal-ml`, `theoretical` | [\[1\]](https://doi.org/10.1007/s10994-025-06819-9)[\[2\]](https://doi.org/10.48550/arxiv.2506.05445)[\[3\]](https://doi.org/10.48550/arxiv.2308.13047)[\[4\]](https://doi.org/10.48550/arxiv.2301.00346) |
 | [Vu Viet Hoang Pham](https://scholar.google.com/citations?user=McmcPUUAAAAJ&hl=en&oi=ao) | Research Fellow | University of South Australia | Australia | `causal-discovery`, `applied-bio` | [\[1\]](https://doi.org/10.1186/s12859-020-3369-1)[\[2\]](https://doi.org/10.1186/s12859-019-3215-5)[\[3\]](https://doi.org/10.1101/652180) |
 | [Kien Do](https://scholar.google.com/citations?user=aD6y8joAAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `theoretical`, `causal-discovery`, `causal-cv` | [\[1\]](https://doi.org/10.1145/3580305.3599270) |
-| [Thao Minh Le](https://scholar.google.com/citations?user=0irkZtkAAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `causal-cv`, `causal-ml` | [\[1\]](https://doi.org/10.48550/arxiv.2501.09304) |
 | [Dung Nguyen](https://scholar.google.com/citations?user=O5OU_kUAAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `causal-rl`, `causal-ml` | [\[1\]](https://arxiv.org/abs/2508.13721) |
 | [Phi Le Nguyen](https://scholar.google.com/citations?user=L_NKoQwAAAAJ&hl=en&oi=ao) | Research Fellow | AI4LIFE / Hanoi University of Science and Technology (HUST) | Vietnam | `causal-discovery`, `causal-ml` | [\[1\]](https://openalex.org/W7127740639) |
 | [Phuoc Nguyen](https://scholar.google.com/citations?user=c4LnrZ0AAAAJ&hl=en&oi=ao) | Research Fellow | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [\[1\]](https://doi.org/10.1109/icdm58522.2023.00069) |
