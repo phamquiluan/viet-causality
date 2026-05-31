@@ -47,6 +47,31 @@
     year: 2024
     venue: LREC-COLING
     url: https://doi.org/10.63317/2hqnogqdqgu3
+- id: nguyen-thanh-hong-oregon
+  name: Nguyen, Thanh Hong
+  affiliation:
+    institution: University of Oregon
+    country: United States
+    position: Associate Professor
+  links:
+    homepage: https://ix.cs.uoregon.edu/~thanhhng/
+    scholar: https://scholar.google.com/citations?user=6fpZnQIAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - counterfactual-explanation
+  key_papers:
+  - title: 'CounterNet: End-to-end training of prediction aware counterfactual explanations'
+    venue: KDD
+    year: 2023
+  notes: CounterNet paper introduces end-to-end training of counterfactual explanations for ML predictions.
+  source: scrape_dynaroars
+  confidence: high
+  last_verified: 2026-05-24
+  name_scholar: Thanh Nguyen
+  recent_works:
+  - title: 'CounterNet: End-to-end training of prediction aware counterfactual explanations'
+    year: 2023
+    venue: KDD
+    url: https://doi.org/10.1145/3580305.3599290
 - id: nguyen-anh-totti-auburn
   name: Nguyen, Anh (Totti)
   affiliation:
