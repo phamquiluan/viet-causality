@@ -2142,34 +2142,44 @@
   affiliation:
     institution: University of Rochester Medical Center, Biostatistics and Computational Biology
     country: United States
-    position: Faculty
+    position: PhD Student
   links:
     arxiv: https://arxiv.org/a/pham_c_1
+    homepage: https://ertefaie.com/
   sub_areas:
   - theoretical
   - applied-health
   key_papers:
   - title: Nonparametric assessment of regimen response curve estimators
-    venue: arXiv (stat.ME)
+    venue: Biometrics
     year: 2024
     url: https://arxiv.org/abs/2402.11466
   - title: Sensitivity analysis for constructing optimal regimes in the presence of treatment non-compliance
-    venue: arXiv
-    year: 2022
+    venue: Electronic Journal of Statistics
+    year: 2025
     url: https://arxiv.org/abs/2207.08964
-  notes: Biostatistics; treatment regimes; IV; marginal structural models.
+  - title: Constructing a Personalized Treatment Rule for Initial Therapy in Early Parkinson's Disease
+    venue: Pharmacotherapy
+    year: 2026
+    url: https://doi.org/10.1002/phar.70069
+  notes: PhD candidate at URMC Biostatistics since 2019, advised by Ashkan Ertefaie. Causal inference for individualized treatment
+    regimes, IV analysis, semiparametric theory.
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
   recent_works:
+  - title: Constructing a Personalized Treatment Rule for Initial Therapy in Early Parkinson's Disease
+    year: 2026
+    venue: Pharmacotherapy
+    url: https://doi.org/10.1002/phar.70069
+  - title: Sensitivity analysis for constructing optimal regimes in the presence of treatment non-compliance
+    year: 2025
+    venue: Electronic Journal of Statistics
+    url: https://arxiv.org/abs/2207.08964
   - title: Nonparametric assessment of regimen response curve estimators
     year: 2024
-    venue: arXiv (stat.ME)
+    venue: Biometrics
     url: https://arxiv.org/abs/2402.11466
-  - title: Sensitivity analysis for constructing optimal regimes in the presence of treatment non-compliance
-    year: 2022
-    venue: arXiv
-    url: https://arxiv.org/abs/2207.08964
 - id: pham-duy-t-uthsc
   name: Pham, Duy T.
   affiliation:
