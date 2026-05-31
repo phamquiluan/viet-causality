@@ -1799,31 +1799,6 @@
     year: 2023
     venue: Journal of Clinical and Translational Science
     url: https://doi.org/10.1017/cts.2023.632
-- id: dang-tommy-ttu
-  name: Dang, Tommy
-  affiliation:
-    institution: Texas Tech University
-    country: United States
-    position: Associate Professor
-  links:
-    homepage: https://www.myweb.ttu.edu/tnhondan/
-    scholar: https://scholar.google.com/citations?user=B1b-yVAAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - applied-bio
-  key_papers:
-  - title: 'ReactionFlow: An interactive visualization tool for causality analysis in biological pathways'
-    venue: BMC Proceedings (BioVis)
-    year: 2015
-  notes: Single visualization-focused paper on causality in biological pathways; older work, not core research area.
-  source: scrape_dynaroars
-  confidence: low
-  last_verified: 2026-05-24
-  name_scholar: Tommy Dang
-  recent_works:
-  - title: 'ReactionFlow: An interactive visualization tool for causality analysis in biological pathways'
-    year: 2015
-    venue: BMC Proceedings (BioVis)
-    url: https://doi.org/10.1186/1753-6561-9-s6-s6
 - id: duong-hieu-minh-louisville
   name: Duong, Hieu Minh
   affiliation:
