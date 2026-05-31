@@ -1648,12 +1648,13 @@
 - id: hoang-van-thuy-catholic-korea
   name: Hoang, Van Thuy
   affiliation:
-    institution: The Catholic University of Korea
+    institution: The Catholic University of Korea, Network Science Lab
     country: South Korea
-    position: Research Fellow
+    position: PhD Student
   links:
     arxiv: https://arxiv.org/a/hoang_v_1
     scholar: https://scholar.google.com/citations?user=E7Cc8rAAAAAJ&hl=en&oi=ao
+    homepage: https://nslab-cuk.github.io/member/hoangvanthuy90
   sub_areas:
   - causal-ml
   - applied-bio
@@ -1661,7 +1662,8 @@
   - title: Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction
     venue: arXiv
     year: 2025
-  notes: '''Van Thuy'' is Vietnamese given-name pattern; Catholic University of Korea.'
+  notes: PhD student at CUK Network Science Lab (advisor Prof. O-Joun Lee); reportedly completed PhD early 2026. Graph representation
+    learning + causal inference for molecular property prediction.
   source: scrape_arxiv
   confidence: medium
   last_verified: 2026-05-24
