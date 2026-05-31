@@ -2601,10 +2601,11 @@
 - id: nguyen-phi-le-hust
   name: Nguyen, Phi Le
   affiliation:
-    institution: AI4LIFE / Hanoi University of Science and Technology (HUST)
+    institution: Hanoi University of Science and Technology (HUST), School of Information and Communication Technology
     country: Vietnam
-    position: Research Fellow
+    position: Associate Professor
   links:
+    homepage: https://ai4life.hust.edu.vn/lenp/
     arxiv: https://arxiv.org/a/nguyen_p_3
     scholar: https://scholar.google.com/citations?user=L_NKoQwAAAAJ&hl=en&oi=ao
   sub_areas:
@@ -2614,9 +2615,10 @@
   - title: Causal Graph Learning via Distributional Invariance of Cause-Effect Relationship
     venue: TMLR
     year: 2026
-  notes: HUST/AI4LIFE Vietnam.
+  notes: Associate Professor at HUST SoICT; Director of the Institute for AI Innovation and Societal Impact (AI4LIFE, since
+    2024) and Managing Director of BKAI (since 2021). PhD from SOKENDAI / NII Japan (2019).
   source: scrape_arxiv
-  confidence: medium
+  confidence: high
   last_verified: 2026-05-24
   name_scholar: Phi Le Nguyen
   recent_works:
