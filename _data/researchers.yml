@@ -1350,29 +1350,6 @@
     year: 2025
     venue: ArXiv.org
     url: https://doi.org/10.48550/arxiv.2507.17784
-- id: dang-anh-hoang-jaist
-  name: Dang, Anh-Hoang
-  affiliation:
-    institution: Japan Advanced Institute of Science and Technology (JAIST), Nguyen Lab
-    country: Japan
-    position: PhD Student
-  links:
-    homepage: https://loop.frontiersin.org/people/3043641
-    openalex: https://openalex.org/A5119786626
-  sub_areas:
-  - causal-ml
-  - causal-nlp
-  notes: PhD student at JAIST Nguyen Lab (Machine Learning and Language Understanding Lab). DBLP pids 360/7166 (Dang Hoang
-    Anh) and 423/2918 (Dang Anh-Hoang) likely the same person. Distinct from a different Hoang-Anh DANG at HUST (building
-    simulation).
-  source: scrape_snowball
-  confidence: low
-  last_verified: 2026-05-24
-  recent_works:
-  - title: 'Survey and analysis of hallucinations in large language models: attribution to prompting strategies or model behavior'
-    year: 2025
-    venue: Frontiers in Artificial Intelligence
-    url: https://doi.org/10.3389/frai.2025.1622292
 - id: huynh-van-nam-jaist
   name: Huynh, Van-Nam
   affiliation:
