@@ -288,6 +288,28 @@
     year: 2024
     venue: arXiv
     url: https://arxiv.org/abs/2407.04980
+- id: le-huynh-thi-cam-hong-uoeh
+  name: Le Huynh, Thi Cam Hong
+  affiliation:
+    institution: University of Queensland (QAEHS / School of Public Health), E-DENGUE project; visiting UOEH Japan
+    country: Australia
+    position: Postdoctoral Fellow
+  links:
+    openalex: https://openalex.org/A5047121210
+    scholar: https://scholar.google.com/citations?user=004Y-KoAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - applied-health
+  notes: OpenAlex h=9, 27 works, 2 causal-concept papers. Co-author of Huynh Thi Hong Tram.
+  source: scrape_snowball
+  confidence: medium
+  last_verified: 2026-05-24
+  recent_works:
+  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
+      teaching'
+    year: 2018
+    venue: Y HOC TP HO CHI MINH
+    url: https://doi.org/10.32895/ump.mpr.2.3.12
+  name_scholar: Hong Le
 - id: le-hung-deakin
   name: Le, Hung
   affiliation:
@@ -456,6 +478,29 @@
     year: 2025
     venue: arXiv
     url: https://arxiv.org/abs/2501.09304
+- id: ngo-duy-t
+  name: Ngo, Duy T.
+  affiliation:
+    institution: University of Newcastle, School of Engineering (Electrical Engineering and Computing)
+    country: Australia
+    position: Associate Professor
+  links:
+    homepage: https://www.newcastle.edu.au/profile/duy-ngo
+    openalex: https://openalex.org/A5003913406
+    scholar: https://scholar.google.com/citations?user=SQyL0ZgAAAAJ&hl=en&oi=ao
+  sub_areas:
+  - causal-ml
+  notes: Senior wireless/edge-computing researcher (h=27, 125 works); causality is peripheral (1 paper on causality-invariant
+    semantic communication with Quoc-Viet Pham). PhD McGill, MSc Alberta, BEng UNSW.
+  source: scrape_snowball
+  confidence: high
+  last_verified: 2026-05-31
+  name_scholar: Duy T. Ngo
+  recent_works:
+  - title: 'Knowledge Abstraction for Knowledge-based Semantic Communication: A Generative Causality Invariant Approach'
+    year: 2025
+    venue: ArXiv.org
+    url: https://doi.org/10.48550/arxiv.2507.17784
 - id: nguyen-dang-deakin
   name: Nguyen, Dang
   affiliation:
@@ -729,9 +774,9 @@
 - id: nguyen-tuong-l-melbourne
   name: Nguyen, Tuong L.
   affiliation:
-    institution: The University of Melbourne
+    institution: University of Melbourne, Centre for Epidemiology and Biostatistics (MSPGH)
     country: Australia
-    position: Unknown - please verify
+    position: Research Fellow
   links:
     openalex: https://openalex.org/A5067110590
     scholar: https://scholar.google.com/citations?user=LPgBdSIAAAAJ&hl=en&oi=ao
@@ -960,9 +1005,9 @@
 - id: trinh-ho-n-melbourne
   name: Trinh, Ho N.
   affiliation:
-    institution: The University of Melbourne
+    institution: University of Melbourne, Centre for Epidemiology and Biostatistics (MSPGH)
     country: Australia
-    position: Unknown - please verify
+    position: Research Assistant
   links:
     openalex: https://openalex.org/A5102481961
   sub_areas:
@@ -1349,28 +1394,6 @@
     year: 2015
     venue: Studies in computational intelligence
     url: https://doi.org/10.1007/978-3-319-27284-9
-- id: le-huynh-thi-cam-hong-uoeh
-  name: Le Huynh, Thi Cam Hong
-  affiliation:
-    institution: University of Occupational and Environmental Health Japan
-    country: Japan
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5047121210
-    scholar: https://scholar.google.com/citations?user=004Y-KoAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - applied-health
-  notes: OpenAlex h=9, 27 works, 2 causal-concept papers. Co-author of Huynh Thi Hong Tram.
-  source: scrape_snowball
-  confidence: medium
-  last_verified: 2026-05-24
-  recent_works:
-  - title: 'Directed Acyclic Graphs: Alternative tool for causal inference in epidemiology and biostatistics research and
-      teaching'
-    year: 2018
-    venue: Y HOC TP HO CHI MINH
-    url: https://doi.org/10.32895/ump.mpr.2.3.12
-  name_scholar: Hong Le
 - id: le-tam-riken
   name: Le, Tam
   affiliation:
@@ -2132,10 +2155,12 @@
 - id: tran-christopher-uic
   name: Tran, Christopher
   affiliation:
-    institution: University of Illinois Chicago
+    institution: U.S. Securities and Exchange Commission (SEC); PhD from University of Illinois Chicago
     country: United States
-    position: Unknown - please verify
+    position: Data Scientist
   links:
+    homepage: https://christran16.github.io/
+    linkedin: https://www.linkedin.com/in/christran16/
     openalex: https://openalex.org/A5026194168
     scholar: https://scholar.google.com/citations?user=EWazzlkAAAAJ&hl=en&oi=ao
   sub_areas:
@@ -2145,10 +2170,11 @@
   - title: Improving Data-driven Heterogeneous Treatment Effect Estimation Under Structure Uncertainty
     venue: KDD
     year: 2022
-  notes: Anglicized given name; verify ethnicity.
+  notes: Data Scientist (Mathematician) at U.S. SEC since July 2023. PhD UIC 2022 under Elena Zheleva. Vietnamese heritage
+    unverified — Tran surname is tier-1 Vietnamese but given name is Western.
   source: scrape_semantic_scholar
-  confidence: low
-  last_verified: 2026-05-24
+  confidence: medium
+  last_verified: 2026-05-31
   name_scholar: Christopher Tran
   recent_works:
   - title: Improving Data-driven Heterogeneous Treatment Effect Estimation Under Structure Uncertainty
@@ -2255,27 +2281,6 @@
     year: 2024
     venue: ACM CCS
     url: https://doi.org/10.1145/3658644.3670337
-- id: ngo-duy-t
-  name: Ngo, Duy T.
-  affiliation:
-    institution: Unknown - please verify
-    country: Unknown
-    position: Unknown - please verify
-  links:
-    openalex: https://openalex.org/A5003913406
-    scholar: https://scholar.google.com/citations?user=SQyL0ZgAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-ml
-  notes: OpenAlex h=27, 125 works, 1 causal-concept paper. Senior; co-author of Quoc-Viet Pham.
-  source: scrape_snowball
-  confidence: medium
-  last_verified: 2026-05-24
-  name_scholar: Duy T. Ngo
-  recent_works:
-  - title: 'Knowledge Abstraction for Knowledge-based Semantic Communication: A Generative Causality Invariant Approach'
-    year: 2025
-    venue: ArXiv.org
-    url: https://doi.org/10.48550/arxiv.2507.17784
 - id: le-bac-vnuhcm
   name: Le, Bac
   affiliation:
@@ -2513,19 +2518,21 @@
 - id: nguyen-son-phuc-vnuhcm
   name: Nguyen, Son Phuc
   affiliation:
-    institution: Vietnam National University Ho Chi Minh City
+    institution: University of Economics and Law (UEL), VNU-HCM, Faculty of Mathematical Economics
     country: Vietnam
-    position: Unknown - please verify
+    position: Lecturer
   links:
+    homepage: https://maths.uel.edu.vn/nhan-su26-2322/nhan-su-575
+    linkedin: https://www.linkedin.com/in/son-nguyen-uel-vnu/
     openalex: https://openalex.org/A5058777096
     scholar: https://scholar.google.com/citations?user=9JIKNI0AAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-ml
-  notes: 'OpenAlex: 3 causal-inference papers.'
+  notes: 'Lecturer (PhD), Vice Dean of Faculty of Mathematical Economics at UEL (VNU-HCM). OpenAlex: 3 causal-inference papers.'
   source: scrape_openalex
   confidence: high
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
   recent_works:
   - title: A Brief Introduction to Causal Inference
     year: 2021

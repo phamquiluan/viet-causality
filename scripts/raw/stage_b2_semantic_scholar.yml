@@ -148,10 +148,12 @@
 - id: tran-christopher-uic
   name: Tran, Christopher
   affiliation:
-    institution: University of Illinois Chicago
+    institution: U.S. Securities and Exchange Commission (SEC); PhD from University of Illinois Chicago
     country: United States
-    position: Unknown - please verify
+    position: Data Scientist
   links:
+    homepage: https://christran16.github.io/
+    linkedin: https://www.linkedin.com/in/christran16/
     openalex: https://openalex.org/A5026194168
     scholar: https://scholar.google.com/citations?user=EWazzlkAAAAJ&hl=en&oi=ao
   sub_areas:
@@ -161,10 +163,11 @@
   - title: Improving Data-driven Heterogeneous Treatment Effect Estimation Under Structure Uncertainty
     venue: KDD
     year: 2022
-  notes: Anglicized given name; verify ethnicity.
+  notes: Data Scientist (Mathematician) at U.S. SEC since July 2023. PhD UIC 2022 under Elena Zheleva. Vietnamese
+    heritage unverified — Tran surname is tier-1 Vietnamese but given name is Western.
   source: scrape_semantic_scholar
-  confidence: low
-  last_verified: 2026-05-24
+  confidence: medium
+  last_verified: 2026-05-31
   name_scholar: Christopher Tran
   recent_works:
   - title: Improving Data-driven Heterogeneous Treatment Effect Estimation Under Structure Uncertainty

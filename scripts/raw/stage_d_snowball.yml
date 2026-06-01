@@ -8,9 +8,9 @@
 - id: nguyen-tuong-l-melbourne
   name: Nguyen, Tuong L.
   affiliation:
-    institution: The University of Melbourne
+    institution: University of Melbourne, Centre for Epidemiology and Biostatistics (MSPGH)
     country: Australia
-    position: Unknown - please verify
+    position: Research Fellow
   links:
     openalex: https://openalex.org/A5067110590
     scholar: https://scholar.google.com/citations?user=LPgBdSIAAAAJ&hl=en&oi=ao
@@ -43,9 +43,9 @@
 - id: trinh-ho-n-melbourne
   name: Trinh, Ho N.
   affiliation:
-    institution: The University of Melbourne
+    institution: University of Melbourne, Centre for Epidemiology and Biostatistics (MSPGH)
     country: Australia
-    position: Unknown - please verify
+    position: Research Assistant
   links:
     openalex: https://openalex.org/A5102481961
   sub_areas:
@@ -122,9 +122,9 @@
 - id: le-huynh-thi-cam-hong-uoeh
   name: Le Huynh, Thi Cam Hong
   affiliation:
-    institution: University of Occupational and Environmental Health Japan
-    country: Japan
-    position: Unknown - please verify
+    institution: University of Queensland (QAEHS / School of Public Health), E-DENGUE project; visiting UOEH Japan
+    country: Australia
+    position: Postdoctoral Fellow
   links:
     openalex: https://openalex.org/A5047121210
     scholar: https://scholar.google.com/citations?user=004Y-KoAAAAJ&hl=en&oi=ao
@@ -189,18 +189,20 @@
 - id: ngo-duy-t
   name: Ngo, Duy T.
   affiliation:
-    institution: Unknown - please verify
-    country: Unknown
-    position: Unknown - please verify
+    institution: University of Newcastle, School of Engineering (Electrical Engineering and Computing)
+    country: Australia
+    position: Associate Professor
   links:
+    homepage: https://www.newcastle.edu.au/profile/duy-ngo
     openalex: https://openalex.org/A5003913406
     scholar: https://scholar.google.com/citations?user=SQyL0ZgAAAAJ&hl=en&oi=ao
   sub_areas:
   - causal-ml
-  notes: OpenAlex h=27, 125 works, 1 causal-concept paper. Senior; co-author of Quoc-Viet Pham.
+  notes: Senior wireless/edge-computing researcher (h=27, 125 works); causality is peripheral (1 paper on causality-invariant
+    semantic communication with Quoc-Viet Pham). PhD McGill, MSc Alberta, BEng UNSW.
   source: scrape_snowball
-  confidence: medium
-  last_verified: 2026-05-24
+  confidence: high
+  last_verified: 2026-05-31
   name_scholar: Duy T. Ngo
   recent_works:
   - title: 'Knowledge Abstraction for Knowledge-based Semantic Communication: A Generative Causality Invariant Approach'

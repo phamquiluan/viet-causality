@@ -121,19 +121,22 @@
 - id: nguyen-son-phuc-vnuhcm
   name: Nguyen, Son Phuc
   affiliation:
-    institution: Vietnam National University Ho Chi Minh City
+    institution: University of Economics and Law (UEL), VNU-HCM, Faculty of Mathematical Economics
     country: Vietnam
-    position: Unknown - please verify
+    position: Lecturer
   links:
+    homepage: https://maths.uel.edu.vn/nhan-su26-2322/nhan-su-575
+    linkedin: https://www.linkedin.com/in/son-nguyen-uel-vnu/
     openalex: https://openalex.org/A5058777096
     scholar: https://scholar.google.com/citations?user=9JIKNI0AAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-ml
-  notes: 'OpenAlex: 3 causal-inference papers.'
+  notes: 'Lecturer (PhD), Vice Dean of Faculty of Mathematical Economics at UEL (VNU-HCM). OpenAlex: 3 causal-inference
+    papers.'
   source: scrape_openalex
   confidence: high
-  last_verified: 2026-05-24
+  last_verified: 2026-05-31
   recent_works:
   - title: A Brief Introduction to Causal Inference
     year: 2021
