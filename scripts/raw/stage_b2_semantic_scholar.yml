@@ -58,8 +58,8 @@
   - title: Causal Inference in Longitudinal Studies Using Causal Bayesian Network with Latent Variables
     venue: Annual Reliability and Maintainability Symposium (RAMS)
     year: 2022
-  notes: Assistant Professor at NC A&T (PASSIO Lab). HCMC International University BS; MS at NDSU 2022; PhD at USF 2023
-    under Trung Q. Le.
+  notes: Assistant Professor at NC A&T (PASSIO Lab). HCMC International University BS; MS at NDSU 2022; PhD at USF 2023 under
+    Trung Q. Le.
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-31
@@ -87,9 +87,9 @@
   - title: Implicit Causal Models for Genome-wide Association Studies
     venue: ICLR
     year: 2018
-  notes: 'Vietnamese heritage confirmed (full name Dustin Viet Tran; @dustinvtran handle). Ex-Google DeepMind Senior
-    Staff Research Scientist (8 yrs, departed Sep 2025); now Member of Technical Staff at xAI leading post-training.
-    Causality work is historical (Implicit Causal Models for GWAS, ICLR 2018); recent output is LLM/Gemini.'
+  notes: Vietnamese heritage confirmed (full name Dustin Viet Tran; @dustinvtran handle). Ex-Google DeepMind Senior Staff
+    Research Scientist (8 yrs, departed Sep 2025); now Member of Technical Staff at xAI leading post-training. Causality work
+    is historical (Implicit Causal Models for GWAS, ICLR 2018); recent output is LLM/Gemini.
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-31
@@ -216,8 +216,8 @@
     venue: Human Genetics
     year: 2026
   notes: PhD student in Genetic Epidemiology & Statistical Genetics at Harvard (Alkes Price lab); Computational Biologist
-    II at Broad Institute (Pradeep Natarajan lab). Earlier visiting researcher at UniSA / SAHMRI. MD training at Pham
-    Ngoc Thach Univ of Medicine, Vietnam. h=16, ~1000 citations.
+    II at Broad Institute (Pradeep Natarajan lab). Earlier visiting researcher at UniSA / SAHMRI. MD training at Pham Ngoc
+    Thach Univ of Medicine, Vietnam. h=16, ~1000 citations.
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-31
@@ -304,6 +304,7 @@
     homepage: https://www.fit.hcmus.edu.vn/~nnthao/
     openalex: https://openalex.org/A5102781573
     orcid: https://orcid.org/0000-0003-0252-6519
+    scholar: https://scholar.google.com/citations?user=NaRq6CMAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   - causal-discovery
@@ -318,6 +319,7 @@
     year: 2025
     venue: Applied Intelligence
     url: https://doi.org/10.1007/s10489-025-06945-w
+  name_scholar: Ngoc-Thao Nguyen
 - id: le-bac-vnuhcm
   name: Le, Bac
   affiliation:
@@ -358,8 +360,8 @@
   - title: Multi-Agent Causal Discovery Using Large Language Models
     venue: arXiv
     year: 2024
-  notes: PhD candidate (goes by 'Oliver') at Tsinghua SILAB. Vietnamese (Le surname + Duong middle name, VSA activities
-    at NTUST). LLM-based multi-agent causal discovery (42+ citations on the 2024 first-author paper).
+  notes: PhD candidate (goes by 'Oliver') at Tsinghua SILAB. Vietnamese (Le surname + Duong middle name, VSA activities at
+    NTUST). LLM-based multi-agent causal discovery (42+ citations on the 2024 first-author paper).
   source: scrape_semantic_scholar
   confidence: high
   last_verified: 2026-05-31

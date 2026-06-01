@@ -2435,6 +2435,7 @@
     homepage: https://www.fit.hcmus.edu.vn/~nnthao/
     openalex: https://openalex.org/A5102781573
     orcid: https://orcid.org/0000-0003-0252-6519
+    scholar: https://scholar.google.com/citations?user=NaRq6CMAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   - causal-discovery
@@ -2449,6 +2450,7 @@
     year: 2025
     venue: Applied Intelligence
     url: https://doi.org/10.1007/s10489-025-06945-w
+  name_scholar: Ngoc-Thao Nguyen
 - id: nguyen-phi-le-hust
   name: Nguyen, Phi Le
   affiliation:
