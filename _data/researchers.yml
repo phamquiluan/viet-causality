@@ -1923,8 +1923,9 @@
   name_scholar: Nhi Nguyen
   recent_works:
   - title: 'Black Box Causal Inference: Effect Estimation via Meta Prediction'
-    year: 2026
+    year: 2025
     venue: arXiv (preprint)
+    url: https://arxiv.org/abs/2503.05985
 - id: nguyen-thanh-hong-oregon
   name: Nguyen, Thanh Hong
   affiliation:
