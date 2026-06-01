@@ -36,15 +36,14 @@ plt.rcParams.update({"font.family": "DejaVu Sans"})
 fig = plt.figure(figsize=(12, 7), dpi=200)
 fig.patch.set_facecolor("white")
 gs = GridSpec(2, 2, height_ratios=[0.9, 1.0], hspace=0.42, wspace=0.28,
-              left=0.07, right=0.96, top=0.84, bottom=0.09)
+              left=0.07, right=0.96, top=0.86, bottom=0.16)
 
 # ---- Header ----
-fig.text(0.07, 0.945, "Vietnamese Researchers in Causality", fontsize=26,
-         fontweight="bold", color=NAVY, ha="left")
-fig.text(0.07, 0.895, f"{len(d)} researchers worldwide  ·  Causal Inference · Discovery · Causal AI",
-         fontsize=13.5, color=GREY, ha="left")
-fig.text(0.965, 0.895, "github.com/phamquiluan/viet-causality", fontsize=11.5,
-         color=RED, ha="right", fontweight="bold")
+fig.text(0.5, 0.93, f"{len(d)} Vietnamese researchers worldwide  ·  Causal Inference · Discovery · Causal AI",
+         fontsize=14.5, color=NAVY, fontweight="bold", ha="center")
+# ---- Footer ----
+fig.text(0.5, 0.025, "github.com/phamquiluan/viet-causality", fontsize=12,
+         color=RED, ha="center", fontweight="bold")
 
 # ---- Top-left: category donut ----
 ax1 = fig.add_subplot(gs[0, 0])
