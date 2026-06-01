@@ -159,4 +159,4 @@ The list (`_data/researchers.yml` and rendered output) is released under [CC BY 
 
 ---
 
-I created this list to help Vietnamese youngs to find their mentors and networking. I may make several mistake. If you find one, please let me know and forgive me.
+I created this list to help young Vietnamese find their mentors and networking. I may make several mistakes. If you find one, please let me know and forgive me.
