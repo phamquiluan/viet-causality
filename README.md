@@ -2,8 +2,6 @@
 
 A curated, community-maintained list of Vietnamese researchers (heritage, citizenship, or affiliation) working worldwide on **Causality**, **Causal Inference**, **Causal Discovery**, and **Causal AI** — both theoretical and applied.
 
-> **Status: v0.1 — initial release (2026-05-24).** 155 researchers compiled from a hand-curated seed plus systematic sweeps of OpenAlex, Semantic Scholar, DBLP, and arXiv. The table below is auto-generated from [`_data/researchers.yml`](_data/researchers.yml). See [CONTRIBUTING.md](CONTRIBUTING.md) to add yourself or someone you know, or open a [correction or opt-out issue](.github/ISSUE_TEMPLATE/opt-out.yml).
-
 ## Scope
 
 | Dimension | Included |
