@@ -2596,31 +2596,6 @@
     year: 2018
     venue: Y HOC TP HO CHI MINH
     url: https://doi.org/10.32895/ump.mpr.2.3.12
-- id: tran-toan-vinai
-  name: Tran, Toan
-  affiliation:
-    institution: VinAI Research / Hanoi University of Science and Technology (HUST)
-    country: Vietnam
-    position: Senior Research Scientist
-  links:
-    scholar: https://scholar.google.com/citations?user=PnwSuNMAAAAJ&hl=en&oi=ao
-  sub_areas:
-  - causal-ml
-  key_papers:
-  - title: 'CASUAL: Conditional Support Alignment'
-    venue: AAAI
-    year: 2025
-  notes: 'Domain adaptation and causal representation work. Note: VinAI was acquired by Qualcomm in 2025; affiliation may
-    have updated.'
-  source: manual_seed
-  confidence: medium
-  last_verified: 2026-05-24
-  name_scholar: Toan Tran
-  recent_works:
-  - title: 'CASUAL: Conditional Support Alignment'
-    year: 2025
-    venue: AAAI
-    url: https://doi.org/10.1609/aaai.v39i18.34166
 - id: truong-thi-kieu-anh-vnu
   name: Truong Thi, Kieu-Anh
   affiliation:
