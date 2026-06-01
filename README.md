@@ -119,7 +119,7 @@ _**85 researchers** across 14 countries._
 | [Pham, Duy T.](https://orcid.org/0009-0007-2586-2087) | PhD Student | University of Texas Health Science Center at Houston, Human Genetics Center | United States | `applied-health`, `applied-bio` | [\[1\]](https://doi.org/10.1101/2020.05.13.090803) |
 | [Thai-Hoang Pham](https://scholar.google.com/citations?user=bht4j9oAAAAJ&hl=en&oi=ao) | PhD Student | Ohio State University (AIMed lab, Ping Zhang) | United States | `causal-ml`, `applied-health`, `counterfactual-fairness` | [\[1\]](https://doi.org/10.48550/arxiv.2510.08840) |
 | [Quang-Duy Tran](https://scholar.google.com/citations?user=DxEBVUUAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [\[1\]](https://arxiv.org/abs/2312.10102) |
-| [Kieu Anh Thi Truong](https://scholar.google.com/citations?user=SVGhZXsAAAAJ&hl=en&oi=ao) | PhD Student | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `applied-health` | \[1\] |
+| [Kieu Anh Thi Truong](https://scholar.google.com/citations?user=SVGhZXsAAAAJ&hl=en&oi=ao) | PhD Student | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `applied-health` | [\[1\]](https://arxiv.org/abs/2510.14273) |
 | [Kiet Q. H. Vo](https://scholar.google.com/citations?user=gsXWmc4AAAAJ&hl=en&oi=ao) | PhD Student | CISPA Helmholtz Center for Information Security / Saarland University | Germany | `theoretical`, `causal-ml` | [\[1\]](https://doi.org/10.48550/arxiv.2308.16262) |
 | [Trí Nhân Võ](https://scholar.google.com/citations?user=RLoZBGwAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-ml` | [\[1\]](https://arxiv.org/abs/2510.24046) |
 
