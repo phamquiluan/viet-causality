@@ -132,8 +132,9 @@
   sub_areas:
   - theoretical
   - causal-ml
-  notes: 'Lecturer (PhD), Vice Dean of Faculty of Mathematical Economics at UEL (VNU-HCM). OpenAlex: 3 causal-inference
-    papers.'
+  notes: 'Lecturer (PhD), Vice Dean of Faculty of Mathematical Economics at UEL (VNU-HCM).
+    Authored an expository article "A Brief Introduction to Causal Inference" (TTU Review 2021);
+    remaining output is applied stats/ML (forecasting, XAI, segmentation).'
   source: scrape_openalex
   confidence: high
   last_verified: 2026-05-31
