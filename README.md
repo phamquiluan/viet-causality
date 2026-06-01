@@ -27,8 +27,6 @@ _**86 researchers** across 15 countries._
 
 **By country (top 8):** Australia (32), United States (19), Vietnam (15), Japan (8), Germany (2), China (1), Denmark (1), France (1).
 
-**By sub-area (top 8):** `causal-ml` (44), `causal-discovery` (30), `theoretical` (25), `applied-health` (20), `counterfactual-explanation` (18), `causal-nlp` (7), `causal-rl` (6), `causal-cv` (5).
-
 ### Academic (61)
 
 | Name | Position | Affiliation | Country | Sub-areas | Recent works |

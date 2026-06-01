@@ -187,8 +187,6 @@ def render_rows(entries: list[dict[str, Any]]) -> str:
     )
     country_summary = ", ".join(f"{c} ({n})" for c, n in countries.most_common(8))
     out.append(f"\n**By country (top 8):** {country_summary}.")
-    sub_summary = ", ".join(f"`{s}` ({n})" for s, n in sub_count.most_common(8))
-    out.append(f"\n**By sub-area (top 8):** {sub_summary}.")
 
     out.extend(render_section("Academic", bucketed["Academic"], group_by_rank=True))
     out.extend(render_section("Industry", bucketed["Industry"]))
