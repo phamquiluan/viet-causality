@@ -267,7 +267,7 @@
 - id: duong-tri-dung-uts
   name: Duong, Tri Dung
   affiliation:
-    institution: Commonwealth Bank of Australia (CBA); PhD at University of Technology Sydney (UTS)
+    institution: Commonwealth Bank of Australia (CBA)
     country: Australia
     position: Data Scientist
   links:
@@ -869,7 +869,7 @@
 - id: nguyen-minh-duong
   name: Nguyen, Minh-Duong
   affiliation:
-    institution: VinUniversity (current postdoc); PhD at Pusan National University (PNU), South Korea
+    institution: VinUniversity
     country: Vietnam
     position: Postdoctoral Researcher
   links:
