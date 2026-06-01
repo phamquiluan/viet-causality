@@ -2493,30 +2493,6 @@
     venue: arXiv
     url: https://arxiv.org/abs/2604.19663
   name_scholar: Quang-Huy Nguyen
-- id: nguyen-son-phuc-vnuhcm
-  name: Nguyen, Son Phuc
-  affiliation:
-    institution: University of Economics and Law (UEL), VNU-HCM, Faculty of Mathematical Economics
-    country: Vietnam
-    position: Lecturer
-  links:
-    homepage: https://maths.uel.edu.vn/nhan-su26-2322/nhan-su-575
-    linkedin: https://www.linkedin.com/in/son-nguyen-uel-vnu/
-    openalex: https://openalex.org/A5058777096
-    scholar: https://scholar.google.com/citations?user=9JIKNI0AAAAJ&hl=en&oi=ao
-  sub_areas:
-  - theoretical
-  - causal-ml
-  notes: Lecturer (PhD), Vice Dean of Faculty of Mathematical Economics at UEL (VNU-HCM). Authored an expository article "A
-    Brief Introduction to Causal Inference" (TTU Review 2021); remaining output is applied stats/ML (forecasting, XAI, segmentation).
-  source: scrape_openalex
-  confidence: high
-  last_verified: 2026-05-31
-  recent_works:
-  - title: A Brief Introduction to Causal Inference
-    year: 2021
-    url: https://doi.org/10.53901/ezfy6oj557r
-  name_scholar: Son Phuc Nguyen
 - id: nguyen-thanh-an-vnuhcm
   name: Nguyen, Thanh-An
   affiliation:
