@@ -117,7 +117,7 @@ _**86 researchers** across 15 countries._
 | [Khoa Nguyen](https://scholar.google.com/citations?user=4scqXHMAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery` | [\[1\]](https://openalex.org/W7140347371) |
 | [Nang Hung Nguyen](https://scholar.google.com/citations?user=hL8bnjIAAAAJ&hl=en&oi=ao) | PhD Student | The University of Tokyo | Japan | `causal-discovery`, `causal-ml` | [\[1\]](https://openalex.org/W7127740639) |
 | [Nhi Nguyen](https://scholar.google.com/citations?user=QxwMTFsAAAAJ&hl=en&oi=ao) | PhD Student | New York University | United States | `causal-ml` | \[1\] |
-| Nguyen, Quang-Huy | Student | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` | [\[1\]](https://arxiv.org/abs/2604.19663) |
+| [Quang-Huy Nguyen](https://scholar.google.com/citations?user=hMAjB3AAAAAJ&hl=en&oi=ao) | Student | VNU University of Engineering and Technology | Vietnam | `counterfactual-explanation` | [\[1\]](https://arxiv.org/abs/2604.19663) |
 | [Thai-Hoang Pham](https://scholar.google.com/citations?user=bht4j9oAAAAJ&hl=en&oi=ao) | PhD Student | Ohio State University (AIMed lab, Ping Zhang) | United States | `causal-ml`, `applied-health`, `counterfactual-fairness` | [\[1\]](https://doi.org/10.48550/arxiv.2510.08840) |
 | [Quang-Duy Tran](https://scholar.google.com/citations?user=DxEBVUUAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery`, `theoretical` | [\[1\]](https://arxiv.org/abs/2312.10102) |
 | [Kieu Anh Thi Truong](https://scholar.google.com/citations?user=SVGhZXsAAAAJ&hl=en&oi=ao) | PhD Student | VNU University of Engineering and Technology | Vietnam | `causal-ml`, `applied-health` | \[1\] |

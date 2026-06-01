@@ -678,6 +678,7 @@
     position: Student
   links:
     arxiv: https://arxiv.org/a/nguyen_q_3
+    scholar: https://scholar.google.com/citations?user=hMAjB3AAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   key_papers:
@@ -693,6 +694,7 @@
     year: 2026
     venue: arXiv
     url: https://arxiv.org/abs/2604.19663
+  name_scholar: Quang-Huy Nguyen
 - id: nguyen-cam-van-thi-vnu
   name: Nguyen, Cam-Van Thi
   affiliation:
