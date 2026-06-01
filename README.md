@@ -85,7 +85,7 @@ _**86 researchers** across 15 countries._
 | Dang, Anh-Hoang |  | Japan Advanced Institute of Science and Technology | Japan | `causal-ml`, `causal-nlp` | [\[1\]](https://doi.org/10.3389/frai.2025.1622292) |
 | [Hong Le](https://scholar.google.com/citations?user=004Y-KoAAAAJ&hl=en&oi=ao) |  | University of Occupational and Environmental Health Japan | Japan | `applied-health` | [\[1\]](https://doi.org/10.32895/ump.mpr.2.3.12) |
 | [Duy T. Ngo](https://scholar.google.com/citations?user=SQyL0ZgAAAAJ&hl=en&oi=ao) |  | Unknown - please verify | Unknown | `causal-ml` | [\[1\]](https://doi.org/10.48550/arxiv.2507.17784) |
-| Nguyen, Son Phuc |  | Vietnam National University Ho Chi Minh City | Vietnam | `theoretical`, `causal-ml` | [\[1\]](https://doi.org/10.53901/ezfy6oj557r) |
+| [Son Phuc Nguyen](https://scholar.google.com/citations?user=9JIKNI0AAAAJ&hl=en&oi=ao) |  | Vietnam National University Ho Chi Minh City | Vietnam | `theoretical`, `causal-ml` | [\[1\]](https://doi.org/10.53901/ezfy6oj557r) |
 | Pham, Duy T. |  | University of Texas Health Science Center at Houston | United States | `applied-health`, `applied-bio` | [\[1\]](https://doi.org/10.1101/2020.05.13.090803) |
 | Tran, Khai Quang |  | Cat Tien National Park (Vietnam) | Vietnam | `applied-health` | [\[1\]](https://doi.org/10.1186/s13040-025-00492-3) |
 

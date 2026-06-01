@@ -126,6 +126,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5058777096
+    scholar: https://scholar.google.com/citations?user=9JIKNI0AAAAJ&hl=en&oi=ao
   sub_areas:
   - theoretical
   - causal-ml
@@ -137,6 +138,7 @@
   - title: A Brief Introduction to Causal Inference
     year: 2021
     url: https://doi.org/10.53901/ezfy6oj557r
+  name_scholar: Son Phuc Nguyen
 - id: pham-duy-t-uthsc
   name: Pham, Duy T.
   affiliation:
