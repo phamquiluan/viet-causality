@@ -144,18 +144,20 @@
 - id: tran-khai-quang-cattien
   name: Tran, Khai Quang
   affiliation:
-    institution: Cat Tien National Park (Vietnam)
+    institution: Can Tho University, College of Engineering / AI VIETNAM Lab
     country: Vietnam
-    position: Unknown - please verify
+    position: Student / Trainee
   links:
     openalex: https://openalex.org/A5077466678
+    orcid: https://orcid.org/0009-0007-0379-7018
   sub_areas:
   - applied-health
-  notes: OpenAlex h=2, 22 works, 2 causal-concept papers. Non-academic affiliation (national park); flagged for affiliation
-    verification.
+  notes: Vietnamese order Tran Quang Khai. Affiliated with College of Engineering, Can Tho University (per ORCID
+    record claimed 2024-03-07). CAUSALRLSTACK paper lists affiliation as AI VIETNAM Lab, Luong Cach, Ninh Thuan. The
+    earlier 'Cat Tien National Park' tag was an OpenAlex extraction error.
   source: scrape_snowball
-  confidence: low
-  last_verified: 2026-05-24
+  confidence: medium
+  last_verified: 2026-05-31
   recent_works:
   - title: 'CAUSALRLSTACK: adaptive balancing of deep representation and causal effect estimation with application to HIV-related
       health data'
@@ -208,15 +210,18 @@
 - id: dang-anh-hoang-jaist
   name: Dang, Anh-Hoang
   affiliation:
-    institution: Japan Advanced Institute of Science and Technology
+    institution: Japan Advanced Institute of Science and Technology (JAIST), Nguyen Lab
     country: Japan
-    position: Unknown - please verify
+    position: PhD Student
   links:
+    homepage: https://loop.frontiersin.org/people/3043641
     openalex: https://openalex.org/A5119786626
   sub_areas:
   - causal-ml
   - causal-nlp
-  notes: OpenAlex h=1, 1 work, 1 causal-concept paper. Junior; co-author of Minh Le Nguyen (JAIST).
+  notes: PhD student at JAIST Nguyen Lab (Machine Learning and Language Understanding Lab). DBLP pids 360/7166 (Dang
+    Hoang Anh) and 423/2918 (Dang Anh-Hoang) likely the same person. Distinct from a different Hoang-Anh DANG at HUST
+    (building simulation).
   source: scrape_snowball
   confidence: low
   last_verified: 2026-05-24

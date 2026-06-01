@@ -142,10 +142,11 @@
 - id: pham-duy-t-uthsc
   name: Pham, Duy T.
   affiliation:
-    institution: University of Texas Health Science Center at Houston
+    institution: University of Texas Health Science Center at Houston, Human Genetics Center
     country: United States
-    position: Unknown - please verify
+    position: PhD Student
   links:
+    github: https://github.com/duytpm16
     openalex: https://openalex.org/A5101420627
     orcid: https://orcid.org/0009-0007-2586-2087
   sub_areas:

@@ -144,11 +144,15 @@ def render_section(name: str, items: list[dict[str, Any]], group_by_rank: bool =
 
 
 def name_cell(entry: dict[str, Any]) -> str:
-    """First-column name. Prefer Google-Scholar display name + link when present."""
-    scholar_name = entry.get("name_scholar")
-    scholar_url = (entry.get("links") or {}).get("scholar")
-    if scholar_name and scholar_url:
-        return f"[{scholar_name}]({scholar_url})"
+    """First-column name. Hyperlink to the most authoritative profile available:
+    Scholar > homepage > ORCID > GitHub > LinkedIn > ResearchGate > OpenAlex.
+    Uses name_scholar as display name when present, else the entry's name."""
+    links = entry.get("links") or {}
+    display = entry.get("name_scholar") or entry["name"]
+    for key in ("scholar", "homepage", "orcid", "github", "linkedin", "researchgate", "openalex"):
+        url = links.get(key)
+        if url:
+            return f"[{display}]({url})"
     return entry["name"]
 
 
