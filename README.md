@@ -83,7 +83,7 @@ _**86 researchers** across 15 countries._
 | [Christopher Tran](https://scholar.google.com/citations?user=EWazzlkAAAAJ&hl=en&oi=ao) |  | University of Illinois Chicago | United States | `causal-ml`, `theoretical` | [\[1\]](https://doi.org/10.1145/3534678.3539444)[\[2\]](https://doi.org/10.1609/aaai.v36i4.20336) |
 | Trinh, Ho N. |  | The University of Melbourne | Australia | `causal-ml`, `applied-health` | [\[1\]](https://doi.org/10.1186/s13058-023-01733-1)[\[2\]](https://doi.org/10.21203/rs.3.rs-2542474/v1) |
 | Dang, Anh-Hoang |  | Japan Advanced Institute of Science and Technology | Japan | `causal-ml`, `causal-nlp` | [\[1\]](https://doi.org/10.3389/frai.2025.1622292) |
-| Le Huynh, Thi Cam Hong |  | University of Occupational and Environmental Health Japan | Japan | `applied-health` | [\[1\]](https://doi.org/10.32895/ump.mpr.2.3.12) |
+| [Hong Le](https://scholar.google.com/citations?user=004Y-KoAAAAJ&hl=en&oi=ao) |  | University of Occupational and Environmental Health Japan | Japan | `applied-health` | [\[1\]](https://doi.org/10.32895/ump.mpr.2.3.12) |
 | [Duy T. Ngo](https://scholar.google.com/citations?user=SQyL0ZgAAAAJ&hl=en&oi=ao) |  | Unknown - please verify | Unknown | `causal-ml` | [\[1\]](https://doi.org/10.48550/arxiv.2507.17784) |
 | Nguyen, Son Phuc |  | Vietnam National University Ho Chi Minh City | Vietnam | `theoretical`, `causal-ml` | [\[1\]](https://doi.org/10.53901/ezfy6oj557r) |
 | Pham, Duy T. |  | University of Texas Health Science Center at Houston | United States | `applied-health`, `applied-bio` | [\[1\]](https://doi.org/10.1101/2020.05.13.090803) |

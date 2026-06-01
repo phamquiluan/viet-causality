@@ -1354,6 +1354,7 @@
     position: Unknown - please verify
   links:
     openalex: https://openalex.org/A5047121210
+    scholar: https://scholar.google.com/citations?user=004Y-KoAAAAJ&hl=en&oi=ao
   sub_areas:
   - applied-health
   notes: OpenAlex h=9, 27 works, 2 causal-concept papers. Co-author of Huynh Thi Hong Tram.
@@ -1366,6 +1367,7 @@
     year: 2018
     venue: Y HOC TP HO CHI MINH
     url: https://doi.org/10.32895/ump.mpr.2.3.12
+  name_scholar: Hong Le
 - id: le-tam-riken
   name: Le, Tam
   affiliation:
