@@ -159,3 +159,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Quick paths:
 ## License
 
 The list (`_data/researchers.yml` and rendered output) is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Scripts are MIT-licensed.
+
+---
+
+I created this list to help Vietnamese youngs to find their mentors and networking. I may make several mistake. If you find one, please let me know and forgive me.
