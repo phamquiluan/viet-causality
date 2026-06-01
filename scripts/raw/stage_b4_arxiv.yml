@@ -113,8 +113,8 @@
   - title: Neural Autoregressive Flows for Markov Boundary Learning
     venue: ICDM
     year: 2025
-  notes: PhD student at Deakin A2I2 (2024-2027) under Thin Nguyen and Bao Duong. Full name Anh-Khoa Nguyen. Part of
-    CDOZ team (won 4 of top 10 ADIA Lab Causal Discovery Challenge awards).
+  notes: PhD student at Deakin A2I2 (2024-2027) under Thin Nguyen and Bao Duong. Full name Anh-Khoa Nguyen. Part of CDOZ team
+    (won 4 of top 10 ADIA Lab Causal Discovery Challenge awards).
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-31
@@ -233,8 +233,7 @@
     venue: ICML
     year: 2026
   notes: PhD completed at Deakin A2I2 (2022); now Research Lecturer / Research Fellow. Active in counterfactual reasoning,
-    causal-aware anomaly detection (ICML 2026). Collaborators include Trung Le, Thuc Duy Le, Svetha Venkatesh, Sunil
-    Gupta.
+    causal-aware anomaly detection (ICML 2026). Collaborators include Trung Le, Thuc Duy Le, Svetha Venkatesh, Sunil Gupta.
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-31
@@ -292,8 +291,8 @@
     venue: Neurocomputing
     year: 2022
     url: https://doi.org/10.1016/j.neucom.2022.01.086
-  notes: PhD completed at UTS in Guandong Xu's group; now Data Scientist at Commonwealth Bank of Australia (CBA). 4+
-    causality papers on counterfactual fairness / explanations / causal ML.
+  notes: PhD completed at UTS in Guandong Xu's group; now Data Scientist at Commonwealth Bank of Australia (CBA). 4+ causality
+    papers on counterfactual fairness / explanations / causal ML.
   source: scrape_arxiv
   confidence: high
   last_verified: 2026-05-24
@@ -731,6 +730,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/nguyen_h_3
+    scholar: https://scholar.google.com/citations?user=d5KuaWAAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   key_papers:
@@ -746,6 +746,7 @@
     year: 2026
     venue: arXiv
     url: https://arxiv.org/abs/2604.19663
+  name_scholar: Huy Son Nguyen
 - id: pham-cuong-rochester
   name: Pham, Cuong T.
   affiliation:

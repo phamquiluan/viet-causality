@@ -113,7 +113,7 @@ _**86 researchers** across 15 countries._
 | [Van Thuy Hoang](https://scholar.google.com/citations?user=E7Cc8rAAAAAJ&hl=en&oi=ao) | PhD Student | The Catholic University of Korea, Network Science Lab | South Korea | `causal-ml`, `applied-bio` | [\[1\]](https://openalex.org/W7124818306) |
 | [Hao Duong Le](https://scholar.google.com/citations?user=lyKJAqYAAAAJ&hl=en) | PhD Student | Tsinghua University, Department of Industrial Engineering (SILAB) | China | `causal-discovery`, `causal-nlp` | [\[1\]](https://doi.org/10.48550/arxiv.2407.15073) |
 | [Minh Khoa Le](https://scholar.google.com/citations?user=v087cnkAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University | Australia | `causal-discovery`, `theoretical` | [\[1\]](https://openalex.org/W4405433011) |
-| Nguyen, Huy-Son | PhD Student | Delft University of Technology | Netherlands | `counterfactual-explanation` | [\[1\]](https://arxiv.org/abs/2604.19663) |
+| [Huy Son Nguyen](https://scholar.google.com/citations?user=d5KuaWAAAAAJ&hl=en&oi=ao) | PhD Student | Delft University of Technology | Netherlands | `counterfactual-explanation` | [\[1\]](https://arxiv.org/abs/2604.19663) |
 | [Khoa Nguyen](https://scholar.google.com/citations?user=4scqXHMAAAAJ&hl=en&oi=ao) | PhD Student | Deakin University, A2I2 | Australia | `causal-discovery` | [\[1\]](https://openalex.org/W7140347371) |
 | [Nang Hung Nguyen](https://scholar.google.com/citations?user=hL8bnjIAAAAJ&hl=en&oi=ao) | PhD Student | The University of Tokyo | Japan | `causal-discovery`, `causal-ml` | [\[1\]](https://openalex.org/W7127740639) |
 | [Nhi Nguyen](https://scholar.google.com/citations?user=QxwMTFsAAAAJ&hl=en&oi=ao) | PhD Student | New York University | United States | `causal-ml` | \[1\] |

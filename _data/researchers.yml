@@ -1540,6 +1540,7 @@
     position: PhD Student
   links:
     arxiv: https://arxiv.org/a/nguyen_h_3
+    scholar: https://scholar.google.com/citations?user=d5KuaWAAAAAJ&hl=en&oi=ao
   sub_areas:
   - counterfactual-explanation
   key_papers:
@@ -1555,6 +1556,7 @@
     year: 2026
     venue: arXiv
     url: https://arxiv.org/abs/2604.19663
+  name_scholar: Huy Son Nguyen
 - id: vo-thanh-vinh-nus
   name: Vo, Thanh Vinh
   affiliation:
