@@ -86,9 +86,13 @@ def categorize(entry: dict[str, Any]) -> str:
     aff = entry.get("affiliation") or {}
     pos = (aff.get("position") or "").lower()
     inst = (aff.get("institution") or "").lower()
-    if "phd student" in pos or "phd graduate" in pos or pos.strip() == "student":
+    # Students, trainees, and (non-faculty) research assistants -> PhD Students bucket.
+    if "phd student" in pos or "phd graduate" in pos or "student" in pos \
+            or "trainee" in pos or "research assistant" in pos:
         return "PhD Students"
-    if "industry researcher" in pos or "applied scientist" in pos:
+    # Applied/professional non-academic roles -> Industry (e.g. Data Scientist at a
+    # bank or government agency), regardless of whether the employer is in INDUSTRY_HINTS.
+    if "industry researcher" in pos or "applied scientist" in pos or "data scientist" in pos:
         return "Industry"
     if any(re.search(rf"\b{re.escape(h)}\b", inst) for h in INDUSTRY_HINTS) \
             and "university" not in inst and "institute" not in inst:
